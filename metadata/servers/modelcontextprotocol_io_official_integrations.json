@@ -1,0 +1,4295 @@
+[
+  {
+    "name": "21st.dev Magic",
+    "description": "Create crafted UI components inspired by the best 21st.dev design engineers.",
+    "github_url": "https://github.com/21st-dev/magic-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.21st.dev/favicon.ico",
+        "icon_alt": "21st.dev Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Adfin",
+    "description": "The only platform you need to get paid - all payments in one place, invoicing and accounting reconciliations with [Adfin](https://www.adfin.com/).",
+    "github_url": "https://github.com/Adfin-Engineering/mcp-server-adfin",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://invoxx-public-bucket.s3.eu-central-1.amazonaws.com/frontend-resources/adfin-logo-small.svg",
+        "icon_alt": "Adfin Logo"
+      },
+      "links": [
+        {
+          "text": "Adfin",
+          "url": "https://www.adfin.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "AgentQL",
+    "description": "Enable AI agents to get structured data from unstructured web with [AgentQL](https://www.agentql.com/).",
+    "github_url": "https://github.com/tinyfish-io/agentql-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.agentql.com/favicon/favicon.png",
+        "icon_alt": "AgentQL Logo"
+      },
+      "links": [
+        {
+          "text": "AgentQL",
+          "url": "https://www.agentql.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "AgentRPC",
+    "description": "Connect to any function, any language, across network boundaries using [AgentRPC](https://www.agentrpc.com/).",
+    "github_url": "https://github.com/agentrpc/agentrpc",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://agentrpc.com/favicon.ico",
+        "icon_alt": "AgentRPC Logo"
+      },
+      "links": [
+        {
+          "text": "AgentRPC",
+          "url": "https://www.agentrpc.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Agentset",
+    "description": "RAG for your knowledge base connected to [Agentset](https://agentset.ai).",
+    "github_url": "https://github.com/agentset-ai/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "Agentset",
+          "url": "https://agentset.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aiven",
+    "description": "Navigate your [Aiven projects](https://go.aiven.io/mcp-server) and interact with the PostgreSQL®, Apache Kafka®, ClickHouse® and OpenSearch® services",
+    "github_url": "https://github.com/Aiven-Open/mcp-aiven",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://aiven.io/favicon.ico",
+        "icon_alt": "Aiven Logo"
+      },
+      "links": [
+        {
+          "text": "Aiven projects",
+          "url": "https://go.aiven.io/mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alation",
+    "description": "Unlock the power of the enterprise Data Catalog by harnessing tools provided by the Alation MCP server.",
+    "github_url": "https://github.com/Alation/alation-ai-agent-sdk",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.alation.com/resource-center/download/7p3vnbbznfiw/34FMtBTex5ppvs2hNYa9Fc/c877c37e88e5339878658697c46d2d58/Alation-Logo-Bug-Primary.svg",
+        "icon_alt": "Alation Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Alibaba Cloud AnalyticDB for MySQL",
+    "description": "Connect to a [AnalyticDB for MySQL](https://www.alibabacloud.com/en/product/analyticdb-for-mysql) cluster for getting database or table metadata, querying and analyzing data.It will be supported to add the openapi for cluster operation in the future.",
+    "github_url": "https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://img.alicdn.com/imgextra/i4/O1CN01epkXwH1WLAXkZfV6N_!!6000000002771-2-tps-200-200.png",
+        "icon_alt": "Alibaba Cloud AnalyticDB for MySQL Logo"
+      },
+      "links": [
+        {
+          "text": "AnalyticDB for MySQL",
+          "url": "https://www.alibabacloud.com/en/product/analyticdb-for-mysql"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alibaba Cloud AnalyticDB for PostgreSQL",
+    "description": "An MCP server to connect to [AnalyticDB for PostgreSQL](https://github.com/aliyun/alibabacloud-adbpg-mcp-server) instances, query and analyze data.",
+    "github_url": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server/blob/master/images/AnalyticDB.png",
+        "icon_alt": "Alibaba Cloud AnalyticDB for PostgreSQL Logo"
+      },
+      "links": [
+        {
+          "text": "AnalyticDB for PostgreSQL",
+          "url": "https://github.com/aliyun/alibabacloud-adbpg-mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alibaba Cloud DataWorks",
+    "description": "A Model Context Protocol (MCP) server that provides tools for AI, allowing it to interact with the [DataWorks](https://www.alibabacloud.com/help/en/dataworks/) Open API through a standardized interface. This implementation is based on the Alibaba Cloud Open API and enables AI agents to perform cloud resources operations seamlessly.",
+    "github_url": "https://github.com/aliyun/alibabacloud-dataworks-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://img.alicdn.com/imgextra/i3/O1CN0101UWWF1UYn3rAe3HU_!!6000000002530-2-tps-32-32.png",
+        "icon_alt": "DataWorks Logo"
+      },
+      "links": [
+        {
+          "text": "DataWorks",
+          "url": "https://www.alibabacloud.com/help/en/dataworks/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alibaba Cloud OpenSearch",
+    "description": "This MCP server equips AI Agents with tools to interact with [OpenSearch](https://help.aliyun.com/zh/open-search/?spm=5176.7946605.J_5253785160.6.28098651AaYZXC) through a standardized and extensible interface.",
+    "github_url": "https://github.com/aliyun/alibabacloud-opensearch-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://opensearch-shanghai.oss-cn-shanghai.aliyuncs.com/ouhuang/aliyun-icon.png",
+        "icon_alt": "Alibaba Cloud OpenSearch Logo"
+      },
+      "links": [
+        {
+          "text": "OpenSearch",
+          "url": "https://help.aliyun.com/zh/open-search/?spm=5176.7946605.J_5253785160.6.28098651AaYZXC"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alibaba Cloud OPS",
+    "description": "Manage the lifecycle of your Alibaba Cloud resources with [CloudOps Orchestration Service](https://www.alibabacloud.com/en/product/oos) and Alibaba Cloud OpenAPI.",
+    "github_url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server/blob/master/image/alibaba-cloud.png",
+        "icon_alt": "Alibaba Cloud OPS Logo"
+      },
+      "links": [
+        {
+          "text": "CloudOps Orchestration Service",
+          "url": "https://www.alibabacloud.com/en/product/oos"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Alibaba Cloud RDS",
+    "description": "An MCP server designed to interact with the Alibaba Cloud RDS OpenAPI, enabling programmatic management of RDS resources via an LLM.",
+    "github_url": "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server/blob/main/assets/alibabacloudrds.png",
+        "icon_alt": "Alibaba Cloud RDS MySQL Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "AlphaVantage",
+    "description": "Connect to 100+ APIs for financial market data, including stock prices, fundamentals, and more from [AlphaVantage](https://www.alphavantage.co)",
+    "github_url": "https://github.com/calvernaz/alphavantage",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.alphavantage.co/logo.png/",
+        "icon_alt": "AlphaVantage Logo"
+      },
+      "links": [
+        {
+          "text": "AlphaVantage",
+          "url": "https://www.alphavantage.co"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apache Doris",
+    "description": "MCP Server For [Apache Doris](https://doris.apache.org/), an MPP-based real-time data warehouse.",
+    "github_url": "https://github.com/apache/doris-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://doris.apache.org/images/favicon.ico",
+        "icon_alt": "Apache Doris Logo"
+      },
+      "links": [
+        {
+          "text": "Apache Doris",
+          "url": "https://doris.apache.org/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apache IoTDB",
+    "description": "MCP Server for [Apache IoTDB](https://github.com/apache/iotdb) database and its tools",
+    "github_url": "https://github.com/apache/iotdb-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://iotdb.apache.org/img/logo.svg",
+        "icon_alt": "Apache IoTDB Logo"
+      },
+      "links": [
+        {
+          "text": "Apache IoTDB",
+          "url": "https://github.com/apache/iotdb"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apify",
+    "description": "[Actors MCP Server](https://apify.com/apify/actors-mcp-server): Use 3,000+ pre-built cloud tools to extract data from websites, e-commerce, social media, search engines, maps, and more",
+    "github_url": "https://github.com/apify/actors-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://apify.com/favicon.ico",
+        "icon_alt": "Apify Logo"
+      },
+      "links": [
+        {
+          "text": "Actors MCP Server",
+          "url": "https://apify.com/apify/actors-mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "APIMatic MCP",
+    "description": "APIMatic MCP Server is used to validate OpenAPI specifications using [APIMatic](https://www.apimatic.io/). The server processes OpenAPI files and returns validation summaries by leveraging APIMatic's API.",
+    "github_url": "https://github.com/apimatic/apimatic-validator-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://2052727.fs1.hubspotusercontent-na1.net/hubfs/2052727/cropped-cropped-apimaticio-favicon-1-32x32.png",
+        "icon_alt": "APIMatic Logo"
+      },
+      "links": [
+        {
+          "text": "APIMatic",
+          "url": "https://www.apimatic.io/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Apollo MCP Server",
+    "description": "Connect your GraphQL APIs to AI agents",
+    "github_url": "https://github.com/apollographql/apollo-mcp-server/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://apollo-server-landing-page.cdn.apollographql.com/_latest/assets/favicon.png",
+        "icon_alt": "Apollo Graph Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Arize Phoenix",
+    "description": "Inspect traces, manage prompts, curate datasets, and run experiments using [Arize Phoenix](https://github.com/Arize-ai/phoenix), an open-source AI and LLM observability tool.",
+    "github_url": "https://github.com/Arize-ai/phoenix/tree/main/js/packages/phoenix-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://phoenix.arize.com/wp-content/uploads/2023/04/cropped-Favicon-32x32.png",
+        "icon_alt": "Arize-Phoenix Logo"
+      },
+      "links": [
+        {
+          "text": "Arize Phoenix",
+          "url": "https://github.com/Arize-ai/phoenix"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Armor Crypto MCP",
+    "description": "MCP to interface with multiple blockchains, staking, DeFi, swap, bridging, wallet management, DCA, Limit Orders, Coin Lookup, Tracking and more.",
+    "github_url": "https://github.com/armorwallet/armor-crypto-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://731523176-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FaVUBXRZbpAgtjYf5HsvO%2Fuploads%2FaRRrVVocXCTr6GkepfCx%2Flogo_color.svg?alt=media&token=3ba24089-0ab2-421f-a9d9-41f2f94f954a",
+        "icon_alt": "Armor Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Asgardeo",
+    "description": "MCP server to interact with your [Asgardeo](https://wso2.com/asgardeo) organization through LLM tools.",
+    "github_url": "https://github.com/asgardeo/asgardeo-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://console.asgardeo.io/app/libs/themes/wso2is/assets/images/branding/favicon.ico",
+        "icon_alt": "Asgardeo Logo"
+      },
+      "links": [
+        {
+          "text": "Asgardeo",
+          "url": "https://wso2.com/asgardeo"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Astra DB",
+    "description": "Comprehensive tools for managing collections and documents in a [DataStax Astra DB](https://www.datastax.com/products/datastax-astra) NoSQL database with a full range of operations such as create, update, delete, find, and associated bulk actions.",
+    "github_url": "https://github.com/datastax/astra-db-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.datastax.com/favicon-32x32.png",
+        "icon_alt": "DataStax logo"
+      },
+      "links": [
+        {
+          "text": "DataStax Astra DB",
+          "url": "https://www.datastax.com/products/datastax-astra"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Atlan",
+    "description": "The Atlan Model Context Protocol server allows you to interact with the [Atlan](https://www.atlan.com/) services through multiple tools.",
+    "github_url": "https://github.com/atlanhq/agent-toolkit/tree/main/modelcontextprotocol",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://assets.atlan.com/assets/atlan-a-logo-blue-background.png",
+        "icon_alt": "Atlan Logo"
+      },
+      "links": [
+        {
+          "text": "Atlan",
+          "url": "https://www.atlan.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Audiense Insights",
+    "description": "Marketing insights and audience analysis from [Audiense](https://www.audiense.com/products/audiense-insights) reports, covering demographic, cultural, influencer, and content engagement analysis.",
+    "github_url": "https://github.com/AudienseCo/mcp-audiense-insights",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://resources.audiense.com/hubfs/favicon-1.png",
+        "icon_alt": "Audiense Logo"
+      },
+      "links": [
+        {
+          "text": "Audiense",
+          "url": "https://www.audiense.com/products/audiense-insights"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Auth0",
+    "description": "MCP server for interacting with your Auth0 tenant, supporting creating and modifying actions, applications, forms, logs, resource servers, and more.",
+    "github_url": "https://github.com/auth0/auth0-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.auth0.com/website/website/favicons/auth0-favicon.svg",
+        "icon_alt": "Auth0 Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Authenticator App · 2FA",
+    "description": "A secure MCP (Model Context Protocol) server that enables AI agents to interact with the Authenticator App.",
+    "github_url": "https://github.com/firstorderai/authenticator_mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://firstorder.ai/favicon_auth.ico",
+        "icon_alt": "Authenticator App Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "AWS",
+    "description": "Specialized MCP servers that bring AWS best practices directly to your development workflow.",
+    "github_url": "https://github.com/awslabs/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico",
+        "icon_alt": "AWS Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Axiom",
+    "description": "Query and analyze your Axiom logs, traces, and all other event data in natural language",
+    "github_url": "https://github.com/axiomhq/mcp-server-axiom",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://axiom.co/favicon.ico",
+        "icon_alt": "Axiom Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Azure",
+    "description": "The Azure MCP Server gives MCP Clients access to key Azure services and tools like Azure Storage, Cosmos DB, the Azure CLI, and more.",
+    "github_url": "https://github.com/Azure/azure-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure",
+        "icon_alt": "Microsoft Azure Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Bankless Onchain",
+    "description": "Query Onchain data, like ERC20 tokens, transaction history, smart contract state.",
+    "github_url": "https://github.com/bankless/onchain-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.bankless.com/favicon.ico",
+        "icon_alt": "Bankless Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "BICScan",
+    "description": "Risk score / asset holdings of EVM blockchain address (EOA, CA, ENS) and even domain names.",
+    "github_url": "https://github.com/ahnlabio/bicscan-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://bicscan.io/favicon.png",
+        "icon_alt": "BICScan Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Bitrise",
+    "description": "Chat with your builds, CI, and [more](https://bitrise.io/blog/post/chat-with-your-builds-ci-and-more-introducing-the-bitrise-mcp-server).",
+    "github_url": "https://github.com/bitrise-io/bitrise-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://web-cdn.bitrise.io/favicon.ico",
+        "icon_alt": "Bitrise Logo"
+      },
+      "links": [
+        {
+          "text": "more",
+          "url": "https://bitrise.io/blog/post/chat-with-your-builds-ci-and-more-introducing-the-bitrise-mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "BoldSign",
+    "description": "Search, request, and manage e-signature contracts effortlessly with [BoldSign](https://boldsign.com/).",
+    "github_url": "https://github.com/boldsign/boldsign-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://boldsign.com/favicon.ico",
+        "icon_alt": "BoldSign Logo"
+      },
+      "links": [
+        {
+          "text": "BoldSign",
+          "url": "https://boldsign.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Boost.space",
+    "description": "An MCP server integrating with [Boost.space](https://boost.space) for centralized, automated business data from 2000+ sources.",
+    "github_url": "https://github.com/boostspace/boostspace-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://boost.space/favicon.ico",
+        "icon_alt": "Boost.space Logo"
+      },
+      "links": [
+        {
+          "text": "Boost.space",
+          "url": "https://boost.space"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Box",
+    "description": "Interact with the Intelligent Content Management platform through Box AI.",
+    "github_url": "https://github.com/box-community/mcp-server-box",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.box.com/favicon.ico",
+        "icon_alt": "Box Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Browserbase",
+    "description": "Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)",
+    "github_url": "https://github.com/browserbase/mcp-server-browserbase",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://browserbase.com/favicon.ico",
+        "icon_alt": "Browserbase Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "BrowserStack",
+    "description": "Access BrowserStack's [Test Platform](https://www.browserstack.com/test-platform) to debug, write and fix tests, do accessibility testing and more.",
+    "github_url": "https://github.com/browserstack/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://browserstack.wpenginepowered.com/wp-content/themes/browserstack/img/favicons/favicon.ico",
+        "icon_alt": "BrowserStack Logo"
+      },
+      "links": [
+        {
+          "text": "Test Platform",
+          "url": "https://www.browserstack.com/test-platform"
+        }
+      ]
+    }
+  },
+  {
+    "name": "BuiltWith",
+    "description": "Identify the technology stack behind any website.",
+    "github_url": "https://github.com/builtwith/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://builtwith.com/favicon.ico",
+        "icon_alt": "BuiltWith Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Burp Suite",
+    "description": "MCP Server extension allowing AI clients to connect to [Burp Suite](https://portswigger.net)",
+    "github_url": "https://github.com/PortSwigger/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://portswigger.net/favicon.ico",
+        "icon_alt": "PortSwigger Logo"
+      },
+      "links": [
+        {
+          "text": "Burp Suite",
+          "url": "https://portswigger.net"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Campertunity",
+    "description": "Search campgrounds around the world on campertunity, check availability, and provide booking links.",
+    "github_url": "https://github.com/campertunity/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://campertunity.com/assets/icon/favicon.ico",
+        "icon_alt": "Campertunity Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Cartesia",
+    "description": "Connect to the [Cartesia](https://cartesia.ai/) voice platform to perform text-to-speech, voice cloning etc.",
+    "github_url": "https://github.com/cartesia-ai/cartesia-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://play.cartesia.ai/icon.png",
+        "icon_alt": "Cartesia logo"
+      },
+      "links": [
+        {
+          "text": "Cartesia",
+          "url": "https://cartesia.ai/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cashfree",
+    "description": "[Cashfree Payments](https://www.cashfree.com/) official MCP server.",
+    "github_url": "https://github.com/cashfree/cashfree-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.cashfree.com/favicon.ico",
+        "icon_alt": "Cashfree logo"
+      },
+      "links": [
+        {
+          "text": "Cashfree Payments",
+          "url": "https://www.cashfree.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chargebee",
+    "description": "MCP Server that connects AI agents to [Chargebee platform](https://www.chargebee.com).",
+    "github_url": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.chargebee.com/static/resources/brand/favicon.png",
+        "icon_alt": "Chargebee Logo"
+      },
+      "links": [
+        {
+          "text": "Chargebee platform",
+          "url": "https://www.chargebee.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cheqd",
+    "description": "Enable AI Agents to be trusted, verified, prevent fraud, protect your reputation, and more through [cheqd's](https://cheqd.io) Trust Registries and Credentials.",
+    "github_url": "https://github.com/cheqd/mcp-toolkit",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cheqd.io/wp-content/uploads/2023/03/logo_cheqd_favicon.png",
+        "icon_alt": "Cheqd Logo"
+      },
+      "links": [
+        {
+          "text": "cheqd's",
+          "url": "https://cheqd.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chiki StudIO",
+    "description": "Create your own configurable MCP servers purely via configuration (no code), with instructions, prompts, and tools support.",
+    "github_url": "https://chiki.studio/galimybes/mcp/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.chiki.studio/brand/logo.png",
+        "icon_alt": "Chiki StudIO Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Chroma",
+    "description": "Embeddings, vector search, document storage, and full-text search with the open-source AI application database",
+    "github_url": "https://github.com/chroma-core/chroma-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://trychroma.com/_next/static/media/chroma-logo.ae2d6e4b.svg",
+        "icon_alt": "Chroma Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Chronulus AI",
+    "description": "Predict anything with Chronulus AI forecasting and prediction agents.",
+    "github_url": "https://github.com/ChronulusAI/chronulus-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico",
+        "icon_alt": "Chronulus AI Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "CircleCI",
+    "description": "Enable AI Agents to fix build failures from CircleCI.",
+    "github_url": "https://github.com/CircleCI-Public/mcp-server-circleci",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://circleci.com/favicon.ico",
+        "icon_alt": "CircleCI Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "ClickHouse",
+    "description": "Query your [ClickHouse](https://clickhouse.com/) database server.",
+    "github_url": "https://github.com/ClickHouse/mcp-clickhouse",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://clickhouse.com/favicon.ico",
+        "icon_alt": "ClickHouse Logo"
+      },
+      "links": [
+        {
+          "text": "ClickHouse",
+          "url": "https://clickhouse.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cloudflare",
+    "description": "Deploy, configure & interrogate your resources on the Cloudflare developer platform (e.g. Workers/KV/R2/D1)",
+    "github_url": "https://github.com/cloudflare/mcp-server-cloudflare",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Codacy",
+    "description": "Interact with [Codacy](https://www.codacy.com) API to query code quality issues, vulnerabilities, and coverage insights about your code.",
+    "github_url": "https://github.com/codacy/codacy-mcp-server/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://app.codacy.com/static/images/favicon-16x16.png",
+        "icon_alt": "Codacy Logo"
+      },
+      "links": [
+        {
+          "text": "Codacy",
+          "url": "https://www.codacy.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "CodeLogic",
+    "description": "Interact with [CodeLogic](https://codelogic.com), a Software Intelligence platform that graphs complex code and data architecture dependencies, to boost AI accuracy and insight.",
+    "github_url": "https://github.com/CodeLogicIncEngineering/codelogic-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://codelogic.com/wp-content/themes/codelogic/assets/img/favicon.png",
+        "icon_alt": "CodeLogic Logo"
+      },
+      "links": [
+        {
+          "text": "CodeLogic",
+          "url": "https://codelogic.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Comet Opik",
+    "description": "Query and analyze your [Opik](https://github.com/comet-ml/opik) logs, traces, prompts and all other telemtry data from your LLMs in natural language.",
+    "github_url": "https://github.com/comet-ml/opik-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.comet.com/favicon.ico",
+        "icon_alt": "Comet Logo"
+      },
+      "links": [
+        {
+          "text": "Opik",
+          "url": "https://github.com/comet-ml/opik"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Confluent",
+    "description": "Interact with Confluent Kafka and Confluent Cloud REST APIs.",
+    "github_url": "https://github.com/confluentinc/mcp-confluent",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.confluent.io/favicon.ico",
+        "icon_alt": "Confluent Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Contrast Security",
+    "description": "Brings Contrast's vulnerability and SCA data into your coding agent to quickly remediate vulnerabilities.",
+    "github_url": "https://github.com/Contrast-Security-OSS/mcp-contrast",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://contrastsecurity.com/favicon.ico",
+        "icon_alt": "Contrast Security"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Convex",
+    "description": "Introspect and query your apps deployed to Convex.",
+    "github_url": "https://stack.convex.dev/convex-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.convex.dev/favicon.ico",
+        "icon_alt": "Convex Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Couchbase",
+    "description": "Interact with the data stored in Couchbase clusters.",
+    "github_url": "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/605755?s=200&v=4",
+        "icon_alt": "Couchbase Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "CRIC Wuye AI",
+    "description": "Interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.",
+    "github_url": "https://github.com/wuye-ai/mcp-server-wuye-ai",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://github.com/user-attachments/assets/b256f9fa-2020-4b37-9644-c77229ef182b",
+        "icon_alt": "CRIC 克而瑞 LOGO"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Dart",
+    "description": "Interact with task, doc, and project data in [Dart](https://itsdart.com), an AI-native project management tool",
+    "github_url": "https://github.com/its-dart/dart-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "http://app.itsdart.com/static/img/favicon.png",
+        "icon_alt": "Dart Logo"
+      },
+      "links": [
+        {
+          "text": "Dart",
+          "url": "https://itsdart.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "DataHub",
+    "description": "Search your data assets, traverse data lineage, write SQL queries, and more using [DataHub](https://datahub.com/) metadata.",
+    "github_url": "https://github.com/acryldata/mcp-server-datahub",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://datahub.com/wp-content/uploads/2025/04/cropped-Artboard-1-32x32.png",
+        "icon_alt": "DataHub Logo"
+      },
+      "links": [
+        {
+          "text": "DataHub",
+          "url": "https://datahub.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Debugg.AI",
+    "description": "Zero-Config, Fully AI-Managed End-to-End Testing for any code gen platform via [Debugg.AI](https://debugg.ai) remote browsing test agents.",
+    "github_url": "https://github.com/debugg-ai/debugg-ai-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://debugg.ai/favicon.svg",
+        "icon_alt": "Debugg AI Logo"
+      },
+      "links": [
+        {
+          "text": "Debugg.AI",
+          "url": "https://debugg.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "DeepL",
+    "description": "Translate or rewrite text with [DeepL](https://deepl.com)'s very own AI models using [the DeepL API](https://developers.deepl.com/docs)",
+    "github_url": "https://github.com/DeepLcom/deepl-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.deepl.com/img/logo/deepl-logo-blue.svg",
+        "icon_alt": "DeepL Logo"
+      },
+      "links": [
+        {
+          "text": "DeepL",
+          "url": "https://deepl.com"
+        },
+        {
+          "text": "the DeepL API",
+          "url": "https://developers.deepl.com/docs"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Defang",
+    "description": "Deploy your project to the cloud seamlessly with the [Defang](https://www.defang.io) platform without leaving your integrated development environment",
+    "github_url": "https://github.com/DefangLabs/defang/blob/main/src/pkg/mcp/README.md",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://defang.io/_next/static/media/defang-icon-dark-colour.25f95b77.svg",
+        "icon_alt": "Defang Logo"
+      },
+      "links": [
+        {
+          "text": "Defang",
+          "url": "https://www.defang.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "DevHub",
+    "description": "Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform",
+    "github_url": "https://github.com/devhub/devhub-cms-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.devhub.com/img/upload/favicon-196x196-dh.png",
+        "icon_alt": "DevHub Logo"
+      },
+      "links": [
+        {
+          "text": "DevHub",
+          "url": "https://www.devhub.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "DevRev",
+    "description": "An MCP server to integrate with DevRev APIs to search through your DevRev Knowledge Graph where objects can be imported from diff. Sources listed [here](https://devrev.ai/docs/import#available-sources).",
+    "github_url": "https://github.com/devrev/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://devrev.ai/favicon.ico",
+        "icon_alt": "DevRev Logo"
+      },
+      "links": [
+        {
+          "text": "here",
+          "url": "https://devrev.ai/docs/import#available-sources"
+        }
+      ]
+    }
+  },
+  {
+    "name": "DexPaprika (CoinPaprika)",
+    "description": "Access real-time DEX data, liquidity pools, token information, and trading analytics across multiple blockchain networks with [DexPaprika](https://dexpaprika.com) by CoinPaprika.",
+    "github_url": "https://github.com/coinpaprika/dexpaprika-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://dexpaprika.com/favicon.ico",
+        "icon_alt": "DexPaprika Logo"
+      },
+      "links": [
+        {
+          "text": "DexPaprika",
+          "url": "https://dexpaprika.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dumpling AI",
+    "description": "Access data, web scraping, and document conversion APIs by [Dumpling AI](https://www.dumplingai.com/)",
+    "github_url": "https://github.com/Dumpling-AI/mcp-server-dumplingai",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/204530939?s=200&v=4",
+        "icon_alt": "Dumpling AI Logo"
+      },
+      "links": [
+        {
+          "text": "Dumpling AI",
+          "url": "https://www.dumplingai.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dynatrace",
+    "description": "Manage and interact with the [Dynatrace Platform ](https://www.dynatrace.com/platform) for real-time observability and monitoring.",
+    "github_url": "https://github.com/dynatrace-oss/dynatrace-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/58178984",
+        "icon_alt": "Dynatrace Logo"
+      },
+      "links": [
+        {
+          "text": "Dynatrace Platform ",
+          "url": "https://www.dynatrace.com/platform"
+        }
+      ]
+    }
+  },
+  {
+    "name": "E2B",
+    "description": "Run code in secure sandboxes hosted by [E2B](https://e2b.dev)",
+    "github_url": "https://github.com/e2b-dev/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://e2b.dev/favicon.ico",
+        "icon_alt": "E2B Logo"
+      },
+      "links": [
+        {
+          "text": "E2B",
+          "url": "https://e2b.dev"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Edgee",
+    "description": "Deploy and manage [Edgee](https://www.edgee.cloud) components and projects",
+    "github_url": "https://github.com/edgee-cloud/mcp-server-edgee",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.edgee.cloud/favicon.ico",
+        "icon_alt": "Edgee Logo"
+      },
+      "links": [
+        {
+          "text": "Edgee",
+          "url": "https://www.edgee.cloud"
+        }
+      ]
+    }
+  },
+  {
+    "name": "EduBase",
+    "description": "Interact with [EduBase](https://www.edubase.net), a comprehensive e-learning platform with advanced quizzing, exam management, and content organization capabilities",
+    "github_url": "https://github.com/EduBase/MCP",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://static.edubase.net/media/brand/favicon/favicon-32x32.png",
+        "icon_alt": "EduBase Logo"
+      },
+      "links": [
+        {
+          "text": "EduBase",
+          "url": "https://www.edubase.net"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Elasticsearch",
+    "description": "Query your data in [Elasticsearch](https://www.elastic.co/elasticsearch)",
+    "github_url": "https://github.com/elastic/mcp-server-elasticsearch",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.elastic.co/favicon.ico",
+        "icon_alt": "Elasticsearch Logo"
+      },
+      "links": [
+        {
+          "text": "Elasticsearch",
+          "url": "https://www.elastic.co/elasticsearch"
+        }
+      ]
+    }
+  },
+  {
+    "name": "eSignatures",
+    "description": "Contract and template management for drafting, reviewing, and sending binding contracts.",
+    "github_url": "https://github.com/esignaturescom/mcp-server-esignatures",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://esignatures.com/favicon.ico",
+        "icon_alt": "eSignatures Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Exa",
+    "description": "Search Engine made for AIs by [Exa](https://exa.ai)",
+    "github_url": "https://github.com/exa-labs/exa-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://exa.ai/images/favicon-32x32.png",
+        "icon_alt": "Exa Logo"
+      },
+      "links": [
+        {
+          "text": "Exa",
+          "url": "https://exa.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fewsats",
+    "description": "Enable AI Agents to purchase anything in a secure way using [Fewsats](https://fewsats.com)",
+    "github_url": "https://github.com/Fewsats/fewsats-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://fewsats.com/favicon.svg",
+        "icon_alt": "Fewsats Logo"
+      },
+      "links": [
+        {
+          "text": "Fewsats",
+          "url": "https://fewsats.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fibery",
+    "description": "Perform queries and entity operations in your [Fibery](https://fibery.io) workspace.",
+    "github_url": "https://github.com/Fibery-inc/fibery-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://fibery.io/favicon.svg",
+        "icon_alt": "Fibery Logo"
+      },
+      "links": [
+        {
+          "text": "Fibery",
+          "url": "https://fibery.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Financial Datasets",
+    "description": "Stock market API made for AI agents",
+    "github_url": "https://github.com/financial-datasets/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://financialdatasets.ai/favicon.ico",
+        "icon_alt": "Financial Datasets Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Firecrawl",
+    "description": "Extract web data with [Firecrawl](https://firecrawl.dev)",
+    "github_url": "https://github.com/mendableai/firecrawl-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://firecrawl.dev/favicon.ico",
+        "icon_alt": "Firecrawl Logo"
+      },
+      "links": [
+        {
+          "text": "Firecrawl",
+          "url": "https://firecrawl.dev"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Firefly",
+    "description": "Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).",
+    "github_url": "https://github.com/gofireflyio/firefly-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/100200663?s=200&v=4",
+        "icon_alt": "Firefly Logo"
+      },
+      "links": [
+        {
+          "text": "Firefly",
+          "url": "https://firefly.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fireproof",
+    "description": "Immutable ledger database with live synchronization",
+    "github_url": "https://github.com/fireproof-storage/mcp-database-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://fireproof.storage/favicon.ico",
+        "icon_alt": "Fireproof Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "ForeverVM",
+    "description": "Run Python in a code sandbox.",
+    "github_url": "https://github.com/jamsocket/forevervm/tree/main/javascript/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://forevervm.com/icon.png",
+        "icon_alt": "ForeverVM Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "GibsonAI",
+    "description": "AI-Powered Cloud databases: Build, migrate, and deploy database instances with AI",
+    "github_url": "https://github.com/GibsonAI/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://app.gibsonai.com/favicon.ico",
+        "icon_alt": "GibsonAI Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Gitea",
+    "description": "Interact with Gitea instances with MCP.",
+    "github_url": "https://gitea.com/gitea/gitea-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://gitea.com/assets/img/favicon.svg",
+        "icon_alt": "Gitea Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Gitee",
+    "description": "Gitee API integration, repository, issue, and pull request management, and more.",
+    "github_url": "https://github.com/oschina/mcp-gitee",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://gitee.com/favicon.ico",
+        "icon_alt": "Gitee Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Github",
+    "description": "GitHub's official MCP Server",
+    "github_url": "https://github.com/github/github-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png",
+        "icon_alt": "GitHub Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Glean",
+    "description": "Enterprise search and chat using Glean's API.",
+    "github_url": "https://github.com/gleanwork/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://app.glean.com/images/favicon3-196x196.png",
+        "icon_alt": "Glean Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Globalping",
+    "description": "Access a network of thousands of probes to run network commands like ping, traceroute, mtr, http and DNS resolve.",
+    "github_url": "https://github.com/jsdelivr/globalping-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.jsdelivr.net/gh/jsdelivr/globalping-media@refs/heads/master/icons/android-chrome-192x192.png",
+        "icon_alt": "Globalping Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "gNucleus Text-To-CAD",
+    "description": "Generate CAD parts and assemblies from text using gNucleus AI models.",
+    "github_url": "https://github.com/gNucleus/text-to-cad-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://gnucleus.ai/favicon.ico",
+        "icon_alt": "gNucleus Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "gotoHuman",
+    "description": "Human-in-the-loop platform - Allow AI agents and automations to send requests for approval to your [gotoHuman](https://www.gotohuman.com) inbox.",
+    "github_url": "https://github.com/gotohuman/gotohuman-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.prod.website-files.com/6605a2979ff17b2cd1939cd4/6605a460de47e7596ed84f06_icon256.png",
+        "icon_alt": "gotoHuman Logo"
+      },
+      "links": [
+        {
+          "text": "gotoHuman",
+          "url": "https://www.gotohuman.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Grafana",
+    "description": "Search dashboards, investigate incidents and query datasources in your Grafana instance",
+    "github_url": "https://github.com/grafana/mcp-grafana",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://grafana.com/favicon.ico",
+        "icon_alt": "Grafana Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Grafbase",
+    "description": "Turn your GraphQL API into an efficient MCP server with schema intelligence in a single command.",
+    "github_url": "https://github.com/grafbase/grafbase/tree/main/crates/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://grafbase.com/favicon.ico",
+        "icon_alt": "Grafbase Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Graphlit",
+    "description": "Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project.",
+    "github_url": "https://github.com/graphlit/graphlit-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://framerusercontent.com/images/KCOWBYLKunDff1Dr452y6EfjiU.png",
+        "icon_alt": "Graphlit Logo"
+      },
+      "links": [
+        {
+          "text": "Graphlit",
+          "url": "https://www.graphlit.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "GreptimeDB",
+    "description": "Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).",
+    "github_url": "https://github.com/GreptimeTeam/greptimedb-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://greptime.com/favicon.ico",
+        "icon_alt": "Greptime Logo"
+      },
+      "links": [
+        {
+          "text": "GreptimeDB",
+          "url": "https://github.com/GreptimeTeam/greptimedb"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Gyazo",
+    "description": "Search, fetch, upload, and interact with Gyazo images, including metadata and OCR data.",
+    "github_url": "https://github.com/nota/gyazo-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://gyazo.com/favicon.ico",
+        "icon_alt": "Gyazo Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Heroku",
+    "description": "Interact with the Heroku Platform through LLM-driven tools for managing apps, add-ons, dynos, databases, and more.",
+    "github_url": "https://github.com/heroku/heroku-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.herokucdn.com/favicons/favicon.ico",
+        "icon_alt": "Heroku Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Hologres",
+    "description": "Connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, query and analyze data.",
+    "github_url": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://img.alicdn.com/imgextra/i3/O1CN01d9qrry1i6lTNa2BRa_!!6000000004364-2-tps-218-200.png",
+        "icon_alt": "Hologres Logo"
+      },
+      "links": [
+        {
+          "text": "Hologres",
+          "url": "https://www.alibabacloud.com/en/product/hologres"
+        }
+      ]
+    }
+  },
+  {
+    "name": "HubSpot",
+    "description": "Connect, manage, and interact with [HubSpot](https://www.hubspot.com/) CRM data",
+    "github_url": "https://developer.hubspot.com/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://static.hsinfrastatic.net/StyleGuideUI/static-3.438/img/sprocket/favicon-32x32.png",
+        "icon_alt": "HubSpot Logo"
+      },
+      "links": [
+        {
+          "text": "HubSpot",
+          "url": "https://www.hubspot.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hunter",
+    "description": "Interact with the [Hunter API](https://hunter.io) to get B2B data using natural language.",
+    "github_url": "https://github.com/hunter-io/hunter-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://hunter.io/favicon.ico",
+        "icon_alt": "Hunter Logo"
+      },
+      "links": [
+        {
+          "text": "Hunter API",
+          "url": "https://hunter.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hyperbrowser",
+    "description": "[Hyperbrowser](https://www.hyperbrowser.ai/) is the next-generation platform empowering AI agents and enabling effortless, scalable browser automation.",
+    "github_url": "https://github.com/hyperbrowserai/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://hyperbrowser-assets-bucket.s3.us-east-1.amazonaws.com/Hyperbrowser-logo.png",
+        "icon_alt": "Hyperbrowsers23 Logo"
+      },
+      "links": [
+        {
+          "text": "Hyperbrowser",
+          "url": "https://www.hyperbrowser.ai/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "IBM wxflows",
+    "description": "Tool platform by IBM to build, test and deploy tools for any data source",
+    "github_url": "https://github.com/IBM/wxflows/tree/main/examples/mcp/javascript",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Inbox Zero",
+    "description": "AI personal assistant for email [Inbox Zero](https://www.getinboxzero.com)",
+    "github_url": "https://github.com/elie222/inbox-zero/tree/main/apps/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.getinboxzero.com/icon.png",
+        "icon_alt": "Inbox Zero Logo"
+      },
+      "links": [
+        {
+          "text": "Inbox Zero",
+          "url": "https://www.getinboxzero.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Inkeep",
+    "description": "RAG Search over your content powered by [Inkeep](https://inkeep.com)",
+    "github_url": "https://github.com/inkeep/mcp-server-python",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://inkeep.com/favicon.ico",
+        "icon_alt": "Inkeep Logo"
+      },
+      "links": [
+        {
+          "text": "Inkeep",
+          "url": "https://inkeep.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Integration App",
+    "description": "Interact with any other SaaS applications on behalf of your customers.",
+    "github_url": "https://github.com/integration-app/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://integration.app/favicon.ico",
+        "icon_alt": "Integration App Icon"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "JFrog",
+    "description": "Model Context Protocol (MCP) Server for the [JFrog](https://jfrog.com/) Platform API, enabling repository management, build tracking, release lifecycle management, and more.",
+    "github_url": "https://github.com/jfrog/mcp-jfrog",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://speedmedia.jfrog.com/08612fe1-9391-4cf3-ac1a-6dd49c36b276/media.jfrog.com/wp-content/uploads/2019/04/20131046/Jfrog16-1.png",
+        "icon_alt": "JFrog Logo"
+      },
+      "links": [
+        {
+          "text": "JFrog",
+          "url": "https://jfrog.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Kagi Search",
+    "description": "Search the web using Kagi's search API",
+    "github_url": "https://github.com/kagisearch/kagimcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://kagi.com/favicon.ico",
+        "icon_alt": "Kagi Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Keboola",
+    "description": "Build robust data workflows, integrations, and analytics on a single intuitive platform.",
+    "github_url": "https://github.com/keboola/keboola-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://connection.keboola.com/favicon.ico",
+        "icon_alt": "Keboola Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "KeywordsPeopleUse.com",
+    "description": "Find questions people ask online with [KeywordsPeopleUse](https://keywordspeopleuse.com).",
+    "github_url": "https://github.com/data-skunks/kpu-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://keywordspeopleuse.com/favicon.ico",
+        "icon_alt": "KeywordsPeopleUse Logo"
+      },
+      "links": [
+        {
+          "text": "KeywordsPeopleUse",
+          "url": "https://keywordspeopleuse.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Klavis ReportGen",
+    "description": "Create professional reports from a simple user query.",
+    "github_url": "https://github.com/Klavis-AI/klavis/tree/main/mcp_servers/report_generation",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://raw.githubusercontent.com/klavis-ai/klavis/main/static/klavis-ai.png",
+        "icon_alt": "Klavis Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "KurrentDB",
+    "description": "This is a simple MCP server to help you explore data and prototype projections faster on top of KurrentDB.",
+    "github_url": "https://github.com/kurrent-io/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.kurrent.io/favicon.ico",
+        "icon_alt": "Kurrent Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "KWDB",
+    "description": "Reading, writing, querying, modifying data, and performing DDL operations with data in your KWDB Database.",
+    "github_url": "https://github.com/KWDB/kwdb-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/187484914",
+        "icon_alt": "KWDB Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Label Studio",
+    "description": "Open Source data labeling platform.",
+    "github_url": "https://github.com/HumanSignal/label-studio-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://labelstud.io/favicon-16x16.png",
+        "icon_alt": "Label Studio Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Lambda Capture",
+    "description": "Macroeconomic Forecasts & Semantic Context from Federal Reserve, Bank of England, ECB.",
+    "github_url": "https://github.com/lambda-capture/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/188884511?s=48&v=4",
+        "icon_alt": "Lambda Capture"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Langfuse Prompt Management",
+    "description": "Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts.",
+    "github_url": "https://github.com/langfuse/mcp-server-langfuse",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://langfuse.com/favicon.ico",
+        "icon_alt": "Langfuse Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Lara Translate",
+    "description": "MCP Server for Lara Translate API, enabling powerful translation capabilities with support for language detection and context-aware translations.",
+    "github_url": "https://github.com/translated/lara-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://laratranslate.com/favicon.ico",
+        "icon_alt": "Lara Translate Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "LaunchDarkly",
+    "description": "LaunchDarkly is a continuous delivery platform that provides feature flags as a service and allows developers to iterate quickly and safely.",
+    "github_url": "https://github.com/launchdarkly/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.launchdarkly.com/favicon.ico",
+        "icon_alt": "LaunchDarkly Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Linear",
+    "description": "Search, create, and update Linear issues, projects, and comments.",
+    "github_url": "https://linear.app/docs/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://linear.app/favicon.ico",
+        "icon_alt": "Linear Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Lingo.dev",
+    "description": "Make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev) Localization Engine.",
+    "github_url": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://lingo.dev/favicon.ico",
+        "icon_alt": "Lingo.dev Logo"
+      },
+      "links": [
+        {
+          "text": "Lingo.dev",
+          "url": "https://lingo.dev"
+        }
+      ]
+    }
+  },
+  {
+    "name": "LinkedIn MCP Runner",
+    "description": "Write, edit, and schedule LinkedIn posts right from ChatGPT and Claude with [LiGo](https://ligo.ertiqah.com/).",
+    "github_url": "https://github.com/ertiqah/linkedin-mcp-runner",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://ligo.ertiqah.com/favicon.avif",
+        "icon_alt": "LiGo Logo"
+      },
+      "links": [
+        {
+          "text": "LiGo",
+          "url": "https://ligo.ertiqah.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Litmus.io",
+    "description": "Official MCP server for configuring [Litmus](https://litmus.io) Edge for Industrial Data Collection, Edge Analytics & Industrial AI.",
+    "github_url": "https://github.com/litmusautomation/litmus-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://litmus.io/favicon.ico",
+        "icon_alt": "Litmus.io Logo"
+      },
+      "links": [
+        {
+          "text": "Litmus",
+          "url": "https://litmus.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Liveblocks",
+    "description": "Ready‑made features for AI & human collaboration—use this to develop your [Liveblocks](https://liveblocks.io) app quicker.",
+    "github_url": "https://github.com/liveblocks/liveblocks-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://liveblocks.io/favicon.ico",
+        "icon_alt": "Liveblocks Logo"
+      },
+      "links": [
+        {
+          "text": "Liveblocks",
+          "url": "https://liveblocks.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Logfire",
+    "description": "Provides access to OpenTelemetry traces and metrics through Logfire.",
+    "github_url": "https://github.com/pydantic/logfire-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://logfire.pydantic.dev/favicon.ico",
+        "icon_alt": "Logfire Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Magic Meal Kits",
+    "description": "Unleash Make's Full Potential by [Magic Meal Kits](https://make.magicmealkits.com/)",
+    "github_url": "https://github.com/pureugong/mmk-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://make.magicmealkits.com/favicon.ico",
+        "icon_alt": "Magic Meal Kits Logo"
+      },
+      "links": [
+        {
+          "text": "Magic Meal Kits",
+          "url": "https://make.magicmealkits.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mailgun",
+    "description": "Interact with Mailgun API.",
+    "github_url": "https://github.com/mailgun/mailgun-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.mailgun.com/favicon.ico",
+        "icon_alt": "Mailgun Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Make",
+    "description": "Turn your [Make](https://www.make.com/) scenarios into callable tools for AI assistants.",
+    "github_url": "https://github.com/integromat/make-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.make.com/favicon.ico",
+        "icon_alt": "Make Logo"
+      },
+      "links": [
+        {
+          "text": "Make",
+          "url": "https://www.make.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "MCP Discovery",
+    "description": "A lightweight CLI tool built in Rust for discovering MCP server capabilities.",
+    "github_url": "https://github.com/rust-mcp-stack/mcp-discovery",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://raw.githubusercontent.com/rust-mcp-stack/mcp-discovery/refs/heads/main/docs/_media/mcp-discovery-logo.png",
+        "icon_alt": "mcp-discovery logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "MCP Toolbox for Databases",
+    "description": "Open source MCP server specializing in easy, fast, and secure tools for Databases. Supports  AlloyDB, BigQuery, Bigtable, Cloud SQL, Dgraph, MySQL, Neo4j, Postgres, Spanner, and more.",
+    "github_url": "https://github.com/googleapis/genai-toolbox",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://googleapis.github.io/genai-toolbox/favicons/favicon.ico",
+        "icon_alt": "MCP Toolbox for Databases Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Meilisearch",
+    "description": "Interact & query with Meilisearch (Full-text & semantic search API)",
+    "github_url": "https://github.com/meilisearch/meilisearch-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.meilisearch.com/favicon.ico",
+        "icon_alt": "Meilisearch Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Memgraph",
+    "description": "Query your data in [Memgraph](https://memgraph.com/) graph database.",
+    "github_url": "https://github.com/memgraph/mcp-memgraph",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://memgraph.com/favicon.png",
+        "icon_alt": "Memgraph Logo"
+      },
+      "links": [
+        {
+          "text": "Memgraph",
+          "url": "https://memgraph.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mercado Pago",
+    "description": "Mercado Pago's official MCP server.",
+    "github_url": "https://mcp.mercadopago.com/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.mercadopago.com/favicon.ico",
+        "icon_alt": "MercadoPago Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Metoro",
+    "description": "Query and interact with kubernetes environments monitored by Metoro",
+    "github_url": "https://github.com/metoro-io/metoro-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://metoro.io/static/images/logos/Metoro.svg",
+        "icon_alt": "Metoro Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Microsoft Clarity",
+    "description": "Official MCP Server to get your behavioral analytics data and insights from [Clarity](https://clarity.microsoft.com)",
+    "github_url": "https://github.com/microsoft/clarity-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://claritystatic.azureedge.net/images/logo.ico",
+        "icon_alt": "Microsoft Clarity Logo"
+      },
+      "links": [
+        {
+          "text": "Clarity",
+          "url": "https://clarity.microsoft.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Docs",
+    "description": "An MCP server that provides structured access to Microsoft’s official documentation. Retrieves accurate, authoritative, and context-aware technical content for code generation, question answering, and workflow grounding.",
+    "github_url": "https://github.com/microsoftdocs/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.microsoft.com/favicon.ico",
+        "icon_alt": "microsoft.com favicon"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Microsoft Dataverse",
+    "description": "Chat over your business data using NL - Discover tables, run queries, retrieve data, insert or update records, and execute custom prompts grounded in business knowledge and context.",
+    "github_url": "https://go.microsoft.com/fwlink/?linkid=2320176",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://conn-afd-prod-endpoint-bmc9bqahasf3grgk.b01.azurefd.net/releases/v1.0.1735/1.0.1735.4099/commondataserviceforapps/icon.png",
+        "icon_alt": "Microsoft Dataverse Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Milvus",
+    "description": "Search, Query and interact with data in your Milvus Vector Database.",
+    "github_url": "https://github.com/zilliztech/mcp-server-milvus",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Momento",
+    "description": "Momento Cache lets you quickly improve your performance, reduce costs, and handle load at any scale.",
+    "github_url": "https://github.com/momentohq/mcp-momento",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "MongoDB",
+    "description": "Both MongoDB Community Server and MongoDB Atlas are supported.",
+    "github_url": "https://github.com/mongodb-js/mongodb-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "MotherDuck",
+    "description": "Query and analyze data with MotherDuck and local DuckDB",
+    "github_url": "https://github.com/motherduckdb/mcp-server-motherduck",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.motherduck.com/favicon.ico",
+        "icon_alt": "MotherDuck Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "NanoVMs",
+    "description": "Easily Build and Deploy unikernels to any cloud.",
+    "github_url": "https://github.com/nanovms/ops-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/38020270",
+        "icon_alt": "NanoVMs Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Needle",
+    "description": "Production-ready RAG out of the box to search and retrieve data from your own documents.",
+    "github_url": "https://github.com/needle-ai/needle-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://needle-ai.com/images/needle-logo-orange-2-rounded.png",
+        "icon_alt": "Needle AI Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Neo4j",
+    "description": "Neo4j graph database server (schema + read/write-cypher) and separate graph database backed memory",
+    "github_url": "https://github.com/neo4j-contrib/mcp-neo4j/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://neo4j.com/favicon.ico",
+        "icon_alt": "Neo4j Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Neon",
+    "description": "Interact with the Neon serverless Postgres platform",
+    "github_url": "https://github.com/neondatabase/mcp-server-neon",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/183852044?s=48&v=4",
+        "icon_alt": "Neon Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Netdata",
+    "description": "Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs, systems, containers, processes, and network connections",
+    "github_url": "https://github.com/netdata/netdata/blob/master/src/web/mcp/README.md",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.netdata.cloud/favicon-32x32.png",
+        "icon_alt": "Netdata Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Netlify",
+    "description": "Create, build, deploy, and manage your websites with Netlify web platform.",
+    "github_url": "https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.netlify.com/favicon/icon.svg",
+        "icon_alt": "Netlify Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Nile",
+    "description": "An MCP server that talks to Nile - Postgres re-engineered for B2B apps. Manage and query databases, tenants, users, auth using LLMs",
+    "github_url": "https://github.com/niledatabase/nile-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.thenile.dev/favicon.ico",
+        "icon_alt": "Nile Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Nodit",
+    "description": "Official Nodit MCP Server enabling access to multi-chain RPC Nodes and Data APIs for blockchain data.",
+    "github_url": "https://github.com/noditlabs/nodit-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/208441832?s=400&v=4",
+        "icon_alt": "Nodit Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Notion",
+    "description": "This project implements an MCP server for the Notion API.",
+    "github_url": "https://github.com/makenotion/notion-mcp-server#readme",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/4792552?s=200&v=4",
+        "icon_alt": "Notion Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Nutrient",
+    "description": "Create, Edit, Sign, Extract Documents using Natural Language",
+    "github_url": "https://github.com/PSPDFKit/nutrient-dws-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.nutrient.io/assets/images/logos/nutrient.svg",
+        "icon_alt": "Nutrient Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Nx",
+    "description": "Makes [Nx's understanding](https://nx.dev/features/enhance-AI) of your codebase accessible to LLMs, providing insights into the codebase architecture, project relationships and runnable tasks thus allowing AI to make precise code suggestions.",
+    "github_url": "https://github.com/nrwl/nx-console/blob/master/apps/nx-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://nx.dev/favicon/favicon.svg",
+        "icon_alt": "Nx Logo"
+      },
+      "links": [
+        {
+          "text": "Nx's understanding",
+          "url": "https://nx.dev/features/enhance-AI"
+        }
+      ]
+    }
+  },
+  {
+    "name": "OceanBase",
+    "description": "MCP Server for OceanBase database and its tools",
+    "github_url": "https://github.com/oceanbase/mcp-oceanbase",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/82347605?s=48&v=4",
+        "icon_alt": "OceanBase Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Octagon",
+    "description": "Deliver real-time investment research with extensive private and public market data.",
+    "github_url": "https://github.com/OctagonAI/octagon-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://docs.octagonagents.com/logo.svg",
+        "icon_alt": "Octagon Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "OctoEverywhere",
+    "description": "A 3D Printing MCP server that allows for querying for live state, webcam snapshots, and 3D printer control.",
+    "github_url": "https://github.com/OctoEverywhere/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://octoeverywhere.com/img/logo.png",
+        "icon_alt": "OctoEverywhere Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Offorte",
+    "description": "Offorte Proposal Software official MCP server enables creation and sending of business proposals.",
+    "github_url": "https://github.com/offorte/offorte-mcp-server#readme",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/211697972",
+        "icon_alt": "Offorte Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "OlaMaps",
+    "description": "Official Ola Maps MCP Server for services like geocode, directions, place details and many more.",
+    "github_url": "https://pypi.org/project/ola-maps-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://maps.olakrutrim.com/favicon.ico",
+        "icon_alt": "Ola Maps"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "ONLYOFFICE DocSpace",
+    "description": "Interact with [ONLYOFFICE DocSpace](https://www.onlyoffice.com/docspace.aspx) API to create rooms, manage files and folders.",
+    "github_url": "https://github.com/ONLYOFFICE/docspace-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://static.onlyoffice.com/images/favicon.ico",
+        "icon_alt": "ONLYOFFICE DocSpace"
+      },
+      "links": [
+        {
+          "text": "ONLYOFFICE DocSpace",
+          "url": "https://www.onlyoffice.com/docspace.aspx"
+        }
+      ]
+    }
+  },
+  {
+    "name": "OP.GG",
+    "description": "Access real-time gaming data across popular titles like League of Legends, TFT, and Valorant, offering champion analytics, esports schedules, meta compositions, and character statistics.",
+    "github_url": "https://github.com/opgginc/opgg-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://op.gg/favicon.ico",
+        "icon_alt": "OP.GG Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "OpsLevel",
+    "description": "Official MCP Server for [OpsLevel](https://www.opslevel.com).",
+    "github_url": "https://github.com/opslevel/opslevel-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://app.opslevel.com/favicon.ico",
+        "icon_alt": "OpsLevel"
+      },
+      "links": [
+        {
+          "text": "OpsLevel",
+          "url": "https://www.opslevel.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Oxylabs",
+    "description": "Scrape websites with Oxylabs Web API, supporting dynamic rendering and parsing for structured data extraction.",
+    "github_url": "https://github.com/oxylabs/oxylabs-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://oxylabs.io/favicon.ico",
+        "icon_alt": "Oxylabs Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Paddle",
+    "description": "Interact with the Paddle API. Manage product catalog, billing and subscriptions, and reports.",
+    "github_url": "https://github.com/PaddleHQ/paddle-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://developer.paddle.com/favicon.svg",
+        "icon_alt": "Paddle Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Pagos",
+    "description": "Interact with the Pagos API. Query Credit Card BIN Data with more to come.",
+    "github_url": "https://github.com/pagos-ai/pagos-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://secure.pagos.ai/favicon.svg",
+        "icon_alt": "Pagos Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "PAIML MCP Agent Toolkit",
+    "description": "Professional project scaffolding toolkit with zero-configuration AI context generation, template generation for Rust/Deno/Python projects, and hybrid neuro-symbolic code analysis.",
+    "github_url": "https://github.com/paiml/paiml-mcp-agent-toolkit",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://paiml.com/favicon.ico",
+        "icon_alt": "PAIML Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Patronus AI",
+    "description": "Test, evaluate, and optimize AI agents and RAG apps",
+    "github_url": "https://github.com/patronus-ai/patronus-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "PayPal",
+    "description": "PayPal's official MCP server.",
+    "github_url": "https://mcp.paypal.com",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.paypalobjects.com/webstatic/icon/favicon.ico",
+        "icon_alt": "PayPal Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Perplexity",
+    "description": "An MCP server that connects to Perplexity's Sonar API, enabling real-time web-wide research in conversational AI.",
+    "github_url": "https://github.com/ppl-ai/modelcontextprotocol",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.perplexity.ai/favicon.ico",
+        "icon_alt": "Perplexity Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Pinecone",
+    "description": "[Pinecone](https://docs.pinecone.io/guides/operations/mcp-server)'s developer MCP Server assist developers in searching documentation and managing data within their development environment.",
+    "github_url": "https://github.com/pinecone-io/pinecone-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "Pinecone",
+          "url": "https://docs.pinecone.io/guides/operations/mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pinecone Assistant",
+    "description": "Retrieves context from your [Pinecone Assistant](https://docs.pinecone.io/guides/assistant/mcp-server) knowledge base.",
+    "github_url": "https://github.com/pinecone-io/assistant-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "Pinecone Assistant",
+          "url": "https://docs.pinecone.io/guides/assistant/mcp-server"
+        }
+      ]
+    }
+  },
+  {
+    "name": "PostHog",
+    "description": "Interact with PostHog analytics, feature flags, error tracking and more with the official PostHog MCP server.",
+    "github_url": "https://github.com/posthog/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Prisma",
+    "description": "Create and manage Prisma Postgres databases",
+    "github_url": "https://www.prisma.io/docs/postgres/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.prisma.io/images/favicon-32x32.png",
+        "icon_alt": "Prisma Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "PubNub",
+    "description": "Retrieves context for developing with PubNub SDKs and calling APIs.",
+    "github_url": "https://github.com/pubnub/pubnub-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.pubnub.com/favicon/favicon-32x32.png",
+        "icon_alt": "PubNub"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Pulumi",
+    "description": "Deploy and manage cloud infrastructure using [Pulumi](https://pulumi.com).",
+    "github_url": "https://github.com/pulumi/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.pulumi.com/images/favicon.ico",
+        "icon_alt": "Pulumi Logo"
+      },
+      "links": [
+        {
+          "text": "Pulumi",
+          "url": "https://pulumi.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pure.md",
+    "description": "Reliably access web content in markdown format with [pure.md](https://pure.md) (bot detection avoidance, proxy rotation, and headless JS rendering built in).",
+    "github_url": "https://github.com/puremd/puremd-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://pure.md/favicon.png",
+        "icon_alt": "Pure.md Logo"
+      },
+      "links": [
+        {
+          "text": "pure.md",
+          "url": "https://pure.md"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Put.io",
+    "description": "Interact with your Put.io account to download torrents.",
+    "github_url": "https://github.com/putdotio/putio-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://put.io/images/favicon.ico",
+        "icon_alt": "Put.io Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Qdrant",
+    "description": "Implement semantic memory layer on top of the Qdrant vector search engine",
+    "github_url": "https://github.com/qdrant/mcp-server-qdrant/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Ragie",
+    "description": "Retrieve context from your [Ragie](https://www.ragie.ai) (RAG) knowledge base connected to integrations like Google Drive, Notion, JIRA and more.",
+    "github_url": "https://github.com/ragieai/ragie-mcp-server/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/165178062",
+        "icon_alt": "Ragie Logo"
+      },
+      "links": [
+        {
+          "text": "Ragie",
+          "url": "https://www.ragie.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ramp",
+    "description": "Interact with [Ramp](https://ramp.com)'s Developer API to run analysis on your spend and gain insights leveraging LLMs",
+    "github_url": "https://github.com/ramp-public/ramp-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "Ramp",
+          "url": "https://ramp.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Raygun",
+    "description": "Interact with your crash reporting and real using monitoring data on your Raygun account",
+    "github_url": "https://github.com/MindscapeHQ/mcp-server-raygun",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Razorpay",
+    "description": "Razorpay's official MCP server",
+    "github_url": "https://github.com/razorpay/razorpay-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://framerusercontent.com/images/CU1m0xFonUl76ZeaW0IdkQ0M.png",
+        "icon_alt": "Razorpay Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Recraft",
+    "description": "Generate raster and vector (SVG) images using [Recraft](https://recraft.ai). Also you can edit, upscale images, create your own styles, and vectorize raster images",
+    "github_url": "https://github.com/recraft-ai/mcp-recraft-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.recraft.ai/favicons/icon.svg",
+        "icon_alt": "Recraft Logo"
+      },
+      "links": [
+        {
+          "text": "Recraft",
+          "url": "https://recraft.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Redis",
+    "description": "The Redis official MCP Server offers an interface to manage and search data in Redis.",
+    "github_url": "https://github.com/redis/mcp-redis/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/1529926",
+        "icon_alt": "Redis Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Redis Cloud API",
+    "description": "The Redis Cloud API MCP Server allows you to manage your Redis Cloud resources using natural language.",
+    "github_url": "https://github.com/redis/mcp-redis-cloud/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/1529926",
+        "icon_alt": "Redis Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Reexpress",
+    "description": "Enable Similarity-Distance-Magnitude statistical verification for your search, software, and data science workflows",
+    "github_url": "https://github.com/ReexpressAI/reexpress_mcp_server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/149024635",
+        "icon_alt": "Reexpress"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Rember",
+    "description": "Create spaced repetition flashcards in [Rember](https://rember.com) to remember anything you learn in your chats",
+    "github_url": "https://github.com/rember/rember-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.rember.com/favicon.ico",
+        "icon_alt": "Rember Logo"
+      },
+      "links": [
+        {
+          "text": "Rember",
+          "url": "https://rember.com"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rill Data",
+    "description": "Interact with Rill Data to query and analyze your data.",
+    "github_url": "https://docs.rilldata.com/explore/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://ui.rilldata.com/favicon.png",
+        "icon_alt": "Rill Data Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Riza",
+    "description": "Arbitrary code execution and tool-use platform for LLMs by [Riza](https://riza.io)",
+    "github_url": "https://github.com/riza-io/riza-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://riza.io/favicon.ico",
+        "icon_alt": "Riza logo"
+      },
+      "links": [
+        {
+          "text": "Riza",
+          "url": "https://riza.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Root Signals",
+    "description": "Improve and quality control your outputs with evaluations using LLM-as-Judge",
+    "github_url": "https://github.com/root-signals/root-signals-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.prod.website-files.com/66b7de6a233c04f4dac200a6/66bed52680d689629483c18b_faviconV2%20(2).png",
+        "icon_alt": "Root Signals Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "ScrAPI",
+    "description": "Web scraping using [ScrAPI](https://scrapi.tech). Extract website content that is difficult to access because of bot detection, captchas or even geolocation restrictions.",
+    "github_url": "https://github.com/DevEnterpriseSoftware/scrapi-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://scrapi.tech/favicon.ico",
+        "icon_alt": "ScrAPI Logo"
+      },
+      "links": [
+        {
+          "text": "ScrAPI",
+          "url": "https://scrapi.tech"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ScreenshotOne",
+    "description": "Render website screenshots with [ScreenshotOne](https://screenshotone.com/)",
+    "github_url": "https://github.com/screenshotone/mcp/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://screenshotone.com/favicon.ico",
+        "icon_alt": "ScreenshotOne Logo"
+      },
+      "links": [
+        {
+          "text": "ScreenshotOne",
+          "url": "https://screenshotone.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Semgrep",
+    "description": "Enable AI agents to secure code with [Semgrep](https://semgrep.dev/).",
+    "github_url": "https://github.com/semgrep/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://semgrep.dev/favicon.ico",
+        "icon_alt": "Semgrep Logo"
+      },
+      "links": [
+        {
+          "text": "Semgrep",
+          "url": "https://semgrep.dev/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Search1API",
+    "description": "One API for Search, Crawling, and Sitemaps",
+    "github_url": "https://github.com/fatwang2/search1api-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://pics.fatwang2.com/56912e614b35093426c515860f9f2234.svg",
+        "icon_alt": "Search1API Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Shortcut",
+    "description": "Access and implement all of your projects and tasks (Stories) from [Shortcut](https://shortcut.com/).",
+    "github_url": "https://github.com/useshortcut/mcp-server-shortcut",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.prod.website-files.com/6372338e5477e047032b37a5/64f85e6388a2a5c8c9525b4d_favLogo.png",
+        "icon_alt": "Shortcut Logo"
+      },
+      "links": [
+        {
+          "text": "Shortcut",
+          "url": "https://shortcut.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "SingleStore",
+    "description": "Interact with the SingleStore database platform",
+    "github_url": "https://github.com/singlestore-labs/mcp-server-singlestore",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": []
+    }
+  },
+  {
+    "name": "Snyk",
+    "description": "Enhance security posture by embedding [Snyk](https://snyk.io/) vulnerability scanning directly into agentic workflows.",
+    "github_url": "https://github.com/snyk/snyk-ls/blob/main/mcp_extension/README.md",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://app.snyk.io/bundle/favicon-faj49uD9.png",
+        "icon_alt": "Snyk Logo"
+      },
+      "links": [
+        {
+          "text": "Snyk",
+          "url": "https://snyk.io/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "StarRocks",
+    "description": "Interact with [StarRocks](https://www.starrocks.io/)",
+    "github_url": "https://github.com/StarRocks/mcp-server-starrocks",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.starrocks.io/favicon.ico",
+        "icon_alt": "StarRocks Logo"
+      },
+      "links": [
+        {
+          "text": "StarRocks",
+          "url": "https://www.starrocks.io/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Stripe",
+    "description": "Interact with Stripe API",
+    "github_url": "https://github.com/stripe/agent-toolkit",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://stripe.com/favicon.ico",
+        "icon_alt": "Stripe Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Tavily",
+    "description": "Search engine for AI agents (search + extract) powered by [Tavily](https://tavily.com/)",
+    "github_url": "https://github.com/tavily-ai/tavily-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://tavily.com/favicon.ico",
+        "icon_alt": "Tavily Logo"
+      },
+      "links": [
+        {
+          "text": "Tavily",
+          "url": "https://tavily.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Terraform",
+    "description": "Seamlessly integrate with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development powered by [Terraform](https://www.hashicorp.com/en/products/terraform)",
+    "github_url": "https://github.com/hashicorp/terraform-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://raw.githubusercontent.com/hashicorp/terraform-mcp-server/main/public/images/Terraform-LogoMark_onDark.svg",
+        "icon_alt": "Terraform Logo"
+      },
+      "links": [
+        {
+          "text": "Terraform",
+          "url": "https://www.hashicorp.com/en/products/terraform"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Thirdweb",
+    "description": "Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by [Thirdweb](https://thirdweb.com/)",
+    "github_url": "https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://thirdweb.com/favicon.ico",
+        "icon_alt": "Thirdweb Logo"
+      },
+      "links": [
+        {
+          "text": "Thirdweb",
+          "url": "https://thirdweb.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tianji",
+    "description": "Interact with Tianji platform whatever selfhosted or cloud platform, powered by [Tianji](https://tianji.msgbyte.com/).",
+    "github_url": "https://github.com/msgbyte/tianji/tree/master/apps/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://tianji.msgbyte.com/img/dark-brand.svg",
+        "icon_alt": "Tianji Logo"
+      },
+      "links": [
+        {
+          "text": "Tianji",
+          "url": "https://tianji.msgbyte.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "TiDB",
+    "description": "MCP Server to interact with TiDB database platform.",
+    "github_url": "https://github.com/pingcap/pytidb",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.pingcap.com/favicon.ico",
+        "icon_alt": "TiDB Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Tinybird",
+    "description": "Interact with Tinybird serverless ClickHouse platform",
+    "github_url": "https://github.com/tinybirdco/mcp-tinybird",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.tinybird.co/favicon.ico",
+        "icon_alt": "Tinybird Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Tldv",
+    "description": "Connect your AI agents to Google-Meet, Zoom & Microsoft Teams through [tl;dv](https://tldv.io)",
+    "github_url": "https://gitlab.com/tldv/tldv-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://b2729162.smushcdn.com/2729162/wp-content/uploads/2023/10/cropped-Favicon-1-192x192.png?lossy=1&strip=1&webp=1",
+        "icon_alt": "Tldv Logo"
+      },
+      "links": [
+        {
+          "text": "tl;dv",
+          "url": "https://tldv.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Trade Agent",
+    "description": "Execute stock and crypto trades on your brokerage via [Trade Agent](https://thetradeagent.ai)",
+    "github_url": "https://github.com/Trade-Agent/trade-agent-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://images.thetradeagent.ai/trade_agent/logo.svg",
+        "icon_alt": "Trade Agent Logo"
+      },
+      "links": [
+        {
+          "text": "Trade Agent",
+          "url": "https://thetradeagent.ai"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Twilio",
+    "description": "Interact with [Twilio](https://www.twilio.com/en-us) APIs to send SMS messages, manage phone numbers, configure your account, and more.",
+    "github_url": "https://github.com/twilio-labs/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.twilio.com/content/dam/twilio-com/core-assets/social/favicon-16x16.png",
+        "icon_alt": "Twilio Logo"
+      },
+      "links": [
+        {
+          "text": "Twilio",
+          "url": "https://www.twilio.com/en-us"
+        }
+      ]
+    }
+  },
+  {
+    "name": "UnifAI",
+    "description": "Dynamically search and call tools using [UnifAI Network](https://unifai.network)",
+    "github_url": "https://github.com/unifai-network/unifai-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://unifai.network/favicon.ico",
+        "icon_alt": "UnifAI Logo"
+      },
+      "links": [
+        {
+          "text": "UnifAI Network",
+          "url": "https://unifai.network"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Unstructured",
+    "description": "Set up and interact with your unstructured data processing workflows in [Unstructured Platform](https://unstructured.io)",
+    "github_url": "https://github.com/Unstructured-IO/UNS-MCP",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://framerusercontent.com/images/plcQevjrOYnyriuGw90NfQBPoQ.jpg",
+        "icon_alt": "Unstructured Logo"
+      },
+      "links": [
+        {
+          "text": "Unstructured Platform",
+          "url": "https://unstructured.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Upstash",
+    "description": "Manage Redis databases and run Redis commands on [Upstash](https://upstash.com/) with natural language.",
+    "github_url": "https://github.com/upstash/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://upstash.com/icons/favicon-32x32.png",
+        "icon_alt": "Upstash Logo"
+      },
+      "links": [
+        {
+          "text": "Upstash",
+          "url": "https://upstash.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Vantage",
+    "description": "Interact with your organization's cloud cost spend.",
+    "github_url": "https://github.com/vantage-sh/vantage-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.vantage.sh/favicon.ico",
+        "icon_alt": "Vantage"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "VariFlight",
+    "description": "VariFlight's official MCP server provides tools to query flight information, weather data, comfort metrics, the lowest available fares, and other civil aviation-related data.",
+    "github_url": "https://github.com/variflight/variflight-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://mcp.variflight.com/favicon.ico",
+        "icon_alt": "VariFlight Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "VCAgents",
+    "description": "Interact with investor agents—think Wilson or Thiel—continuously updated with market intel.",
+    "github_url": "https://github.com/OctagonAI/octagon-vc-agents",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://docs.octagonagents.com/logo.svg",
+        "icon_alt": "Octagon Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Vectorize",
+    "description": "[Vectorize](https://vectorize.io) MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.",
+    "github_url": "https://github.com/vectorize-io/vectorize-mcp-server/",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "Vectorize",
+          "url": "https://vectorize.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Verbwire",
+    "description": "Deploy smart contracts, mint NFTs, manage IPFS storage, and more through the Verbwire API",
+    "github_url": "https://github.com/verbwire/verbwire-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://static.verbwire.com/favicon-16x16.png",
+        "icon_alt": "Verbwire Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Verodat",
+    "description": "Interact with Verodat AI Ready Data platform",
+    "github_url": "https://github.com/Verodat/verodat-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://verodat.io/assets/favicon-16x16.png",
+        "icon_alt": "Verodat Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "VeyraX",
+    "description": "Single tool to control all 100+ API integrations, and UI components",
+    "github_url": "https://github.com/VeyraX/veyrax-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.veyrax.com/favicon.ico",
+        "icon_alt": "VeyraX Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "VictoriaMetrics",
+    "description": "Comprehensive integration with [VictoriaMetrics APIs](https://docs.victoriametrics.com/victoriametrics/url-examples/) and [documentation](https://docs.victoriametrics.com/) for monitoring, observability, and debugging tasks related to your VictoriaMetrics instances.",
+    "github_url": "https://github.com/VictoriaMetrics-Community/mcp-victoriametrics",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/174736222?s=200&v=4",
+        "icon_alt": "VictoriaMetrics Logo"
+      },
+      "links": [
+        {
+          "text": "VictoriaMetrics APIs",
+          "url": "https://docs.victoriametrics.com/victoriametrics/url-examples/"
+        },
+        {
+          "text": "documentation",
+          "url": "https://docs.victoriametrics.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "WaveSpeed",
+    "description": "WaveSpeed MCP server providing AI agents with image and video generation capabilities.",
+    "github_url": "https://github.com/WaveSpeedAI/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://wavespeed.ai/logo.webp",
+        "icon_alt": "WaveSpeed Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "WayStation",
+    "description": "Universal MCP server to connect to popular productivity tools such as Notion, Monday, AirTable, and many more",
+    "github_url": "https://github.com/waystation-ai/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://waystation.ai/images/logo.svg",
+        "icon_alt": "WayStation Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Webflow",
+    "description": "Interact with Webflow sites, pages, and collections",
+    "github_url": "https://github.com/webflow/mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.webflow.com/favicon.ico",
+        "icon_alt": "Webflow Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Xero",
+    "description": "Interact with the accounting data in your business using our official MCP server",
+    "github_url": "https://github.com/XeroAPI/xero-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.xero.com/favicon.ico",
+        "icon_alt": "Xero Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "YDB",
+    "description": "Query [YDB](https://ydb.tech/) databases",
+    "github_url": "https://github.com/ydb-platform/ydb-mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://storage.yandexcloud.net/ydb-www-prod-site-assets/favicon-202305/favicon.ico",
+        "icon_alt": "YDB Logo"
+      },
+      "links": [
+        {
+          "text": "YDB",
+          "url": "https://ydb.tech/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "YugabyteDB",
+    "description": "MCP Server to interact with your [YugabyteDB](https://www.yugabyte.com/) database",
+    "github_url": "https://github.com/yugabyte/yugabytedb-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://www.yugabyte.com/favicon-16x16.png",
+        "icon_alt": "YugabyteDB Logo"
+      },
+      "links": [
+        {
+          "text": "YugabyteDB",
+          "url": "https://www.yugabyte.com/"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Yunxin",
+    "description": "An MCP server that connects to Yunxin's IM/RTC/DATA Open-API",
+    "github_url": "https://github.com/netease-im/yunxin-mcp-server",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://avatars.githubusercontent.com/u/14069894",
+        "icon_alt": "Yunxin Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "Zapier",
+    "description": "Connect your AI Agents to 8,000 apps instantly.",
+    "github_url": "https://zapier.com/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://cdn.zapier.com/zapier/images/favicon.ico",
+        "icon_alt": "Zapier Logo"
+      },
+      "links": []
+    }
+  },
+  {
+    "name": "ZenML",
+    "description": "Interact with your MLOps and LLMOps pipelines through your [ZenML](https://www.zenml.io) MCP server",
+    "github_url": "https://github.com/zenml-io/mcp-zenml",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {},
+      "links": [
+        {
+          "text": "ZenML",
+          "url": "https://www.zenml.io"
+        }
+      ]
+    }
+  },
+  {
+    "name": "ZIZAI Recruitment",
+    "description": "Interact with the next-generation intelligent recruitment platform for employees and employers, powered by [ZIZAI Recruitment](https://zizai.work).",
+    "github_url": "https://github.com/zaiwork/mcp",
+    "detail_url": null,
+    "source": {
+      "name": "modelcontextprotocol_io",
+      "url": "https://modelcontextprotocol.io"
+    },
+    "metadata": {
+      "icon": {
+        "icon_url": "https://zizai.work/images/logo.jpg",
+        "icon_alt": "ZIZAI Logo"
+      },
+      "links": [
+        {
+          "text": "ZIZAI Recruitment",
+          "url": "https://zizai.work"
+        }
+      ]
+    }
+  }
+]

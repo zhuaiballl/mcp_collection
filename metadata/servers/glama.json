@@ -1,0 +1,1161 @@
+[
+  {
+    "name": "UseGrant MCP Server",
+    "description": "A Model Context Protocol server that provides tools for managing providers, clients, tenants, and access tokens through the UseGrant platform.",
+    "detail_url": "https://glama.ai/mcp/servers/@usegranthq/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 26,
+      "weekly_downloads": 116
+    },
+    "github_url": "https://github.com/usegranthq/mcp-server"
+  },
+  {
+    "name": "mcp-server-circleci",
+    "description": "This MCP server lets you use Cursor IDE, or any MCP Client enabled agent, to use natural language to accomplish things with CircleCI, e.g: Find the latest failed pipeline on my branch and get logs",
+    "detail_url": "https://glama.ai/mcp/servers/@CircleCI-Public/mcp-server-circleci",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "weekly_downloads": 402,
+      "github_stars": 28
+    },
+    "github_url": "https://github.com/circleci-public/mcp-server-circleci"
+  },
+  {
+    "name": "Fibery MCP Server",
+    "description": "The Fibery MCP server provides integration between Fibery and any LLM provider supporting the MCP protocol (e.g., Claude for Desktop), allowing you to explore Fibery Workspace Schema, query databases, create and update entities using natural language.",
+    "detail_url": "https://glama.ai/mcp/servers/@Fibery-inc/fibery-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "github_stars": 11
+    },
+    "github_url": "https://github.com/Fibery-inc/fibery-mcp-server"
+  },
+  {
+    "name": "Tavily MCP Server",
+    "description": "This server enables AI systems to integrate with Tavily's search and data extraction tools, providing real-time web information access and domain-specific searches.",
+    "detail_url": "https://glama.ai/mcp/servers/@tavily-ai/tavily-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "weekly_downloads": 0,
+      "github_stars": 334
+    },
+    "github_url": "https://github.com/tavily-ai/tavily-mcp"
+  },
+  {
+    "name": "BigGo MCP Server",
+    "description": "A Model Context Protocol server enabling product searches across e-commerce platforms, price history tracking, and product specification-based searches using natural language prompts.",
+    "detail_url": "https://glama.ai/mcp/servers/@Funmula-Corp/BigGo-MCP-Server",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "github_stars": 10
+    },
+    "github_url": "https://github.com/Funmula-Corp/BigGo-MCP-Server"
+  },
+  {
+    "name": "gotoHuman MCP",
+    "description": "Add human approval steps to your AI agents and automations with gotoHuman.",
+    "detail_url": "https://glama.ai/mcp/servers/@gotohuman/gotohuman-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "weekly_downloads": 101,
+      "github_stars": 18
+    },
+    "github_url": "https://github.com/gotohuman/gotohuman-mcp-server"
+  },
+  {
+    "name": "MiniMax MCP JS",
+    "description": "JavaScript implementation of MiniMax MCP that enables interaction with MiniMax AI services for image generation, video generation, text-to-speech, and voice cloning through MCP-compatible clients.",
+    "detail_url": "https://glama.ai/mcp/servers/@MiniMax-AI/MiniMax-MCP-JS",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "weekly_downloads": 359,
+      "github_stars": 31
+    },
+    "github_url": "https://github.com/MiniMax-AI/MiniMax-MCP-JS"
+  },
+  {
+    "name": "Nacos MCP Server",
+    "description": "A server that enables interaction with Nacos service discovery and configuration management through Large Language Models, providing read-only access to namespaces, services, and configurations.",
+    "detail_url": "https://glama.ai/mcp/servers/@nacos-group/nacos-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 11,
+      "github_stars": 1
+    },
+    "github_url": "https://github.com/nacos-group/nacos-mcp-server"
+  },
+  {
+    "name": "Astra DB MCP Server",
+    "description": "A Model Context Protocol server that allows Large Language Models to interact with Astra DB databases, providing tools for managing collections and records through natural language commands.",
+    "detail_url": "https://glama.ai/mcp/servers/@datastax/astra-db-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 10,
+      "weekly_downloads": 115,
+      "github_stars": 12
+    },
+    "github_url": "https://github.com/datastax/astra-db-mcp"
+  },
+  {
+    "name": "MiniMax MCP Server",
+    "description": "Enables MCP clients like Claude Desktop and Cursor to interact with MiniMax APIs for generating speech, cloning voices, creating videos, and generating images.",
+    "detail_url": "https://glama.ai/mcp/servers/@MiniMax-AI/MiniMax-MCP",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "github_stars": 302
+    },
+    "github_url": "https://github.com/MiniMax-AI/MiniMax-MCP"
+  },
+  {
+    "name": "Glif",
+    "description": "Run AI workflows hosted on Glif.app via MCP, including ComfyUI-based image generators, meme generators, selfies, chained LLM calls, and more",
+    "detail_url": "https://glama.ai/mcp/servers/@glifxyz/glif-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "weekly_downloads": 64,
+      "github_stars": 17
+    },
+    "github_url": "https://github.com/glifxyz/glif-mcp-server"
+  },
+  {
+    "name": "Lara Translate MCP Server",
+    "description": "An MCP server providing machine translation capabilities via the Lara Translate API, featuring language detection and context-aware translations between numerous language pairs.",
+    "detail_url": "https://glama.ai/mcp/servers/@translated/lara-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 258,
+      "github_stars": 44
+    },
+    "github_url": "https://github.com/translated/lara-mcp"
+  },
+  {
+    "name": "Eyevinn Open Source Cloud MCP Server",
+    "description": "MCP Server for Eyevinn Open Source Cloud API, enabling creation of solutions based on open web services. Web services based on open source where the creator gets a share of the revenue the platform generates.",
+    "detail_url": "https://glama.ai/mcp/servers/@EyevinnOSC/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "weekly_downloads": 52,
+      "github_stars": 5
+    },
+    "github_url": "https://github.com/EyevinnOSC/mcp-server"
+  },
+  {
+    "name": "steampipe-mcp",
+    "description": "steampipe-mcp",
+    "detail_url": "https://glama.ai/mcp/servers/@turbot/steampipe-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "weekly_downloads": 35,
+      "github_stars": 11
+    },
+    "github_url": "https://github.com/turbot/steampipe-mcp"
+  },
+  {
+    "name": "Nodit MCP Server",
+    "description": "Connects AI agents and developers to structured blockchain data across multiple networks through Nodit's Web3 infrastructure, enabling easy querying, analysis and interaction with blockchain ecosystems without specialized development expertise.",
+    "detail_url": "https://glama.ai/mcp/servers/@noditlabs/nodit-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 138,
+      "github_stars": 2
+    },
+    "github_url": "https://github.com/noditlabs/nodit-mcp-server"
+  },
+  {
+    "name": "DataWorks MCP Server",
+    "description": "A Model Context Protocol server that enables AI agents to interact with Alibaba Cloud DataWorks through standardized interfaces, allowing seamless management of DataWorks resources and operations via the DataWorks Open API.",
+    "detail_url": "https://glama.ai/mcp/servers/@aliyun/alibabacloud-dataworks-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 169,
+      "weekly_downloads": 485,
+      "github_stars": 15
+    },
+    "github_url": "https://github.com/aliyun/alibabacloud-dataworks-mcp-server"
+  },
+  {
+    "name": "LlamaCloud MCP Server",
+    "description": "A MCP server connecting to a managed index on LlamaCloud. This is a TypeScript-based MCP server that implements a connection to a managed index on LlamaCloud.",
+    "detail_url": "https://glama.ai/mcp/servers/@run-llama/mcp-server-llamacloud",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 47,
+      "github_stars": 42
+    },
+    "github_url": "https://github.com/run-llama/mcp-server-llamacloud"
+  },
+  {
+    "name": "Playwright MCP Server",
+    "description": "A Model Context Protocol server that enables LLMs to interact with web pages through structured accessibility snapshots without requiring vision models or screenshots.",
+    "detail_url": "https://glama.ai/mcp/servers/@microsoft/playwright-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 21,
+      "weekly_downloads": 0,
+      "github_stars": 0
+    },
+    "github_url": "https://github.com/microsoft/playwright-mcp"
+  },
+  {
+    "name": "PlayCanvas Editor MCP Server",
+    "description": "An MCP Server that enables LLMs to build real-time 3D web applications in the PlayCanvas Editor.",
+    "detail_url": "https://glama.ai/mcp/servers/@playcanvas/editor-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 21,
+      "weekly_downloads": 89,
+      "github_stars": 38
+    },
+    "github_url": "https://github.com/playcanvas/editor-mcp-server"
+  },
+  {
+    "name": "hackle-mcp",
+    "description": "A Model Context Protocol server for Hackle API providing tools and resources for querying A/B Test data.",
+    "detail_url": "https://glama.ai/mcp/servers/@hackle-io/hackle-mcp",
+    "categories": [],
+    "stats": {
+      "weekly_downloads": 235
+    },
+    "github_url": "https://github.com/hackle-io/hackle-mcp"
+  },
+  {
+    "name": "Appwrite MCP Server",
+    "description": "A Model Context Protocol server that allows AI assistants to interact with Appwrite's API, providing tools to manage databases, users, functions, teams, and other resources within Appwrite projects.",
+    "detail_url": "https://glama.ai/mcp/servers/@appwrite/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 84,
+      "github_stars": 36
+    },
+    "github_url": "https://github.com/appwrite/mcp"
+  },
+  {
+    "name": "AdsPower LocalAPI MCP Server",
+    "description": "A Model Context Protocol server that enables LLMs to interact with AdsPower browser LocalAPI, allowing for operations like creating, opening, updating, and managing browser profiles with custom fingerprints.",
+    "detail_url": "https://glama.ai/mcp/servers/@AdsPower/local-api-mcp-typescript",
+    "categories": [],
+    "stats": {
+      "tools_count": 12,
+      "weekly_downloads": 155,
+      "github_stars": 10
+    },
+    "github_url": "https://github.com/adspower/local-api-mcp-typescript"
+  },
+  {
+    "name": "Dappier MCP Server",
+    "description": "Connects LLMs and Agentic AIs to real-time, rights-cleared data from trusted sources, providing access to specialized models including web search, news, sports, and financial data.",
+    "detail_url": "https://glama.ai/mcp/servers/@DappierAI/dappier-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "github_stars": 9
+    },
+    "github_url": "https://github.com/dappierai/dappier-mcp"
+  },
+  {
+    "name": "Databutton MCP Server",
+    "description": "An MCP server for doing doing initial app planning and creating a good starting point in Databutton – it starts a new app and generates the initial MVP tasks",
+    "detail_url": "https://glama.ai/mcp/servers/@databutton/databutton-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 12,
+      "github_stars": 12
+    },
+    "github_url": "https://github.com/databutton/databutton-mcp"
+  },
+  {
+    "name": "Scrapezy",
+    "description": "MCP Server enabling integration with Scrapezy to retrieve structured data from websites.",
+    "detail_url": "https://glama.ai/mcp/servers/@Scrapezy/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 12,
+      "github_stars": 1
+    },
+    "github_url": "https://github.com/Scrapezy/mcp"
+  },
+  {
+    "name": "Karakeep MCP server",
+    "description": "Search and add bookmarks",
+    "detail_url": "https://glama.ai/mcp/servers/@karakeep-app/karakeep",
+    "categories": [],
+    "stats": {
+      "tools_count": 12,
+      "weekly_downloads": 201,
+      "github_stars": 0
+    },
+    "github_url": "https://github.com/karakeep-app/karakeep/blob/cf97bace33fdd14f29ce947d55d17cba8fa85c11/apps/mcp"
+  },
+  {
+    "name": "mcp-metricool",
+    "description": "mcp-metricool",
+    "detail_url": "https://glama.ai/mcp/servers/@metricool/mcp-metricool",
+    "categories": [],
+    "stats": {
+      "tools_count": 22,
+      "github_stars": 1
+    },
+    "github_url": "https://github.com/metricool/mcp-metricool"
+  },
+  {
+    "name": "mcp-octagon",
+    "description": "Deliver real-time investment research with extensive private and public market data.",
+    "detail_url": "https://glama.ai/mcp/servers/@OctagonAI/octagon-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 11,
+      "weekly_downloads": 82,
+      "github_stars": 14
+    },
+    "github_url": "https://github.com/OctagonAI/octagon-mcp-server"
+  },
+  {
+    "name": "mcp-search-linkup",
+    "description": "Give Claude access to real-time knowledge and premium content. Get rid of Claude's cutoff data and transform Claude's responses with current events, and trusted, premium sources through Linkup's powerful search capability.",
+    "detail_url": "https://glama.ai/mcp/servers/@LinkupPlatform/python-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "github_stars": 20
+    },
+    "github_url": "https://github.com/LinkupPlatform/python-mcp-server"
+  },
+  {
+    "name": "Xero MCP Server",
+    "description": "A Model Context Protocol server implementation providing standardized access to Xero's accounting and business features, enabling operations like contact management, invoice creation, and chart of accounts management through MCP.",
+    "detail_url": "https://glama.ai/mcp/servers/@XeroAPI/xero-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 12,
+      "weekly_downloads": 65,
+      "github_stars": 50
+    },
+    "github_url": "https://github.com/xeroapi/xero-mcp-server"
+  },
+  {
+    "name": "Square Model Context Protocol Server",
+    "description": "Enables AI assistants to interact with Square's Connect API through the Model Context Protocol standard, allowing for operations like managing customers, processing payments, and handling inventory.",
+    "detail_url": "https://glama.ai/mcp/servers/@square/square-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "weekly_downloads": 170,
+      "github_stars": 44
+    },
+    "github_url": "https://github.com/square/square-mcp-server"
+  },
+  {
+    "name": "Geekbot MCP",
+    "description": "A server that bridges Anthropic's Claude AI with Geekbot's standup management tools, allowing users to access and utilize Geekbot data within Claude conversations.",
+    "detail_url": "https://glama.ai/mcp/servers/@geekbot-com/geekbot-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "github_stars": 8
+    },
+    "github_url": "https://github.com/geekbot-com/geekbot-mcp"
+  },
+  {
+    "name": "Audiense Insights MCP Server",
+    "description": "Enables interaction with Audiense Insights accounts via the Model Context Protocol, facilitating the extraction and analysis of marketing insights and audience data including demographics, behavior, and influencer engagement.",
+    "detail_url": "https://glama.ai/mcp/servers/@AudienseCo/mcp-audiense-insights",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "github_stars": 6
+    },
+    "github_url": "https://github.com/AudienseCo/mcp-audiense-insights"
+  },
+  {
+    "name": "Semgrep MCP Server",
+    "description": "An MCP server that provides a comprehensive interface to Semgrep, enabling users to scan code for security vulnerabilities, create custom rules, and analyze scan results through the Model Context Protocol.",
+    "detail_url": "https://glama.ai/mcp/servers/@semgrep/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "github_stars": 140
+    },
+    "github_url": "https://github.com/semgrep/mcp"
+  },
+  {
+    "name": "StarRocks MCP Server",
+    "description": "Acts as a bridge between AI assistants and StarRocks databases, allowing for direct SQL execution and database exploration without requiring complex setup or configuration.",
+    "detail_url": "https://glama.ai/mcp/servers/@StarRocks/mcp-server-starrocks",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "github_stars": 20
+    },
+    "github_url": "https://github.com/starrocks/mcp-server-starrocks"
+  },
+  {
+    "name": "Meilisearch MCP Server",
+    "description": "Server for interacting with Meilisearch through LLM interfaces like Claude.",
+    "detail_url": "https://glama.ai/mcp/servers/@meilisearch/meilisearch-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 21,
+      "github_stars": 48
+    },
+    "github_url": "https://github.com/meilisearch/meilisearch-mcp"
+  },
+  {
+    "name": "Alibaba Cloud MCP Server",
+    "description": "A server implementation that enables management of Alibaba Cloud ECS (Elastic Compute Service) resources through a collection of API and OOS automation tools, supporting operations like instance lifecycle management, monitoring, and resource inspection.",
+    "detail_url": "https://glama.ai/mcp/servers/@aliyun/alibabacloud-ecs-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 26,
+      "github_stars": 28
+    },
+    "github_url": "https://github.com/aliyun/alibabacloud-ecs-mcp-server"
+  },
+  {
+    "name": "Cloudflare Playwright MCP",
+    "description": "A server that leverages Playwright for automated browser testing and integrates with Cloudflare Workers, enabling AI assistants to control web browsers for navigation, interaction, and screenshots.",
+    "detail_url": "https://glama.ai/mcp/servers/@cloudflare/playwright-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 21,
+      "weekly_downloads": 0,
+      "github_stars": 37
+    },
+    "github_url": "https://github.com/cloudflare/playwright-mcp"
+  },
+  {
+    "name": "Vectorize",
+    "description": "Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text chunking.",
+    "detail_url": "https://glama.ai/mcp/servers/@vectorize-io/vectorize-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "weekly_downloads": 15,
+      "github_stars": 17
+    },
+    "github_url": "https://github.com/vectorize-io/vectorize-mcp-server"
+  },
+  {
+    "name": "Opik MCP Server",
+    "description": "An implementation of the Model Context Protocol for the Opik platform that provides a unified interface for accessing Opik's capabilities, supporting multiple transport mechanisms for flexible integration with IDEs and other environments.",
+    "detail_url": "https://glama.ai/mcp/servers/@comet-ml/opik-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 19,
+      "github_stars": 53
+    },
+    "github_url": "https://github.com/comet-ml/opik-mcp"
+  },
+  {
+    "name": "MetaMCP MCP Server",
+    "description": "A proxy server that unifies multiple MCP servers, enabling seamless tool, prompt, and resource management via the MetaMCP App.",
+    "detail_url": "https://glama.ai/mcp/servers/@metatool-ai/mcp-server-metamcp",
+    "categories": [],
+    "stats": {
+      "weekly_downloads": 625,
+      "github_stars": 88
+    },
+    "github_url": "https://github.com/metatool-ai/mcp-server-metamcp"
+  },
+  {
+    "name": "Sanity MCP Server",
+    "description": "Connect your Sanity content to AI agents. Create, update, and explore structured content using Claude, Cursor, and VS Code via the Model Context Protocol. Transform content operations from complex queries to simple conversations—giving your team superpowers without sacrificing structure.",
+    "detail_url": "https://glama.ai/mcp/servers/@sanity-io/sanity-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 20,
+      "weekly_downloads": 315,
+      "github_stars": 39
+    },
+    "github_url": "https://github.com/sanity-io/sanity-mcp-server"
+  },
+  {
+    "name": "APISIX-MCP",
+    "description": "The APISIX Model Context Protocol (MCP) server bridges large language models (LLMs) with the APISIX Admin API.",
+    "detail_url": "https://glama.ai/mcp/servers/@api7/apisix-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 31,
+      "weekly_downloads": 67,
+      "github_stars": 16
+    },
+    "github_url": "https://github.com/api7/apisix-mcp"
+  },
+  {
+    "name": "OP.GG MCP Server",
+    "description": "A Model Context Protocol implementation that enables AI agents to retrieve game data from OP.GG for League of Legends, Teamfight Tactics, Valorant, and esports through function calling.",
+    "detail_url": "https://glama.ai/mcp/servers/@opgginc/opgg-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 15,
+      "github_stars": 1
+    },
+    "github_url": "https://github.com/opgginc/opgg-mcp"
+  },
+  {
+    "name": "Kong Konnect MCP Server",
+    "description": "A Model Context Protocol server enabling AI assistants to interact with Kong Konnect's API Gateway, providing tools to query analytics data, inspect configurations, and manage control planes through natural language.",
+    "detail_url": "https://glama.ai/mcp/servers/@Kong/mcp-konnect",
+    "categories": [],
+    "stats": {
+      "tools_count": 10,
+      "github_stars": 22
+    },
+    "github_url": "https://github.com/kong/mcp-konnect"
+  },
+  {
+    "name": "Ragie Model Context Protocol Server",
+    "description": "An MCP server that enables AI models to retrieve information from Ragie's knowledge base through a simple 'retrieve' tool.",
+    "detail_url": "https://glama.ai/mcp/servers/@ragieai/ragie-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 50,
+      "github_stars": 4
+    },
+    "github_url": "https://github.com/ragieai/ragie-mcp-server"
+  },
+  {
+    "name": "Genkit MCP",
+    "description": "Provides integration between Genkit and the Model Context Protocol (MCP).",
+    "detail_url": "https://glama.ai/mcp/servers/@firebase/genkit",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "weekly_downloads": 260,
+      "github_stars": 0
+    },
+    "github_url": "https://github.com/firebase/genkit/tree/HEAD/js/plugins/mcp"
+  },
+  {
+    "name": "Upstash MCP Server",
+    "description": "Model Context Protocol (MCP) is a new, standardized protocol for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for Upstash Developer API's.",
+    "detail_url": "https://glama.ai/mcp/servers/@upstash/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 16,
+      "weekly_downloads": 58,
+      "github_stars": 27
+    },
+    "github_url": "https://github.com/upstash/mcp-server"
+  },
+  {
+    "name": "Alibaba Cloud Observability MCP Server",
+    "description": "Provides tools for accessing Alibaba Cloud observability products including SLS (Log Service) and ARMS (Application Real-time Monitoring Service), allowing any MCP-compatible AI assistants to quickly interact with these services.",
+    "detail_url": "https://glama.ai/mcp/servers/@aliyun/alibabacloud-observability-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "github_stars": 9
+    },
+    "github_url": "https://github.com/aliyun/alibabacloud-observability-mcp-server"
+  },
+  {
+    "name": "Binalyze AIR MCP Server",
+    "description": "A Node.js server implementing Model Context Protocol (MCP) that enables natural language interaction with Binalyze AIR's digital forensics and incident response capabilities.",
+    "detail_url": "https://glama.ai/mcp/servers/@binalyze/air-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 371,
+      "github_stars": 3
+    },
+    "github_url": "https://github.com/binalyze/air-mcp"
+  },
+  {
+    "name": "Sensei MCP",
+    "description": "A Model Context Protocol server that provides expert guidance for Dojo and Cairo development on Starknet, offering specialized knowledge and assistance for building onchain worlds using the Dojo Entity Component System framework.",
+    "detail_url": "https://glama.ai/mcp/servers/@dojoengine/sensei-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 7,
+      "weekly_downloads": 1,
+      "github_stars": 5
+    },
+    "github_url": "https://github.com/dojoengine/sensei-mcp"
+  },
+  {
+    "name": "Make MCP Server",
+    "description": "Transform your Make scenarios into callable tools for AI assistants. Leverage your existing automation workflows while enabling AI systems to trigger and interact with them seamlessly.",
+    "detail_url": "https://glama.ai/mcp/servers/@integromat/make-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "weekly_downloads": 244,
+      "github_stars": 53
+    },
+    "github_url": "https://github.com/integromat/make-mcp-server"
+  },
+  {
+    "name": "Magic UI MCP Server",
+    "description": "ModelContextProtocol server for Magic UI that allows AI assistants to easily implement UI components for web applications by providing code for components like marquees, animations, special effects, and interactive backgrounds.",
+    "detail_url": "https://glama.ai/mcp/servers/@magicuidesign/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 772,
+      "github_stars": 51
+    },
+    "github_url": "https://github.com/magicuidesign/mcp"
+  },
+  {
+    "name": "mcp-server-chart",
+    "description": "mcp-server-chart",
+    "detail_url": "https://glama.ai/mcp/servers/@antvis/mcp-server-chart",
+    "categories": [],
+    "stats": {
+      "tools_count": 4,
+      "weekly_downloads": 276,
+      "github_stars": 48
+    },
+    "github_url": "https://github.com/antvis/mcp-server-chart"
+  },
+  {
+    "name": "Satstream MCP Server",
+    "description": "A Model Context Protocol server that enables querying Bitcoin blockchain data, including address information, transaction details, mempool statistics, and ordinals/runes data through the Satstream API.",
+    "detail_url": "https://glama.ai/mcp/servers/@satstream/ss-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 37
+    },
+    "github_url": "https://github.com/satstream/ss-mcp"
+  },
+  {
+    "name": "Hologres MCP Server",
+    "description": "A universal interface that enables AI Agents to communicate with Hologres databases, allowing them to retrieve database metadata and execute SQL operations.",
+    "detail_url": "https://glama.ai/mcp/servers/@aliyun/alibabacloud-hologres-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "github_stars": 17
+    },
+    "github_url": "https://github.com/aliyun/alibabacloud-hologres-mcp-server"
+  },
+  {
+    "name": "Website Generator",
+    "description": "Website Generator",
+    "detail_url": "https://glama.ai/mcp/servers/@b12io/website-generator-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "github_stars": 3
+    },
+    "github_url": "https://github.com/b12io/website-generator-mcp-server?tab=readme-ov-file"
+  },
+  {
+    "name": "mcp-hydrolix",
+    "description": "mcp-hydrolix",
+    "detail_url": "https://glama.ai/mcp/servers/@hydrolix/mcp-hydrolix",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "github_stars": 1
+    },
+    "github_url": "https://github.com/hydrolix/mcp-hydrolix"
+  },
+  {
+    "name": "YingDao RPA MCP Server",
+    "description": "A Model Context Protocol server that enables AI platforms to invoke RPA (Robotic Process Automation) capabilities from YingDao, allowing automated execution of repetitive tasks through AI interactions.",
+    "detail_url": "https://glama.ai/mcp/servers/@ying-dao/yingdao_mcp_server",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "weekly_downloads": 65,
+      "github_stars": 11
+    },
+    "github_url": "https://github.com/ying-dao/yingdao_mcp_server"
+  },
+  {
+    "name": "Mesh Agent MCP Server",
+    "description": "A Model Context Protocol server that connects Claude to Heurist Mesh APIs, providing access to various blockchain and web3 tools including cryptocurrency data, token security, Twitter intelligence, and web search capabilities.",
+    "detail_url": "https://glama.ai/mcp/servers/@heurist-network/heurist-mesh-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 17,
+      "github_stars": 42
+    },
+    "github_url": "https://github.com/heurist-network/heurist-mesh-mcp-server"
+  },
+  {
+    "name": "bnbchain-mcp",
+    "description": "bnbchain-mcp",
+    "detail_url": "https://glama.ai/mcp/servers/@bnb-chain/bnbchain-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 26,
+      "weekly_downloads": 353,
+      "github_stars": 2
+    },
+    "github_url": "https://github.com/bnb-chain/bnbchain-mcp"
+  },
+  {
+    "name": "octomind-mcp",
+    "description": "mcp server to interact with the octomind plattform. octomind provides a create, run & fix solutions for e2e web testing, see https://octomind.dev",
+    "detail_url": "https://glama.ai/mcp/servers/@OctoMind-dev/octomind-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 16,
+      "weekly_downloads": 32,
+      "github_stars": 16
+    },
+    "github_url": "https://github.com/OctoMind-dev/octomind-mcp"
+  },
+  {
+    "name": "Nefino MCP Server",
+    "description": "Provides large language models with access to news and information about renewable energy projects in Germany, allowing filtering by location, topic (solar, wind, hydrogen), and date range.",
+    "detail_url": "https://glama.ai/mcp/servers/@nefino/mcp-nefino",
+    "categories": [],
+    "stats": {
+      "tools_count": 2
+    },
+    "github_url": "https://github.com/nefino/mcp-nefino"
+  },
+  {
+    "name": "ScreenshotOne MCP Server",
+    "description": "An official MCP server implementation that allows AI assistants to capture website screenshots through the ScreenshotOne API, enabling visual context from web pages during conversations.",
+    "detail_url": "https://glama.ai/mcp/servers/@screenshotone/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "github_stars": 6
+    },
+    "github_url": "https://github.com/screenshotone/mcp"
+  },
+  {
+    "name": "Norman Finance MCP Server",
+    "description": "Norman Finance is an accounting and tax filing autopilot designed for entrepreneurs in Germany. The Norman Finance MCP server enables new ways of interacting with Norman Finance's accounting, tax, and invoicing services. Simplifying financial workflows by integrating Norman Finance API capabilities",
+    "detail_url": "https://glama.ai/mcp/servers/@norman-finance/norman-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 34,
+      "github_stars": 2
+    },
+    "github_url": "https://github.com/norman-finance/norman-mcp-server"
+  },
+  {
+    "name": "Powerdrill MCP Server",
+    "description": "An MCP server that provides tools to interact with Powerdrill (https://powerdrill.ai/) datasets, enabling smart AI data analysis and insights.",
+    "detail_url": "https://glama.ai/mcp/servers/@powerdrillai/powerdrill-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 6,
+      "weekly_downloads": 85,
+      "github_stars": 3
+    },
+    "github_url": "https://github.com/powerdrillai/powerdrill-mcp"
+  },
+  {
+    "name": "mcp-server-qdrant",
+    "description": "This repository is an example of how to create a MCP server for Qdrant, a vector search engine.",
+    "detail_url": "https://glama.ai/mcp/servers/@qdrant/mcp-server-qdrant",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "github_stars": 448
+    },
+    "github_url": "https://github.com/QDrant/mcp-server-qdrant"
+  },
+  {
+    "name": "Tembo MCP Server",
+    "description": "An MCP server that enables Claude to interact with Tembo Cloud platform API, allowing users to manage Tembo Cloud resources through natural language.",
+    "detail_url": "https://glama.ai/mcp/servers/@tembo-io/mcp-server-tembo",
+    "categories": [],
+    "stats": {
+      "tools_count": 10,
+      "github_stars": 7
+    },
+    "github_url": "https://github.com/tembo-io/mcp-server-tembo"
+  },
+  {
+    "name": "Redis MCP Server",
+    "description": "The official Redis MCP Server is a natural language interface designed for agentic applications to efficiently manage and search data in Redis.",
+    "detail_url": "https://glama.ai/mcp/servers/@redis/mcp-redis",
+    "categories": [],
+    "stats": {
+      "tools_count": 42,
+      "github_stars": 32
+    },
+    "github_url": "https://github.com/redis/mcp-redis"
+  },
+  {
+    "name": "Heroku MCP server",
+    "description": "Let's your agent access the heroku platform",
+    "detail_url": "https://glama.ai/mcp/servers/@heroku/heroku-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 33,
+      "weekly_downloads": 263,
+      "github_stars": 32
+    },
+    "github_url": "https://github.com/heroku/heroku-mcp-server"
+  },
+  {
+    "name": "Paddle MCP Server",
+    "description": "A Model Context Protocol server that provides tools for interacting with the Paddle Billing API, enabling users to manage products, prices, customers, transactions, subscriptions, and create custom financial reports.",
+    "detail_url": "https://glama.ai/mcp/servers/@PaddleHQ/paddle-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 73,
+      "github_stars": 10
+    },
+    "github_url": "https://github.com/paddlehq/paddle-mcp-server"
+  },
+  {
+    "name": "AlibabaCloud MCP Server",
+    "description": "A server that provides access to Alibaba Cloud resources including ECS, VPC, and CloudMonitor through API and OOS implementations, enabling resource management and monitoring via a unified interface.",
+    "detail_url": "https://glama.ai/mcp/servers/@aliyun/alibabacloud-core-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 34,
+      "github_stars": 28
+    },
+    "github_url": "https://github.com/aliyun/alibabacloud-core-mcp-server"
+  },
+  {
+    "name": "Notion MCP Server",
+    "description": "An MCP server that enables AI assistants to interact with the Notion API, allowing them to search, read, comment on, and create content in Notion workspaces through natural language commands.",
+    "detail_url": "https://glama.ai/mcp/servers/@makenotion/notion-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 19,
+      "weekly_downloads": 0,
+      "github_stars": 0
+    },
+    "github_url": "https://github.com/makenotion/notion-mcp-server"
+  },
+  {
+    "name": "Plane MCP Server",
+    "description": "A Model Context Protocol server that enables AI interfaces to seamlessly interact with Plane's project management system, allowing management of projects, issues, states, and other work items through a standardized API.",
+    "detail_url": "https://glama.ai/mcp/servers/@makeplane/plane-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 46,
+      "weekly_downloads": 124,
+      "github_stars": 22
+    },
+    "github_url": "https://github.com/makeplane/plane-mcp-server"
+  },
+  {
+    "name": "mcp-server-rag-web-browser",
+    "description": "Implementation of an MCP server for the RAG Web Browser Actor. This Actor serves as a web browser for large language models (LLMs) and RAG pipelines, similar to a web search in ChatGPT.",
+    "detail_url": "https://glama.ai/mcp/servers/@apify/mcp-server-rag-web-browser",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 330,
+      "github_stars": 77
+    },
+    "github_url": "https://github.com/apify/mcp-server-rag-web-browser"
+  },
+  {
+    "name": "hostinger-api-mcp",
+    "description": "The Hostinger MCP server enables seamless integration of Hostinger’s API with AI tools. This server exposes Hostinger API endpoints as callable tools, allowing AI models to fetch live data or perform real-time actions on hosting infrastructure.",
+    "detail_url": "https://glama.ai/mcp/servers/@hostinger/api-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 69,
+      "weekly_downloads": 266,
+      "github_stars": 7
+    },
+    "github_url": "https://github.com/hostinger/api-mcp-server"
+  },
+  {
+    "name": "Aiven MCP Server",
+    "description": "A Model Context Protocol server that provides access to Aiven services (PostgreSQL, Kafka, ClickHouse, Valkey, OpenSearch), enabling LLMs to build full stack solutions by interacting with these services.",
+    "detail_url": "https://glama.ai/mcp/servers/@Aiven-Open/mcp-aiven",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "github_stars": 5
+    },
+    "github_url": "https://github.com/Aiven-Open/mcp-aiven"
+  },
+  {
+    "name": "Needle MCP Server",
+    "description": "A server that allows users to manage documents and perform Claude-powered searches using Needle through the Claude Desktop application.",
+    "detail_url": "https://glama.ai/mcp/servers/@needle-ai/needle-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 7,
+      "github_stars": 39
+    },
+    "github_url": "https://github.com/needle-ai/needle-mcp"
+  },
+  {
+    "name": "PostHog MCP Server",
+    "description": "A Model Context Protocol server that enables Claude Desktop users to interact directly with PostHog, allowing them to view projects and create annotations through natural language commands.",
+    "detail_url": "https://glama.ai/mcp/servers/@PostHog/posthog-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "github_stars": 10
+    },
+    "github_url": "https://github.com/PostHog/posthog-mcp"
+  },
+  {
+    "name": "mcp-sqlalchemy",
+    "description": "Provides SQLAlchemy (via pyodbc) connectivity to any Database Management System (DBMS) that's accessible via SQLAlchemy.",
+    "detail_url": "https://glama.ai/mcp/servers/@OpenLinkSoftware/mcp-sqlalchemy-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 11,
+      "github_stars": 7
+    },
+    "github_url": "https://github.com/OpenLinkSoftware/mcp-sqlalchemy-server"
+  },
+  {
+    "name": "Hyperbrowser",
+    "description": "Welcome to Hyperbrowser, the Internet for AI. Hyperbrowser is the next-generation platform empowering AI agents and enabling effortless, scalable browser automation. Built specifically for AI developers, it eliminates the headaches of local infrastructure and performance bottlenecks, allowing you to",
+    "detail_url": "https://glama.ai/mcp/servers/@hyperbrowserai/mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 10,
+      "weekly_downloads": 688,
+      "github_stars": 213
+    },
+    "github_url": "https://github.com/hyperbrowserai/mcp"
+  },
+  {
+    "name": "ScrapeGraph MCP Server",
+    "description": "A production-ready Model Context Protocol server that enables language models to leverage AI-powered web scraping capabilities, offering tools for transforming webpages to markdown, extracting structured data, and executing AI-powered web searches.",
+    "detail_url": "https://glama.ai/mcp/servers/@ScrapeGraphAI/scrapegraph-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "github_stars": 16
+    },
+    "github_url": "https://github.com/ScrapeGraphAI/scrapegraph-mcp"
+  },
+  {
+    "name": "Chronulus MCP Server",
+    "description": "Enables integration of Chronulus AI Forecasting & Prediction Agents with Claude, allowing users to access AI-powered forecasting and prediction capabilities directly through Claude's interface.",
+    "detail_url": "https://glama.ai/mcp/servers/@ChronulusAI/chronulus-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "github_stars": 55
+    },
+    "github_url": "https://github.com/chronulusai/chronulus-mcp"
+  },
+  {
+    "name": "EdgeOne Pages MCP",
+    "description": "A service that enables rapid deployment of HTML content to EdgeOne Pages and automatically generates publicly accessible URLs for the deployed content.",
+    "detail_url": "https://glama.ai/mcp/servers/@TencentEdgeOne/edgeone-pages-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "weekly_downloads": 0,
+      "github_stars": 59
+    },
+    "github_url": "https://github.com/TencentEdgeOne/edgeone-pages-mcp"
+  },
+  {
+    "name": "BrowserStack MCP server",
+    "description": "BrowserStack MCP server",
+    "detail_url": "https://glama.ai/mcp/servers/@browserstack/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "weekly_downloads": 203,
+      "github_stars": 47
+    },
+    "github_url": "https://github.com/browserstack/mcp-server"
+  },
+  {
+    "name": "Infisical MCP Server",
+    "description": "A Model Context Protocol server that enables interaction with Infisical APIs for secret management, allowing users to create, update, delete, and list secrets through function calling.",
+    "detail_url": "https://glama.ai/mcp/servers/@Infisical/infisical-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "weekly_downloads": 24,
+      "github_stars": 12
+    },
+    "github_url": "https://github.com/infisical/infisical-mcp-server"
+  },
+  {
+    "name": "Square MCP Server",
+    "description": "A server that enables interaction with Square's API via Goose, supporting queries for locations, customers, and more with context preservation and MCP-compliant responses.",
+    "detail_url": "https://glama.ai/mcp/servers/@block/square-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 12,
+      "github_stars": 3
+    },
+    "github_url": "https://github.com/Kvadratni/square-mcp"
+  },
+  {
+    "name": "BICScan MCP Server",
+    "description": "Provides blockchain address risk scoring and asset information through the BICScan API, allowing users to assess risks for crypto addresses, domains, and dApps on a scale of 0-100.",
+    "detail_url": "https://glama.ai/mcp/servers/@ahnlabio/bicscan-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 2
+    },
+    "github_url": "https://github.com/ahnlabio/bicscan-mcp"
+  },
+  {
+    "name": "Steel MCP Server",
+    "description": "Enables LLMs like Claude to navigate the web through Puppeteer-based tools and Steel. Based on the Web Voyager framework, it provides tools for all the standard web actions click clicking/scrolling/typing/etc and taking screenshots.",
+    "detail_url": "https://glama.ai/mcp/servers/@steel-dev/steel-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "github_stars": 31
+    },
+    "github_url": "https://github.com/steel-dev/steel-mcp-server"
+  },
+  {
+    "name": "Redis Cloud API MCP Server",
+    "description": "The Redis Cloud API MCP Server provides an MCP Server for Redis Cloud's API, allowing you to manage your Redis Cloud resources using natural language.",
+    "detail_url": "https://glama.ai/mcp/servers/@redis/mcp-redis-cloud",
+    "categories": [],
+    "stats": {
+      "tools_count": 16,
+      "github_stars": 9
+    },
+    "github_url": "https://github.com/redis/mcp-redis-cloud"
+  },
+  {
+    "name": "Tinybird MCP server",
+    "description": "An MCP server to interact with a Tinybird Workspace from any MCP client.",
+    "detail_url": "https://glama.ai/mcp/servers/@tinybirdco/mcp-tinybird",
+    "categories": [],
+    "stats": {
+      "github_stars": 51
+    },
+    "github_url": "https://github.com/tinybirdco/mcp-tinybird"
+  },
+  {
+    "name": "Pinecone Developer MCP",
+    "description": "Pinecone Developer MCP",
+    "detail_url": "https://glama.ai/mcp/servers/@pinecone-io/pinecone-mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "weekly_downloads": 498,
+      "github_stars": 6
+    },
+    "github_url": "https://github.com/pinecone-io/pinecone-mcp"
+  },
+  {
+    "name": "Vapi MCP Server",
+    "description": "Enables integration with Vapi APIs through function calling via the Model Context Protocol, allowing AI models to access Vapi's capabilities.",
+    "detail_url": "https://glama.ai/mcp/servers/@VapiAI/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 112,
+      "github_stars": 12
+    },
+    "github_url": "https://github.com/VapiAI/mcp-server"
+  },
+  {
+    "name": "mcp-clickhouse",
+    "description": "ClickHouse database integration with schema inspection and query capabilities",
+    "detail_url": "https://glama.ai/mcp/servers/@ClickHouse/mcp-clickhouse",
+    "categories": [],
+    "stats": {
+      "tools_count": 3,
+      "github_stars": 227
+    },
+    "github_url": "https://github.com/ClickHouse/mcp-clickhouse"
+  },
+  {
+    "name": "Inkdrop MCP Server",
+    "description": "Integrates Inkdrop note-taking app with Claude AI through Model Context Protocol, allowing Claude to search, read, create, and update notes in your Inkdrop database.",
+    "detail_url": "https://glama.ai/mcp/servers/@inkdropapp/mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 5,
+      "weekly_downloads": 58,
+      "github_stars": 16
+    },
+    "github_url": "https://github.com/inkdropapp/mcp-server"
+  },
+  {
+    "name": "Kagi MCP Server",
+    "description": "An MCP server that integrates Kagi search capabilities with Claude AI, enabling Claude to perform real-time web searches when answering questions that require up-to-date information.",
+    "detail_url": "https://glama.ai/mcp/servers/@kagisearch/kagimcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 1,
+      "github_stars": 51
+    },
+    "github_url": "https://github.com/kagisearch/kagimcp"
+  },
+  {
+    "name": "Atla",
+    "description": "The Atla MCP Server provides a standardized interface for LLMs to interact with the Atla API for state-of-the-art LLMJ evaluation.",
+    "detail_url": "https://glama.ai/mcp/servers/@atla-ai/atla-mcp-server",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "github_stars": 5
+    },
+    "github_url": "https://github.com/atla-ai/atla-mcp-server"
+  },
+  {
+    "name": "@chargebee/mcp",
+    "description": "MCP Server that connects AI agents to Chargebee Platform.",
+    "detail_url": "https://glama.ai/mcp/servers/@chargebee/agentkit",
+    "categories": [],
+    "stats": {
+      "tools_count": 2,
+      "weekly_downloads": 70,
+      "github_stars": 4
+    },
+    "github_url": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol"
+  },
+  {
+    "name": "Iaptic MCP Server",
+    "description": "A server for interacting with the Iaptic API, allowing AI models like Claude to query customer, purchase, and transaction data, as well as retrieve statistical insights.",
+    "detail_url": "https://glama.ai/mcp/servers/@iaptic/mcp-server-iaptic",
+    "categories": [],
+    "stats": {
+      "tools_count": 16,
+      "weekly_downloads": 4
+    },
+    "github_url": "https://github.com/iaptic/mcp-server-iaptic"
+  },
+  {
+    "name": "302AI Sandbox MCP Server",
+    "description": "A Model Context Protocol (MCP) server for Claude Desktop that connects to 302AI's API services, allowing users to integrate and leverage 302AI capabilities through a structured communication interface.",
+    "detail_url": "https://glama.ai/mcp/servers/@302ai/302_sandbox_mcp",
+    "categories": [],
+    "stats": {
+      "tools_count": 9,
+      "weekly_downloads": 70,
+      "github_stars": 6
+    },
+    "github_url": "https://github.com/302ai/302_sandbox_mcp"
+  },
+  {
+    "name": "mcp-server-browserbase",
+    "description": "This server provides cloud browser automation capabilities using Browserbase, Puppeteer, and Stagehand. This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a cloud browser environment.",
+    "detail_url": "https://glama.ai/mcp/servers/@browserbase/mcp-server-browserbase",
+    "categories": [],
+    "stats": {
+      "tools_count": 8,
+      "weekly_downloads": 88,
+      "github_stars": 0
+    },
+    "github_url": "https://github.com/browserbase/mcp-server-browserbase/tree/main/browserbase"
+  }
+]
