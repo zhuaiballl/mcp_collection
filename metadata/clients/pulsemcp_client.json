@@ -1,0 +1,2874 @@
+[
+  {
+    "name": "Memex",
+    "description": "Desktop application that enables building prototypes and applications across any tech stack using natural language without writing code, featuring interactive chat mode for planning and autonomous build mode for local project execution.",
+    "detail_url": "https://www.pulsemcp.com/clients/memex-desktop-builder",
+    "author": "Memex",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Adzviser",
+    "description": "Connects digital marketers' marketing & sales data from sources like Google Ads, Facebook Ads to Claude.",
+    "detail_url": "https://www.pulsemcp.com/clients/adzviser-marketing-analytics",
+    "author": "Adzviser LLC",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Fairies AI",
+    "description": "General purpose agent for builders.",
+    "detail_url": "https://www.pulsemcp.com/clients/fairies-ai",
+    "author": "Fundamental Research Labs, Inc",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "ToolRouter",
+    "description": "Provides a managed infrastructure for connecting language models to real-world capabilities through hosted servers with security auditing, credential storage, analytics, and multi-server stacking capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/toolrouter",
+    "author": "ToolRouter",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Fin",
+    "description": "The agent that handles frontline customer support.",
+    "detail_url": "https://www.pulsemcp.com/clients/intercom-fin",
+    "author": "Intercom",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Asari",
+    "description": "Web-based client that integrates MCP through a simple chat interface, enabling assistance and automation without technical setup.",
+    "detail_url": "https://www.pulsemcp.com/clients/asari",
+    "author": "Asari Inc.",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "BrowseWiz AI Assistant",
+    "description": "Customizable browser assistant for peak professional productivity",
+    "detail_url": "https://www.pulsemcp.com/clients/browsewiz-ai-assistant",
+    "author": "DevPeer Tomasz Posłuszny",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "BoltAI",
+    "description": "All-in-one AI chat client for Mac with built-in MCP support. It's native, fast and versatile.",
+    "detail_url": "https://www.pulsemcp.com/clients/boltai",
+    "author": "BoltAI",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Wassist (WhatsApp)",
+    "description": "Control your AI stack from WhatsApp.",
+    "detail_url": "https://www.pulsemcp.com/clients/wassist",
+    "author": "Wassist",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Hermes",
+    "description": "Elixir-based MCP client leveraging concurrency and fault tolerance with multiple transport options, automatic connection recovery, and progress tracking for long-running operations.",
+    "detail_url": "https://www.pulsemcp.com/clients/zoedsoupe-hermes",
+    "author": "zoedsoupe",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Enconvo",
+    "description": "AI agent launcher.",
+    "detail_url": "https://www.pulsemcp.com/clients/enconvo",
+    "author": "Enconvo",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "ClaudeMind",
+    "description": "Chat with Claude standalone or via JetBrains plugin, with baked-in, quality-assured MCP capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/claudemind",
+    "author": "ClaudeMind",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Theia IDE",
+    "description": "Demo implementation. Standard IDE for showing what can be built with the Theia AI platform.",
+    "detail_url": "https://www.pulsemcp.com/clients/eclipse-theia-ide",
+    "author": "EclipseSource",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "TUI",
+    "description": "Terminal-based client for connecting to MCP servers via STDIO, HTTP, and SSE transports with interactive tabbed navigation for debugging tools, resources, and prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/standardbeagle-tui",
+    "author": "standardbeagle",
+    "stars": "0",
+    "github_url": "https://github.com/standardbeagle/mcp-tui",
+    "tags": []
+  },
+  {
+    "name": "Anthropic Connector Test",
+    "description": "Test scripts demonstrating the Anthropic MCP Connector feature, which enables direct connection to remote MCP servers from the Messages API without a separate MCP client",
+    "detail_url": "https://www.pulsemcp.com/clients/cam10001110101-anthropic-connector-test",
+    "author": "Cameron Rohn",
+    "stars": "0",
+    "github_url": "https://github.com/cam10001110101/anthropic-mcp-connector",
+    "tags": []
+  },
+  {
+    "name": "Speech",
+    "description": "Voice-enabled chat interface with multi-speaker narration, automatic silence detection, and audio/video transcription capabilities for natural conversational interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/netixc-speech",
+    "author": "netixc",
+    "stars": "0",
+    "github_url": "https://github.com/netixc/speech-mcp",
+    "tags": []
+  },
+  {
+    "name": "Notion",
+    "description": "Integrates with Notion's API to create and manage content blocks, enabling dynamic page content creation and retrieval with support for various block types",
+    "detail_url": "https://www.pulsemcp.com/clients/michaeldslim-notion",
+    "author": "Michael Lim",
+    "stars": "0",
+    "github_url": "https://github.com/michaeldslim/mcp-notion-api",
+    "tags": []
+  },
+  {
+    "name": "Vertex AI",
+    "description": "Integrates with Google Vertex AI for text generation, structured data output, and image creation with configurable model parameters and search grounding capabilities",
+    "detail_url": "https://www.pulsemcp.com/clients/vertex-ai",
+    "author": "deco",
+    "stars": "0",
+    "github_url": "https://github.com/deco-sites/vertex-mcp-3",
+    "tags": []
+  },
+  {
+    "name": "Copilot Chat",
+    "description": "Web interface for managing server connections and interacting with tools through a configurable chat interface built with Next.js and CopilotKit.",
+    "detail_url": "https://www.pulsemcp.com/clients/yeakub108-copilot",
+    "author": "Yeakub Ali",
+    "stars": "0",
+    "github_url": "https://github.com/yeakub108/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Antwerp Ghost Hunting Tours",
+    "description": "Generates personalized ghost hunting tours with puzzles for Antwerp, Belgium using RAG to process location-specific content and create experiences based on user interests.",
+    "detail_url": "https://www.pulsemcp.com/clients/maurostyleman-antwerp-ghost-hunting-tours",
+    "author": "Mauro Styleman",
+    "stars": "0",
+    "github_url": "https://github.com/maurostyleman/kafrma-backend",
+    "tags": []
+  },
+  {
+    "name": "Nullplatform Control Plane",
+    "description": "CLI proxy that bridges AI assistants with Nullplatform's API, handling authentication, command execution, and response formatting using JSON-RPC 2.0.",
+    "detail_url": "https://www.pulsemcp.com/clients/nullplatform-controlplane-proxy",
+    "author": "Nullplatform",
+    "stars": "0",
+    "github_url": "https://github.com/nullplatform/np-mcp-controlplane-proxy",
+    "tags": []
+  },
+  {
+    "name": "GoChat",
+    "description": "Chat with LLMs via a clean web interface built with Golang and Gin framework, featuring conversation history tracking and customizable model parameters.",
+    "detail_url": "https://www.pulsemcp.com/clients/jiasyuanchu-gochat",
+    "author": "Jia Syuan Chu",
+    "stars": "0",
+    "github_url": "https://github.com/jiasyuanchu/mcp-chat-bot",
+    "tags": []
+  },
+  {
+    "name": "Math Solver",
+    "description": "Enables AI to solve complex mathematical problems by delegating calculations to a server with specialized functions for arithmetic, logarithms, trigonometry, and time-based projections.",
+    "detail_url": "https://www.pulsemcp.com/clients/s-k-srivastava-math-solver",
+    "author": "S k Srivastava",
+    "stars": "0",
+    "github_url": "https://github.com/s-k-srivastava/mcp-math-solver",
+    "tags": []
+  },
+  {
+    "name": "MCPHost",
+    "description": "CLI tool for interacting with multiple LLM providers including Claude, OpenAI, and Ollama, featuring a Tokyo Night-themed terminal UI with markdown rendering and tool integration capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/dictybase-mcphost",
+    "author": "Mark III Labs",
+    "stars": "0",
+    "github_url": "https://github.com/dictybase-docker/mcphost",
+    "tags": []
+  },
+  {
+    "name": "Tiny OpenRouter",
+    "description": "OpenAI-powered client that connects to MCP servers, discovers available tools, and enables real-time communication with various language models through OpenRouter integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/gnosis23-tiny-openrouter",
+    "author": "bhwang",
+    "stars": "0",
+    "github_url": "https://github.com/gnosis23/tiny-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "TeamSpark AI Workbench",
+    "description": "Powerful desktop and command line client application for Mac, Windows, and Linux that leverages tool usage via MCP.",
+    "detail_url": "https://www.pulsemcp.com/clients/teamspark-ai-workbench",
+    "author": "TeamSpark AI",
+    "stars": "0",
+    "github_url": "https://github.com/teamsparkai/teamspark-workbench",
+    "tags": []
+  },
+  {
+    "name": "VS Code RAG",
+    "description": "VS Code extension that enhances the Coder agent with RAG capabilities, enabling natural language code search and context-aware assistance directly within your editor.",
+    "detail_url": "https://www.pulsemcp.com/clients/xkzy-vscode-rag",
+    "author": "Supawit Cam",
+    "stars": "0",
+    "github_url": "https://github.com/xkzy/vscode-mcp-rag",
+    "tags": []
+  },
+  {
+    "name": "Box Policy Analyzer",
+    "description": "Enables secure access to sensitive government information for Pydantic AI agents through Box integration, supporting policy analysis, compliance assessment, and document tracking capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/box-policy-analyzer",
+    "author": "Box",
+    "stars": "0",
+    "github_url": "https://github.com/box-community/box-mcp-pydantic-ai",
+    "tags": []
+  },
+  {
+    "name": "Unity Ollama Code Generator",
+    "description": "Unity Editor extension that enables code generation and modification through natural language prompts, integrating with Ollama to process requests without leaving the development environment.",
+    "detail_url": "https://www.pulsemcp.com/clients/sedong-choi-unity-ollama-code-generator",
+    "author": "Sedong Choi",
+    "stars": "0",
+    "github_url": "https://github.com/sedong-choi/unity-mcp-typescript",
+    "tags": []
+  },
+  {
+    "name": "Multi-Service Integration Dashboard",
+    "description": "Integrates multiple services like Slack, Google Drive, GitHub, and databases with LLMs through a Flask-based web dashboard that enables unified querying across external data sources.",
+    "detail_url": "https://www.pulsemcp.com/clients/bigmb-multi-service-integration-dashboard",
+    "author": "Malav Bateriwala",
+    "stars": "0",
+    "github_url": "https://github.com/bigmb/mb_mcp",
+    "tags": []
+  },
+  {
+    "name": "GroundX RAG",
+    "description": "Next.js chatbot leveraging GPT-4o-mini and GroundX search to provide conversational interactions with retrieval-augmented generation and integrated tool calling capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/fully-ai-rag",
+    "author": "Fabricio Borgobello",
+    "stars": "0",
+    "github_url": "https://github.com/fabriborgobello/chat-mcp-rag",
+    "tags": []
+  },
+  {
+    "name": "OpenHands",
+    "description": "Automatically detects, analyzes, and resolves GitHub issues by generating code fixes and creating pull requests through an AI-driven workflow system",
+    "detail_url": "https://www.pulsemcp.com/clients/nimishchaudhari-openhands-resolver",
+    "author": "Nimish Chaudhari",
+    "stars": "0",
+    "github_url": "https://github.com/nimishchaudhari/openhands-resolver-mcp",
+    "tags": []
+  },
+  {
+    "name": "Fused",
+    "description": "Next.js-based chat interface for Claude 3.5 Sonnet that enables dynamic tool discovery and execution via streaming interactions with authentication token support.",
+    "detail_url": "https://www.pulsemcp.com/clients/milind-soni-chat",
+    "author": "Milind Soni",
+    "stars": "0",
+    "github_url": "https://github.com/milind-soni/mcp",
+    "tags": []
+  },
+  {
+    "name": "NASA Space Data",
+    "description": "Integrates with NASA APIs to enhance space-related conversations with real-time data from Astronomy Picture of the Day, Mars Rover photos, Near Earth Objects, and Earth imagery sources.",
+    "detail_url": "https://www.pulsemcp.com/clients/jmand626-nasa-space-data",
+    "author": "jmand626",
+    "stars": "0",
+    "github_url": "https://github.com/jmand626/nasaapi-connector",
+    "tags": []
+  },
+  {
+    "name": "MCP Agent",
+    "description": "Coding assistant that processes natural language requests through intent detection and specialized functions, featuring self-awareness for code analysis, memory for storing snippets, and visual feedback during operations.",
+    "detail_url": "https://www.pulsemcp.com/clients/arenoth-mcp-agent",
+    "author": "arenoth",
+    "stars": "0",
+    "github_url": "https://github.com/arenoth/mcp-agent",
+    "tags": []
+  },
+  {
+    "name": "Claude SSE Client",
+    "description": "Python client for connecting to MCP servers via SSE, enabling Claude to discover and execute tools through an interactive chat interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/kamrul1157024-claude-sse-client",
+    "author": "Kamrul Hasan",
+    "stars": "0",
+    "github_url": "https://github.com/kamrul1157024/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Zsh Chatbot",
+    "description": "Zsh-inspired chatbot GUI powered by Claude, providing an interactive terminal-like experience with command history, tab completion, and dynamic styling for direct interactions and optional tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/zsh-chatbot",
+    "author": "Jiaming Huang",
+    "stars": "0",
+    "github_url": "https://github.com/jiaminghuanghjm/zsh_chatbot_mcp",
+    "tags": []
+  },
+  {
+    "name": "Apple Notes Indexer",
+    "description": "Cursor IDE plugin that locally indexes and searches Apple Notes content using JXA, Lunr.js, and NeDB for advanced filtering capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/packetnomad-apple-notes-indexer",
+    "author": "MCP Community",
+    "stars": "0",
+    "github_url": "https://github.com/packetnomad/cursor-apple-notes-indexer",
+    "tags": []
+  },
+  {
+    "name": "Streamlit RAG",
+    "description": "CLI tool for interacting directly with MCP servers via stdio or SSE, enabling fine-grained exploration of Tools, Resources, and Prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/saqadri-streamlit-rag",
+    "author": "Saqib Qadri",
+    "stars": "0",
+    "github_url": "https://github.com/saqadri/mcp_agent_streamlit_rag",
+    "tags": []
+  },
+  {
+    "name": "Health Management System",
+    "description": "Vue.js-based frontend for a health management system with integrated routing, UI components, and data visualization capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/bro-in-law-health-management-system",
+    "author": "bro-in-law",
+    "stars": "0",
+    "github_url": "https://github.com/bro-in-law/mcp-demo-frontend",
+    "tags": []
+  },
+  {
+    "name": "Flask LLM Enrichment",
+    "description": "Chat with LLMs via web interface, enriching prompts with Brave Search and GitHub context before sending to OpenAI or Anthropic models.",
+    "detail_url": "https://www.pulsemcp.com/clients/fbeunder-flask-llm-enrichment",
+    "author": "Fbeunder",
+    "stars": "0",
+    "github_url": "https://github.com/fbeunder/mcp_flask",
+    "tags": []
+  },
+  {
+    "name": "CLI Explorer",
+    "description": "CLI tool for interacting directly with MCP servers via stdio or SSE, enabling fine-grained exploration of Tools, Resources, and Prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/fbeunder-cli-explorer",
+    "author": "Fbeunder",
+    "stars": "0",
+    "github_url": "https://github.com/fbeunder/mcp_cli_client",
+    "tags": []
+  },
+  {
+    "name": "Refactored Octo Parakeet (SQLite)",
+    "description": "Provides a bridge to a SQLite database in a Docker container, enabling natural language interactions for data analysis and information retrieval tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/rggh-refactored-octo-parakeet-sqlite",
+    "author": "RGGH",
+    "stars": "0",
+    "github_url": "https://github.com/rggh/refactored-octo-parakeet",
+    "tags": []
+  },
+  {
+    "name": "TypeScript AI Demo",
+    "description": "TypeScript project setup for building Node.js applications that interact with AI models, including configuration for TypeScript, package management, and version control.",
+    "detail_url": "https://www.pulsemcp.com/clients/kkul-eng-claude-demo",
+    "author": "kkul-eng",
+    "stars": "0",
+    "github_url": "https://github.com/kkul-eng/mcp-claude-demo",
+    "tags": []
+  },
+  {
+    "name": "AWS Resource Manager",
+    "description": "Integrates with AWS services to manage resources like S3 buckets and Fargate deployments using AWS CLI or boto3, supporting multiple AWS profiles.",
+    "detail_url": "https://www.pulsemcp.com/clients/debedb-aws-resource-manager",
+    "author": "debedb",
+    "stars": "0",
+    "github_url": "https://github.com/debedb/mcp-aws",
+    "tags": []
+  },
+  {
+    "name": "OpenAI Assistant",
+    "description": "Provides a flexible bridge between AI assistants and various tools through a server connection, enabling interactive chat functionality and task automation using the OpenAI API.",
+    "detail_url": "https://www.pulsemcp.com/clients/kuzushilabsorg-openai",
+    "author": "Kuzushi Labs",
+    "stars": "0",
+    "github_url": "https://github.com/kuzushilabsorg/mcp-clients",
+    "tags": []
+  },
+  {
+    "name": "Dual-Display AI Assistant",
+    "description": "Interactive AI interface with dual-display system: CLI for commands and always-on-top window for real-time output monitoring, featuring pause functionality, user input requests, and global shortcuts.",
+    "detail_url": "https://www.pulsemcp.com/clients/swairshah-term-dual-display",
+    "author": "Swair Shah",
+    "stars": "0",
+    "github_url": "https://github.com/swairshah/term-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Dojo",
+    "description": "Rust-based client for asynchronous communication with MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/larkooo-dojo",
+    "author": "Larkooo",
+    "stars": "0",
+    "github_url": "https://github.com/larkooo/dojo-mcp",
+    "tags": []
+  },
+  {
+    "name": "PostgreSQL Agent",
+    "description": "Python client implementation for interactive chat with Claude 3.5 Sonnet.",
+    "detail_url": "https://www.pulsemcp.com/clients/garvk-postgresql-agent-hack",
+    "author": "Garv K",
+    "stars": "0",
+    "github_url": "https://github.com/garvk/mcp-postgresql-agent-hack",
+    "tags": []
+  },
+  {
+    "name": "CLI",
+    "description": "CLI tool for interacting directly with MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/sansan4ez-cli",
+    "author": "Chris Hay",
+    "stars": "0",
+    "github_url": "https://github.com/sansan4ez/mcp-cli",
+    "tags": []
+  },
+  {
+    "name": "CalmCP (Wellness Dashboard)",
+    "description": "Wellness tracking dashboard with Google OAuth authentication that provides comprehensive journaling, exercise, food, and sleep logging with data visualization and statistics through a responsive web interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/tahtaciburak-calmcp-wellness-dashboard",
+    "author": "tahtaciburak",
+    "stars": "1",
+    "github_url": "https://github.com/tahtaciburak/calmcp",
+    "tags": []
+  },
+  {
+    "name": "Macuse",
+    "description": "Terminal-based client for connecting to MCP servers via STDIO, HTTP, and SSE transports with interactive tabbed navigation for debugging tools, resources, and prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/macuse",
+    "author": "macuse-app",
+    "stars": "1",
+    "github_url": "https://github.com/macuse-app/macuse",
+    "tags": []
+  },
+  {
+    "name": "SpaceMind (AirSim Spacecraft Navigation)",
+    "description": "Autonomous spacecraft navigation system that simulates orbital servicing missions through AirSim integration with Large Vision Models for real-time decision making across perception, approach, and fly-around operations.",
+    "detail_url": "https://www.pulsemcp.com/clients/wuaodi-spacemind",
+    "author": "wuaodi",
+    "stars": "1",
+    "github_url": "https://github.com/wuaodi/spacemind",
+    "tags": []
+  },
+  {
+    "name": "Browser Agent",
+    "description": "Streamlit-based web interface for interacting with browser automation tools through conversational chat powered by GPT-4, eliminating the need for command-line interaction.",
+    "detail_url": "https://www.pulsemcp.com/clients/studychain01-browser-agent",
+    "author": "studychain01",
+    "stars": "1",
+    "github_url": "https://github.com/studychain01/browser_mcp_agent",
+    "tags": []
+  },
+  {
+    "name": "Food Recipe Assistant",
+    "description": "Conversational recipe management chatbot that connects to recipe servers for ingredient-based searching, recipe discovery, and cooking instruction retrieval through natural language interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/purunep-food-recipe-assistant",
+    "author": "purunep",
+    "stars": "1",
+    "github_url": "https://github.com/purunep/streamble-http-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Buildable",
+    "description": "Official client for Buildable's development platform that provides project context retrieval, task management, execution tracking, and discussion creation for automated development workflows.",
+    "detail_url": "https://www.pulsemcp.com/clients/buildable",
+    "author": "Buildable Team",
+    "stars": "1",
+    "github_url": "https://github.com/chunkydotdev/bldbl-mcp",
+    "tags": []
+  },
+  {
+    "name": "Voice Agent (Firecrawl + Supabase)",
+    "description": "Voice-enabled client that combines real-time web search via Firecrawl with Supabase database operations, enabling hands-free interaction through speech-to-text, natural language processing, and voice responses.",
+    "detail_url": "https://www.pulsemcp.com/clients/heminoid-voice-agent-firecrawl-supabase",
+    "author": "Heminoid",
+    "stars": "1",
+    "github_url": "https://github.com/heminoid/mcp-voice-agent",
+    "tags": []
+  },
+  {
+    "name": "MCP Agent",
+    "description": "Intelligent agent framework that dynamically connects to multiple MCP servers, automatically discovers and installs tools from GitHub repositories, and orchestrates complex workflows using episodic memory and reasoning-action-observation loops across various LLM providers.",
+    "detail_url": "https://www.pulsemcp.com/clients/jeomon-agent",
+    "author": "Jeomon George",
+    "stars": "1",
+    "github_url": "https://github.com/jeomon/mcp-agent",
+    "tags": []
+  },
+  {
+    "name": "Google Maps with Speech",
+    "description": "Web-based interface that integrates Google Maps with Gemini through speech and text input for location viewing, place search, and turn-by-turn directions.",
+    "detail_url": "https://www.pulsemcp.com/clients/l145dev-google-maps-speech",
+    "author": "l145dev",
+    "stars": "1",
+    "github_url": "https://github.com/l145dev/google-maps-mcp-speech",
+    "tags": []
+  },
+  {
+    "name": "AutoGen Agent Manager",
+    "description": "FastAPI-based agent management system that orchestrates multiple AI agents with configurable LLM backends, dynamic tool discovery from MCP servers, and persistent conversation sessions through REST API endpoints.",
+    "detail_url": "https://www.pulsemcp.com/clients/michaelmoriarty67-autogen-agent-manager",
+    "author": "MichaelMoriarty67",
+    "stars": "1",
+    "github_url": "https://github.com/michaelmoriarty67/mcp-autogen",
+    "tags": []
+  },
+  {
+    "name": "OpenAI Responses",
+    "description": "Web-based chat interface that connects to OpenAI's API with MCP tool functionality, displaying both AI responses and tool calls while maintaining conversation context across interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/craigsdennis-openai-responses",
+    "author": "Craig Dennis",
+    "stars": "1",
+    "github_url": "https://github.com/craigsdennis/openai-responses-mcp-client-enabled",
+    "tags": []
+  },
+  {
+    "name": "Multi-Provider LLM Client",
+    "description": "Modular client for interacting with multiple LLM providers including OpenAI, Claude, DeepSeek, SiliconFlow, Ollama, and OpenRouter through a consistent interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/kirintea-multi-provider-llm",
+    "author": "kirintea",
+    "stars": "1",
+    "github_url": "https://github.com/kirintea/mcp_modularity",
+    "tags": []
+  },
+  {
+    "name": "Kopilot (Kubernetes)",
+    "description": "Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.",
+    "detail_url": "https://www.pulsemcp.com/clients/kokoiruby-kopilot-kubernetes",
+    "author": "KokoiRuby",
+    "stars": "1",
+    "github_url": "https://github.com/kokoiruby/kopilot-mcp",
+    "tags": []
+  },
+  {
+    "name": "WASI",
+    "description": "WASI-based client for executing WebAssembly components with sandboxed capabilities via Wasmtime and JSON-RPC transport.",
+    "detail_url": "https://www.pulsemcp.com/clients/byeblack-wasi",
+    "author": "byeblack",
+    "stars": "1",
+    "github_url": "https://github.com/byeblack/wasi_mcp_client",
+    "tags": []
+  },
+  {
+    "name": "RPA Desktop Automation",
+    "description": "Enables desktop automation and workflow execution through pyautogui for RPA tasks via configurable tool interfaces",
+    "detail_url": "https://www.pulsemcp.com/clients/shaoyingchen-desktop-automation",
+    "author": "Shaoying Chen",
+    "stars": "1",
+    "github_url": "https://github.com/shaoyingchen/mcp-client-llm",
+    "tags": []
+  },
+  {
+    "name": "FOAF",
+    "description": "WebRTC-based peer-to-peer client for direct browser-to-browser and Node.js connections with JSON-RPC messaging, supporting both stdio and HTTP/SSE transports.",
+    "detail_url": "https://www.pulsemcp.com/clients/danbri-foaf-rtc",
+    "author": "Dan Brickley",
+    "stars": "1",
+    "github_url": "https://github.com/danbri/xmcp-foaf/tree/HEAD/foafrtc",
+    "tags": []
+  },
+  {
+    "name": "Open MCP Dashboard",
+    "description": "Web-based dashboard for managing MCP servers with a user-friendly interface for configuration, monitoring, and chat interactions powered by CopilotKit.",
+    "detail_url": "https://www.pulsemcp.com/clients/open-mcp-dashboard",
+    "author": "Md Helal Uddin Biswas",
+    "stars": "1",
+    "github_url": "https://github.com/mdhelaluddinbiswas/open-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "AgentIQ (Multi-Server Orchestrator)",
+    "description": "Python-based client that orchestrates tool selection and execution across multiple MCP servers using LangGraph, with support for both Chainlit and Streamlit interfaces.",
+    "detail_url": "https://www.pulsemcp.com/clients/sparktsao-agentiq-multi-server-orchestrator",
+    "author": "Spark Tsao",
+    "stars": "1",
+    "github_url": "https://github.com/sparktsao/mcp_meet_agentiq",
+    "tags": []
+  },
+  {
+    "name": "MCPeste",
+    "description": "Command-line tool for testing MCP tools with interactive listing, manual parameter input, and Claude-assisted parameter generation for efficient developer debugging.",
+    "detail_url": "https://www.pulsemcp.com/clients/viktormarinho-mcpeste",
+    "author": "Viktor Marinho",
+    "stars": "1",
+    "github_url": "https://github.com/viktormarinho/mcpeste",
+    "tags": []
+  },
+  {
+    "name": "Turkey Weather",
+    "description": "Provides real-time weather data and forecasts for locations in Turkey through the OpenWeatherMap API with Turkish language support.",
+    "detail_url": "https://www.pulsemcp.com/clients/emredeveloper-turkey-weather",
+    "author": "Emre Developer",
+    "stars": "1",
+    "github_url": "https://github.com/emredeveloper/mcp-turkey-weather",
+    "tags": []
+  },
+  {
+    "name": "Kiters",
+    "description": "Electron-based chat interface for connecting to MCP servers with OpenRouter.ai integration, supporting local and remote connections, tool calling, and conversation management.",
+    "detail_url": "https://www.pulsemcp.com/clients/namank5x-kiters",
+    "author": "namank5x",
+    "stars": "1",
+    "github_url": "https://github.com/namank5x/kiters-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "TurboClient (OpenAI)",
+    "description": "Python-based client for interacting with OpenAI's language models via WebSocket, supporting multiple MCP servers simultaneously with license key authentication and tool call processing.",
+    "detail_url": "https://www.pulsemcp.com/clients/techspawn-turboclient-openai",
+    "author": "Techspawn Solution PVT LTD",
+    "stars": "1",
+    "github_url": "https://github.com/techspawn/turbo-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Weather API",
+    "description": "Integrates with weatherapi.com to provide real-time weather conditions for any city through intelligent query detection using the FastMCP framework and Llama 3.1 model.",
+    "detail_url": "https://www.pulsemcp.com/clients/rairai77-weather-tool",
+    "author": "Raahil Jain",
+    "stars": "1",
+    "github_url": "https://github.com/rairai77/weather-tool-with-mcp",
+    "tags": []
+  },
+  {
+    "name": "Terminal LLM",
+    "description": "CLI tool for interacting with multiple LLM providers and MCP-compatible servers, featuring conversation continuation, clipboard support, image analysis, and prompt templates.",
+    "detail_url": "https://www.pulsemcp.com/clients/williamvd4-terminal-llm",
+    "author": "Adhika Setya Pramudita",
+    "stars": "1",
+    "github_url": "https://github.com/williamvd4/mcp-client-cli",
+    "tags": []
+  },
+  {
+    "name": "Proving Ground",
+    "description": "Python-based testing client for MCP servers with chat interface, logging capabilities, and configuration options to bypass message limits.",
+    "detail_url": "https://www.pulsemcp.com/clients/jlmelis-proving-ground",
+    "author": "jlmelis",
+    "stars": "1",
+    "github_url": "https://github.com/jlmelis/mcp-proving-ground-client",
+    "tags": []
+  },
+  {
+    "name": "LaunchBar Agent",
+    "description": "LaunchBar action that dynamically loads server tools and uses Langchain with a configurable LLM (currently Grok-2) to automatically complete tasks based on user prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/justinhuang-launchbar-agent",
+    "author": "Justin Huang",
+    "stars": "1",
+    "github_url": "https://github.com/justinhuang0208/launchbar-mcp_agent",
+    "tags": []
+  },
+  {
+    "name": "Quarkus Agentic Assistant",
+    "description": "Quarkus-based agentic application that leverages LangChain4j to integrate Brave Search, Google Maps, Slack, and filesystem operations for performing complex tasks like finding restaurants, providing directions, and managing calendars.",
+    "detail_url": "https://www.pulsemcp.com/clients/danieloh30-quarkus-agentic",
+    "author": "Daniel Oh",
+    "stars": "1",
+    "github_url": "https://github.com/danieloh30/quarkus-agentic-mcp",
+    "tags": []
+  },
+  {
+    "name": "Python Ollama",
+    "description": "Enables interaction with multiple MCP servers using Docker containers, integrating SQLite, PostgreSQL, and a fetch tool for natural language-driven tasks via the OpenAI API.",
+    "detail_url": "https://www.pulsemcp.com/clients/rggh-python-ollama",
+    "author": "RGGH",
+    "stars": "1",
+    "github_url": "https://github.com/rggh/mcp-python-client",
+    "tags": []
+  },
+  {
+    "name": "Mathematical Calculations",
+    "description": "Performs mathematical calculations using natural language processing and basic arithmetic operations via OpenAI's GPT model.",
+    "detail_url": "https://www.pulsemcp.com/clients/polymath-raval-mathematical-calculations",
+    "author": "polymath-raval",
+    "stars": "1",
+    "github_url": "https://github.com/polymath-raval/mcp_example",
+    "tags": []
+  },
+  {
+    "name": "IOL (Invertir Online)",
+    "description": "Integrates with the Invertir Online (IOL) API to enable real-time financial data retrieval, trade execution, and investment monitoring for automated trading strategies and portfolio management applications.",
+    "detail_url": "https://www.pulsemcp.com/clients/fernandezpablo85-invertir-online",
+    "author": "Pablo Fernandez",
+    "stars": "1",
+    "github_url": "https://github.com/fernandezpablo85/mcpiol",
+    "tags": []
+  },
+  {
+    "name": "Weather",
+    "description": "Integrates with weather data APIs to provide current conditions and forecasts for trip planning and outdoor event scheduling.",
+    "detail_url": "https://www.pulsemcp.com/clients/shren207-weather",
+    "author": "shren207",
+    "stars": "1",
+    "github_url": "https://github.com/shren207/weather-mcp",
+    "tags": []
+  },
+  {
+    "name": "Multi-Server Orchestrator",
+    "description": "Enables Claude to interact with MCP servers, leveraging their tools for enhanced capabilities via a command-line interface supporting Python and JavaScript servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/alessandrodorazio-multi-server-orchestrator",
+    "author": "Alessandro D'Orazio",
+    "stars": "1",
+    "github_url": "https://github.com/alessandrodorazio/mcp-client-server",
+    "tags": []
+  },
+  {
+    "name": "Claude CLI",
+    "description": "Enables interaction with multiple MCP-compatible servers, exposing their tools to a Pydantic agent powered by Claude for versatile AI-assisted tasks requiring external tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/swairshah-claude-cli",
+    "author": "Swair Shah",
+    "stars": "1",
+    "github_url": "https://github.com/swairshah/claude-cli-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Streamlit Claude",
+    "description": "Streamlit-based client for connecting to MCP servers, interacting with tools, and engaging in conversations with an AI assistant via the Anthropic API.",
+    "detail_url": "https://www.pulsemcp.com/clients/setkyar-claude",
+    "author": "Set Kyar",
+    "stars": "1",
+    "github_url": "https://github.com/setkyar/claude-mcp",
+    "tags": []
+  },
+  {
+    "name": "Groq Chatbot",
+    "description": "Chat with LLM's via Groq.",
+    "detail_url": "https://www.pulsemcp.com/clients/mashriram-groq-chatbot",
+    "author": "Shriram Madurantakam",
+    "stars": "1",
+    "github_url": "https://github.com/mashriram/mcp_client_local",
+    "tags": []
+  },
+  {
+    "name": "Textual TUI",
+    "description": "CLI tool for interacting directly with MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/ishan-anand-reference-terminal",
+    "author": "Ishan Anand",
+    "stars": "1",
+    "github_url": "https://github.com/ananis25/mcp-client-ref",
+    "tags": []
+  },
+  {
+    "name": "MCP Server CLI",
+    "description": "CLI tool for interacting with multiple LLM providers, with dynamic tool exploration and interactive chat modes.",
+    "detail_url": "https://www.pulsemcp.com/clients/shahshrey-universal-ui",
+    "author": "Shrey Shah",
+    "stars": "1",
+    "github_url": "https://github.com/shahshrey/universal-mcp-ui",
+    "tags": []
+  },
+  {
+    "name": "LangGraph Multi-Agent Boilerplate",
+    "description": "FastAPI-based framework for building multi-agent systems with supervisor architecture, where specialized agent crews collaborate through LangGraph workflow orchestration to accomplish complex tasks via PostgreSQL state management, OpenRouter API integration, and tool calling capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/langgraph-multiagent-boilerplate",
+    "author": "Goon",
+    "stars": "2",
+    "github_url": "https://github.com/mrgoonie/langgraph-multiagent-boilerplate",
+    "tags": []
+  },
+  {
+    "name": "HistorIQ (Historical Events Q&A)",
+    "description": "RAG-enabled web application for exploring historical events through an interactive question-answering interface with specialized agents for contextually relevant information retrieval.",
+    "detail_url": "https://www.pulsemcp.com/clients/annali-historiq",
+    "author": "Anna Li",
+    "stars": "2",
+    "github_url": "https://github.com/annali/historiq",
+    "tags": []
+  },
+  {
+    "name": "qBittorrent",
+    "description": "Enables natural language interaction with qBittorrent for managing torrents through commands that connect to the client, process queries, and execute appropriate operations.",
+    "detail_url": "https://www.pulsemcp.com/clients/pickpppcc-qbittorrent",
+    "author": "pickpppcc",
+    "stars": "2",
+    "github_url": "https://github.com/pickpppcc/qbittorrent-mcp",
+    "tags": []
+  },
+  {
+    "name": "Airbnb",
+    "description": "Airbnb search client that processes natural language queries about accommodations and returns structured information on listings including property details, prices, locations, and ratings.",
+    "detail_url": "https://www.pulsemcp.com/clients/sakil786-airbnb",
+    "author": "Sakil786",
+    "stars": "2",
+    "github_url": "https://github.com/sakil786/airbnb_mcp",
+    "tags": []
+  },
+  {
+    "name": "Speelka Agent",
+    "description": "Go-based agent that connects to multiple LLM providers with modular architecture, configurable chat history, and token usage tracking, deployable as HTTP server or stdio application.",
+    "detail_url": "https://www.pulsemcp.com/clients/korchasa-speelka-agent",
+    "author": "Stanislav Korchagin",
+    "stars": "2",
+    "github_url": "https://github.com/korchasa/speelka-agent",
+    "tags": []
+  },
+  {
+    "name": "Bedrock",
+    "description": "TypeScript client for connecting to AWS Bedrock and MCP servers, enabling seamless integration with Claude and other Bedrock models through an event-based architecture for streaming responses.",
+    "detail_url": "https://www.pulsemcp.com/clients/juspay-bedrock-connector",
+    "author": "Juspay",
+    "stars": "2",
+    "github_url": "https://github.com/juspay/bedrock-mcp-connector",
+    "tags": []
+  },
+  {
+    "name": "Groq Chatbot",
+    "description": "CLI tool for interacting with Groq LLM via a dynamic, multi-server chatbot that enables interactive conversations with tool-based execution capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/kartikeyapandey20-groq-chatbot",
+    "author": "Kartikey Pandey",
+    "stars": "2",
+    "github_url": "https://github.com/kartikeyapandey20/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "n8n Workflow Bridge",
+    "description": "Integrates n8n workflows with MCP servers through a lightweight bridge service, enabling seamless discovery and execution of tools from various sources like Todoist, Slack, and Brave Search for enhanced automation capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/dory-ai-n8n-workflow-bridge",
+    "author": "Dory AI",
+    "stars": "2",
+    "github_url": "https://github.com/dory-ai/n8n-mcp-bridge",
+    "tags": []
+  },
+  {
+    "name": "Claude MCP CLI",
+    "description": "CLI tool for interacting with Claude via multiple MCP servers, supporting real-time response streaming and rich terminal output with clear formatting.",
+    "detail_url": "https://www.pulsemcp.com/clients/lingster-claude-cli",
+    "author": "Ling Li",
+    "stars": "2",
+    "github_url": "https://github.com/lingster/mcp-llm",
+    "tags": []
+  },
+  {
+    "name": "Ollama",
+    "description": "Connects Ollama-hosted LLMs to MCP servers via Python, supporting stdio and SSE transports with tool discovery and execution capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/0226chester-ollama",
+    "author": "Chester",
+    "stars": "2",
+    "github_url": "https://github.com/intelligent-systems-lab/mcp_client_ollama",
+    "tags": []
+  },
+  {
+    "name": "Hot Topic Aggregator (Chinese Social Media)",
+    "description": "Python client that fetches trending topics from Chinese social media platforms like Sina Weibo and Zhihu through a unified factory pattern interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/mrniebit-hot-topic-aggregator",
+    "author": "MrNiebit",
+    "stars": "2",
+    "github_url": "https://github.com/umuo/hot-topic-mcp",
+    "tags": []
+  },
+  {
+    "name": "Flexible Connector",
+    "description": "Flexible client for interacting with diverse MCP servers, supporting filesystem, MySQL, DuckDuckGo, and fetch operations through a JSON-configurable interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/kin-10-flexible-connector",
+    "author": "Kin-10",
+    "stars": "2",
+    "github_url": "https://github.com/kin-10/mcp_llm",
+    "tags": []
+  },
+  {
+    "name": "Story Protocol",
+    "description": "Integrates with Story Protocol to guide users through content creation, IP asset minting, and social media announcement, utilizing LangGraph for workflow management and tools for multimedia generation and file handling.",
+    "detail_url": "https://www.pulsemcp.com/clients/ellieli0630-story-protocol",
+    "author": "Ellie Li",
+    "stars": "2",
+    "github_url": "https://github.com/ellieli0630/langgraph-mcp-agent-twitter",
+    "tags": []
+  },
+  {
+    "name": "LlamaIndex",
+    "description": "Implements a RAG system using LlamaIndex, Gemini, and LanceDB for efficient document processing, embedding generation, and vector storage, enabling advanced information retrieval and querying capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/binarybana-easyrag",
+    "author": "Jason Knight",
+    "stars": "2",
+    "github_url": "https://github.com/binarybana/easyrag",
+    "tags": []
+  },
+  {
+    "name": "ReAct Agent",
+    "description": "Integrates a reasoning and action agent with multiple MCP servers through a unified gateway, enabling dynamic tool discovery and utilization for diverse tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/nachoal-react-agent",
+    "author": "Ignacio Alonso",
+    "stars": "2",
+    "github_url": "https://github.com/nachoal/react-agent-with-mcp",
+    "tags": []
+  },
+  {
+    "name": "Aterm2",
+    "description": "Chat with LLMs via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/runekaagaard-aterm2",
+    "author": "Rune Kaagaard",
+    "stars": "2",
+    "github_url": "https://github.com/runekaagaard/aterm2",
+    "tags": []
+  },
+  {
+    "name": "AI Customer Service Platform",
+    "description": "Open-source customer service platform that creates and manages AI agents with business platform integrations through a Next.js dashboard, deployable chat widget, and multi-tenant architecture.",
+    "detail_url": "https://www.pulsemcp.com/clients/parham-dev-ai-customer-service",
+    "author": "Parham",
+    "stars": "3",
+    "github_url": "https://github.com/parham-dev/ai-agent-cs",
+    "tags": []
+  },
+  {
+    "name": "Azure CLI",
+    "description": "Command-line tool for interacting with multiple MCP servers via stdio, HTTP, and SSE transports with configurable JSON settings and PyInstaller support for standalone executables.",
+    "detail_url": "https://www.pulsemcp.com/clients/hatasaki-azure-cli",
+    "author": "hatasaki",
+    "stars": "3",
+    "github_url": "https://github.com/hatasaki/azure-mcp-cli-client",
+    "tags": []
+  },
+  {
+    "name": "Manager",
+    "description": "Centralized management daemon for multiple MCP servers with REST API, automatic lifecycle management, and unified tool discovery and execution across all managed servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/cloud-thinker-ai-manager",
+    "author": "Khai Trinh Xuan",
+    "stars": "3",
+    "github_url": "https://github.com/cloud-thinker-ai/mcp-manager",
+    "tags": []
+  },
+  {
+    "name": "Twitter Bot",
+    "description": "Integrates with Twitter to enable AI agents to search tweets, post content, and analyze news articles for fact-checking through specialized components for generating funny tweets and verifying news authenticity.",
+    "detail_url": "https://www.pulsemcp.com/clients/denizakansoy-twitter-bot",
+    "author": "Deniz Akansoy",
+    "stars": "3",
+    "github_url": "https://github.com/denizakansoy/mcphack",
+    "tags": []
+  },
+  {
+    "name": "OmniTaskAgent",
+    "description": "Task management system that connects to various platforms and helps users select the most suitable solution through a flexible interface with both CLI and API access.",
+    "detail_url": "https://www.pulsemcp.com/clients/acnet-ai-omnitaskagent",
+    "author": "ACNet-AI",
+    "stars": "3",
+    "github_url": "https://github.com/acnet-ai/omnitaskagent",
+    "tags": []
+  },
+  {
+    "name": "Gomamayo Detector",
+    "description": "Detects and analyzes 'gomamayo' Japanese wordplay patterns where consecutive morae share the same vowel, useful for language analysis and content creation.",
+    "detail_url": "https://www.pulsemcp.com/clients/mizakahk-gomamayo-detector",
+    "author": "HK",
+    "stars": "3",
+    "github_url": "https://github.com/mizakahk/mcp-gomamayo",
+    "tags": []
+  },
+  {
+    "name": "Agents MCP Cloud",
+    "description": "Full-stack platform for creating, configuring, and managing multiple AI agents with centralized control through a Vue.js frontend and FastAPI backend.",
+    "detail_url": "https://www.pulsemcp.com/clients/hicoder-agents-mcp-cloud",
+    "author": "HiCoderMonkey",
+    "stars": "3",
+    "github_url": "https://github.com/hicodermonkey/agents-mcp-cloud",
+    "tags": []
+  },
+  {
+    "name": "Deepin Task Planner",
+    "description": "Task planning system that breaks down complex natural language requests into sequential tasks, enabling users to execute workflows across multiple server types like bash, file, and weather using language models.",
+    "detail_url": "https://www.pulsemcp.com/clients/toberyan-task-planner",
+    "author": "toberyan",
+    "stars": "3",
+    "github_url": "https://github.com/toberyan/deepin-mcp",
+    "tags": []
+  },
+  {
+    "name": "Discord",
+    "description": "Discord bot that leverages Mastra's tools to provide intelligent assistance and documentation access through direct messages, slash commands, and threaded conversations",
+    "detail_url": "https://www.pulsemcp.com/clients/mastra-discord-bot",
+    "author": "Mastra AI",
+    "stars": "3",
+    "github_url": "https://github.com/mastra-ai/discord-mcp-bot",
+    "tags": []
+  },
+  {
+    "name": "Gemini Python Client",
+    "description": "Python client for connecting to MCP servers with Gemini-compatible function declarations, supporting both Streamlit and Chainlit interfaces for web application integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/zeeshanunique-gemini-python-client",
+    "author": "Zeeshan",
+    "stars": "3",
+    "github_url": "https://github.com/zeeshanunique/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Firefox Claude Bridge",
+    "description": "Firefox extension that bridges Claude's web interface with external tools through a WebSocket server, enabling tool access while maintaining conversation context.",
+    "detail_url": "https://www.pulsemcp.com/clients/k3d3-firefox-claude-bridge",
+    "author": "k3d3",
+    "stars": "3",
+    "github_url": "https://github.com/k3d3/firefox_mcpbridge",
+    "tags": []
+  },
+  {
+    "name": "CLI Manager",
+    "description": "Command-line tool for managing multiple MCP server implementations with capabilities to start, stop, monitor, and configure servers through robust logging, environment management, and security validation.",
+    "detail_url": "https://www.pulsemcp.com/clients/crayon3shawn-cli-manager",
+    "author": "crayon3shawn",
+    "stars": "3",
+    "github_url": "https://github.com/crayon3shawn/mcp-cli-manager",
+    "tags": []
+  },
+  {
+    "name": "Ollama SQL Translator",
+    "description": "Translates natural language into SQL operations for database interaction via Ollama-served language models, supporting multiple model types and database operations with flexible configuration options.",
+    "detail_url": "https://www.pulsemcp.com/clients/georgi-terziyski-ollama-sql-translator",
+    "author": "Georgi Terziyski",
+    "stars": "3",
+    "github_url": "https://github.com/georgi-terziyski/mcp_client_ollama",
+    "tags": []
+  },
+  {
+    "name": "Pipedream API Directory",
+    "description": "Web interface for browsing and integrating over 2,500 APIs and 8,000 prebuilt tools into MCP clients, featuring searchable directories, detailed documentation, and installation instructions.",
+    "detail_url": "https://www.pulsemcp.com/clients/dannyroosevelt-pipedream-api-directory",
+    "author": "Pipedream",
+    "stars": "3",
+    "github_url": "https://github.com/dannyroosevelt/pipedream-mcp-ui",
+    "tags": []
+  },
+  {
+    "name": "OrganiX (Claude Agent)",
+    "description": "Multi-agent framework with advanced memory systems, web research capabilities, blockchain integration, and social media connectivity for complex workflows requiring persistent memory and external tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/kabrony-claude-agent",
+    "author": "kabrony",
+    "stars": "3",
+    "github_url": "https://github.com/kabrony/claude-agent-mcp",
+    "tags": []
+  },
+  {
+    "name": "Web Search",
+    "description": "Python-based client for interacting with MCP servers via CLI or as a module, supporting local and remote connections for flexible development scenarios.",
+    "detail_url": "https://www.pulsemcp.com/clients/web-search",
+    "author": "m-mcp",
+    "stars": "3",
+    "github_url": "https://github.com/m-mcp/web-search",
+    "tags": []
+  },
+  {
+    "name": "Claude CLI",
+    "description": "Chat with Claude via CLI, supporting interactive loops and context preservation for agentic behavior.",
+    "detail_url": "https://www.pulsemcp.com/clients/wintertechforum-claude-cli",
+    "author": "Winter Tech Forum",
+    "stars": "3",
+    "github_url": "https://github.com/wintertechforum/mcp-demo",
+    "tags": []
+  },
+  {
+    "name": "Arbitrum Network Tools",
+    "description": "TypeScript-based client for interacting with the Arbitrum network, enabling blockchain operations like account queries, token management, and smart contract interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/utkucy-arbitrum-network-tools",
+    "author": "Utku Ceyhun Yilmaz",
+    "stars": "3",
+    "github_url": "https://github.com/utkucy/arbitrum-mcp-tools",
+    "tags": []
+  },
+  {
+    "name": "blnk",
+    "description": "Chat with LLM's via CLI. Open Source.",
+    "detail_url": "https://www.pulsemcp.com/clients/frgmt0-blnk",
+    "author": "frgmt0",
+    "stars": "3",
+    "github_url": "https://github.com/coldielb/blnk",
+    "tags": []
+  },
+  {
+    "name": "SSE Python Example",
+    "description": "Demo implementation. Connects to MCP servers using SSE transport.",
+    "detail_url": "https://www.pulsemcp.com/clients/tony-nexartis-anthropic-sse",
+    "author": "Tony Nexartis",
+    "stars": "3",
+    "github_url": "https://github.com/tony-nexartis/anthropic_mcp_hackathon_sse_client",
+    "tags": []
+  },
+  {
+    "name": "Ollamaton",
+    "description": "Connects Ollama-hosted local LLMs to MCP servers through both command-line and web interfaces, enabling enhanced local model capabilities with external tools and resources.",
+    "detail_url": "https://www.pulsemcp.com/clients/inventorado-ollamaton",
+    "author": "Radoslav Lovecky",
+    "stars": "4",
+    "github_url": "https://github.com/inventorado/ollamaton",
+    "tags": []
+  },
+  {
+    "name": "SmolAgent",
+    "description": "Python-based framework that orchestrates multiple MCP tool servers with smolagents and LiteLLM, enabling developers to build conversational agents that automatically discover and execute tools from connected servers through terminal interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/ashishpatel26-smol-agent",
+    "author": "ashishpatel26",
+    "stars": "4",
+    "github_url": "https://github.com/ashishpatel26/smolagentwithmcp",
+    "tags": []
+  },
+  {
+    "name": "LangGraph Voice Agent",
+    "description": "Voice-enabled expense management agent that allows employees to create, update, delete, and query expenses through natural speech commands with synthesized voice responses.",
+    "detail_url": "https://www.pulsemcp.com/clients/rosiefaulkner-langgraph-voice-agent",
+    "author": "rosiefaulkner",
+    "stars": "4",
+    "github_url": "https://github.com/rosiefaulkner/langgraph-voice-agent",
+    "tags": []
+  },
+  {
+    "name": "Amap",
+    "description": "Connects LLMs to Amap mapping services for address parsing, geocoding, and location-based capabilities through a FastAPI server component.",
+    "detail_url": "https://www.pulsemcp.com/clients/blacsheep-amap",
+    "author": "blacsheep",
+    "stars": "4",
+    "github_url": "https://github.com/blacsheep/llm-amap-mcp",
+    "tags": []
+  },
+  {
+    "name": "BrowserTools",
+    "description": "Chrome extension that captures browser data for AI code editors, enabling access to console logs, network requests, and screenshots for enhanced web development and debugging workflows.",
+    "detail_url": "https://www.pulsemcp.com/clients/wimpywarlord-browser-tools",
+    "author": "AgentDesk",
+    "stars": "4",
+    "github_url": "https://github.com/wimpywarlord/mcp-react-dev-tools",
+    "tags": []
+  },
+  {
+    "name": "Airbnb",
+    "description": "Python client for interacting with Airbnb services through a command-line or Gradio web interface, enabling conversational agents to perform Airbnb-related tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/akktrsst-airbnb",
+    "author": "akktrsst",
+    "stars": "4",
+    "github_url": "https://github.com/akktrsst/mcp_agent_airbnb",
+    "tags": []
+  },
+  {
+    "name": "Jira Assistant",
+    "description": "Streamlit-powered Jira integration tool that enables direct ticket management through command-line and web interfaces with built-in credential validation and server status checking.",
+    "detail_url": "https://www.pulsemcp.com/clients/pawankumar-jira-assistant",
+    "author": "Pawan Kumar",
+    "stars": "4",
+    "github_url": "https://github.com/pawankumar94/jira_mcp_streamlit",
+    "tags": []
+  },
+  {
+    "name": "WebUI",
+    "description": "Web-based chat interface for interacting with multiple language models, supporting persistent chat history, streaming responses, and external tool integration across providers like Ollama, Anthropic, OpenAI, and OpenRouter.",
+    "detail_url": "https://www.pulsemcp.com/clients/omchillure-web-ui",
+    "author": "Om Chillure",
+    "stars": "4",
+    "github_url": "https://github.com/omchillure/mcpui",
+    "tags": []
+  },
+  {
+    "name": "n8n Workflow Integration",
+    "description": "Integrates n8n workflows with MCP servers, enabling AI model interactions and external tool execution for automated data processing and content generation.",
+    "detail_url": "https://www.pulsemcp.com/clients/ateeyak-n8n-workflow-integration",
+    "author": "Jd Fiscus",
+    "stars": "4",
+    "github_url": "https://github.com/ateeyak/n8n-nodes-mcp",
+    "tags": []
+  },
+  {
+    "name": "FastAPI Gateway",
+    "description": "FastAPI-based server that manages multiple MCP servers through a JSON database, providing endpoints for server discovery, tool exploration, and invocation with support for local and cloud deployment.",
+    "detail_url": "https://www.pulsemcp.com/clients/karthikv2k-chat-mcp-gateway",
+    "author": "Karthik Ramasamy",
+    "stars": "4",
+    "github_url": "https://github.com/karthikv2k/chat-mcp",
+    "tags": []
+  },
+  {
+    "name": "WinFormsApp (Semantic Kernel)",
+    "description": "Windows Forms application that integrates large language models with Microsoft's Semantic Kernel framework, providing tool functionality for GitHub, GitLab, and filesystem operations with configurable OpenAI model settings.",
+    "detail_url": "https://www.pulsemcp.com/clients/robert-githubusername-winformsapp",
+    "author": "Robert",
+    "stars": "4",
+    "github_url": "https://github.com/robert-githubusername/winformsapp-mcp",
+    "tags": []
+  },
+  {
+    "name": "Jira",
+    "description": "Integrates with the Jira API to enable issue retrieval and comment access directly within coding environments.",
+    "detail_url": "https://www.pulsemcp.com/clients/navneet-ag-jira",
+    "author": "Navneet Agarwal",
+    "stars": "4",
+    "github_url": "https://github.com/navneet-ag/cursor-jira-mcp",
+    "tags": []
+  },
+  {
+    "name": "Claude Agent",
+    "description": "Turn Claude into an agent to perform long-running workflows using MCP servers. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/adamholsinger-claude-agent",
+    "author": "Adam Holsinger",
+    "stars": "4",
+    "github_url": "https://github.com/adamdude828/claude-mcp-agent",
+    "tags": []
+  },
+  {
+    "name": "Agentic Slackbot (Yahoo Finance)",
+    "description": "Slack bot that connects to OpenAI agents and Yahoo Finance for fetching stock data and financial information through direct messages or channel mentions.",
+    "detail_url": "https://www.pulsemcp.com/clients/john-lin-yahoo-finance",
+    "author": "John Lin",
+    "stars": "5",
+    "github_url": "https://github.com/john-lin/agentic-slackbot",
+    "tags": []
+  },
+  {
+    "name": "CLAP Agents",
+    "description": "Python framework for building asynchronous AI agents with modular components for ReAct patterns, multi-agent teams, and tool integration via local and remote connections.",
+    "detail_url": "https://www.pulsemcp.com/clients/maitreyam-clap-agents",
+    "author": "Maitreya M",
+    "stars": "5",
+    "github_url": "https://github.com/maitreyam/clap-agents",
+    "tags": []
+  },
+  {
+    "name": "MCP for Laravel",
+    "description": "Laravel framework for building AI agents with multiple LLM providers, tools/function calls, RAG capabilities, and chat history management.",
+    "detail_url": "https://www.pulsemcp.com/clients/settled-laravel",
+    "author": "Settled",
+    "stars": "5",
+    "github_url": "https://github.com/settledco/mcp-for-laravel",
+    "tags": []
+  },
+  {
+    "name": "QGIS",
+    "description": "Enables interaction with QGIS geographic information systems for managing projects, layers, and maps through a plugin-based architecture with tools for spatial data manipulation and map rendering",
+    "detail_url": "https://www.pulsemcp.com/clients/kicker315-qgis",
+    "author": "kicker315",
+    "stars": "5",
+    "github_url": "https://github.com/kicker315/deepseek_qgis_mcp",
+    "tags": []
+  },
+  {
+    "name": "Airline Seat Booking Agent",
+    "description": "Self-service airline reservation system combining OpenAI Agents SDK, Autogen extensions, and specialized agents for inquiry handling and seat booking through a Chainlit web interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/minyang-chen-seat-booking-agent",
+    "author": "Minyang Chen",
+    "stars": "5",
+    "github_url": "https://github.com/minyang-chen/seat-booking-agent",
+    "tags": []
+  },
+  {
+    "name": "Axiom",
+    "description": "Chainlit-based interface that connects to documentation sources through dual operational modes: Agent Mode for code generation and Chat Mode for answering queries, powered by Google's Gemini models and LangGraph orchestration.",
+    "detail_url": "https://www.pulsemcp.com/clients/aasherkamal-axiom",
+    "author": "Aasher Kamal",
+    "stars": "5",
+    "github_url": "https://github.com/aasherkamal216/axiom",
+    "tags": []
+  },
+  {
+    "name": "Figma Design Automation",
+    "description": "Automates Figma design workflows for startup websites through component generation, templating, and style management via plugin interface and direct API access.",
+    "detail_url": "https://www.pulsemcp.com/clients/aranyak-figma-design-automation",
+    "author": "Aranyak",
+    "stars": "5",
+    "github_url": "https://github.com/aranyak-4002/figma-design-mcp",
+    "tags": []
+  },
+  {
+    "name": "OpenAI+SSE Example",
+    "description": "Demo implementation. Chat with OpenAI via CLI. Uses SSE servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/anycontext-remote-chat",
+    "author": "AnyContext AI",
+    "stars": "5",
+    "github_url": "https://github.com/anycontext-ai/remote-mcp-chat",
+    "tags": []
+  },
+  {
+    "name": "Tupac",
+    "description": "CLI tool for interacting with OpenAI's chat completion API while integrating external tools through configurable JSON settings, intelligent resource caching, and retry logic for prototyping AI applications with extended functionality.",
+    "detail_url": "https://www.pulsemcp.com/clients/tupac",
+    "author": "Tim Kellogg",
+    "stars": "6",
+    "github_url": "https://github.com/tkellogg/tupac",
+    "tags": []
+  },
+  {
+    "name": "ZXC Agent",
+    "description": "Spring Boot agent system with React-style architecture that combines RAG document retrieval, multimodal processing, and tool execution through a Vue.js frontend for educational assistance and research automation.",
+    "detail_url": "https://www.pulsemcp.com/clients/study944-zxc-agent",
+    "author": "Study944",
+    "stars": "6",
+    "github_url": "https://github.com/study944/ai-agent-zxc",
+    "tags": []
+  },
+  {
+    "name": "Proteus AI",
+    "description": "Multi-agent workflow platform that combines visual workflow design with autonomous agent execution, supporting browser automation, code execution, file operations, database queries, and API calls across multiple LLM providers with both local and sandboxed execution environments.",
+    "detail_url": "https://www.pulsemcp.com/clients/proteus-ai",
+    "author": "alishangtian",
+    "stars": "6",
+    "github_url": "https://github.com/alishangtian/proteus-ai",
+    "tags": []
+  },
+  {
+    "name": "FastAPI MCP",
+    "description": "FastAPI client for interacting with MCP servers via Server-Sent Events, providing session management and streaming response handling for real-time data processing.",
+    "detail_url": "https://www.pulsemcp.com/clients/rooseveltadvisors-fastapi-client",
+    "author": "Roosevelt Advisors",
+    "stars": "6",
+    "github_url": "https://github.com/rooseveltadvisors/fastapi-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "FHIR Healthcare Analytics",
+    "description": "Chat interface with FHIR integration, enabling healthcare data analysis and visualization through knowledge graph capabilities and AI-assisted querying of patient information and medical resources.",
+    "detail_url": "https://www.pulsemcp.com/clients/terminallylazy-fhir-healthcare-analytics",
+    "author": "TerminallyLazy",
+    "stars": "6",
+    "github_url": "https://github.com/terminallylazy/mcp-on-fhir",
+    "tags": []
+  },
+  {
+    "name": "GitHub",
+    "description": "Integrates with GitHub's API to enable natural language-driven repository management, code manipulation, and issue tracking for streamlined development workflows.",
+    "detail_url": "https://www.pulsemcp.com/clients/leartbeqiraj1-github-natural-language-interface",
+    "author": "Leart Beqiraj",
+    "stars": "6",
+    "github_url": "https://github.com/leartbeqiraj1/openai-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Spring AI MCP",
+    "description": "Java-based Spring framework for integrating Model Context Protocol with applications, supporting both synchronous and asynchronous clients with custom tool callbacks and streaming response handling.",
+    "detail_url": "https://www.pulsemcp.com/clients/down-to-earth1994-spring-ai",
+    "author": "down-to-earth1994",
+    "stars": "7",
+    "github_url": "https://github.com/down-to-earth1994/auto-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Blender 3D Scene Creator",
+    "description": "Web application for creating and manipulating 3D scenes in Blender through natural language descriptions processed by Gemini AI.",
+    "detail_url": "https://www.pulsemcp.com/clients/xprilion-blender-3d-scene-creator",
+    "author": "xprilion",
+    "stars": "7",
+    "github_url": "https://github.com/xprilion/genkit-mcp-client-blender",
+    "tags": []
+  },
+  {
+    "name": "ProdEx (Component-Level AI)",
+    "description": "JavaScript library that enables component-level and page-level AI assistance in web development by injecting interactive controls that connect to backend services.",
+    "detail_url": "https://www.pulsemcp.com/clients/tarasyarema-prodex-js",
+    "author": "Taras Yarema",
+    "stars": "7",
+    "github_url": "https://github.com/tarasyarema/prodex-js",
+    "tags": []
+  },
+  {
+    "name": "Raycast AI",
+    "description": "Raycast extension that enables seamless integration of Model Context Protocol servers into the Raycast AI environment, providing automatic client creation and detection with minimal configuration.",
+    "detail_url": "https://www.pulsemcp.com/clients/raycast-ai",
+    "author": "Evan Zhou",
+    "stars": "7",
+    "github_url": "https://github.com/evanzhoudev/raycast-mcp",
+    "tags": []
+  },
+  {
+    "name": "CopilotKit Spreadsheet Editor",
+    "description": "React-based chat interface for interacting with MCP servers, featuring a spreadsheet editor and natural language data manipulation with support for both stdio and SSE transport methods.",
+    "detail_url": "https://www.pulsemcp.com/clients/copilotkit-spreadsheet-editor",
+    "author": "CopilotKit",
+    "stars": "7",
+    "github_url": "https://github.com/copilotkit/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Xiaozhi Home Assistant",
+    "description": "Connects Home Assistant to Xiaozhi's service for integrating AI capabilities with smart home automation through a WebSocket connection with automatic reconnection.",
+    "detail_url": "https://www.pulsemcp.com/clients/c1pher-cn-xiaozhi-home-assistant",
+    "author": "c1pher-cn",
+    "stars": "8",
+    "github_url": "https://github.com/c1pher-cn/ha-xiaozhi-mcp",
+    "tags": []
+  },
+  {
+    "name": "SQLite Query Assistant",
+    "description": "Provides a Docker-based SQLite database interaction server that enables natural language querying and exploration using Chainlit and Azure OpenAI's language model.",
+    "detail_url": "https://www.pulsemcp.com/clients/zovi343-sqlite-query-assistant",
+    "author": "Jakub Žovák",
+    "stars": "8",
+    "github_url": "https://github.com/zovi343/oai_mcp_code_agent",
+    "tags": []
+  },
+  {
+    "name": "File Downloader",
+    "description": "TypeScript-based client for downloading files from MCP-compatible servers with proper error handling and type safety in Node.js environments.",
+    "detail_url": "https://www.pulsemcp.com/clients/shuakami-download",
+    "author": "shuakami",
+    "stars": "8",
+    "github_url": "https://github.com/shuakami/mcp-download",
+    "tags": []
+  },
+  {
+    "name": "Vault Forge",
+    "description": "Desktop application for managing AI conversations, MCP servers, and vaults using Electron and React, with multi-provider support and configurable server connections.",
+    "detail_url": "https://www.pulsemcp.com/clients/regibyte-vault-forge",
+    "author": "RegiByte",
+    "stars": "8",
+    "github_url": "https://github.com/regibyte/mcp-client-app",
+    "tags": []
+  },
+  {
+    "name": "FastAPI",
+    "description": "FastAPI-based client for interacting with multiple MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/aswincandra-fastapi",
+    "author": "Aswin Candra",
+    "stars": "8",
+    "github_url": "https://github.com/aswincandra/fast-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "React Web Workers",
+    "description": "Demo implementation. Exhibits using web workers and SSE as an MCP client.",
+    "detail_url": "https://www.pulsemcp.com/clients/yonaka15-react-demo-interface",
+    "author": "yonaka",
+    "stars": "8",
+    "github_url": "https://github.com/yonaka15/mcp-client-demo",
+    "tags": []
+  },
+  {
+    "name": "Rust Example",
+    "description": "Demo implementation. Built in Rust.",
+    "detail_url": "https://www.pulsemcp.com/clients/tim-schultz-rust",
+    "author": "Tim Schultz",
+    "stars": "8",
+    "github_url": "https://github.com/tim-schultz/mcp-client-rs",
+    "tags": []
+  },
+  {
+    "name": "API Explorer",
+    "description": "Provides a visual interface for API management with automatic response visualization, form-based interactions, and Swagger/OpenAPI integration for streamlined API exploration and data rendering.",
+    "detail_url": "https://www.pulsemcp.com/clients/adafap-api-explorer",
+    "author": "ADA LNC",
+    "stars": "9",
+    "github_url": "https://github.com/adafap/api-mcp",
+    "tags": []
+  },
+  {
+    "name": "UtilityBelt",
+    "description": "CLI tool that bridges AI agents with MCP endpoints, enabling tool discovery and execution through a consistent interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/richardanaya-utilitybelt",
+    "author": "Richard Anaya",
+    "stars": "9",
+    "github_url": "https://github.com/richardanaya/utilitybelt",
+    "tags": []
+  },
+  {
+    "name": "Light MCP Agents",
+    "description": "Python-based framework for building AI agents that connect to MCP servers, discover available tools, and orchestrate conversations with LLM providers like Groq.",
+    "detail_url": "https://www.pulsemcp.com/clients/nicozumarraga-light-mcp-agents",
+    "author": "Nico Zumarraga",
+    "stars": "9",
+    "github_url": "https://github.com/nicozumarraga/light-mcp-agents",
+    "tags": []
+  },
+  {
+    "name": "Pydantic MCP",
+    "description": "Provides tool calling support for Pydantic AI, enabling seamless integration with external tools by creating a `ClientSession` and retrieving tool instances for direct use with an agent.",
+    "detail_url": "https://www.pulsemcp.com/clients/rectalogic-pydantic-mcp",
+    "author": "rectalogic",
+    "stars": "9",
+    "github_url": "https://github.com/rectalogic/pydantic-mcp",
+    "tags": []
+  },
+  {
+    "name": "LangChain-Python Client",
+    "description": "Demo implementation. Integrates MCP servers with LangChain's ReAct agents.",
+    "detail_url": "https://www.pulsemcp.com/clients/hideya-langchain-react-agent-python",
+    "author": "hideya",
+    "stars": "9",
+    "github_url": "https://github.com/hideya/mcp-client-langchain-py",
+    "tags": []
+  },
+  {
+    "name": "Feishu (Lark) Bot",
+    "description": "Integrates Feishu (Lark) messaging platform with AI models, allowing users to interact with Claude and OpenAI directly through chat interfaces without leaving their workplace collaboration environment.",
+    "detail_url": "https://www.pulsemcp.com/clients/twwch-feishu-bot",
+    "author": "twwch",
+    "stars": "10",
+    "github_url": "https://github.com/twwch/mcp-feishu-bot",
+    "tags": []
+  },
+  {
+    "name": "ChatMCP",
+    "description": "Python-based client for interacting with multiple LLM providers via CLI or web API, supporting external tool integration with robust error handling and reconnection capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/gongrzhe-chatmcp",
+    "author": "gongrzhe",
+    "stars": "10",
+    "github_url": "https://github.com/gongrzhe/open-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Coolify Infrastructure Manager",
+    "description": "Integrates with Coolify infrastructure to enable comprehensive management operations through n8n workflows with AI-assisted parameter filling for server administration, deployment, and security tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/wrediam-n8n-coolify-tools",
+    "author": "wrediam",
+    "stars": "11",
+    "github_url": "https://github.com/wrediam/n8n-coolify-mcp-tools",
+    "tags": []
+  },
+  {
+    "name": "Rails Example",
+    "description": "Demonstrates MCP in a Rails application.",
+    "detail_url": "https://www.pulsemcp.com/clients/funwarioisii-rails-example",
+    "author": "funwarioisii",
+    "stars": "11",
+    "github_url": "https://github.com/funwarioisii/sample-mcp-rails",
+    "tags": []
+  },
+  {
+    "name": "LangChain ReAct Agent",
+    "description": "Demo implementation. LangChain's ReAct Agent code to integrate with MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/hideya-langchain-react-agent",
+    "author": "hideya",
+    "stars": "11",
+    "github_url": "https://github.com/hideya/langchain-mcp-tools-ts-usage",
+    "tags": []
+  },
+  {
+    "name": "Open Swarm",
+    "description": "Django-based orchestration tool for managing Swarm agents through CLI and API interfaces, providing containerized environments with LLM integration, blueprint functionality, and deployment options for various environments.",
+    "detail_url": "https://www.pulsemcp.com/clients/matthewhand-open-swarm",
+    "author": "Matthew Hand",
+    "stars": "11",
+    "github_url": "https://github.com/matthewhand/open-swarm",
+    "tags": []
+  },
+  {
+    "name": "WebContainer Browser",
+    "description": "Browser-based client that runs MCP servers directly in WebContainers with local model execution, providing a complete dashboard for server management, tool testing, and chat interactions without requiring local installations.",
+    "detail_url": "https://www.pulsemcp.com/clients/ahmedrowaihi-webcontainer-browser",
+    "author": "Ahmed Rowaihi",
+    "stars": "12",
+    "github_url": "https://github.com/ahmedrowaihi/webcontainer-mcp-browser",
+    "tags": []
+  },
+  {
+    "name": "ArXiv Research Assistant",
+    "description": "Command-line research assistant that connects Claude to arXiv for querying academic papers and processing research content through multiple specialized servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/arxiv-research-assistant",
+    "author": "mctrinh",
+    "stars": "12",
+    "github_url": "https://github.com/mctrinh/mcp-chatbot",
+    "tags": []
+  },
+  {
+    "name": "Vibeframe",
+    "description": "VS Code extension that embeds MCP server frontends directly within the editor, automatically discovering and connecting to servers from configuration files across multiple development environments.",
+    "detail_url": "https://www.pulsemcp.com/clients/taggartbg-vibeframe",
+    "author": "Taggart Bowen-Gaddy",
+    "stars": "12",
+    "github_url": "https://github.com/taggartbg/vibeframe",
+    "tags": []
+  },
+  {
+    "name": "MCP Terminal",
+    "description": "Command-line tool for managing multiple MCP server connections simultaneously, enabling interactive chat sessions with AI models that can leverage tools from any connected server.",
+    "detail_url": "https://www.pulsemcp.com/clients/geli2001-terminal",
+    "author": "GeLi2001",
+    "stars": "12",
+    "github_url": "https://github.com/geli2001/mcp-terminal",
+    "tags": []
+  },
+  {
+    "name": "Mistral Universal",
+    "description": "Universal Mistral AI adapter enabling dynamic tool registration and conversation management across multiple server configurations via CLI and programmatic interfaces.",
+    "detail_url": "https://www.pulsemcp.com/clients/alexander-isaev-mistral-universal",
+    "author": "Alexander Isaev",
+    "stars": "12",
+    "github_url": "https://github.com/itisaevalex/mistr-agent",
+    "tags": []
+  },
+  {
+    "name": "LangChain-TypeScript Client",
+    "description": "Demo implementation. Integrates MCP servers with LangChain's ReAct agents.",
+    "detail_url": "https://www.pulsemcp.com/clients/hideya-langchain-typescript",
+    "author": "hideya",
+    "stars": "12",
+    "github_url": "https://github.com/hideya/mcp-client-langchain-ts",
+    "tags": []
+  },
+  {
+    "name": "MCP Debug",
+    "description": "Web-based interface for testing and debugging MCP servers, featuring real-time chat integration with Claude that automatically utilizes available tools through a bridge server architecture.",
+    "detail_url": "https://www.pulsemcp.com/clients/faraazahmad-debug",
+    "author": "Syed Faraaz Ahmad",
+    "stars": "13",
+    "github_url": "https://github.com/faraazahmad/mcp_debug",
+    "tags": []
+  },
+  {
+    "name": "Llama-Server MCP Proxy",
+    "description": "Bridges llama-server with MCP-compatible tool servers, enabling local LLMs to access external tools like web search, filesystem, and web browsing while maintaining streaming support.",
+    "detail_url": "https://www.pulsemcp.com/clients/extopico-llama-server-proxy",
+    "author": "extopico",
+    "stars": "13",
+    "github_url": "https://github.com/extopico/llama-server_mcp_proxy",
+    "tags": []
+  },
+  {
+    "name": "AI Image Generation Pipeline (LangGraph)",
+    "description": "Demonstrates the use of LangGraph to create workflows for generating AI image prompts and images based on given topics, with human-in-the-loop interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/lalanikarim-ai-image-generation-pipeline-langgraph",
+    "author": "Karim Lalani",
+    "stars": "13",
+    "github_url": "https://github.com/lalanikarim/langgraph-mcp-pipeline",
+    "tags": []
+  },
+  {
+    "name": "CF AI Chat",
+    "description": "Spring-based chatbot application for Cloud Foundry that enables document upload and AI-powered conversations through service bindings to LLM models, agents, and extended memory capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/cf-ai-chat",
+    "author": "Corby Page",
+    "stars": "13",
+    "github_url": "https://github.com/cpage-pivotal/cf-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Flutter MCP",
+    "description": "Flutter-based modular client for connecting AI assistants with external tools, featuring clean architecture and Google's Generative AI integration for Flutter applications.",
+    "detail_url": "https://www.pulsemcp.com/clients/yashmakan-flutter",
+    "author": "Yash Makan",
+    "stars": "14",
+    "github_url": "https://github.com/yashmakan/flutter_mcp",
+    "tags": []
+  },
+  {
+    "name": "cMCP",
+    "description": "CLI tool for interacting directly with MCP servers via stdio or SSE, enabling fine-grained exploration of Tools, Resources, and Prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/russellluo-cmcp",
+    "author": "Russell Luo",
+    "stars": "14",
+    "github_url": "https://github.com/russellluo/cmcp",
+    "tags": []
+  },
+  {
+    "name": "CrewAI",
+    "description": "Integrates CrewAI, enabling seamless interaction between AI agents and external tools for enhanced workflows.",
+    "detail_url": "https://www.pulsemcp.com/clients/dshivendra-crewai",
+    "author": "Shivendra Kumar",
+    "stars": "14",
+    "github_url": "https://github.com/dshivendra/crewai_mcp_adapter",
+    "tags": []
+  },
+  {
+    "name": "Oneshot",
+    "description": "Chat with Claude for macOS.",
+    "detail_url": "https://www.pulsemcp.com/clients/destiner-oneshot",
+    "author": "Destiner",
+    "stars": "14",
+    "github_url": "https://github.com/destiner/oneshot",
+    "tags": []
+  },
+  {
+    "name": "EasyMCP",
+    "description": "Python client for connecting to multiple MCP server types (SSE, NPX, UV) with a unified interface for server selection, connection management, and tool execution via OpenAI's API.",
+    "detail_url": "https://www.pulsemcp.com/clients/mshojaei77-easymcp",
+    "author": "Mohammad Shojaei",
+    "stars": "15",
+    "github_url": "https://github.com/mshojaei77/easymcp",
+    "tags": []
+  },
+  {
+    "name": "Dify Agent Strategy",
+    "description": "Integrates Dify's AI application development platform with MCP function call capabilities, enabling seamless connection to single or multiple MCP servers with configurable connection parameters.",
+    "detail_url": "https://www.pulsemcp.com/clients/hjlarry-dify-agent",
+    "author": "hjlarry",
+    "stars": "15",
+    "github_url": "https://github.com/hjlarry/dify-plugin-mcp_agent",
+    "tags": []
+  },
+  {
+    "name": "mcp-cmd",
+    "description": "Command-line tool for managing persistent MCP servers that run continuously in the background, enabling successive tool calls and prompt interactions through the same server instance without respawning processes.",
+    "detail_url": "https://www.pulsemcp.com/clients/developit-cmd",
+    "author": "Jason Miller",
+    "stars": "16",
+    "github_url": "https://github.com/developit/mcp-cmd",
+    "tags": []
+  },
+  {
+    "name": "AskAnything",
+    "description": "Chrome extension that provides a sidepanel interface for interacting with multiple AI models while browsing any website, featuring conversation history management and tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/obrr-hhx-askanything",
+    "author": "obrr-hhx",
+    "stars": "16",
+    "github_url": "https://github.com/obrr-hhx/askanything",
+    "tags": []
+  },
+  {
+    "name": "AI Agent Toolkit",
+    "description": "TypeScript library that connects AI agents to multiple MCP servers, automatically discovers and uses tools, and integrates with AI SDK for text generation with tool usage.",
+    "detail_url": "https://www.pulsemcp.com/clients/fkesheh-ai-agent-toolkit",
+    "author": "Foad K",
+    "stars": "16",
+    "github_url": "https://github.com/fkesheh/mcp-ai-agent",
+    "tags": []
+  },
+  {
+    "name": "Vite React Frontend",
+    "description": "Chat with LLMs via a user-friendly frontend built with Vite, React, and TypeScript, integrating with MCP-Kit for enhanced AI capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/shaharia-lab-vite-react-frontend",
+    "author": "Shaharia Lab",
+    "stars": "16",
+    "github_url": "https://github.com/shaharia-lab/mcp-frontend",
+    "tags": []
+  },
+  {
+    "name": "SSE CLI Example",
+    "description": "Demo implementation. Connects to MCP servers using SSE transport.",
+    "detail_url": "https://www.pulsemcp.com/clients/slavashvets-http-cli-example",
+    "author": "Vyacheslav Shvets",
+    "stars": "17",
+    "github_url": "https://github.com/slavashvets/mcp-http-client-example",
+    "tags": []
+  },
+  {
+    "name": "Nova Sonic (Amazon Bedrock Voice Chat)",
+    "description": "Bidirectional streaming voice chat client for Amazon Bedrock that enables real-time conversations with AI models through voice selection, custom prompts, and tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/aws-nova-sonic",
+    "author": "AWS",
+    "stars": "18",
+    "github_url": "https://github.com/aws-samples/sample-nova-sonic-mcp",
+    "tags": []
+  },
+  {
+    "name": "Browser Automation",
+    "description": "Enables AI assistants to automate Chrome browser tasks like navigation, interaction with web elements, taking screenshots, and executing batch commands through a WebSocket connection to a browser extension.",
+    "detail_url": "https://www.pulsemcp.com/clients/buyitsydney-browser-automation",
+    "author": "Sydney Assistant",
+    "stars": "19",
+    "github_url": "https://github.com/buyitsydney/codingbaby-browser-mcp",
+    "tags": []
+  },
+  {
+    "name": "Slack Assistant",
+    "description": "Slack bot that integrates with MCP servers to enable tool discovery, execution, and AI-powered interactions across channels and direct messages.",
+    "detail_url": "https://www.pulsemcp.com/clients/csonigo-slack-assistant",
+    "author": "Sonigo",
+    "stars": "20",
+    "github_url": "https://github.com/csonigo/slack-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Agent",
+    "description": "Demo implementation. Chat with OpenAI via CLI using DSPy. Open Source.",
+    "detail_url": "https://www.pulsemcp.com/clients/shane-kercheval-agent",
+    "author": "Shane Kercheval",
+    "stars": "20",
+    "github_url": "https://github.com/shane-kercheval/mcp-client-agent",
+    "tags": []
+  },
+  {
+    "name": "Osmosis-MCP-4B Demo",
+    "description": "Connects a locally-hosted Osmosis-MCP-4B language model to external tools like Brave Search, Google Maps, AccuWeather, and a code interpreter through terminal or web interfaces.",
+    "detail_url": "https://www.pulsemcp.com/clients/gulp-osmosis-mcp-4b-demo",
+    "author": "Gulp",
+    "stars": "21",
+    "github_url": "https://github.com/gulp-ai/osmosis-mcp-4b-demo",
+    "tags": []
+  },
+  {
+    "name": "Hyper Terminal",
+    "description": "Web-based terminal interface for accessing command-line tools through xterm.js and socket.io with real-time communication capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/bigsweetpotatostudio-hyper-terminal",
+    "author": "Big Sweet Potato Studio",
+    "stars": "21",
+    "github_url": "https://github.com/bigsweetpotatostudio/hyper-mcp-terminal",
+    "tags": []
+  },
+  {
+    "name": "WhatsApp Voice Agent",
+    "description": "Voice-enabled WhatsApp client that processes user voice commands through LiveKit, converting speech to text and responses back to voice for natural conversational interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/autometa-whatsapp-voice-agent",
+    "author": "Autometa",
+    "stars": "22",
+    "github_url": "https://github.com/autometa-dev/whatsapp-mcp-voice-agent",
+    "tags": []
+  },
+  {
+    "name": "SPARC Roo (Nostr-Enhanced Autonomous Coding)",
+    "description": "Enhances Roo Code with specialized autonomous coding agents that leverage Nostr integration and domain-specific context for complex projects",
+    "detail_url": "https://www.pulsemcp.com/clients/jodobear-sparc-roo-nostr",
+    "author": "jodobear",
+    "stars": "22",
+    "github_url": "https://github.com/jodobear/sparcaroo",
+    "tags": []
+  },
+  {
+    "name": "Mattermost",
+    "description": "Integrates Mattermost with MCP servers, enabling command execution and tool management through chat channels.",
+    "detail_url": "https://www.pulsemcp.com/clients/jagan-shanmugam-mattermost",
+    "author": "Jagan Shanmugam",
+    "stars": "23",
+    "github_url": "https://github.com/jagan-shanmugam/mattermost-mcp-host",
+    "tags": []
+  },
+  {
+    "name": "OI-Wiki Vector Search",
+    "description": "Specialized client for accessing and searching OI-Wiki content through vector embeddings, enabling efficient retrieval of competitive programming and algorithm information.",
+    "detail_url": "https://www.pulsemcp.com/clients/shwstone-oi-wiki",
+    "author": "ShwStone",
+    "stars": "24",
+    "github_url": "https://github.com/shwstone/mcp-oi-wiki",
+    "tags": []
+  },
+  {
+    "name": "Web Dashboard",
+    "description": "Web-based dashboard for managing chatbots and MCP server connections with real-time chat interfaces, tool call visualization, and session management.",
+    "detail_url": "https://www.pulsemcp.com/clients/jinruoxinchen-web-dashboard",
+    "author": "jinruoxinchen",
+    "stars": "24",
+    "github_url": "https://github.com/jinruoxinchen/mcp-web-client",
+    "tags": []
+  },
+  {
+    "name": "MCP Playground",
+    "description": "Desktop application for testing and debugging MCP implementations with support for multiple AI providers, server exploration, and tool visualization.",
+    "detail_url": "https://www.pulsemcp.com/clients/playground",
+    "author": "Rosa Boyle",
+    "stars": "25",
+    "github_url": "https://github.com/rosaboyle/mcp-playground",
+    "tags": []
+  },
+  {
+    "name": "TS Stdio+SSE Example",
+    "description": "Demo implementation. Connects to MCP servers using STDIO or SSE transport.",
+    "detail_url": "https://www.pulsemcp.com/clients/edanyal-typescript-core",
+    "author": "Eran Danyal",
+    "stars": "27",
+    "github_url": "https://github.com/edanyal/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "LangChainGo MCP Adapter",
+    "description": "Bridges LangChain Go tools with MCP servers, enabling seamless discovery and use of external tools within LangChain Go applications.",
+    "detail_url": "https://www.pulsemcp.com/clients/i2y-langchaingo-adapter",
+    "author": "Yasushi Itoh",
+    "stars": "28",
+    "github_url": "https://github.com/i2y/langchaingo-mcp-adapter",
+    "tags": []
+  },
+  {
+    "name": "Anthropic Chat (Laravel)",
+    "description": "Demo implementation. Laravel code as a client powered by Anthropic API calls.",
+    "detail_url": "https://www.pulsemcp.com/clients/scriptoshi-laravel-anthropic",
+    "author": "Scriptoshi",
+    "stars": "28",
+    "github_url": "https://github.com/scriptoshi/laravel-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Flutter Gemini Chat",
+    "description": "Flutter-based desktop chat application that manages multiple MCP server connections simultaneously while maintaining a single conversation thread with Gemini AI.",
+    "detail_url": "https://www.pulsemcp.com/clients/leehack-flutter-gemini-chat",
+    "author": "Lee Hack",
+    "stars": "29",
+    "github_url": "https://github.com/leehack/flutter-mcp-ai-chat",
+    "tags": []
+  },
+  {
+    "name": "Dify",
+    "description": "Integrates Dify's AI application development platform with MCP-compatible systems, enabling seamless use of Dify's AI features within existing MCP-enabled applications and tools.",
+    "detail_url": "https://www.pulsemcp.com/clients/difybase-dify-connect",
+    "author": "Dify",
+    "stars": "31",
+    "github_url": "https://github.com/difybase/dify-connect-mcp",
+    "tags": []
+  },
+  {
+    "name": "ThingsPanel IoT",
+    "description": "Integrates with ThingsPanel IoT platform for device management, data retrieval, and visualization of IoT telemetry through a Python interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/thingspanel-iot",
+    "author": "ThingsPanel",
+    "stars": "32",
+    "github_url": "https://github.com/thingspanel/thingspanel-mcp",
+    "tags": []
+  },
+  {
+    "name": "Git Chat",
+    "description": "Git-based chat interface for testing and interacting with multiple AI models, featuring a tree-based conversation history for navigating between different response paths.",
+    "detail_url": "https://www.pulsemcp.com/clients/kamath-git-chat",
+    "author": "Anirudh Kamath",
+    "stars": "35",
+    "github_url": "https://github.com/kamath/dotcom.chat",
+    "tags": []
+  },
+  {
+    "name": "Xiaozhi AI (Home Assistant)",
+    "description": "WebSocket bridge connecting Home Assistant to Xiaozhi AI for smart home automation with AI capabilities, featuring reliable reconnection and comprehensive error handling.",
+    "detail_url": "https://www.pulsemcp.com/clients/shawn996-xiaozhi-ai-home-assistant",
+    "author": "shawn996",
+    "stars": "36",
+    "github_url": "https://github.com/shawn996/mcp_ha_xiaozhi",
+    "tags": []
+  },
+  {
+    "name": "chat.md",
+    "description": "VS Code extension that enables interactive conversations with any LLM directly in markdown files, supporting tool integration, image sharing, and file attachments.",
+    "detail_url": "https://www.pulsemcp.com/clients/rusiaaman-chat-md",
+    "author": "Aaman Rusia",
+    "stars": "37",
+    "github_url": "https://github.com/rusiaaman/chat.md",
+    "tags": []
+  },
+  {
+    "name": "SwiftMCP (HealthKit)",
+    "description": "Swift package for iOS and macOS that enables native API integration with built-in HealthKit support, allowing applications to expose capabilities like step counting to AI assistants.",
+    "detail_url": "https://www.pulsemcp.com/clients/compiler-inc-swiftmcp-healthkit",
+    "author": "Compiler Inc",
+    "stars": "38",
+    "github_url": "https://github.com/compiler-inc/swiftmcp",
+    "tags": []
+  },
+  {
+    "name": "DrissionPage",
+    "description": "Python client that integrates DrissionPage with web automation capabilities for browser control and element interaction.",
+    "detail_url": "https://www.pulsemcp.com/clients/drissionpage",
+    "author": "wxhzhwxhzh",
+    "stars": "39",
+    "github_url": "https://github.com/wxhzhwxhzh/drissionpagemcp",
+    "tags": []
+  },
+  {
+    "name": "LLaMa Streamlit",
+    "description": "Integrates with Nvidia NIM or Ollama to provide an interactive chat interface for executing real-time external tools, retrieving data, and performing actions via LLMs.",
+    "detail_url": "https://www.pulsemcp.com/clients/nikunj2003-llama-streamlit",
+    "author": "Nikunj Khitha",
+    "stars": "41",
+    "github_url": "https://github.com/nikunj2003/llama-mcp-streamlit",
+    "tags": []
+  },
+  {
+    "name": "SeekChat",
+    "description": "Chat with LLMs via a multi-provider desktop application for Windows, Mac, and Linux with local history storage and MCP tool integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/seekrays-seekchat",
+    "author": "Seekrays",
+    "stars": "42",
+    "github_url": "https://github.com/seekrays/seekchat",
+    "tags": []
+  },
+  {
+    "name": "Dive MCP Host",
+    "description": "Unified language model host service that standardizes interactions with various AI providers while offering conversation management, persistent storage, and multi-threaded capabilities through HTTP API and WebSocket support.",
+    "detail_url": "https://www.pulsemcp.com/clients/dive-mcp-host",
+    "author": "OpenAgentPlatform",
+    "stars": "45",
+    "github_url": "https://github.com/openagentplatform/dive-mcp-host",
+    "tags": []
+  },
+  {
+    "name": "Langgraph Tools",
+    "description": "Integrates MCP endpoint tools, particularly Brave Search, into a Langgraph-based workflow for complex AI-driven tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/paulrobello-langgraph-tools",
+    "author": "Paul Robello",
+    "stars": "45",
+    "github_url": "https://github.com/paulrobello/mcp_langgraph_tools",
+    "tags": []
+  },
+  {
+    "name": "REST API/CLI Client",
+    "description": "Chat with LLM's via CLI or REST API. Leverages LangChain.",
+    "detail_url": "https://www.pulsemcp.com/clients/rakesh-eltropy-rest-api-client",
+    "author": "Rakesh",
+    "stars": "48",
+    "github_url": "https://github.com/rakesh-eltropy/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Ollama",
+    "description": "Connects Ollama-hosted LLMs to MCP servers, enabling Git operations, shell commands, and external tool usage through an interactive command-line interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/mihirrd-ollama",
+    "author": "Mihir Deshpande",
+    "stars": "56",
+    "github_url": "https://github.com/mihirrd/ollama-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "TinyAgents",
+    "description": "Minimalist framework for building LLM-powered agents that use external tools through Python or JavaScript servers with Qwen2.5-Coder-32B-Instruct model.",
+    "detail_url": "https://www.pulsemcp.com/clients/albertvillanova-tinyagents",
+    "author": "Albert Villanova",
+    "stars": "59",
+    "github_url": "https://github.com/albertvillanova/tinyagents",
+    "tags": []
+  },
+  {
+    "name": "CarrotAI",
+    "description": "Flutter-based chat application with a clean UI that connects to various AI models through MCP servers, featuring multi-language support, theme customization, and plugin integration for enhanced conversations.",
+    "detail_url": "https://www.pulsemcp.com/clients/xingsandesu-carrotai",
+    "author": "Xingsandesu",
+    "stars": "63",
+    "github_url": "https://github.com/xingsandesu/carrotai",
+    "tags": []
+  },
+  {
+    "name": "Gemini MCP Desktop",
+    "description": "Electron-based desktop application that connects Google's Gemini models to multiple MCP servers, enabling enhanced AI interactions with specialized tools through a configurable chat interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/gemini-mcp-desktop",
+    "author": "duke7able",
+    "stars": "64",
+    "github_url": "https://github.com/duke7able/gemini-mcp-desktop-client",
+    "tags": []
+  },
+  {
+    "name": "Gradio UI Example",
+    "description": "Demo implementation. Using Gradio for an SSE+stdio-compatible UI.",
+    "detail_url": "https://www.pulsemcp.com/clients/justjoehere-gradio-ui",
+    "author": "Joseph Ours",
+    "stars": "69",
+    "github_url": "https://github.com/justjoehere/mcp_gradio_client",
+    "tags": []
+  },
+  {
+    "name": "Vue Chat Interface",
+    "description": "Vue-based chat interface for interacting with AI models, featuring a clean UI with components for chat history, message display, input controls, and model settings.",
+    "detail_url": "https://www.pulsemcp.com/clients/vue-chat-interface",
+    "author": "Ma Chaojin",
+    "stars": "73",
+    "github_url": "https://github.com/machaojin1917939763/mcp-ui",
+    "tags": []
+  },
+  {
+    "name": "QU3 (Quantum-Safe Communication)",
+    "description": "Secure client for quantum-safe communication with AI compute providers using post-quantum cryptography for key exchange and signatures.",
+    "detail_url": "https://www.pulsemcp.com/clients/qu3-quantum-safe-communication",
+    "author": "QU3 AI",
+    "stars": "76",
+    "github_url": "https://github.com/qu3ai/qu3-app",
+    "tags": []
+  },
+  {
+    "name": "AgentGraph",
+    "description": "Visual workflow builder for creating and managing agent-based systems with drag-and-drop interface, model configuration, and real-time execution monitoring.",
+    "detail_url": "https://www.pulsemcp.com/clients/keta1930-agent-graph",
+    "author": "Yixin Yan",
+    "stars": "78",
+    "github_url": "https://github.com/keta1930/mcp-agent-graph",
+    "tags": []
+  },
+  {
+    "name": "GHOSTCREW (Cybersecurity Assistant)",
+    "description": "Cybersecurity assistant that integrates with penetration testing tools like Nmap, Metasploit, FFUF, and SQLMap to help users perform security tasks through natural language interaction.",
+    "detail_url": "https://www.pulsemcp.com/clients/gh05tcrew-cybersecurity-assistant",
+    "author": "GH05TCREW",
+    "stars": "85",
+    "github_url": "https://github.com/gh05tcrew/pentestagent",
+    "tags": []
+  },
+  {
+    "name": "Install MCP",
+    "description": "CLI tool that automatically detects and configures MCP servers across multiple AI clients, eliminating the need for manual JSON editing.",
+    "detail_url": "https://www.pulsemcp.com/clients/dhravya-install",
+    "author": "Dhravya Shah",
+    "stars": "87",
+    "github_url": "https://github.com/supermemoryai/install-mcp",
+    "tags": []
+  },
+  {
+    "name": "Dify Plugin Agent SSE",
+    "description": "Enables Dify AI applications to leverage external tools through server-sent events, supporting both ReAct and function calling agent strategies for real-time interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/junjiem-dify-plugin-agent-sse",
+    "author": "junjiem",
+    "stars": "105",
+    "github_url": "https://github.com/junjiem/dify-plugin-agent-mcp_sse",
+    "tags": []
+  },
+  {
+    "name": "Ultimate MCP Client",
+    "description": "Python-based client for connecting to multiple MCP servers with WebSocket streaming, conversation branching, and comprehensive caching for building complex AI agents that interact with distributed capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/ultimate-mcp-client",
+    "author": "Jeffrey Emanuel",
+    "stars": "128",
+    "github_url": "https://github.com/dicklesworthstone/ultimate_mcp_client",
+    "tags": []
+  },
+  {
+    "name": "Console Chat GPT",
+    "description": "Chat with LLM's via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/amidabuddha-console-chat-gpt",
+    "author": "amidabuddha",
+    "stars": "143",
+    "github_url": "https://github.com/amidabuddha/console-chat-gpt",
+    "tags": []
+  },
+  {
+    "name": "OmniConnect",
+    "description": "Universal MCP client that connects to multiple servers through various transport protocols, featuring intelligent tool routing and support for multiple LLM providers.",
+    "detail_url": "https://www.pulsemcp.com/clients/abiorh001-omni-connect",
+    "author": "Abiola Adeshina",
+    "stars": "157",
+    "github_url": "https://github.com/abiorh001/mcp_omni_connect",
+    "tags": []
+  },
+  {
+    "name": "Markdown Processor",
+    "description": "CLI tool for interacting with markdown processing tools through an OpenAI-powered conversational interface, enabling file reading and writing with configurable server connections.",
+    "detail_url": "https://www.pulsemcp.com/clients/markdown-processor",
+    "author": "Edoardo Cilia",
+    "stars": "170",
+    "github_url": "https://github.com/keli-wen/mcp_chatbot",
+    "tags": []
+  },
+  {
+    "name": "Y CLI",
+    "description": "Chat with LLMs via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/luohy15-y-cli",
+    "author": "Hongyi Luo",
+    "stars": "172",
+    "github_url": "https://github.com/luohy15/y-cli",
+    "tags": []
+  },
+  {
+    "name": "Desktop Accessibility",
+    "description": "Desktop UI automation SDK for macOS that enables finding, inspecting, and controlling UI elements across applications through accessibility APIs.",
+    "detail_url": "https://www.pulsemcp.com/clients/m13v-desktop-accessibility",
+    "author": "m13v",
+    "stars": "174",
+    "github_url": "https://github.com/mediar-ai/mcp-server-client-computer-use-ai-sdk",
+    "tags": []
+  },
+  {
+    "name": "Saiki",
+    "description": "Command center for controlling computers and services with natural language, connecting to multiple LLM providers and MCP servers through both CLI and web interfaces for tasks from file operations to web browsing.",
+    "detail_url": "https://www.pulsemcp.com/clients/truffle-ai-saiki",
+    "author": "Truffle AI",
+    "stars": "179",
+    "github_url": "https://github.com/truffle-ai/saiki",
+    "tags": []
+  },
+  {
+    "name": "MCP Chatbot",
+    "description": "Demo implementation. Chat with LLM's via CLI. Built in Python.",
+    "detail_url": "https://www.pulsemcp.com/clients/3choff-mcp-chatbot",
+    "author": "3choff",
+    "stars": "213",
+    "github_url": "https://github.com/3choff/mcp-chatbot",
+    "tags": []
+  },
+  {
+    "name": "Cobolt",
+    "description": "Desktop application for interacting with local language models through Ollama, featuring a modular architecture with memory capabilities and tool integration via MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/platinum-hill-cobolt",
+    "author": "Platinum Hill",
+    "stars": "221",
+    "github_url": "https://github.com/platinum-hill/cobolt",
+    "tags": []
+  },
+  {
+    "name": "AIQL Desktop Chat",
+    "description": "Chat with LLM's for macOS, Windows, and Linux. Open Source.",
+    "detail_url": "https://www.pulsemcp.com/clients/aiql-desktop-chat",
+    "author": "AIQL",
+    "stars": "231",
+    "github_url": "https://github.com/ai-ql/chat-mcp",
+    "tags": []
+  },
+  {
+    "name": "LangChain.js Adapters",
+    "description": "Integrates LangChain.js with MCP servers using stdio and SSE transports, enabling seamless tool integration for AI applications.",
+    "detail_url": "https://www.pulsemcp.com/clients/vrknetha-langchainjs-adapters",
+    "author": "vrknetha",
+    "stars": "239",
+    "github_url": "https://github.com/langchain-ai/langchainjs-mcp-adapters",
+    "tags": []
+  },
+  {
+    "name": "Hermes",
+    "description": "Elixir-based MCP client with multiple transport options, built-in connection supervision, and progress notification support for high-performance, fault-tolerant model interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/cloudwalk-hermes",
+    "author": "CloudWalk",
+    "stars": "245",
+    "github_url": "https://github.com/cloudwalk/hermes-mcp",
+    "tags": []
+  },
+  {
+    "name": "Xiaohongshu (Little Red Book)",
+    "description": "Provides a bridge between Xiaohongshu (Little Red Book) social media platform and conversational interfaces, enabling note searching, content retrieval, user information access, and comment management through authenticated API interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/jobsonlook-xiaohongshu",
+    "author": "jobsonlook",
+    "stars": "263",
+    "github_url": "https://github.com/jobsonlook/xhs-mcp",
+    "tags": []
+  },
+  {
+    "name": "SSE Client Example",
+    "description": "Demo implementation. Connect to SSE-based MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/sidharthrajaram-sse-integration",
+    "author": "Sidharth Rajaram",
+    "stars": "292",
+    "github_url": "https://github.com/sidharthrajaram/mcp-sse",
+    "tags": []
+  },
+  {
+    "name": "OpenMCP",
+    "description": "VSCode extension that connects to MCP-compatible language models, providing a user interface for managing connections, sending prompts, and visualizing responses with full context sharing and tool usage support.",
+    "detail_url": "https://www.pulsemcp.com/clients/lstm-kirigaya-openmcp",
+    "author": "LSTM-Kirigaya",
+    "stars": "368",
+    "github_url": "https://github.com/lstm-kirigaya/openmcp-client",
+    "tags": []
+  },
+  {
+    "name": "Copilot",
+    "description": "VSCode extension that integrates MCP servers with GitHub Copilot Chat, enabling server management and enhanced AI-assisted coding capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/vikashloomba-copilot",
+    "author": "Vikash Loomba",
+    "stars": "400",
+    "github_url": "https://github.com/vikashloomba/copilot-mcp",
+    "tags": []
+  },
+  {
+    "name": "mcp.el (GNU Emaics)",
+    "description": "Invoke MCP servers directly from GNU Emacs.",
+    "detail_url": "https://www.pulsemcp.com/clients/lizqwerscott-mcp-el-emacs",
+    "author": "lizqwer scott",
+    "stars": "405",
+    "github_url": "https://github.com/lizqwerscott/mcp.el",
+    "tags": []
+  },
+  {
+    "name": "Evo AI",
+    "description": "FastAPI platform for creating and managing AI agents with support for various agent types, agent-to-agent communication, custom tools integration, and folder-based organization.",
+    "detail_url": "https://www.pulsemcp.com/clients/evolutionapi-evo-ai",
+    "author": "Evolution API",
+    "stars": "414",
+    "github_url": "https://github.com/evolutionapi/evo-ai",
+    "tags": []
+  },
+  {
+    "name": "CLI Client",
+    "description": "Chat with LLM's via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/adhikasp-mcp-client-cli",
+    "author": "Adhika Setya Pramudita",
+    "stars": "602",
+    "github_url": "https://github.com/adhikasp/mcp-client-cli",
+    "tags": []
+  },
+  {
+    "name": "Protolint",
+    "description": "Linter and fixer for Protocol Buffer files that enforces style conventions with customizable rules, cross-platform support, and CI/CD integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/yoheimuta-protolint",
+    "author": "Yohei Yoshimuta",
+    "stars": "643",
+    "github_url": "https://github.com/yoheimuta/protolint",
+    "tags": []
+  },
+  {
+    "name": "MCPM",
+    "description": "Command-line tool for discovering, installing, configuring, and sharing MCP servers across multiple AI clients with unified profile-based access control.",
+    "detail_url": "https://www.pulsemcp.com/clients/pathintegral-institute-mcpm",
+    "author": "Path Integral Institute",
+    "stars": "681",
+    "github_url": "https://github.com/pathintegral-institute/mcpm.sh",
+    "tags": []
+  },
+  {
+    "name": "Scira MCP Chat",
+    "description": "Clean, feature-rich chat interface for multiple AI models with persistent history, theme customization, and tool invocation capabilities through connected MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/zaidmukaddam-scira-chat",
+    "author": "Zaid Mukaddam",
+    "stars": "704",
+    "github_url": "https://github.com/zaidmukaddam/scira-mcp-chat",
+    "tags": []
+  },
+  {
+    "name": "Minions",
+    "description": "Enable small on-device models to collaborate with frontier models in the cloud",
+    "detail_url": "https://www.pulsemcp.com/clients/minions",
+    "author": "Hazy Research",
+    "stars": "1.1k",
+    "github_url": "https://github.com/hazyresearch/minions",
+    "tags": []
+  },
+  {
+    "name": "Nerve",
+    "description": "Agent Development Kit designed to be a simple yet powerful platform for creating and executing LLM-based agents.",
+    "detail_url": "https://www.pulsemcp.com/clients/nerve",
+    "author": "Simone Margaritelli",
+    "stars": "1.1k",
+    "github_url": "https://github.com/evilsocket/nerve",
+    "tags": []
+  },
+  {
+    "name": "MCPHost",
+    "description": "Chat with LLM's via CLI. Built in Go.",
+    "detail_url": "https://www.pulsemcp.com/clients/mark3labs-mcphost",
+    "author": "Mark III Labs",
+    "stars": "1.2k",
+    "github_url": "https://github.com/mark3labs/mcphost",
+    "tags": []
+  },
+  {
+    "name": "Amazon Q Developer CLI",
+    "description": "Command-line interface tool that provides context-aware completions and suggestions directly in the terminal, integrating with various shells and desktop environments across Linux, macOS, and Windows.",
+    "detail_url": "https://www.pulsemcp.com/clients/aws-amazon-q-developer-cli",
+    "author": "AWS",
+    "stars": "1.2k",
+    "github_url": "https://github.com/aws/amazon-q-developer-cli",
+    "tags": []
+  },
+  {
+    "name": "Witsy",
+    "description": "Desktop application for working with AI models.",
+    "detail_url": "https://www.pulsemcp.com/clients/witsy",
+    "author": "Witsy",
+    "stars": "1.3k",
+    "github_url": "https://github.com/nbonamy/witsy",
+    "tags": []
+  },
+  {
+    "name": "MCPHub.nvim",
+    "description": "Neovim plugin for managing multiple MCP servers directly within your editor, enabling seamless AI-assisted development workflows.",
+    "detail_url": "https://www.pulsemcp.com/clients/ravitemer-mcphub-nvim",
+    "author": "Ravi Teja",
+    "stars": "1.4k",
+    "github_url": "https://github.com/ravitemer/mcphub.nvim",
+    "tags": []
+  },
+  {
+    "name": "Dive",
+    "description": "AI agent desktop application. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/dive",
+    "author": "OpenAgentPlatform",
+    "stars": "1.4k",
+    "github_url": "https://github.com/openagentplatform/dive",
+    "tags": []
+  },
+  {
+    "name": "DeskAid (Git)",
+    "description": "Git-integrated client that enables reading, writing, and editing files in local repositories with automatic version control through structured commands and configurable project settings.",
+    "detail_url": "https://www.pulsemcp.com/clients/ezyang-deskaid",
+    "author": "Edward Z. Yang",
+    "stars": "1.5k",
+    "github_url": "https://github.com/ezyang/codemcp",
+    "tags": []
+  },
+  {
+    "name": "CLI",
+    "description": "Chat with LLM's via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/chrishayuk-protocol-cli",
+    "author": "Chris Hay",
+    "stars": "1.6k",
+    "github_url": "https://github.com/chrishayuk/mcp-cli",
+    "tags": []
+  },
+  {
+    "name": "Oterm",
+    "description": "Chat with Ollama via CLI.",
+    "detail_url": "https://www.pulsemcp.com/clients/ggozad-oterm",
+    "author": "Yiorgis Gozadinos",
+    "stars": "2.1k",
+    "github_url": "https://github.com/ggozad/oterm",
+    "tags": []
+  },
+  {
+    "name": "Tiny Agent",
+    "description": "Hugging Face client for interacting with MCP servers, providing CLI agent capabilities with filesystem and Playwright integration across multiple transport types.",
+    "detail_url": "https://www.pulsemcp.com/clients/huggingface-tiny-agent",
+    "author": "Hugging Face",
+    "stars": "2.2k",
+    "github_url": "https://github.com/huggingface/huggingface.js/tree/HEAD/packages/mcp-client",
+    "tags": []
+  },
+  {
+    "name": "n8n Nodes",
+    "description": "Integrates MCP server capabilities into n8n workflows, enabling AI model interactions and external tool execution for automated data processing and content generation.",
+    "detail_url": "https://www.pulsemcp.com/clients/nerding-io-n8n-nodes",
+    "author": "Jd Fiscus",
+    "stars": "2.4k",
+    "github_url": "https://github.com/nerding-io/n8n-nodes-mcp",
+    "tags": []
+  },
+  {
+    "name": "GenAIScript",
+    "description": "Integrate MCP server capabilities into runnable AI scripts.",
+    "detail_url": "https://www.pulsemcp.com/clients/microsoft-genaiscript",
+    "author": "Microsoft",
+    "stars": "2.7k",
+    "github_url": "https://github.com/microsoft/genaiscript",
+    "tags": []
+  },
+  {
+    "name": "Klavis",
+    "description": "Connects Discord and Slack to multiple MCP servers simultaneously, enabling AI assistant interactions through familiar messaging platforms with support for streaming responses and tool calls.",
+    "detail_url": "https://www.pulsemcp.com/clients/klavis-discord-slack",
+    "author": "Klavis AI",
+    "stars": "3.4k",
+    "github_url": "https://github.com/klavis-ai/klavis/tree/HEAD/mcp_clients",
+    "tags": []
+  },
+  {
+    "name": "UI-TARS Desktop",
+    "description": "Control your computer using natural language through Vision-Language Models with an Electron-based desktop application that automates browser and desktop interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/ui-tars-desktop",
+    "author": "ByteDance",
+    "stars": "15.3k",
+    "github_url": "https://github.com/bytedance/ui-tars-desktop",
+    "tags": []
+  },
+  {
+    "name": "Smolagents",
+    "description": "A library that enables you to run powerful agents in a few lines of code.",
+    "detail_url": "https://www.pulsemcp.com/clients/smolagents",
+    "author": "Hugging Face",
+    "stars": "21.5k",
+    "github_url": "https://github.com/huggingface/smolagents",
+    "tags": []
+  },
+  {
+    "name": "Devin",
+    "description": "The AI software engineer. Devin is built for collaboration and can learn to fit into your unique workflow.",
+    "detail_url": "https://www.pulsemcp.com/clients/devin",
+    "author": "Cognition",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "ChatGPT Connectors",
+    "description": "Connectors allow ChatGPT to integrate with and access data from third-party applications and services. These connectors enable users to interact with their files, data, and workflows within other platforms directly within ChatGPT.",
+    "detail_url": "https://www.pulsemcp.com/clients/chatgpt-connectors",
+    "author": "OpenAI",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "LM Studio",
+    "description": "Desktop application for running local LLMs with tool call confirmation dialogs that connects to both local and remote MCP servers through configurable JSON settings.",
+    "detail_url": "https://www.pulsemcp.com/clients/lm-studio",
+    "author": "LM Studio",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "ElevenLabs Voice Assistants (11ai)",
+    "description": "Personal AI voice assistant, built with ElevenLabs Conversational AI.",
+    "detail_url": "https://www.pulsemcp.com/clients/elevenlabs-voice-assistants",
+    "author": "ElevenLabs",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Claude.ai (Web)",
+    "description": "General purpose chat with Claude models.",
+    "detail_url": "https://www.pulsemcp.com/clients/claude-ai",
+    "author": "Anthropic",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Warp (Terminal)",
+    "description": "Extend Warp's Agent Mode with CLI-based and URL-based servers that provide specialized tools and data sources accessible through natural language interactions in the terminal.",
+    "detail_url": "https://www.pulsemcp.com/clients/warp",
+    "author": "Warp",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "MindPal",
+    "description": "No-code platform for building AI agentic systems for business.",
+    "detail_url": "https://www.pulsemcp.com/clients/mindpal",
+    "author": "MindPal Labs",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Postman",
+    "description": "Test and develop MCP servers with support for STDIO and HTTP/SSE transports, enabling request creation, configuration, and saving within the Postman interface.",
+    "detail_url": "https://www.pulsemcp.com/clients/postman",
+    "author": "Postman",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "MESA MCP",
+    "description": "A friendly UI to build AI agents that integrate, automate, and innovate. Securely access over 4,000 actions from a single connection.",
+    "detail_url": "https://www.pulsemcp.com/clients/getmesa-mcp",
+    "author": "ShopPad",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "n8n",
+    "description": "Connect MCP servers (or generate MCP servers) from n8n nodes as you visually build workflow automations.",
+    "detail_url": "https://www.pulsemcp.com/clients/n8n",
+    "author": "n8n",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Lutra AI (Productivity Agent)",
+    "description": "AI task agent that connects and automates workflows across multiple work applications like Google Workspace, Microsoft Office, and CRMs for data extraction, contact enrichment, email campaigns, and report generation.",
+    "detail_url": "https://www.pulsemcp.com/clients/lutra-ai-productivity-agent",
+    "author": "Lutra",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Paramus",
+    "description": "AI-enable your scientific chemistry work.",
+    "detail_url": "https://www.pulsemcp.com/clients/paramus",
+    "author": "Paramus",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Workers LLM Playground",
+    "description": "Remote MCP server playground with chat.",
+    "detail_url": "https://www.pulsemcp.com/clients/cloudflare-workers-llm-playground",
+    "author": "Cloudflare",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Refact",
+    "description": "Refact.ai Agent handles your coding tasks end-to-end in IDE. It autonomously plans, executes, tests, and self-corrects.",
+    "detail_url": "https://www.pulsemcp.com/clients/refact",
+    "author": "Refact",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Highlight",
+    "description": "Use AI anywhere on your computer.",
+    "detail_url": "https://www.pulsemcp.com/clients/highlight-ai",
+    "author": "Highlight AI",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Claude Code",
+    "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands.",
+    "detail_url": "https://www.pulsemcp.com/clients/claude-code",
+    "author": "Anthropic",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Home Assistant",
+    "description": "Expand Home Assistant's home automation conversation agent capabilities with external tools like memory and web search.",
+    "detail_url": "https://www.pulsemcp.com/clients/home-assistant",
+    "author": "Home Assistant",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Windsurf IDE",
+    "description": "AI-powered code editor.",
+    "detail_url": "https://www.pulsemcp.com/clients/windsurf-ide",
+    "author": "Codeium",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Cursor IDE",
+    "description": "AI-powered code editor.",
+    "detail_url": "https://www.pulsemcp.com/clients/cursor-ide",
+    "author": "Anysphere",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Sage",
+    "description": "Chat with Claude for macOS, iOS, and iPadOS.",
+    "detail_url": "https://www.pulsemcp.com/clients/sage",
+    "author": "Michael Latman",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "description": "Coding assistant plugin for VSCode and JetBrains.",
+    "detail_url": "https://www.pulsemcp.com/clients/sourcegraph-cody",
+    "author": "Sourcegraph",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "Claude Desktop",
+    "description": "Chat with Claude. Anthropic's native implementation for macOS and Windows.",
+    "detail_url": "https://www.pulsemcp.com/clients/claude-desktop",
+    "author": "Anthropic",
+    "stars": "",
+    "tags": []
+  },
+  {
+    "name": "TySVA (Learn TypeScript)",
+    "description": "Voice-enabled TypeScript programming teacher that combines Groq's LLM capabilities with ElevenLabs' voice synthesis for natural conversation-based coding learning.",
+    "detail_url": "https://www.pulsemcp.com/clients/astrabert-typescript-voice-assistant",
+    "author": "Clelia (Astra) Bertelli",
+    "stars": "14",
+    "github_url": "https://github.com/astrabert/tysva",
+    "tags": []
+  },
+  {
+    "name": "MCP Client Tester",
+    "description": "An open-source customizable MCP client for testing remote MCP servers.",
+    "detail_url": "https://www.pulsemcp.com/clients/apify-tester-client",
+    "author": "Apify",
+    "stars": "64",
+    "github_url": "https://github.com/apify/tester-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "ClaudeR",
+    "description": "R package for interactive coding sessions with Claude, establishing a local HTTP server for secure code execution, output capture, and interaction logging.",
+    "detail_url": "https://www.pulsemcp.com/clients/imnmv-claude-r",
+    "author": "Nykko Vitali",
+    "stars": "69",
+    "github_url": "https://github.com/imnmv/clauder",
+    "tags": []
+  },
+  {
+    "name": "Slack Assistant",
+    "description": "Slack bot that leverages multiple language models to process messages, dynamically discover and execute tools from configured servers, and provide intelligent responses across channels and direct messages.",
+    "detail_url": "https://www.pulsemcp.com/clients/sooperset-slack-assistant",
+    "author": "sooperset",
+    "stars": "128",
+    "github_url": "https://github.com/sooperset/mcp-client-slackbot/tree/HEAD/mcp_simple_slackbot",
+    "tags": []
+  },
+  {
+    "name": "Toolbase",
+    "description": "Enhance Claude Desktop with baked-in, one-click toggle MCP capabilities. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/toolbase",
+    "author": "Toolbase",
+    "stars": "152",
+    "github_url": "https://github.com/toolbase-ai/toolbase",
+    "tags": []
+  },
+  {
+    "name": "Systemprompt",
+    "description": "Gemini-powered MCP server control with your voice. Available on iOS and Android.",
+    "detail_url": "https://www.pulsemcp.com/clients/systemprompt-io",
+    "author": "Ejb503",
+    "stars": "198",
+    "github_url": "https://github.com/ejb503/multimodal-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "Director",
+    "description": "MCP gateway that aggregates multiple MCP servers into unified endpoints with automatic client configuration management.",
+    "detail_url": "https://www.pulsemcp.com/clients/director",
+    "author": "director.run",
+    "stars": "276",
+    "github_url": "https://github.com/director-run/director",
+    "tags": []
+  },
+  {
+    "name": "Groq Desktop",
+    "description": "Desktop application for interacting with Groq's AI models, featuring a chat interface with streaming responses, tool execution, and cross-platform script handling.",
+    "detail_url": "https://www.pulsemcp.com/clients/groq-desktop",
+    "author": "Groq",
+    "stars": "323",
+    "github_url": "https://github.com/groq/groq-desktop-beta",
+    "tags": []
+  },
+  {
+    "name": "CLI Inspector",
+    "description": "CLI tool for interacting directly with MCP servers via stdio or SSE, enabling fine-grained exploration of Tools, Resources, and Prompts.",
+    "detail_url": "https://www.pulsemcp.com/clients/wong2-cli-inspector",
+    "author": "wong2",
+    "stars": "356",
+    "github_url": "https://github.com/wong2/mcp-cli",
+    "tags": []
+  },
+  {
+    "name": "Tome",
+    "description": "MacOS app for managing local LLMs and MCP servers with a clean interface for model management, server configuration, and chat interactions.",
+    "detail_url": "https://www.pulsemcp.com/clients/runebookai-tome",
+    "author": "Runebook",
+    "stars": "358",
+    "github_url": "https://github.com/runebookai/tome",
+    "tags": []
+  },
+  {
+    "name": "MCPJam Inspector",
+    "description": "Development tool for debugging and testing MCP servers with React-based interface, real-time connection management, tool execution, resource browsing, and chat capabilities across multiple AI providers.",
+    "detail_url": "https://www.pulsemcp.com/clients/mcpjam-inspector",
+    "author": "MCPJam",
+    "stars": "478",
+    "github_url": "https://github.com/mcpjam/inspector",
+    "tags": []
+  },
+  {
+    "name": "FLUJO",
+    "description": "Desktop application for creating and managing AI workflows through a visual flowbuilder interface with online and offline capabilities.",
+    "detail_url": "https://www.pulsemcp.com/clients/mario-andreschak-flujo",
+    "author": "Mario Andreschak",
+    "stars": "519",
+    "github_url": "https://github.com/mario-andreschak/flujo",
+    "tags": []
+  },
+  {
+    "name": "HyperChat",
+    "description": "Chat with LLM's for macOS and Windows. Open Source.",
+    "detail_url": "https://www.pulsemcp.com/clients/bigsweetpotatostudio-hyperchat",
+    "author": "Big Sweet Potato Studio",
+    "stars": "640",
+    "github_url": "https://github.com/bigsweetpotatostudio/hyperchat",
+    "tags": []
+  },
+  {
+    "name": "Zola",
+    "description": "Free, open-source chat application supporting multiple AI models with file uploads, custom agents, and GitHub repository integration.",
+    "detail_url": "https://www.pulsemcp.com/clients/ibelick-zola",
+    "author": "Julien Thibeaut",
+    "stars": "948",
+    "github_url": "https://github.com/ibelick/zola",
+    "tags": []
+  },
+  {
+    "name": "Open MCP Client",
+    "description": "Web-based MCP client that can chat with MCP servers, embeddable into any app.",
+    "detail_url": "https://www.pulsemcp.com/clients/open-mcp-client",
+    "author": "CopilotKit",
+    "stars": "1.6k",
+    "github_url": "https://github.com/copilotkit/open-mcp-client",
+    "tags": []
+  },
+  {
+    "name": "ChatMCP",
+    "description": "Chat with LLM's. UI for macOS, Windows, Linux.",
+    "detail_url": "https://www.pulsemcp.com/clients/daodao97-chatmcp",
+    "author": "daodao97",
+    "stars": "1.9k",
+    "github_url": "https://github.com/daodao97/chatmcp",
+    "tags": []
+  },
+  {
+    "name": "fast-agent",
+    "description": "Create and interact with sophisticated Agents and Workflows via CLI in minutes.",
+    "detail_url": "https://www.pulsemcp.com/clients/fast-agent",
+    "author": "evalstate",
+    "stars": "2.8k",
+    "github_url": "https://github.com/evalstate/fast-agent",
+    "tags": []
+  },
+  {
+    "name": "5ire",
+    "description": "Chat with LLM's for macOS and Windows. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/5ire",
+    "author": "UOMS",
+    "stars": "4.2k",
+    "github_url": "https://github.com/nanbingxyz/5ire",
+    "tags": []
+  },
+  {
+    "name": "MCP-Use",
+    "description": "Python library that unifies LangChain adapters for connecting LLMs to MCP tools, supporting multiple transport mechanisms and providing ready-to-use agent implementations for tasks like browser automation and filesystem operations.",
+    "detail_url": "https://www.pulsemcp.com/clients/pietrozullo-langchain-adapter",
+    "author": "Pietro Zullo",
+    "stars": "4.6k",
+    "github_url": "https://github.com/mcp-use/mcp-use",
+    "tags": []
+  },
+  {
+    "name": "Inspector",
+    "description": "Officially maintained by the MCP community, MCP server debugging tool that provides real-time interaction with MCP servers through stdio, HTTP, or SSE transports",
+    "detail_url": "https://www.pulsemcp.com/clients/inspector",
+    "author": "Model Context Protocol",
+    "stars": "5.1k",
+    "github_url": "https://github.com/modelcontextprotocol/inspector",
+    "tags": []
+  },
+  {
+    "name": "OpenCode",
+    "description": "Terminal-based coding agent with TUI interface that provides AI-assisted development workflows through provider-agnostic model support, real-time collaboration, and comprehensive project management including file operations, git integration, and LSP client support.",
+    "detail_url": "https://www.pulsemcp.com/clients/sst-opencode",
+    "author": "SST",
+    "stars": "14.4k",
+    "github_url": "https://github.com/sst/opencode",
+    "tags": []
+  },
+  {
+    "name": "Goose",
+    "description": "Configurable software engineering AI agent that runs on your local machine.",
+    "detail_url": "https://www.pulsemcp.com/clients/goose",
+    "author": "Block, Inc.",
+    "stars": "17k",
+    "github_url": "https://github.com/block/goose",
+    "tags": []
+  },
+  {
+    "name": "Roo Code (prev. Roo Cline)",
+    "description": "Fork of Cline. Coding assistant plugin for VSCode with autonomous CLI capabilities. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/roovet-roo-code",
+    "author": "Roo Vet",
+    "stars": "17.3k",
+    "github_url": "https://github.com/roocodeinc/roo-code",
+    "tags": []
+  },
+  {
+    "name": "Continue",
+    "description": "Coding assistant plugin for VSCode and JetBrains. Highly configurable and open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/continuedev",
+    "author": "Continue Dev, Inc.",
+    "stars": "27.8k",
+    "github_url": "https://github.com/continuedev/continue",
+    "tags": []
+  },
+  {
+    "name": "LibreChat",
+    "description": "Chat with LLM's for macOS and Windows. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/danny-avila-librechat",
+    "author": "Danny Avila",
+    "stars": "28.3k",
+    "github_url": "https://github.com/danny-avila/librechat",
+    "tags": []
+  },
+  {
+    "name": "Cherry Studio",
+    "description": "Desktop application for AI-assisted productivity with tray-based interface, multi-language support, knowledge base functionality, and document processing capabilities for content creation tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/cherryhq-cherry-studio",
+    "author": "Cherry AI",
+    "stars": "30.5k",
+    "github_url": "https://github.com/cherryhq/cherry-studio",
+    "tags": []
+  },
+  {
+    "name": "Cline",
+    "description": "Coding assistant plugin for VSCode with autonomous CLI capabilities. Open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/cline-vscode-extension",
+    "author": "Cline Bot Inc.",
+    "stars": "48k",
+    "github_url": "https://github.com/cline/cline",
+    "tags": []
+  },
+  {
+    "name": "Gemini CLI",
+    "description": "Command-line tool that connects to your tools, understands your code, and accelerates workflows using Google's Gemini models with 1M token context window for querying large codebases, generating apps from PDFs or sketches, and automating operational tasks.",
+    "detail_url": "https://www.pulsemcp.com/clients/google-gemini-cli",
+    "author": "Google",
+    "stars": "62.6k",
+    "github_url": "https://github.com/google-gemini/gemini-cli",
+    "tags": []
+  },
+  {
+    "name": "Zed",
+    "description": "Code editor. Highly performant and open source.",
+    "detail_url": "https://www.pulsemcp.com/clients/zed",
+    "author": "Zed Industries",
+    "stars": "62.8k",
+    "github_url": "https://github.com/zed-industries/zed",
+    "tags": []
+  },
+  {
+    "name": "VS Code",
+    "description": "In VS Code, MCP support enhances GitHub Copilot's agent mode by allowing you to connect any MCP-compatible server to your agentic coding workflow.",
+    "detail_url": "https://www.pulsemcp.com/clients/vscode",
+    "author": "Microsoft",
+    "stars": "174k",
+    "github_url": "https://github.com/microsoft/vscode",
+    "tags": []
+  }
+]

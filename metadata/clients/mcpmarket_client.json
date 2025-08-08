@@ -1,0 +1,211 @@
+[
+  {
+    "name": "SeekChat",
+    "description": "Provides a desktop AI assistant capable of executing tasks on your computer.",
+    "detail_url": "https://mcpmarket.com/client/seekchat",
+    "github_url": "https://github.com/seekrays/seekchat",
+    "categories": [
+      "Developer Tools",
+      "Productivity & Workflow",
+      "Other"
+    ]
+  },
+  {
+    "name": "Tester Client",
+    "description": "Facilitates testing of Model Context Protocol (MCP) servers by providing a chat-like UI.",
+    "detail_url": "https://mcpmarket.com/client/tester-client",
+    "github_url": "https://github.com/apify/tester-mcp-client",
+    "categories": [
+      "Developer Tools",
+      "Security & Testing",
+      "API Development"
+    ]
+  },
+  {
+    "name": "Simple Slackbot",
+    "description": "Empower Slack with AI by integrating Large Language Models and external tools through the Model Context Protocol.",
+    "detail_url": "https://mcpmarket.com/client/simple-slackbot",
+    "github_url": "https://github.com/sooperset/mcp-client-slackbot",
+    "categories": [
+      "Other",
+      "Collaboration Tools",
+      "Productivity & Workflow"
+    ]
+  },
+  {
+    "name": "Console Chat GPT",
+    "description": "Enables command-line interaction with various AI models, including OpenAI, MistralAI, and others.",
+    "detail_url": "https://mcpmarket.com/client/console-chat-gpt",
+    "github_url": "https://github.com/amidabuddha/console-chat-gpt",
+    "categories": [
+      "API Development",
+      "Other",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "Y-Cli",
+    "description": "Enables terminal-based AI conversations with support for multiple AI models and MCP client integration.",
+    "detail_url": "https://mcpmarket.com/client/y-cli",
+    "github_url": "https://github.com/luohy15/y-cli",
+    "categories": [
+      "Other",
+      "Developer Tools",
+      "Productivity & Workflow"
+    ]
+  },
+  {
+    "name": "Mcp Chatbot",
+    "description": "Demonstrates integrating the Model Context Protocol (MCP) into a CLI chatbot.",
+    "detail_url": "https://mcpmarket.com/client/mcp-chatbot",
+    "github_url": "https://github.com/3choff/mcp-chatbot",
+    "categories": [
+      "API Development",
+      "Other",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "Copilot MCP Client",
+    "description": "Connects VSCode's Copilot Chat to MCP servers, enabling access to tools and resources.",
+    "detail_url": "https://mcpmarket.com/client/copilot-mcp-client",
+    "github_url": "https://github.com/vikashloomba/copilot-mcp",
+    "categories": [
+      "Collaboration Tools",
+      "Other",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "FLUJO",
+    "description": "Orchestrates AI models, Model-Context-Protocol (MCP) servers, and complex workflows through a unified interface.",
+    "detail_url": "https://mcpmarket.com/client/flujo",
+    "github_url": "https://github.com/mario-andreschak/flujo",
+    "categories": [
+      "Productivity & Workflow",
+      "API Development",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "Mcp Client Cli",
+    "description": "Enables interaction with LLMs and MCP-compatible servers from the command line.",
+    "detail_url": "https://mcpmarket.com/client/mcp-client-cli",
+    "github_url": "https://github.com/adhikasp/mcp-client-cli",
+    "categories": [
+      "Developer Tools",
+      "Productivity & Workflow",
+      "API Development"
+    ]
+  },
+  {
+    "name": "HyperChat",
+    "description": "Enables users to chat using various LLM APIs and productivity tools through the Model Context Protocol (MCP).",
+    "detail_url": "https://mcpmarket.com/client/hyperchat",
+    "github_url": "https://github.com/bigsweetpotatostudio/hyperchat",
+    "categories": [
+      "Productivity & Workflow",
+      "Collaboration Tools",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "Witsy",
+    "description": "Provides a desktop AI assistant that supports various LLM providers and offers features like prompt anywhere, AI commands, and document chatting.",
+    "detail_url": "https://mcpmarket.com/client/witsy",
+    "github_url": "https://github.com/nbonamy/witsy",
+    "categories": [
+      "Productivity & Workflow",
+      "Developer Tools",
+      "Other"
+    ]
+  },
+  {
+    "name": "Chatmcp",
+    "description": "Interact with AI models using the Model Context Protocol through a cross-platform chat client.",
+    "detail_url": "https://mcpmarket.com/client/chatmcp",
+    "github_url": "https://github.com/daodao97/chatmcp",
+    "categories": [
+      "API Development",
+      "Developer Tools",
+      "Other"
+    ]
+  },
+  {
+    "name": "Oterm",
+    "description": "Interact with Ollama models directly from your terminal using a straightforward text-based client.",
+    "detail_url": "https://mcpmarket.com/client/oterm",
+    "github_url": "https://github.com/ggozad/oterm",
+    "categories": [
+      "Data Science & ML",
+      "Other",
+      "Developer Tools"
+    ]
+  },
+  {
+    "name": "5ire",
+    "description": "A cross-platform AI assistant and Model Context Protocol (MCP) client that connects to various services and local knowledge bases.",
+    "detail_url": "https://mcpmarket.com/client/5ire",
+    "github_url": "https://github.com/nanbingxyz/5ire",
+    "categories": [
+      "Developer Tools",
+      "Other",
+      "Productivity & Workflow"
+    ]
+  },
+  {
+    "name": "Goose",
+    "description": "Automates complex development tasks using an extensible, open-source AI agent.",
+    "detail_url": "https://mcpmarket.com/client/goose-1",
+    "github_url": "https://github.com/block/goose",
+    "categories": [
+      "API Development",
+      "Developer Tools",
+      "Productivity & Workflow"
+    ]
+  },
+  {
+    "name": "LibreChat",
+    "description": "Self-host a privacy-first, versatile ChatGPT alternative supporting multiple AI models and advanced features.",
+    "detail_url": "https://mcpmarket.com/client/librechat",
+    "github_url": "https://github.com/danny-avila/librechat",
+    "categories": [
+      "Other",
+      "Developer Tools",
+      "Collaboration Tools"
+    ]
+  },
+  {
+    "name": "Cherry Studio",
+    "description": "Enables users to interact with multiple large language model (LLM) providers through a single desktop client.",
+    "detail_url": "https://mcpmarket.com/client/cherry-studio",
+    "github_url": "https://github.com/cherryhq/cherry-studio",
+    "categories": [
+      "Developer Tools",
+      "Productivity & Workflow",
+      "Collaboration Tools"
+    ]
+  },
+  {
+    "name": "Cline",
+    "description": "Automates coding tasks directly within your IDE using AI, capable of creating/editing files, executing commands, and using the browser with user permission.",
+    "detail_url": "https://mcpmarket.com/client/cline",
+    "github_url": "https://github.com/cline/cline",
+    "categories": [
+      "Developer Tools",
+      "API Development",
+      "Productivity & Workflow"
+    ]
+  },
+  {
+    "name": "Zed",
+    "description": "Edit code with high performance and multiplayer collaboration.",
+    "detail_url": "https://mcpmarket.com/client/zed",
+    "github_url": "https://github.com/zed-industries/zed",
+    "categories": [
+      "Developer Tools",
+      "Productivity & Workflow",
+      "Collaboration Tools"
+    ]
+  }
+]

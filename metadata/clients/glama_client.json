@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Zed",
+    "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "detail_url": "https://glama.ai/mcp/clients/zed",
+    "language": "Rust",
+    "homepage_url": "https://zed.dev/",
+    "github_url": "https://github.com/zed-industries/zed",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "y-cli",
+    "description": "A tiny command-line interface chat application that brings AI conversations to your terminal. Features include chat data storage in JSONL files, interactive chat interface, support for multiple bot configurations compatible with OpenAI chat completion streaming format, Deepseek-r1 reasoning content support, and MCP client support with multiple server configurations.",
+    "detail_url": "https://glama.ai/mcp/clients/y-cli",
+    "language": "",
+    "github_url": "https://github.com/luohy15/y-cli",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "Witsy",
+    "description": "Witsy is an AI desktop assistant supporting models from all major providers and one keyboard shortcut away!",
+    "detail_url": "https://glama.ai/mcp/clients/witsy",
+    "language": "",
+    "github_url": "https://github.com/nbonamy/witsy",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Windsurf",
+    "description": "The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.",
+    "detail_url": "https://glama.ai/mcp/clients/windsurf",
+    "language": "",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "WhatsMCP",
+    "description": "WhatsMCP is a WhatsApp agent that allows you to interact with MCP servers. It is a simple and easy to use tool that allows you to interact with your AI stack from WhatsApp.",
+    "detail_url": "https://glama.ai/mcp/clients/whatsmcp",
+    "language": "",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "VS Code GitHub Copilot",
+    "description": "VS Code integrates MCP with GitHub Copilot through agent mode, allowing direct interaction with MCP-provided tools within your agentic coding workflow.",
+    "detail_url": "https://glama.ai/mcp/clients/vs-code-github-copilot",
+    "language": "",
+    "github_url": "https://github.com/microsoft/vscode",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Tester MCP Client",
+    "description": "A client that connects to any MCP server using Server-Sent Events (SSE) and displays conversations in a chat-like UI. It is a standalone Apify Actor for testing MCP servers over SSE, with support for Authorization headers. Built with plain JavaScript (old-school style) and hosted on Apify, it requires no setup to run.",
+    "detail_url": "https://glama.ai/mcp/clients/tester-mcp-client",
+    "language": "",
+    "github_url": "https://github.com/apify/tester-mcp-client",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Systemprompt",
+    "description": "A modern voice-controlled AI interface powered by Google Gemini and Anthropic MCP (Model Control Protocol). Transform how you interact with AI through natural speech and multimodal inputs.",
+    "detail_url": "https://glama.ai/mcp/clients/systemprompt",
+    "language": "TypeScript",
+    "homepage_url": "https://systemprompt.io/",
+    "github_url": "https://github.com/Ejb503/multimodal-mcp-client",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Superinterface",
+    "description": "Superinterface is AI infrastructure and a developer platform to build in-app AI assistants with support for MCP, interactive components, client-side function calling and more.",
+    "detail_url": "https://glama.ai/mcp/clients/superinterface",
+    "language": "TypeScript",
+    "github_url": "https://github.com/supercorp-ai/superinterface",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Sourcegraph Cody",
+    "description": "Cody uses the latest LLMs and all your development context to help you understand, write, and fix code faster",
+    "detail_url": "https://glama.ai/mcp/clients/cody",
+    "language": "",
+    "homepage_url": "https://sourcegraph.com/cody",
+    "categories": [
+      "JetBrains Plugin"
+    ]
+  },
+  {
+    "name": "SeekChat",
+    "description": "SeekChat supports MCP tool execution, enabling AI to directly control your computer and perform various tasks. Easily automate file management, data analysis, code development, and more, turning AI into a truly intelligent assistant.",
+    "detail_url": "https://glama.ai/mcp/clients/seekchat",
+    "language": "",
+    "github_url": "https://github.com/seekrays/seekchat",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "oterm",
+    "description": "A terminal client for Ollama, with support for MCP servers.",
+    "detail_url": "https://glama.ai/mcp/clients/oterm",
+    "language": "",
+    "github_url": "https://github.com/ggozad/oterm",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "NextChat",
+    "description": "Light and Fast AI Assistant, with Claude, DeepSeek, GPT4, Gemini Pro & MCP support.",
+    "detail_url": "https://glama.ai/mcp/clients/nextchat",
+    "language": "",
+    "github_url": "https://github.com/ChatGPTNextWeb/NextChat",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Nerve",
+    "description": "Nerve is an ADK (Agent Development Kit) and CLI designed to be a simple yet powerful platform for creating and executing LLM-based agents fully integrated with MCP.",
+    "detail_url": "https://glama.ai/mcp/clients/nerve",
+    "language": "",
+    "github_url": "https://github.com/evilsocket/nerve",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "MCP Simple Slackbot",
+    "description": "A simple Slack bot that uses LLMs and the Model Context Protocol (MCP) tools.",
+    "detail_url": "https://glama.ai/mcp/clients/mcp-simple-slackbot",
+    "language": "",
+    "github_url": "https://github.com/sooperset/mcp-client-slackbot",
+    "categories": [
+      "Slack"
+    ]
+  },
+  {
+    "name": "MCPOmni Connect",
+    "description": "A powerful universal CLI client for MCP Servers that provides seamless integration with multiple protocols, AI models, and tools through an intelligent interface.",
+    "detail_url": "https://glama.ai/mcp/clients/mcpomni-connect",
+    "language": "",
+    "github_url": "https://github.com/Abiorh001/mcp_omni_connect",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "MCP CLI client",
+    "description": "A simple CLI to run LLM prompt and implement MCP client.",
+    "detail_url": "https://glama.ai/mcp/clients/mcp-cli-client",
+    "language": "",
+    "github_url": "https://github.com/adhikasp/mcp-client-cli",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "MCP Chatbot",
+    "description": "This CLI chatbot demo integrates the Model Context Protocol (MCP), enabling tool support via MCP servers and compatibility with any OpenAI API-standard LLM provider.",
+    "detail_url": "https://glama.ai/mcp/clients/mcp-chatbot",
+    "language": "",
+    "github_url": "https://github.com/3choff/mcp-chatbot",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT with Agents, AI model switching, Code Interpreter, DALL-E 3, OpenAPI Actions, secure multi-user auth, and more. Supports OpenAI, Anthropic, Azure, and self-hosting via open-source.",
+    "detail_url": "https://glama.ai/mcp/clients/libre-chat",
+    "language": "TypeScript",
+    "homepage_url": "https://www.librechat.ai/",
+    "github_url": "https://github.com/danny-avila/LibreChat",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "kibitz",
+    "description": "kibitiz is the free and open-source Replit. Minimally, it is a lightweight chat interface to the popular LLM APIs (Anthropic and OpenAI API formats supported). Experience automated tool loops: try asking your agent to use wcgw to make a change to a local repository, then fix linter and compiler errors, make a commit, and push to remote, all without user intervention! Even better, code on-the-go by setting up MCP servers on your laptop, then connecting from your mobile through Kinode.",
+    "detail_url": "https://glama.ai/mcp/clients/kibitz",
+    "language": "",
+    "homepage_url": "https://kibi.tz/",
+    "github_url": "https://github.com/nick1udwig/kibitz",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "HyperChat",
+    "description": "HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.",
+    "detail_url": "https://glama.ai/mcp/clients/hyper-chat",
+    "language": "JavaScript",
+    "github_url": "https://github.com/BigSweetPotatoStudio/HyperChat",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Goose",
+    "description": "Goose is a general-purpose AI agent that can dynamically plug into new extensions and learn how to use them. It solves higher-level problems using tools from multiple extensions and can interact with multiple extensions at once.",
+    "detail_url": "https://glama.ai/mcp/clients/goose",
+    "language": "",
+    "github_url": "https://github.com/block/goose",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "FLUJO",
+    "description": "FLUJO is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions.",
+    "detail_url": "https://glama.ai/mcp/clients/flujo",
+    "language": "",
+    "github_url": "https://github.com/mario-andreschak/FLUJO",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "Dolphin-MCP",
+    "description": "Dolphin-MCP is an open-source multi-server bridging client for MCP. It allows you to connect any MCP-compatible server any LLM (local or remote), enabling flexible tool usage and resource access in real-time.",
+    "detail_url": "https://glama.ai/mcp/clients/dolphin-mcp",
+    "language": "",
+    "github_url": "https://github.com/cognitivecomputations/dolphin-mcp",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "DeepChat",
+    "description": "DeepChat is a cross-platform desktop AI assistant, MCP client. DeepChat brings the power of AI to your desktop with privacy and efficiency, making it your ideal companion for productive work.",
+    "detail_url": "https://glama.ai/mcp/clients/deepchat",
+    "language": "",
+    "github_url": "https://github.com/ThinkInAIXYZ/deepchat",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Cursor",
+    "description": "Cursor is an AI-first code editor fork of VS Code that helps you code faster with built-in chat, edit, and debugging AI features. It supports MCP for enhanced AI capabilities and tool integration.",
+    "detail_url": "https://glama.ai/mcp/clients/cursor",
+    "language": "",
+    "homepage_url": "https://www.cursor.com/",
+    "github_url": "https://github.com/getcursor/cursor",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Copilot-MCP",
+    "description": "VSCode extension that acts as a Model Context Protocol (MCP) client, enabling integration between MCP servers and GitHub Copilot Chat",
+    "detail_url": "https://glama.ai/mcp/clients/copilot-mcp",
+    "language": "",
+    "github_url": "https://github.com/VikashLoomba/copilot-mcp",
+    "categories": [
+      "VS Code Extension"
+    ]
+  },
+  {
+    "name": "Continue",
+    "description": "Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains.",
+    "detail_url": "https://glama.ai/mcp/clients/continue",
+    "language": "TypeScript",
+    "homepage_url": "https://continue.dev/",
+    "github_url": "https://github.com/continuedev/continue",
+    "categories": [
+      "JetBrains Plugin"
+    ]
+  },
+  {
+    "name": "console-chat-gpt",
+    "description": "Enjoy seamless interactions with ChatGPT, MistralAI, Claude by Anthropic, Grok by xAI, Gemini by Google and DeepSeek directly from your command line. Elevate your chat experience with efficiency and ease.",
+    "detail_url": "https://glama.ai/mcp/clients/console-chat-gpt",
+    "language": "",
+    "github_url": "https://github.com/amidabuddha/console-chat-gpt",
+    "categories": [
+      "CLI"
+    ]
+  },
+  {
+    "name": "Cline",
+    "description": "Cline handles complex software tasks step-by-step with tools for file editing, project exploration, browsing, and terminal commands (with approval). Using the Model Context Protocol, Cline extends capabilities safely via a human-in-the-loop interface for agentic AI.",
+    "detail_url": "https://glama.ai/mcp/clients/cline",
+    "language": "TypeScript",
+    "homepage_url": "https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev",
+    "github_url": "https://github.com/cline/cline",
+    "categories": [
+      "VS Code Extension"
+    ]
+  },
+  {
+    "name": "ClaudeMind",
+    "description": "Experience Claude AI without limits. Use our desktop app for everyday AI assistance, or boost your coding productivity with our JetBrains plugin.",
+    "detail_url": "https://glama.ai/mcp/clients/claude-mind",
+    "language": "",
+    "homepage_url": "https://claudemind.com/",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Claude Desktop",
+    "description": "The Claude desktop app brings Claude's capabilities directly to your computer, allowing for seamless integration with your workflow.",
+    "detail_url": "https://glama.ai/mcp/clients/claude-desktop",
+    "language": "",
+    "homepage_url": "https://claude.ai/download",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Cherry Studio",
+    "description": "Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.",
+    "detail_url": "https://glama.ai/mcp/clients/cherry-studio",
+    "language": "",
+    "github_url": "https://github.com/CherryHQ/cherry-studio",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "ChatMCP",
+    "description": "ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).",
+    "detail_url": "https://glama.ai/mcp/clients/chatmcp",
+    "language": "",
+    "github_url": "https://github.com/daodao97/chatmcp",
+    "categories": [
+      "Desktop"
+    ]
+  },
+  {
+    "name": "Chainlit",
+    "description": "Chainlit is a python framework to build conversational AI apps with support for MCP.",
+    "detail_url": "https://glama.ai/mcp/clients/chainlit",
+    "language": "",
+    "github_url": "https://github.com/Chainlit/chainlit",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "AIaW",
+    "description": "AIaW is a cross-platform, full-featured and lightweight AI Chat client with full support for MCP.",
+    "detail_url": "https://glama.ai/mcp/clients/aIaw",
+    "language": "",
+    "github_url": "https://github.com/NitroRCr/AIaW",
+    "categories": [
+      "Web"
+    ]
+  },
+  {
+    "name": "5ire",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers.",
+    "detail_url": "https://glama.ai/mcp/clients/5ire",
+    "language": "TypeScript",
+    "homepage_url": "https://5ire.app/",
+    "github_url": "https://github.com/nanbingxyz/5ire",
+    "categories": [
+      "Desktop"
+    ]
+  }
+]

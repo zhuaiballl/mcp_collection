@@ -1,0 +1,3704 @@
+[
+  {
+    "name": "mcp-cli",
+    "description": "A CLI inspector for the Model Context Protocol",
+    "detail_url": "https://mcp.so/client/mcp-cli/wong2",
+    "author": "wong2",
+    "github_url": "https://github.com/wong2/mcp-cli",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCPHost 🤖",
+    "description": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+    "detail_url": "https://mcp.so/client/mcphost/mark3labs",
+    "author": "mark3labs",
+    "github_url": "https://github.com/mark3labs/mcphost",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP REST API and CLI Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-client/rakesh-eltropy",
+    "author": "rakesh-eltropy",
+    "github_url": "https://github.com/rakesh-eltropy/mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Rijksmuseum MCP Client for Rijksmuseum MCP Server",
+    "description": "An Electron-based desktop application that integrates with the Rijksmuseum MCP server using the Model Context Protocol (MCP). This client enables AI-powered interactions with the Rijksmuseum's art collection through a chat interface.",
+    "detail_url": "https://mcp.so/client/rijksmuseum-mcp-client/r-huijts",
+    "author": "r-huijts",
+    "github_url": "https://github.com/r-huijts/rijksmuseum-mcp-client",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "SSE-based Server and Client for",
+    "description": "A working pattern for SSE-based MCP clients and servers",
+    "detail_url": "https://mcp.so/client/mcp-sse/sidharthrajaram",
+    "author": "sidharthrajaram",
+    "github_url": "https://github.com/sidharthrajaram/mcp-sse",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "agents"
+    ]
+  },
+  {
+    "name": "MCP-Agent",
+    "description": "CLI that uses DSPy to interact with MCP servers.",
+    "detail_url": "https://mcp.so/client/mcp-client-agent/shane-kercheval",
+    "author": "shane-kercheval",
+    "github_url": "https://github.com/shane-kercheval/mcp-client-agent",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Remote MCP Chat",
+    "description": "Simple LLM-based chat with connection to remote MCP servers",
+    "detail_url": "https://mcp.so/client/remote-mcp-chat/AnyContext-ai",
+    "author": "AnyContext-ai",
+    "github_url": "https://github.com/anycontext-ai/remote-mcp-chat",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "MCP HTTP Client Example",
+    "description": "Simple example client demonstrating how to connect to MCP servers over HTTP (SSE)",
+    "detail_url": "https://mcp.so/client/mcp-http-clilent-example/slavashvets",
+    "author": "slavashvets",
+    "github_url": "https://github.com/slavashvets/mcp-http-clilent-example",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Dive AI Agent 🤿 🤖",
+    "description": "Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function calling capabilities. ✨",
+    "detail_url": "https://mcp.so/client/Dive/OpenAgentPlatform",
+    "author": "OpenAgentPlatform",
+    "github_url": "https://github.com/openagentplatform/dive",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "ai-agents"
+    ]
+  },
+  {
+    "name": "Llama MCP Streamlit",
+    "description": "AI assistant built with Streamlit, NVIDIA NIM (LLaMa 3.3:70B) / Ollama, and Model Control Protocol (MCP).",
+    "detail_url": "https://mcp.so/client/LLaMa-MCP-Streamlit/Nikunj2003",
+    "author": "Nikunj2003",
+    "github_url": "https://github.com/nikunj2003/llama-mcp-streamlit",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP Client Demo",
+    "description": "A demo implementation of a Model Context Protocol (MCP) client using Web Workers and Server-Sent Events (SSE).",
+    "detail_url": "https://mcp.so/client/mcp-client-demo/yonaka15",
+    "author": "yonaka15",
+    "github_url": "https://github.com/yonaka15/mcp-client-demo",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Tester Client for Model Context Protocol (MCP)",
+    "description": "Model Context Protocol (MCP) Client for Apify's Actors",
+    "detail_url": "https://mcp.so/client/tester-mcp-client/apify",
+    "author": "apify",
+    "github_url": "https://github.com/apify/tester-mcp-client",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "mcp-server"
+    ]
+  },
+  {
+    "name": "Systemprompt Multimodal MCP Client",
+    "description": "A Multi-modal MCP client for voice powered agentic workflows",
+    "detail_url": "https://mcp.so/client/multimodal-mcp-client/Ejb503",
+    "author": "Ejb503",
+    "github_url": "https://github.com/ejb503/multimodal-mcp-client",
+    "categories": "research-and-data",
+    "tags": [
+      "mcp",
+      "gemini"
+    ]
+  },
+  {
+    "name": "codename goose",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "detail_url": "https://mcp.so/client/goose/block",
+    "author": "block",
+    "github_url": "https://github.com/block/goose",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Model Context Protocol CLI",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-cli/Sansan4ez",
+    "author": "Sansan4ez",
+    "github_url": "https://github.com/sansan4ez/mcp-cli",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "blnk",
+    "description": "",
+    "detail_url": "https://mcp.so/client/blnk/frgmt0",
+    "author": "frgmt0",
+    "github_url": "https://github.com/frgmt0/blnk",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "oneshot",
+    "description": "Anthropic MCP client for macOS",
+    "detail_url": "https://mcp.so/client/oneshot/Destiner",
+    "author": "Destiner",
+    "github_url": "https://github.com/destiner/oneshot",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "oterm",
+    "description": "the terminal client for Ollama",
+    "detail_url": "https://mcp.so/client/oterm/ggozad",
+    "author": "ggozad",
+    "github_url": "https://github.com/ggozad/oterm",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "machine-learning"
+    ]
+  },
+  {
+    "name": "MCP Chat Desktop App",
+    "description": "A Desktop Chat App that leverages MCP(Model Context Protocol) to interface with other LLMs.",
+    "detail_url": "https://mcp.so/client/chat-mcp/AI-QL",
+    "author": "AI-QL",
+    "github_url": "https://github.com/ai-ql/chat-mcp",
+    "categories": "developer-tools",
+    "tags": [
+      "electron",
+      "mcp"
+    ]
+  },
+  {
+    "name": "n8n-nodes-mcp-client",
+    "description": "n8n custom node for MCP",
+    "detail_url": "https://mcp.so/client/n8n-nodes-mcp/nerding-io",
+    "author": "nerding-io",
+    "github_url": "https://github.com/nerding-io/n8n-nodes-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "aterm2",
+    "description": "A simple command line LLM chat agent with MCP support",
+    "detail_url": "https://mcp.so/client/aterm2/runekaagaard",
+    "author": "runekaagaard",
+    "github_url": "https://github.com/runekaagaard/aterm2",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
+    "detail_url": "https://mcp.so/client/LibreChat/danny-avila",
+    "author": "danny-avila",
+    "github_url": "https://github.com/danny-avila/librechat",
+    "categories": "communication",
+    "tags": [
+      "aws",
+      "google"
+    ]
+  },
+  {
+    "name": "Copilot MCP Search for VSCode",
+    "description": "A powerful VSCode extension that enables MCP server usage in Copilot, giving it access to MCP tools, resources, and more.",
+    "detail_url": "https://mcp.so/client/copilot-mcp/VikashLoomba",
+    "author": "VikashLoomba",
+    "github_url": "https://github.com/vikashloomba/copilot-mcp",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "vscode-extension"
+    ]
+  },
+  {
+    "name": "MCP CLI client",
+    "description": "A simple CLI to run LLM prompt and implement MCP client.",
+    "detail_url": "https://mcp.so/client/mcp-client-cli/adhikasp",
+    "author": "adhikasp",
+    "github_url": "https://github.com/adhikasp/mcp-client-cli",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "llm"
+    ]
+  },
+  {
+    "name": "GenAIScript",
+    "description": "Automatable GenAI Scripting",
+    "detail_url": "https://mcp.so/client/genaiscript/microsoft",
+    "author": "microsoft",
+    "github_url": "https://github.com/microsoft/genaiscript",
+    "categories": "developer-tools",
+    "tags": [
+      "javascript",
+      "agent"
+    ]
+  },
+  {
+    "name": "An LLM-Powered Chatbot MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_client_local/mashriram",
+    "author": "mashriram",
+    "github_url": "https://github.com/mashriram/mcp_client_local",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "MCP Gradio Client Proof of Concept",
+    "description": "This is a proof of concept repo on how to create a gradio UI using the Model Context Protocol Client Python SDK.",
+    "detail_url": "https://mcp.so/client/mcp_gradio_client/justjoehere",
+    "author": "justjoehere",
+    "github_url": "https://github.com/justjoehere/mcp_gradio_client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Model Context Protocol CLI",
+    "description": "",
+    "detail_url": "https://mcp.so/client/universal-mcp-ui/shahshrey",
+    "author": "shahshrey",
+    "github_url": "https://github.com/shahshrey/universal-mcp-ui",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP CLI - Model Context Protocol Command Line Interface",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-cli/chrishayuk",
+    "author": "chrishayuk",
+    "github_url": "https://github.com/chrishayuk/mcp-cli",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "Typescript mcp client library.",
+    "detail_url": "https://mcp.so/client/mcp-client/edanyal",
+    "author": "edanyal",
+    "github_url": "https://github.com/edanyal/mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Claude MCP Agent",
+    "description": "",
+    "detail_url": "https://mcp.so/client/claude-mcp-agent/adamdude828",
+    "author": "adamdude828",
+    "github_url": "https://github.com/adamdude828/claude-mcp-agent",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-postgresql-agent-hack/garvk",
+    "author": "garvk",
+    "github_url": "https://github.com/garvk/mcp-postgresql-agent-hack",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client Using LangChain / TypeScript",
+    "description": "Simple CLI MCP Client Implementation Using LangChain ReAct Agent / TypeScript",
+    "detail_url": "https://mcp.so/client/mcp-client-langchain-ts/hideya",
+    "author": "hideya",
+    "github_url": "https://github.com/hideya/mcp-client-langchain-ts",
+    "categories": "developer-tools",
+    "tags": [
+      "nodejs",
+      "typescript"
+    ]
+  },
+  {
+    "name": "Console Chat Gpt",
+    "description": "Python CLI for AI Chat with MCP support",
+    "detail_url": "https://mcp.so/client/console-chat-gpt/amidabuddha",
+    "author": "amidabuddha",
+    "github_url": "https://github.com/amidabuddha/console-chat-gpt",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Tool Langgraph Integration",
+    "description": "MCP Tools Langraph Integration",
+    "detail_url": "https://mcp.so/client/mcp_langgraph_tools/paulrobello",
+    "author": "paulrobello",
+    "github_url": "https://github.com/paulrobello/mcp_langgraph_tools",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP Tools Usage From LangChain / Example in TypeScript",
+    "description": "MCP Tools Usage From LangChain ReAct Agent / Example in TypeScript",
+    "detail_url": "https://mcp.so/client/langchain-mcp-tools-ts-usage/hideya",
+    "author": "hideya",
+    "github_url": "https://github.com/hideya/langchain-mcp-tools-ts-usage",
+    "categories": "developer-tools",
+    "tags": [
+      "nodejs",
+      "typescript"
+    ]
+  },
+  {
+    "name": "sample-mcp-rails",
+    "description": "",
+    "detail_url": "https://mcp.so/client/sample-mcp-rails/funwarioisii",
+    "author": "funwarioisii",
+    "github_url": "https://github.com/funwarioisii/sample-mcp-rails",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Laravel MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/laravel-mcp-client/scriptoshi",
+    "author": "scriptoshi",
+    "github_url": "https://github.com/scriptoshi/laravel-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/anthropic_mcp_hackathon_sse_client/tony-nexartis",
+    "author": "tony-nexartis",
+    "github_url": "https://github.com/tony-nexartis/anthropic_mcp_hackathon_sse_client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "mcp-client-ref",
+    "description": "TUI to test model context protocol servers",
+    "detail_url": "https://mcp.so/client/mcp-client-ref/ananis25",
+    "author": "ananis25",
+    "github_url": "https://github.com/ananis25/mcp-client-ref",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Rijksmuseum MCP Client for Rijksmuseum MCP Server",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Rijksmuseum-mcp/erikk-avans",
+    "author": "erikk-avans",
+    "github_url": "https://github.com/erikk-avans/Rijksmuseum-mcp",
+    "categories": "research-and-data",
+    "tags": [
+      "rijksmuseum",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "Simple CLI MCP Client Using LangChain / Python",
+    "description": "Simple CLI MCP Client Implementation Using LangChain ReAct Agent / Python",
+    "detail_url": "https://mcp.so/client/mcp-client-langchain-py/hideya",
+    "author": "hideya",
+    "github_url": "https://github.com/hideya/mcp-client-langchain-py",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "mcp"
+    ]
+  },
+  {
+    "name": "openai-mcp-client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/openai-mcp-client/leartbeqiraj1",
+    "author": "leartbeqiraj1",
+    "github_url": "https://github.com/leartbeqiraj1/openai-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Witsy",
+    "description": "Witsy: desktop AI assistant / universal MCP client",
+    "detail_url": "https://mcp.so/client/witsy/nbonamy",
+    "author": "nbonamy",
+    "github_url": "https://github.com/nbonamy/witsy",
+    "categories": "research-and-data",
+    "tags": [
+      "vuejs",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Where On-Device and Cloud LLMs Meet",
+    "description": "Big & Small LLMs working together",
+    "detail_url": "https://mcp.so/client/minions/HazyResearch",
+    "author": "HazyResearch",
+    "github_url": "https://github.com/hazyresearch/minions",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "claude-mcp",
+    "description": "",
+    "detail_url": "https://mcp.so/client/claude-mcp/setkyar",
+    "author": "setkyar",
+    "github_url": "https://github.com/setkyar/claude-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Jira MCP Tool for Cursor",
+    "description": "",
+    "detail_url": "https://mcp.so/client/cursor-jira-mcp/navneet-ag",
+    "author": "navneet-ag",
+    "github_url": "https://github.com/navneet-ag/cursor-jira-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "CrewAI MCP Adapter",
+    "description": "",
+    "detail_url": "https://mcp.so/client/crewai_mcp_adapter/dshivendra",
+    "author": "dshivendra",
+    "github_url": "https://github.com/dshivendra/crewai_mcp_adapter",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "LLM RAG",
+    "description": "Easy RAG scripts for a local, embedded, MCP-enabled knowledge store.",
+    "detail_url": "https://mcp.so/client/easyrag/binarybana",
+    "author": "binarybana",
+    "github_url": "https://github.com/binarybana/easyrag",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "LangGraph ReAct Agent with MCP",
+    "description": "",
+    "detail_url": "https://mcp.so/client/react-agent-with-mcp/nachoal",
+    "author": "nachoal",
+    "github_url": "https://github.com/nachoal/react-agent-with-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP FastAPI Client",
+    "description": "MCP Client Implemented to FastAPI",
+    "detail_url": "https://mcp.so/client/fast-mcp-client/aswincandra",
+    "author": "aswincandra",
+    "github_url": "https://github.com/aswincandra/fast-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "Basic CLI mcp client which can use server.config",
+    "detail_url": "https://mcp.so/client/claude-cli-mcp-client/swairshah",
+    "author": "swairshah",
+    "github_url": "https://github.com/swairshah/claude-cli-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Copilot MCP Client for VSCode",
+    "description": "",
+    "detail_url": "https://mcp.so/client/copilot-mcp/Automata-Labs-team",
+    "author": "Automata-Labs-team",
+    "github_url": "https://github.com/Automata-Labs-team/copilot-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Dify Connect MCP",
+    "description": "",
+    "detail_url": "https://mcp.so/client/dify-connect-mcp/difybase",
+    "author": "difybase",
+    "github_url": "https://github.com/difybase/dify-connect-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Mattermost MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mattermost-mcp-client/jagan-shanmugam",
+    "author": "jagan-shanmugam",
+    "github_url": "https://github.com/jagan-shanmugam/mattermost-mcp-client",
+    "categories": "developer-tools",
+    "tags": [
+      "mattermost",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "IP Asset Creation Agent with LangGraph",
+    "description": "A LangGraph-based agent for creating, minting, registering IP assets with Story Protocol, and automatically posting about them on Twitter.",
+    "detail_url": "https://mcp.so/client/langgraph-mcp-agent-twitter/ellieli0630",
+    "author": "ellieli0630",
+    "github_url": "https://github.com/ellieli0630/langgraph-mcp-agent-twitter",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP AWS Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-aws/debedb",
+    "author": "debedb",
+    "github_url": "https://github.com/debedb/mcp-aws",
+    "categories": "cloud-platforms",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/term-mcp-client/swairshah",
+    "author": "swairshah",
+    "github_url": "https://github.com/swairshah/term-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Arbitrum MCP Tools 🚀🦾",
+    "description": "",
+    "detail_url": "https://mcp.so/client/arbitrum-mcp-tools/utkucy",
+    "author": "utkucy",
+    "github_url": "https://github.com/utkucy/arbitrum-mcp-tools",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "LangChain.js MCP Adapters",
+    "description": "Adapters for integrating Model Context Protocol (MCP) tools with LangChain.js applications, supporting both stdio and SSE transports.",
+    "detail_url": "https://mcp.so/client/langchainjs-mcp-adapters/vrknetha",
+    "author": "vrknetha",
+    "github_url": "https://github.com/vrknetha/langchainjs-mcp-adapters",
+    "categories": "developer-tools",
+    "tags": [
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "name": "MCP (Model Context Protocol) Frontend",
+    "description": "Frontend for MCP (Model Context Protocol) Kit for Go - A Complete MCP solutions for ready to use",
+    "detail_url": "https://mcp.so/client/mcp-frontend/shaharia-lab",
+    "author": "shaharia-lab",
+    "github_url": "https://github.com/shaharia-lab/mcp-frontend",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP on FHIR",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP-on-FHIR/TerminallyLazy",
+    "author": "TerminallyLazy",
+    "github_url": "https://github.com/terminallylazy/mcp-on-fhir",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP Example",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_example/polymath-raval",
+    "author": "polymath-raval",
+    "github_url": "https://github.com/polymath-raval/mcp_example",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "IOL MCP Tool",
+    "description": "MCP for the IOL public API",
+    "detail_url": "https://mcp.so/client/mcpiol/fernandezpablo85",
+    "author": "fernandezpablo85",
+    "github_url": "https://github.com/fernandezpablo85/mcpiol",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "refactored-octo-parakeet",
+    "description": "MCP Demo",
+    "detail_url": "https://mcp.so/client/refactored-octo-parakeet/RGGH",
+    "author": "RGGH",
+    "github_url": "https://github.com/rggh/refactored-octo-parakeet",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "docker"
+    ]
+  },
+  {
+    "name": "MCP Client",
+    "description": "A sample code to use Model Context Protocol with Claude APIs",
+    "detail_url": "https://mcp.so/client/mcp-client-server/alessandrodorazio",
+    "author": "alessandrodorazio",
+    "github_url": "https://github.com/alessandrodorazio/mcp-client-server",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "AI Image Generation Pipeline with LangGraph and MCP",
+    "description": "A demonstration of using LangGraph with MCP for generating prompts and AI-generated images, including Human-in-the-Loop interaction.",
+    "detail_url": "https://mcp.so/client/langgraph-mcp-pipeline/lalanikarim",
+    "author": "lalanikarim",
+    "github_url": "https://github.com/lalanikarim/langgraph-mcp-pipeline",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Fast Agent",
+    "description": "Define, Prompt and Test MCP enabled Agents and Workflows",
+    "detail_url": "https://mcp.so/client/fast-agent/evalstate",
+    "author": "evalstate",
+    "github_url": "https://github.com/evalstate/fast-agent",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Web Search MCP 服务器",
+    "description": "使用智普清言实现的web-search mcp服务",
+    "detail_url": "https://mcp.so/client/web-search/m-mcp",
+    "author": "m-mcp",
+    "github_url": "https://github.com/m-mcp/web-search",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Python MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-python-client/RGGH",
+    "author": "RGGH",
+    "github_url": "https://github.com/rggh/mcp-python-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Mcp_agent_streamlit_rag",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_agent_streamlit_rag/saqadri",
+    "author": "saqadri",
+    "github_url": "https://github.com/saqadri/mcp_agent_streamlit_rag",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP CLI Client",
+    "description": "Een lokale MCP host en client die met meerdere LLM's en meerdere MCP servers kan werken.",
+    "detail_url": "https://mcp.so/client/MCP_CLI_CLIENT/Fbeunder",
+    "author": "Fbeunder",
+    "github_url": "https://github.com/fbeunder/mcp_cli_client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP_LLM",
+    "description": "使用大模型结合mcp协议",
+    "detail_url": "https://mcp.so/client/MCP_LLM/Kin-10",
+    "author": "Kin-10",
+    "github_url": "https://github.com/kin-10/mcp_llm",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "research",
+    "description": "",
+    "detail_url": "https://mcp.so/client/quarkus-agentic-mcp/danieloh30",
+    "author": "danieloh30",
+    "github_url": "https://github.com/danieloh30/quarkus-agentic-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "A very simple MCP demo, based off of Anthropics MCP examples, with the added bonus of an agency loop",
+    "detail_url": "https://mcp.so/client/MCP-demo/WinterTechForum",
+    "author": "WinterTechForum",
+    "github_url": "https://github.com/wintertechforum/mcp-demo",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Mattermost MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mattermost-mcp-bridge/jagan-shanmugam",
+    "author": "jagan-shanmugam",
+    "github_url": "https://github.com/jagan-shanmugam/mattermost-mcp-bridge",
+    "categories": "developer-tools",
+    "tags": [
+      "mattermost",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "Flask Webapplicatie met LLM-integratie en MCP-tools",
+    "description": "Flask webapplicatie met LLM-integratie en MCP-tools voor het verwerken van prompts via verschillende AI-modellen en contextuele tools.",
+    "detail_url": "https://mcp.so/client/MCP_FLASK/Fbeunder",
+    "author": "Fbeunder",
+    "github_url": "https://github.com/fbeunder/mcp_flask",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Cursor Apple Notes Indexer",
+    "description": "An MCP app for Cursor that searches and indexes Apple Notes locally",
+    "detail_url": "https://mcp.so/client/cursor-apple-notes-indexer/packetnomad",
+    "author": "packetnomad",
+    "github_url": "https://github.com/packetnomad/cursor-apple-notes-indexer",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Proving Ground Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-proving-ground-client/jlmelis",
+    "author": "jlmelis",
+    "github_url": "https://github.com/jlmelis/mcp-proving-ground-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "ThingsPanel MCP",
+    "description": "This MCP server integrates ThingsPanel IoT platform with AI models like Claude, GPT, and others that support the Model Context Protocol.",
+    "detail_url": "https://mcp.so/client/thingspanel-mcp/ThingsPanel",
+    "author": "ThingsPanel",
+    "github_url": "https://github.com/thingspanel/thingspanel-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "NASA API Integration with MCP",
+    "description": "The MCP Project for CSE 473 Winter 2025. Coded with the assistance of Cursor AI and Claude 3.7",
+    "detail_url": "https://mcp.so/client/473-MCPProject/jmand626",
+    "author": "jmand626",
+    "github_url": "https://github.com/jmand626/473-mcpproject",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Mattermost MCP Host",
+    "description": "A Mattermost integration that connects to Model Context Protocol (MCP) servers, leveraging a LangGraph-based Agent.",
+    "detail_url": "https://mcp.so/client/mattermost-mcp-host/jagan-shanmugam",
+    "author": "jagan-shanmugam",
+    "github_url": "https://github.com/jagan-shanmugam/mattermost-mcp-host",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "mattermost"
+    ]
+  },
+  {
+    "name": "LangChain.js MCP Adapters",
+    "description": "** THIS REPO HAS MOVED TO",
+    "detail_url": "https://mcp.so/client/langchainjs-mcp-adapters/langchain-ai",
+    "author": "langchain-ai",
+    "github_url": "https://github.com/langchain-ai/langchainjs-mcp-adapters",
+    "categories": "developer-tools",
+    "tags": [
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "name": "健康管理系统",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-demo-frontend/bro-in-law",
+    "author": "bro-in-law",
+    "github_url": "https://github.com/bro-in-law/mcp-demo-frontend",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Coco AI App",
+    "description": "Coco AI App - Search, Connect, Collaborate, Your Personal AI Search and Assistant, all in one space.",
+    "detail_url": "https://mcp.so/client/coco-app/infinilabs",
+    "author": "infinilabs",
+    "github_url": "https://github.com/infinilabs/coco-app",
+    "tags": [
+      "coco-ai",
+      "search"
+    ]
+  },
+  {
+    "name": "MCP Agent Strategy",
+    "description": "",
+    "detail_url": "https://mcp.so/client/dify-plugin-mcp_agent/hjlarry",
+    "author": "hjlarry",
+    "github_url": "https://github.com/hjlarry/dify-plugin-mcp_agent",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client Example ☀️",
+    "description": "MCP CLIENT using python sdk.",
+    "detail_url": "https://mcp.so/client/MCP_CLIENT/dev-mahfuj80",
+    "author": "dev-mahfuj80",
+    "github_url": "https://github.com/dev-mahfuj80/mcp_client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Repomix",
+    "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "detail_url": "https://mcp.so/client/repomix/yamadashy",
+    "author": "yamadashy",
+    "github_url": "https://github.com/yamadashy/repomix",
+    "categories": "developer-tools",
+    "tags": [
+      "nodejs",
+      "javascript"
+    ]
+  },
+  {
+    "name": "Hyper Mcp Terminal",
+    "description": "",
+    "detail_url": "https://mcp.so/client/hyper-mcp-terminal/BigSweetPotatoStudio",
+    "author": "BigSweetPotatoStudio",
+    "github_url": "https://github.com/bigsweetpotatostudio/hyper-mcp-terminal",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP FastAPI Server",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chat-mcp/karthikv2k",
+    "author": "karthikv2k",
+    "github_url": "https://github.com/karthikv2k/chat-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP TurboClient",
+    "description": "A FastAPI-based application that provides a web interface for interacting with Multiple Control Protocol (MCP) servers while utilizing OpenAI's API for processing messages.",
+    "detail_url": "https://mcp.so/client/MCP-TurboClient/techspawn",
+    "author": "techspawn",
+    "github_url": "https://github.com/techspawn/mcp-turboclient",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "SeekChat",
+    "description": "✨ A Sleek and Powerful AI Desktop Assistant that supports MCP integration✨",
+    "detail_url": "https://mcp.so/client/seekchat/seekrays",
+    "author": "seekrays",
+    "github_url": "https://github.com/seekrays/seekchat",
+    "categories": "developer-tools",
+    "tags": [
+      "chat",
+      "ai"
+    ]
+  },
+  {
+    "name": "Coolify MCP Workflow",
+    "description": "This workflow leverages the Community n8n MCP Client and my new Coolify MCP Server to interact with your Coolify infrastructure using MCP (Model Context Protocol).",
+    "detail_url": "https://mcp.so/client/n8n-coolify-mcp-tools/wrediam",
+    "author": "wrediam",
+    "github_url": "https://github.com/wrediam/n8n-coolify-mcp-tools",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Kiters MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/kiters-mcp-client/namank5x",
+    "author": "namank5x",
+    "github_url": "https://github.com/namank5x/kiters-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "OrganiX Agent",
+    "description": "Personal agent with cross-platform capabilities and MCP integration using Claude 3.7",
+    "detail_url": "https://mcp.so/client/claude-agent-mcp/kabrony",
+    "author": "kabrony",
+    "github_url": "https://github.com/kabrony/claude-agent-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Requirements:",
+    "description": "MCP Weather Tool",
+    "detail_url": "https://mcp.so/client/weather-tool-with-mcp/rairai77",
+    "author": "rairai77",
+    "github_url": "https://github.com/rairai77/weather-tool-with-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Open Swarm",
+    "description": "",
+    "detail_url": "https://mcp.so/client/open-swarm/matthewhand",
+    "author": "matthewhand",
+    "github_url": "https://github.com/matthewhand/open-swarm",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP CLI client",
+    "description": "A simple CLI to run LLM prompt and implement MCP client.",
+    "detail_url": "https://mcp.so/client/mcp-client-cli/williamvd4",
+    "author": "williamvd4",
+    "github_url": "https://github.com/williamvd4/mcp-client-cli",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP CLI Manager",
+    "description": "MCP CLI Manager - 一個用於管理多個服務器的命令行工具",
+    "detail_url": "https://mcp.so/client/mcp-cli-manager/crayon3shawn",
+    "author": "crayon3shawn",
+    "github_url": "https://github.com/crayon3shawn/mcp-cli-manager",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Web Client",
+    "description": "MCP Web Client project",
+    "detail_url": "https://mcp.so/client/mcp-web-client/jinruoxinchen",
+    "author": "jinruoxinchen",
+    "github_url": "https://github.com/jinruoxinchen/mcp-web-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Turkish Weather Application",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-turkey-weather/emredeveloper",
+    "author": "emredeveloper",
+    "github_url": "https://github.com/emredeveloper/mcp-turkey-weather",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "WinFormsApp-MCP",
+    "description": "WinFormsApp-MCP Windows Forms application demonstrating Semantic Kernel with Model Context Protocol (MCP). Provides tool functionality for GitHub, GitLab, and filesystem operations. Works with ChatGPT models. API key required.",
+    "detail_url": "https://mcp.so/client/WinFormsApp-MCP/Robert-GitHubUserName",
+    "author": "Robert-GitHubUserName",
+    "github_url": "https://github.com/robert-githubusername/winformsapp-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Pipedream MCP Servers Library",
+    "description": "",
+    "detail_url": "https://mcp.so/client/pipedream-mcp-ui/dannyroosevelt",
+    "author": "dannyroosevelt",
+    "github_url": "https://github.com/dannyroosevelt/pipedream-mcp-ui",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MB_MCP (Model Context Protocol)",
+    "description": "mb MCP files",
+    "detail_url": "https://mcp.so/client/mb_mcp/bigmb",
+    "author": "bigmb",
+    "github_url": "https://github.com/bigmb/mb_mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Ollama MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_client_ollama/georgi-terziyski",
+    "author": "georgi-terziyski",
+    "github_url": "https://github.com/georgi-terziyski/mcp_client_ollama",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "🚀 MCPOmni Connect - Universal Gateway to MCP Servers",
+    "description": "MCPOmni Connect is an agent execution runtime that connects to multiple MCP servers via stdio, SSE, or streamable HTTP. It supports chat, autonomous agents, and planner-based orchestration treating each MCP server as a tool agent to enable dynamic multi-agent workflows across LLM systems, and can be embedded in FastAPI or backend systems.",
+    "detail_url": "https://mcp.so/client/mcp_omni_connect/Abiorh001",
+    "author": "Abiorh001",
+    "github_url": "https://github.com/Abiorh001/mcp_omni_connect",
+    "categories": "developer-tools",
+    "tags": [
+      "agent",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Pydantic AI and Box MCP",
+    "description": "This project is a demo of how to use the Box MCP server with Pydantic AI agents. The use case is a policy analyzer.",
+    "detail_url": "https://mcp.so/client/box-mcp-pydantic-ai/box-community",
+    "author": "box-community",
+    "github_url": "https://github.com/box-community/box-mcp-pydantic-ai",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Hermes MCP",
+    "description": "Elixir Model Context Protocol (MCP) SDK",
+    "detail_url": "https://mcp.so/client/hermes-mcp/cloudwalk",
+    "author": "cloudwalk",
+    "github_url": "https://github.com/cloudwalk/hermes-mcp",
+    "categories": "developer-tools",
+    "tags": [
+      "elixir",
+      "mcp"
+    ]
+  },
+  {
+    "name": "UI-TARS Desktop",
+    "description": "A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.",
+    "detail_url": "https://mcp.so/client/UI-TARS-desktop/bytedance",
+    "author": "bytedance",
+    "github_url": "https://github.com/bytedance/UI-TARS-desktop",
+    "categories": "developer-tools",
+    "tags": [
+      "electron",
+      "agent"
+    ]
+  },
+  {
+    "name": "🚀 Advacned Unity MCP Integration",
+    "description": "Enable AI Agents to Control Unity",
+    "detail_url": "https://mcp.so/client/UnityMCPIntegration/quazaai",
+    "author": "quazaai",
+    "github_url": "https://github.com/quazaai/unitymcpintegration",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "unity"
+    ]
+  },
+  {
+    "name": "Download MCP 工具",
+    "description": "📥 MCP Download Tool - AI-powered file download manager | 基于 MCP 的智能下载管理工具",
+    "detail_url": "https://mcp.so/client/mcp-download/shuakami",
+    "author": "shuakami",
+    "github_url": "https://github.com/shuakami/mcp-download",
+    "categories": "developer-tools",
+    "tags": [
+      "nodejs",
+      "typescript"
+    ]
+  },
+  {
+    "name": "🚀 Light MCP Agents",
+    "description": "Lightweight, composable framework for building muti-agent systems with Model Context Protocol (MCP)",
+    "detail_url": "https://mcp.so/client/light-mcp-agents/nicozumarraga",
+    "author": "nicozumarraga",
+    "github_url": "https://github.com/nicozumarraga/light-mcp-agents",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "ai"
+    ]
+  },
+  {
+    "name": "PR Reviewer",
+    "description": "PR Reviewer is a tool designed to analyze GitHub pull requests and create detailed reports in Notion. It leverages the MCP (Model Context Protocol) to facilitate communication and integration between different services.",
+    "detail_url": "https://mcp.so/client/PR-Reviewer/attikpo-akrabal-godwin",
+    "author": "attikpo-akrabal-godwin",
+    "github_url": "https://github.com/attikpo-akrabal-godwin/pr-reviewer",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Dify Plugin Agent Mcp_sse",
+    "description": "Dify 1.0 Plugin Support MCP Tools Agent strategies",
+    "detail_url": "https://mcp.so/client/dify-plugin-agent-mcp_sse/junjiem",
+    "author": "junjiem",
+    "github_url": "https://github.com/junjiem/dify-plugin-agent-mcp_sse",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-llm/lingster",
+    "author": "lingster",
+    "github_url": "https://github.com/lingster/mcp-llm",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "DISCLAIMER",
+    "description": "MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface",
+    "detail_url": "https://mcp.so/client/FLUJO/mario-andreschak",
+    "author": "mario-andreschak",
+    "github_url": "https://github.com/mario-andreschak/flujo",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "License",
+    "description": "Firefox Claude MCP extension",
+    "detail_url": "https://mcp.so/client/firefox_mcpbridge/k3d3",
+    "author": "k3d3",
+    "github_url": "https://github.com/k3d3/firefox_mcpbridge",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Figma Design Automation",
+    "description": "Automated Figma design creation tools and plugins",
+    "detail_url": "https://mcp.so/client/figma-design-mcp/aranyak-4002",
+    "author": "aranyak-4002",
+    "github_url": "https://github.com/aranyak-4002/figma-design-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "SwiftMCP",
+    "description": "",
+    "detail_url": "https://mcp.so/client/SwiftMCP/Compiler-Inc",
+    "author": "Compiler-Inc",
+    "github_url": "https://github.com/compiler-inc/swiftmcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "When MCP is Boosted by NVIDIA AgentIQ and NIM's Super Power ⚡🧠",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_meet_agentiq/sparktsao",
+    "author": "sparktsao",
+    "github_url": "https://github.com/sparktsao/mcp_meet_agentiq",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Open MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/open-mcp-client/CopilotKit",
+    "author": "CopilotKit",
+    "github_url": "https://github.com/copilotkit/open-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "cMCP",
+    "description": "A command-line utility for interacting with MCP servers.",
+    "detail_url": "https://mcp.so/client/cmcp/RussellLuo",
+    "author": "RussellLuo",
+    "github_url": "https://github.com/russellluo/cmcp",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "model-context-protocol"
+    ]
+  },
+  {
+    "name": "EasyMCP",
+    "description": "A beginner-friendly client for the MCP (Model Context Protocol). Connect to SSE, NPX, and UV servers, and integrate with OpenAI for dynamic tool interactions. Perfect for exploring server connections and chat enhancements.",
+    "detail_url": "https://mcp.so/client/EasyMCP/mshojaei77",
+    "author": "mshojaei77",
+    "github_url": "https://github.com/mshojaei77/easymcp",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "UtilityBelt",
+    "description": "Talk to MCP servers from aider",
+    "detail_url": "https://mcp.so/client/UtilityBelt/richardanaya",
+    "author": "richardanaya",
+    "github_url": "https://github.com/richardanaya/utilitybelt",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Turbo MCP Client",
+    "description": "A FastAPI-based application that provides a web interface for interacting with Multiple Control Protocol (MCP) servers while utilizing OpenAI's API for processing messages.",
+    "detail_url": "https://mcp.so/client/Turbo-MCP-Client/techspawn",
+    "author": "techspawn",
+    "github_url": "https://github.com/techspawn/turbo-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Axiom - A Docs Expert Agent",
+    "description": "A documentation AI Agent built with LangGraph, MCP Docs, and Chainlit, designed to help users create different projects using natural language.",
+    "detail_url": "https://mcp.so/client/Axiom/aasherkamal216",
+    "author": "aasherkamal216",
+    "github_url": "https://github.com/aasherkamal216/axiom",
+    "categories": "research-and-data",
+    "tags": [
+      "agent",
+      "docker"
+    ]
+  },
+  {
+    "name": "MCPHost 🤖",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcphost/dictybase-docker",
+    "author": "dictybase-docker",
+    "github_url": "https://github.com/dictybase-docker/mcphost",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Chat Bot (Golang Version)",
+    "description": "A simple chat bot using MCP (Model Context Protocol)",
+    "detail_url": "https://mcp.so/client/mcp-chat-bot/jiasyuanchu",
+    "author": "jiasyuanchu",
+    "github_url": "https://github.com/jiasyuanchu/mcp-chat-bot",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Getting Started",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Open-Mcp-Client/MdHelalUddinBiswas",
+    "author": "MdHelalUddinBiswas",
+    "github_url": "https://github.com/mdhelaluddinbiswas/open-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "prodex-js",
+    "description": "The ultimate vide coding MCP!",
+    "detail_url": "https://mcp.so/client/prodex-js/tarasyarema",
+    "author": "tarasyarema",
+    "github_url": "https://github.com/tarasyarema/prodex-js",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Tiny Mcp Client",
+    "description": "This is a client implementation based on the Model Context Protocol (MCP)",
+    "detail_url": "https://mcp.so/client/tiny-mcp-client/gnosis23",
+    "author": "gnosis23",
+    "github_url": "https://github.com/gnosis23/tiny-mcp-client",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "项目简介",
+    "description": "实现MCP的服务端，获取各大平台的热搜",
+    "detail_url": "https://mcp.so/client/hot-topic-mcp/MrNiebit",
+    "author": "MrNiebit",
+    "github_url": "https://github.com/mrniebit/hot-topic-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Experimental Seat Booking Agent",
+    "description": "Experimental Seat Booking Agent implementation using OpenAI Agents SDK and Autogen memory and MCP tools support",
+    "detail_url": "https://mcp.so/client/seat-booking-agent/minyang-chen",
+    "author": "minyang-chen",
+    "github_url": "https://github.com/minyang-chen/seat-booking-agent",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "n8n-nodes-mcp-client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/n8n-nodes-mcp/ateeyak",
+    "author": "ateeyak",
+    "github_url": "https://github.com/ateeyak/n8n-nodes-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Client Streamlit Interface",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-client/Zeeshanunique",
+    "author": "Zeeshanunique",
+    "github_url": "https://github.com/zeeshanunique/mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Ghost Hunting AI - Service",
+    "description": "We build an interactive city tour with RAG,LLM,MCP for KdG -The Lab. This is the backend",
+    "detail_url": "https://mcp.so/client/KAFRMA-Backend/MauroStyleman",
+    "author": "MauroStyleman",
+    "github_url": "https://github.com/maurostyleman/kafrma-backend",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Start — deco.cx template",
+    "description": "Powered by deco.cx",
+    "detail_url": "https://mcp.so/client/vertex-mcp-3/deco-sites",
+    "author": "deco-sites",
+    "github_url": "https://github.com/deco-sites/vertex-mcp-3",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "QGISMCP - QGIS Model Context Protocol Integration",
+    "description": "",
+    "detail_url": "https://mcp.so/client/deepseek_qgis_mcp/kicker315",
+    "author": "kicker315",
+    "github_url": "https://github.com/kicker315/deepseek_qgis_mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Getting Started",
+    "description": "🤖 AI Agent",
+    "detail_url": "https://mcp.so/client/mcp-client/yeakub108",
+    "author": "yeakub108",
+    "github_url": "https://github.com/yeakub108/mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Discord MCP Bot - Mastra Component",
+    "description": "",
+    "detail_url": "https://mcp.so/client/discord-mcp-bot/mastra-ai",
+    "author": "mastra-ai",
+    "github_url": "https://github.com/mastra-ai/discord-mcp-bot",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Notion MCP",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-notion-api/michaeldslim",
+    "author": "michaeldslim",
+    "github_url": "https://github.com/michaeldslim/mcp-notion-api",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Mcp Client Llm",
+    "description": "Supports large models that access any API type, and provides an example of opening a local application",
+    "detail_url": "https://mcp.so/client/mcp-client-llm/shaoyingchen",
+    "author": "shaoyingchen",
+    "github_url": "https://github.com/shaoyingchen/mcp-client-llm",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Host",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_client_ollama/Intelligent-Systems-Lab",
+    "author": "Intelligent-Systems-Lab",
+    "github_url": "https://github.com/intelligent-systems-lab/mcp_client_ollama",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Model Context Protocol for Raycast",
+    "description": "",
+    "detail_url": "https://mcp.so/client/raycast-mcp/EvanZhouDev",
+    "author": "EvanZhouDev",
+    "github_url": "https://github.com/evanzhoudev/raycast-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Chat Mcp Rag",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chat-mcp-rag/FabriBorgobello",
+    "author": "FabriBorgobello",
+    "github_url": "https://github.com/fabriborgobello/chat-mcp-rag",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "zsh_chatbot_mcp",
+    "description": "",
+    "detail_url": "https://mcp.so/client/zsh_chatbot_mcp/JiamingHuangHJM",
+    "author": "JiamingHuangHJM",
+    "github_url": "https://github.com/jiaminghuanghjm/zsh_chatbot_mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP/milind-soni",
+    "author": "milind-soni",
+    "github_url": "https://github.com/milind-soni/mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Web UI",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcpui/OmChillure",
+    "author": "OmChillure",
+    "github_url": "https://github.com/omchillure/mcpui",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "mcp_mastery",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp_mastery/amaboh",
+    "author": "amaboh",
+    "github_url": "https://github.com/amaboh/mcp_mastery",
+    "categories": "research-and-data",
+    "tags": [
+      "mathgpt",
+      "math-solver"
+    ]
+  },
+  {
+    "name": "MCPChatbot Example",
+    "description": "A chatbot implementation compatible with MCP (terminal / streamlit supported)",
+    "detail_url": "https://mcp.so/client/mcp_chatbot/keli-wen",
+    "author": "keli-wen",
+    "github_url": "https://github.com/keli-wen/mcp_chatbot",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP Client Application",
+    "description": "A mcp client chat application built for learning purposes",
+    "detail_url": "https://mcp.so/client/mcp-client-app/RegiByte",
+    "author": "RegiByte",
+    "github_url": "https://github.com/regibyte/mcp-client-app",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "pydantic-mcp",
+    "description": "Model Context Protocol tool calling support for Pydantic AI",
+    "detail_url": "https://mcp.so/client/pydantic-mcp/rectalogic",
+    "author": "rectalogic",
+    "github_url": "https://github.com/rectalogic/pydantic-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Agent",
+    "description": "This is a LaunchBar version of Raycast's AI extension function, which is integrated with Langchain and MCP to automatically complete tasks based on your prompt.",
+    "detail_url": "https://mcp.so/client/launchbar-mcp_agent/justinhuang0208",
+    "author": "justinhuang0208",
+    "github_url": "https://github.com/justinhuang0208/launchbar-mcp_agent",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Quick Start with Langchain and the Github MCP Server",
+    "description": "Quick Start MCP with Langchain",
+    "detail_url": "https://mcp.so/client/langchain-mcp/marlenezw",
+    "author": "marlenezw",
+    "github_url": "https://github.com/marlenezw/langchain-mcp",
+    "categories": "developer-tools",
+    "tags": [
+      "langchain",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Universal Mistral MCP Adapter",
+    "description": "Adapter project allowing Mistral models to interact with the modelcontextprotocol for standardized agentic capabilities.",
+    "detail_url": "https://mcp.so/client/mistral-mcp-client/itisaevalex",
+    "author": "itisaevalex",
+    "github_url": "https://github.com/itisaevalex/mistral-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Cursor MCP (Model Context Protocol)",
+    "description": "Cursor Model Context Protocol (MCP) extension for Chrome - with comprehensive test coverage",
+    "detail_url": "https://mcp.so/client/cursor-mcp-extension/Sirvenis",
+    "author": "Sirvenis",
+    "github_url": "https://github.com/sirvenis/cursor-mcp-extension",
+    "categories": "developer-tools",
+    "tags": [
+      "cursor",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Where On-Device and Cloud LLMs Meet",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Calista-Research-LLMs-Working-Together-with-Moddel-Context-Protocol-MCP/ShiroKatsuya",
+    "author": "ShiroKatsuya",
+    "github_url": "https://github.com/shirokatsuya/calista-research-llms-working-together-with-moddel-context-protocol-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "ClaudeR",
+    "description": "R MCP Integration for Claude",
+    "detail_url": "https://mcp.so/client/ClaudeR/IMNMV",
+    "author": "IMNMV",
+    "github_url": "https://github.com/imnmv/clauder",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Jira Assistant with MCP Integration",
+    "description": "A Streamlit-powered Jira assistant with MCP integration. Create, search, and manage Jira tickets through a clean tabbed interface using natural language commands or direct forms. Built with Python and MCP framework.",
+    "detail_url": "https://mcp.so/client/Jira_mcp_streamlit/pawankumar94",
+    "author": "pawankumar94",
+    "github_url": "https://github.com/pawankumar94/jira_mcp_streamlit",
+    "categories": "developer-tools",
+    "tags": [
+      "jira",
+      "googlecloudplatform"
+    ]
+  },
+  {
+    "name": "MCP HTTP Client Example",
+    "description": "Simple example client demonstrating how to connect to MCP servers over HTTP (SSE)",
+    "detail_url": "https://mcp.so/client/mcp-http-client-example/slavashvets",
+    "author": "slavashvets",
+    "github_url": "https://github.com/slavashvets/mcp-http-client-example",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Toolbase",
+    "description": "A desktop application that adds powerful tools to Claude and AI platforms",
+    "detail_url": "https://mcp.so/client/toolbase/Toolbase-AI",
+    "author": "Toolbase-AI",
+    "github_url": "https://github.com/toolbase-ai/toolbase",
+    "categories": "developer-tools",
+    "tags": [
+      "tools",
+      "ai"
+    ]
+  },
+  {
+    "name": "Smolagents",
+    "description": "🤗 smolagents: a barebones library for agents that think in code.",
+    "detail_url": "https://mcp.so/client/smolagents/huggingface",
+    "author": "huggingface",
+    "github_url": "https://github.com/huggingface/smolagents",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Deepin MCP",
+    "description": "deepin-mcp-python",
+    "detail_url": "https://mcp.so/client/deepin-mcp/toberyan",
+    "author": "toberyan",
+    "github_url": "https://github.com/toberyan/deepin-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Slack MCP Client",
+    "description": "An MCP client for slack in Typescript",
+    "detail_url": "https://mcp.so/client/slack-mcp-client/csonigo",
+    "author": "csonigo",
+    "github_url": "https://github.com/csonigo/slack-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Computer Use AI SDK",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP-server-client-computer-use-ai-sdk/mediar-ai",
+    "author": "mediar-ai",
+    "github_url": "https://github.com/mediar-ai/mcp-server-client-computer-use-ai-sdk",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP Code Agent With OpenAI LLMs",
+    "description": "Agent implementing code actions and MCP protocol based on OpenAI LLMs.",
+    "detail_url": "https://mcp.so/client/oai_mcp_code_agent/Zovi343",
+    "author": "Zovi343",
+    "github_url": "https://github.com/zovi343/oai_mcp_code_agent",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "codemcp",
+    "description": "Coding assistant MCP for Claude Desktop",
+    "detail_url": "https://mcp.so/client/codemcp/ezyang",
+    "author": "ezyang",
+    "github_url": "https://github.com/ezyang/codemcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Mistr. Agent",
+    "description": "A MCP client that enables Mistral AI models to autonomously execute complex tasks across web and local environments through standardized agentic capabilities.",
+    "detail_url": "https://mcp.so/client/mistr-agent/itisaevalex",
+    "author": "itisaevalex",
+    "github_url": "https://github.com/itisaevalex/mistr-agent",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Kopilot MCP",
+    "description": "A MCP client/server to interact with Kubernetes resources using natural language.",
+    "detail_url": "https://mcp.so/client/Kopilot-MCP/KokoiRuby",
+    "author": "KokoiRuby",
+    "github_url": "https://github.com/kokoiruby/kopilot-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "mcp-feishu-bot",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-feishu-bot/twwch",
+    "author": "twwch",
+    "github_url": "https://github.com/twwch/mcp-feishu-bot",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Nerve",
+    "description": "The Simple Agent Development Kit.",
+    "detail_url": "https://mcp.so/client/nerve/evilsocket",
+    "author": "evilsocket",
+    "github_url": "https://github.com/evilsocket/nerve",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP로 RAG Application 구현하기",
+    "description": "It shows how to use model-context-protocol.",
+    "detail_url": "https://mcp.so/client/mcp/kyopark2014",
+    "author": "kyopark2014",
+    "github_url": "https://github.com/kyopark2014/mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP Agents Cloud",
+    "description": "MCP Agents Cloud是一个提供管理MCP服务器和代理（Agent）的平台。",
+    "detail_url": "https://mcp.so/client/agents-mcp-cloud/HiCoderMonkey",
+    "author": "HiCoderMonkey",
+    "github_url": "https://github.com/hicodermonkey/agents-mcp-cloud",
+    "categories": "cloud-platforms",
+    "tags": []
+  },
+  {
+    "name": "Flutter + dart_mcp + AI Desktop App Demo",
+    "description": "Demonstrate how to implement MCP Client in Flutter application with AI.",
+    "detail_url": "https://mcp.so/client/flutter-mcp-ai-chat/leehack",
+    "author": "leehack",
+    "github_url": "https://github.com/leehack/flutter-mcp-ai-chat",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP_Modularity 项目 README",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP_Modularity/kirintea",
+    "author": "kirintea",
+    "github_url": "https://github.com/kirintea/mcp_modularity",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "TySVA - TypeScript Voice Assistant🪄",
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "detail_url": "https://mcp.so/client/TySVA/AstraBert",
+    "author": "AstraBert",
+    "github_url": "https://github.com/astrabert/tysva",
+    "categories": "research-and-data",
+    "tags": [
+      "learning",
+      "typescript"
+    ]
+  },
+  {
+    "name": "MCP 聊天应用",
+    "description": "基于MCP(Model Context Protocol)的智能聊天应用，支持Web和桌面环境。集成OpenAI/Anthropic API，提供MCP服务器的所有工具能力。简洁现代的UI设计，支持跨平台部署。",
+    "detail_url": "https://mcp.so/client/mcp-ui/machaojin1917939763",
+    "author": "machaojin1917939763",
+    "github_url": "https://github.com/machaojin1917939763/mcp-ui",
+    "categories": "communication",
+    "tags": [
+      "mcpe",
+      "mcp"
+    ]
+  },
+  {
+    "name": "MCP Terminal",
+    "description": "run and use mcp servers in your terminal",
+    "detail_url": "https://mcp.so/client/mcp-terminal/GeLi2001",
+    "author": "GeLi2001",
+    "github_url": "https://github.com/geli2001/mcp-terminal",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "LangChainGo MCP Adapter",
+    "description": "A Go adapter that bridges LangChain Go tools with Model Context Protocol (MCP) servers.",
+    "detail_url": "https://mcp.so/client/langchaingo-mcp-adapter/i2y",
+    "author": "i2y",
+    "github_url": "https://github.com/i2y/langchaingo-mcp-adapter",
+    "categories": "developer-tools",
+    "tags": [
+      "go",
+      "agent"
+    ]
+  },
+  {
+    "name": "Tanzu Platform Chat: AI Chat Client for Cloud Foundry",
+    "description": "Tanzu Platform Chat",
+    "detail_url": "https://mcp.so/client/cf-mcp-client/cpage-pivotal",
+    "author": "cpage-pivotal",
+    "github_url": "https://github.com/cpage-pivotal/cf-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Unified MCP Client Library",
+    "description": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+    "detail_url": "https://mcp.so/client/mcp-use/pietrozullo",
+    "author": "pietrozullo",
+    "github_url": "https://github.com/pietrozullo/mcp-use",
+    "categories": "developer-tools",
+    "tags": [
+      "ai",
+      "mcp"
+    ]
+  },
+  {
+    "name": "mcp-gomamayo",
+    "description": "MCP server for ”ゴママヨ”",
+    "detail_url": "https://mcp.so/client/mcp-gomamayo/mizakaHK",
+    "author": "mizakaHK",
+    "github_url": "https://github.com/mizakahk/mcp-gomamayo",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Speelka Agent",
+    "description": "Universal LLM Agent based on MCP",
+    "detail_url": "https://mcp.so/client/speelka-agent/korchasa",
+    "author": "korchasa",
+    "github_url": "https://github.com/korchasa/speelka-agent",
+    "categories": "research-and-data",
+    "tags": [
+      "agent",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Unified MCP Client Library",
+    "description": "mcp-use is the easiest way to interact with mcp servers with custom agents",
+    "detail_url": "https://mcp.so/client/mcp-use/mcp-use",
+    "author": "mcp-use",
+    "github_url": "https://github.com/mcp-use/mcp-use",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "agent"
+    ]
+  },
+  {
+    "name": "Ollama MCP (Model Context Protocol)",
+    "description": "MCP client for local ollama models",
+    "detail_url": "https://mcp.so/client/ollama-mcp-client/mihirrd",
+    "author": "mihirrd",
+    "github_url": "https://github.com/mihirrd/ollama-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP for Laravel",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP-for-Laravel/SettledCo",
+    "author": "SettledCo",
+    "github_url": "https://github.com/settledco/mcp-for-laravel",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Bedrock MCP Connector",
+    "description": "A connector to connect agentic models to MCP tools",
+    "detail_url": "https://mcp.so/client/Bedrock-MCP-Connector/juspay",
+    "author": "juspay",
+    "github_url": "https://github.com/juspay/bedrock-mcp-connector",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP AI Agent",
+    "description": "A TypeScript library that enables AI agents to leverage MCP (Model Context Protocol) servers for enhanced capabilities. This library integrates with the AI SDK to provide a seamless way to connect to MCP servers and use their tools in AI-powered applications.",
+    "detail_url": "https://mcp.so/client/mcp-ai-agent/fkesheh",
+    "author": "fkesheh",
+    "github_url": "https://github.com/fkesheh/mcp-ai-agent",
+    "categories": "developer-tools",
+    "tags": [
+      "autogen",
+      "ai-agent"
+    ]
+  },
+  {
+    "name": "Roo-Code Agents & MCP Setup",
+    "description": "Roo-Code Agents & MCP Setup",
+    "detail_url": "https://mcp.so/client/sparcaroo/jodobear",
+    "author": "jodobear",
+    "github_url": "https://github.com/jodobear/sparcaroo",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/ThinkAny/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/HeyBeauty/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "ThinkAny",
+    "description": "AI Search Engine",
+    "detail_url": "https://mcp.so/client/ThinkAny/thinkany",
+    "author": "thinkany",
+    "github_url": "https://thinkany.ai/",
+    "categories": "research-and-data",
+    "tags": [
+      "ai search",
+      "thinkany"
+    ]
+  },
+  {
+    "name": "Openmcp Client",
+    "description": "A MCP Client for MCP/OpenMCP",
+    "detail_url": "https://mcp.so/client/openmcp-client/LSTM-Kirigaya",
+    "author": "LSTM-Kirigaya",
+    "github_url": "https://github.com/lstm-kirigaya/openmcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "MCP-CLIENT-CHATBOT",
+    "description": "MCP Client Chatbot is a chat interface that allows you to easily utilize various AI providers (OpenAI,Anthropic, Google, Ollama, etc.) while connecting powerful AI tools through MCP",
+    "detail_url": "https://mcp.so/client/mcp-client-chatbot/cgoing",
+    "author": "cgoing",
+    "github_url": "https://github.com/cgoinglove/mcp-client-chatbot",
+    "categories": "developer-tools",
+    "tags": [
+      "chatbot",
+      "AI"
+    ]
+  },
+  {
+    "name": "DDDDDDD",
+    "description": "",
+    "detail_url": "https://mcp.so/client/ddddddd",
+    "author": "",
+    "github_url": "https://api.figma.com/",
+    "categories": "research-and-data",
+    "tags": [
+      "mathgpt",
+      "math-solver"
+    ]
+  },
+  {
+    "name": "TRMX MCP Playground",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-playground/rosaboyle",
+    "author": "rosaboyle",
+    "github_url": "https://github.com/rosaboyle/mcp-playground",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "🏠 Airbnb Search Assistant",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP_Agent_Airbnb/akktrsst",
+    "author": "akktrsst",
+    "github_url": "https://github.com/akktrsst/mcp_agent_airbnb",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP Client Chatbot",
+    "description": "🚀 Open source MCP Client: A Multi-provider AI Chatbot Solution",
+    "detail_url": "https://mcp.so/client/mcp-client-chatbot/cgoinglove",
+    "author": "cgoinglove",
+    "github_url": "https://github.com/cgoinglove/mcp-client-chatbot",
+    "categories": "developer-tools",
+    "tags": [
+      "agent",
+      "ai"
+    ]
+  },
+  {
+    "name": "FastAPI MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/fastapi-mcp-client/RooseveltAdvisors",
+    "author": "RooseveltAdvisors",
+    "github_url": "https://github.com/rooseveltadvisors/fastapi-mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Install MCP CLI",
+    "description": "A simple CLI to install MCP servers into any client",
+    "detail_url": "https://mcp.so/client/install-mcp/Dhravya",
+    "author": "Dhravya",
+    "github_url": "https://github.com/dhravya/install-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "AI Coding",
+    "description": "AI Coding can help developers use the services of AI providers (such as OpenAI/Claude/Baidu/Google) more conveniently, improving development efficiency.",
+    "detail_url": "https://mcp.so/client/AI%20Coding/YinZhengFei",
+    "author": "YinZhengFei",
+    "github_url": "https://plugins.jetbrains.com/plugin/21263-ai-coding",
+    "tags": [
+      "chat",
+      "mcp"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/map/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "AINGDESK",
+    "description": "AingDesk是一款简单好用的AI助手，支持知识库、模型API、分享、联网搜索、智能体，它还在飞快成长中。 AingDesk is a simple and easy-to-use AI assistant that supports knowledge bases, model APIs, sharing, internet search, and intelligent agents. It is still growing rapidly.",
+    "detail_url": "https://mcp.so/client/AingDesk/aingdesk",
+    "author": "aingdesk",
+    "github_url": "https://github.com/aingdesk/AingDesk",
+    "categories": "research-and-data",
+    "tags": [
+      "aingdesk",
+      "ai-assistant"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/CopyWeb/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Qiniu MCP Server",
+    "description": "",
+    "detail_url": "https://mcp.so/client/qiniu-mcp-server/qiniu",
+    "author": "qiniu",
+    "github_url": "https://github.com/qiniu/qiniu-mcp-server",
+    "categories": "cloud-platforms",
+    "tags": []
+  },
+  {
+    "name": "MCP-HOST-USE",
+    "description": "mcp-host-use is a Node.js-based Model Context Protocol (MCP) host application for connecting and managing multiple MCP servers.",
+    "detail_url": "https://mcp.so/client/mcp-host-use/liujilongObject",
+    "author": "liujilongObject",
+    "github_url": "https://github.com/liujilongObject/mcp-host-use",
+    "tags": [
+      "MCP Host",
+      "MCP Client"
+    ]
+  },
+  {
+    "name": "Claude",
+    "description": "Meet Claude on your desktop",
+    "detail_url": "https://mcp.so/client/claude-ai/Anthropic",
+    "author": "Anthropic",
+    "github_url": "https://claude.ai/download",
+    "categories": "research-and-data",
+    "tags": [
+      "chatbot",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%E6%B5%8B%E8%AF%95/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/123/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Agentica",
+    "description": "Agentica is an open-source framework that makes working with AI agents simple and reliable. It helps you integrate structured function calls with Large Language Models (LLMs) without the usual headaches.\n\nBuilt around Typia's robust JSON Schema validation, Agentica eliminates the common frustrations of building agent systems - no more dealing with unpredictable outputs or complex integration challenges.",
+    "detail_url": "https://mcp.so/client/Agentica/Wrtnlabs",
+    "author": "Wrtnlabs",
+    "github_url": "https://github.com/wrtnlabs/agentica",
+    "tags": [
+      "mcp-client",
+      "ai-agents"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Slack%20MCP%20Client",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Vibeframe - MCP UI for VS Code",
+    "description": "VSCode Extension to enable UIs for MCP Servers (SSE)",
+    "detail_url": "https://mcp.so/client/vibeframe/taggartbg",
+    "author": "taggartbg",
+    "github_url": "https://github.com/taggartbg/vibeframe",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Dive MCP Host",
+    "description": "",
+    "detail_url": "https://mcp.so/client/dive-mcp-host/OpenAgentPlatform",
+    "author": "OpenAgentPlatform",
+    "github_url": "https://github.com/openagentplatform/dive-mcp-host",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Saiki",
+    "description": "A customizable, general purpose AI Agent that supports MCP. Talk to Saiki in natural language to control computers, applications and more!",
+    "detail_url": "https://mcp.so/client/saiki/truffle-ai",
+    "author": "truffle-ai",
+    "github_url": "https://github.com/truffle-ai/saiki",
+    "categories": "research-and-data",
+    "tags": [
+      "typescript",
+      "ai"
+    ]
+  },
+  {
+    "name": "🧠 Ultimate MCP Client",
+    "description": "",
+    "detail_url": "https://mcp.so/client/ultimate_mcp_client/Dicklesworthstone",
+    "author": "Dicklesworthstone",
+    "github_url": "https://github.com/dicklesworthstone/ultimate_mcp_client",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Getting Started",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-client/CopilotKit",
+    "author": "CopilotKit",
+    "github_url": "https://github.com/copilotkit/mcp-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "CODENAME GOOSE",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Codename%20Goose%20/Codename%20Goose",
+    "author": "Codename Goose",
+    "github_url": "https://github.com/block/goose",
+    "categories": "developer-tools",
+    "tags": [
+      "codename-goose",
+      "ai-agent"
+    ]
+  },
+  {
+    "name": "airbnb_mcp",
+    "description": "airbnb_mcp",
+    "detail_url": "https://mcp.so/client/airbnb_mcp/Sakil786",
+    "author": "Sakil786",
+    "github_url": "https://github.com/sakil786/airbnb_mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Trae/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/test/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Rohan%20Vermeulen",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "CLAP - Cognitive Layer Agent Package",
+    "description": "Powerful Asynchronous Multi agent framework built from scratch in python supporting RAG and MCP compatibilities.",
+    "detail_url": "https://mcp.so/client/Clap-Agents/MaitreyaM",
+    "author": "MaitreyaM",
+    "github_url": "https://github.com/maitreyam/clap-agents",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Scira Mcp Chat",
+    "description": "A minimalistic MCP client with a good feature set.",
+    "detail_url": "https://mcp.so/client/scira-mcp-chat/zaidmukaddam",
+    "author": "zaidmukaddam",
+    "github_url": "https://github.com/zaidmukaddam/scira-mcp-chat",
+    "categories": "communication",
+    "tags": [
+      "mcp",
+      "openai"
+    ]
+  },
+  {
+    "name": "Trae",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Trae",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/302%20Chatbot/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/dify/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "eechat",
+    "description": "An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.",
+    "detail_url": "https://mcp.so/client/eechat/eechat",
+    "author": "eechat",
+    "github_url": "https://www.ee.chat/",
+    "tags": [
+      "eechat"
+    ]
+  },
+  {
+    "name": "Postman MCP client",
+    "description": "Postman’s MCP client simplifies the development and testing of Model Context Protocol (MCP) servers. MCP provides a standardized way for LLMs and agentic frameworks to interact with APIs by wrapping tools, prompts, and resources in a consistent format across transports like STDIO, SSE, and streamable HTTP. The Postman MCP client builds on this foundation by offering a streamlined interface for sending requests, debugging issues, validating tool configurations, and inspecting responses—making it easier for developers to build reliable, interoperable MCP servers.",
+    "detail_url": "https://mcp.so/client/Postman%20MCP%20client/Dustin%20Schau",
+    "author": "Dustin Schau",
+    "github_url": "https://github.com/postmanlabs/postman-app-support",
+    "tags": [
+      "postman"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Argo/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "ARGO - Local AI",
+    "description": "Desktop AI Agent builder supports for local/remote LLMs, RAG, MCP",
+    "detail_url": "https://mcp.so/client/Argo/xark-argo",
+    "author": "xark-argo",
+    "github_url": "https://www.xark-argo.com/",
+    "tags": [
+      "Agent",
+      "RAG"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/as/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "MCP Agent Graph (MAG)",
+    "description": "MCP Agent Graph (MAG) is an agent development framework for rapidly building agent systems. This project is based on graphs, nodes, and MCP to quickly construct complex Agent systems.",
+    "detail_url": "https://mcp.so/client/mcp-agent-graph/keta1930",
+    "author": "keta1930",
+    "github_url": "https://github.com/keta1930/mcp-agent-graph",
+    "categories": "developer-tools",
+    "tags": [
+      "agent",
+      "graph"
+    ]
+  },
+  {
+    "name": "Tome - Magical AI Spellbook",
+    "description": "a magical desktop app that puts the power of LLMs and MCP in the hands of everyone",
+    "detail_url": "https://mcp.so/client/tome/runebookai",
+    "author": "runebookai",
+    "github_url": "https://github.com/runebookai/tome",
+    "categories": "research-and-data",
+    "tags": [
+      "mcp",
+      "gemini"
+    ]
+  },
+  {
+    "name": "Video Extraction Server",
+    "description": "MCP Video & Audio Text Extraction Server\nA Model Context Protocol (MCP) server that enables text extraction from various video platforms and audio files, allowing compatible host applications (like Claude Desktop, Cursor) to access video content and perform text transcription.\nWhat is it?\nMCP Video & Audio Text Extraction Server is a Model Context Protocol (MCP) server that can download videos from various platforms, extract audio, and convert it to text. The server utilizes OpenAI's Whisper model for high-quality audio-to-text conversion.\nHow to use it?\nClone the repository and install dependencies\nEnsure FFmpeg is installed\nRun the server\nConfigure your MCP host application (like Claude Desktop) to use the server\nKey Features\nSupport video downloads from multiple platforms including YouTube, Bilibili, TikTok, etc.\nExtract audio content from videos\nHigh-quality speech recognition using Whisper model\nMulti-language text recognition support\nAsynchronous processing for large files\nStandardized MCP tools interface\nUse Cases\nProvide text transcription capabilities for applications that need to process video content\nBatch process video content and extract text information\nCreate custom applications requiring audio/video text extraction functionality\nEnable AI assistants to understand video content\nFAQ\nWhat are the system requirements to run the server?\n> Requires Python 3.9+, FFmpeg, minimum 8GB RAM, GPU acceleration recommended\nWhat should I know about first run?\n> The system will automatically download the Whisper model file (approximately 1GB), which may take several minutes to tens of minutes\nWhat audio formats are supported?\n> Supports common audio formats including mp3, wav, m4a, etc.\nThis description maintains the core information from the original README while adopting a similar structure and style to the reference page. Would you like me to adjust or add anything to this description?",
+    "detail_url": "https://mcp.so/client/Video%20Extraction/SealinGp",
+    "author": "SealinGp",
+    "github_url": "https://github.com/SealinGp/mcp-video-extraction",
+    "categories": "research-and-data",
+    "tags": [
+      "video-extraction",
+      "text-extraction"
+    ]
+  },
+  {
+    "name": "Blender MCP Client via Firebase Genkit Gemini",
+    "description": "An MCP Client for interfacing with the Blender MCP Server built with Firebase Genkit and Gemini",
+    "detail_url": "https://mcp.so/client/genkit-mcp-client-blender/xprilion",
+    "author": "xprilion",
+    "github_url": "https://github.com/xprilion/genkit-mcp-client-blender",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "CarrotAI",
+    "description": "CarrotAI is a cutting-edge AI agent application that delivers real-time streaming chat via Server-Sent Events (SSE) with built-in Model Control Protocol (MCP) integration. It supports concurrent connections to multiple SSE MCP servers and provides user interfaces in English, Chinese, and Japanese.",
+    "detail_url": "https://mcp.so/client/CarrotAI/Xingsandesu",
+    "author": "Xingsandesu",
+    "github_url": "https://github.com/xingsandesu/carrotai",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "agentic-slackbot",
+    "description": "An agentic Slack bot with MCP support.",
+    "detail_url": "https://mcp.so/client/agentic-slackbot/John-Lin",
+    "author": "John-Lin",
+    "github_url": "https://github.com/john-lin/agentic-slackbot",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "小红书MCP服务",
+    "description": "小红书MCP服务 x-s x-t js逆向",
+    "detail_url": "https://mcp.so/client/xhs-mcp/jobsonlook",
+    "author": "jobsonlook",
+    "github_url": "https://github.com/jobsonlook/xhs-mcp",
+    "tags": [
+      "mcp",
+      "xhs"
+    ]
+  },
+  {
+    "name": "JMH-TEST",
+    "description": "测试",
+    "detail_url": "https://mcp.so/client/jmh-test",
+    "author": "",
+    "github_url": "https://mcp.composio.dev/composio/server/5c5069f7-c7d2-4ee6-9503-8ff7814b1f1a",
+    "categories": "research-and-data",
+    "tags": [
+      "jmh-test",
+      "testing"
+    ]
+  },
+  {
+    "name": "Tome",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Tome",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "TOME",
+    "description": "A magical tool for using local LLMs with MCP servers",
+    "detail_url": "https://mcp.so/client/Tome/Runebook",
+    "author": "Runebook",
+    "github_url": "https://github.com/runebookai/tome",
+    "tags": []
+  },
+  {
+    "name": "THANH",
+    "description": "",
+    "detail_url": "https://mcp.so/client/Thanh",
+    "author": "",
+    "github_url": "https://ecomdymedia.com/",
+    "categories": "research-and-data",
+    "tags": [
+      "ecommerce",
+      "advertising"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/MCP%20Proxy%20Server/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "HELLO-WORLD133",
+    "description": "",
+    "detail_url": "https://mcp.so/client/hello-world",
+    "author": "",
+    "github_url": "https://github.com/mcpso/mcp-server-chatsum",
+    "tags": [
+      "mcp-server",
+      "chat-summarizer"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chatmcp/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "mcp-oi-wiki",
+    "description": "🌟 Wiki of OI / ICPC for LLMs. （面向大模型的某大型游戏线上攻略，内含炫酷算术魔法）",
+    "detail_url": "https://mcp.so/client/mcp-oi-wiki/ShwStone",
+    "author": "ShwStone",
+    "github_url": "https://github.com/shwstone/mcp-oi-wiki",
+    "categories": "research-and-data",
+    "tags": [
+      "mcp",
+      "icpc"
+    ]
+  },
+  {
+    "name": "Cobolt",
+    "description": "This is a cross-platform desktop application that allows you to chat with locally hosted LLMs and enjoy features like MCP support",
+    "detail_url": "https://mcp.so/client/cobolt/platinum-hill",
+    "author": "platinum-hill",
+    "github_url": "https://github.com/platinum-hill/cobolt",
+    "categories": "developer-tools",
+    "tags": [
+      "local-first",
+      "llm"
+    ]
+  },
+  {
+    "name": "OmniTaskAgent",
+    "description": "",
+    "detail_url": "https://mcp.so/client/OmniTaskAgent/ACNet-AI",
+    "author": "ACNet-AI",
+    "github_url": "https://github.com/acnet-ai/omnitaskagent",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Aider MCP Client: Supercharge Your Coding with AI-Powered Documentation",
+    "description": "A Python tool to query Context7 MCP for library docs. Integrates with Aider for AI coding. Install via pip install mcp_query and fetch docs easily.",
+    "detail_url": "https://mcp.so/client/aider-mcp-client/alvinveroy",
+    "author": "alvinveroy",
+    "github_url": "https://github.com/alvinveroy/aider-mcp-client",
+    "categories": "developer-tools",
+    "tags": [
+      "python",
+      "cli"
+    ]
+  },
+  {
+    "name": "TeamSpark AI Workbench",
+    "description": "TeamSpark AI Workbench is a powerful desktop and command line client application designed for building intelligent AI agents that can solve complex problems using various AI models from providers like Anthropic, OpenAI, Google, AWS Bedrock, and Ollama.",
+    "detail_url": "https://mcp.so/client/teamspark-ai-workbench/TeamSpark,%20LLC",
+    "author": "TeamSpark, LLC",
+    "github_url": "https://www.teamspark.ai/",
+    "tags": [
+      "teamspark",
+      "ai"
+    ]
+  },
+  {
+    "name": "CodingBaby-Browser-MCP",
+    "description": "MCP Server allowing AI agents to control Google Chrome via the CodingBaby Extension",
+    "detail_url": "https://mcp.so/client/CodingBaby-Browser-MCP/buyitsydney",
+    "author": "buyitsydney",
+    "github_url": "https://github.com/buyitsydney/codingbaby-browser-mcp",
+    "categories": "browser-automation",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/amazon-q-developer-cli/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "QU3 - Quantum-Safe MCP Client",
+    "description": "Quantum-proof MCP Server and Client Interactions",
+    "detail_url": "https://mcp.so/client/qu3-app/qu3ai",
+    "author": "qu3ai",
+    "github_url": "https://github.com/qu3ai/qu3-app",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "TeamSpark AI Workbench",
+    "description": "TeamSpark AI Workbench",
+    "detail_url": "https://mcp.so/client/teamspark-workbench/TeamSparkAI",
+    "author": "TeamSparkAI",
+    "github_url": "https://github.com/teamsparkai/teamspark-workbench",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chorus/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Chorus",
+    "description": "Chat with Claude, o1, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
+    "detail_url": "https://mcp.so/client/chorus/Chorus",
+    "author": "Chorus",
+    "github_url": "https://chorus.sh/",
+    "tags": []
+  },
+  {
+    "name": "github",
+    "description": "",
+    "detail_url": "https://mcp.so/client/github",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "API-CATALOG",
+    "description": "",
+    "detail_url": "https://mcp.so/client/api-catalog?tab=comments",
+    "author": "",
+    "github_url": "http://localhost:3000/",
+    "tags": []
+  },
+  {
+    "name": "Gemini MCP Desktop Client",
+    "description": "first gemini based desktop client for MCP",
+    "detail_url": "https://mcp.so/client/gemini-mcp-desktop-client/duke7able",
+    "author": "duke7able",
+    "github_url": "https://github.com/duke7able/gemini-mcp-desktop-client",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/highlight-ai/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Mcp-ChatBI",
+    "description": "基于 Mcp 架构的 ChatBI，是一种数据分析智能体解决方案",
+    "detail_url": "https://mcp.so/client/Mcp-ChatBI/dynamiclu",
+    "author": "dynamiclu",
+    "github_url": "https://github.com/dynamiclu/mcp-chatbi",
+    "categories": "research-and-data",
+    "tags": [
+      "python",
+      "mcp"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/trae/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Voice Assistant",
+    "description": "",
+    "detail_url": "https://mcp.so/client/whatsapp-mcp-voice-agent/autometa-dev",
+    "author": "autometa-dev",
+    "github_url": "https://github.com/autometa-dev/whatsapp-mcp-voice-agent",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "AIME-BOX",
+    "description": "一款基于 langchain + electron开发的多平台桌面端 Chat 客户端 支持本地知识库，tool调用，多个智能agent调用 目标尽量实现全离线本地可执行的智能agent",
+    "detail_url": "https://mcp.so/client/aime-box?tab=comments",
+    "author": "",
+    "github_url": "https://github.com/AimeBox/aime-box",
+    "tags": [
+      "chatbox",
+      "mcp"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/raycast/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "protolint",
+    "description": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions.",
+    "detail_url": "https://mcp.so/client/protolint/yoheimuta",
+    "author": "yoheimuta",
+    "github_url": "https://github.com/yoheimuta/protolint",
+    "tags": [
+      "lint",
+      "cli"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/sookie/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Osmosis-MCP-4B",
+    "description": "An Open Source SLM Trained for MCP",
+    "detail_url": "https://mcp.so/client/Osmosis-MCP-4B-demo/Gulp-AI",
+    "author": "Gulp-AI",
+    "github_url": "https://github.com/gulp-ai/osmosis-mcp-4b-demo",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/rockspy/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Mcp Airflow Postgres",
+    "description": "Operate airflow's postgresql directly",
+    "detail_url": "https://mcp.so/client/mcp-airflow-postgres/gavinHuang",
+    "author": "gavinHuang",
+    "github_url": "https://github.com/gavinHuang/mcp-airflow-postgres",
+    "categories": "research-and-data",
+    "tags": [
+      "airflow",
+      "database"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/vibe-blocks-mcp-for-roblox-studio/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "ACALYTICA",
+    "description": "Acalytica enables individuals and businesses to:\n\nBuild beautiful, one-page websites (MyLinks)\nTrack and analyze user engagement\nCreate QR codes, social proof notifications, and digital storefronts\nMonetize their content and services with built-in tools",
+    "detail_url": "https://mcp.so/client/acalytica/Acalytica?tab=comments",
+    "author": "Acalytica",
+    "github_url": "https://github.com/edzai/Acalytica-MCP-Client",
+    "categories": "research-and-data",
+    "tags": [
+      "acalytica",
+      "biolinks"
+    ]
+  },
+  {
+    "name": "Elemental",
+    "description": "Elemental is a multi-agent framework designed with a focus on the modularity of agent workflow stages. It enables the creation and management of single-agent or multi-agent systems with ease. The core functionality revolves around dynamically planning how to solve assigned tasks and executing those plans with the help of an agent team. Elemental supports the programmatic creation of flexible and custom workflows and includes a no-code interface for easy management of agents and tasks. Elemental fully supports MCP Tools with easy configuration of MCP servers and selection of individual tools or complete set.",
+    "detail_url": "https://mcp.so/client/elemental/AttoAgents",
+    "author": "AttoAgents",
+    "github_url": "https://github.com/AttoAgents/elemental",
+    "tags": [
+      "agent framework",
+      "no-code"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/image/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Online MCP Inspector: Web-Based Tool for Testing & Debugging",
+    "description": "Test and debug your MCP (Model Context Protocol) servers directly in your browser. No installation or command line needed. Simplify MCP development with our online inspector.",
+    "detail_url": "https://mcp.so/client/online-mcp-inspector/web-mcp",
+    "author": "web-mcp",
+    "github_url": "https://github.com/web-mcp/online-mcp-inspector",
+    "tags": [
+      "mcp",
+      "mcp-inspector"
+    ]
+  },
+  {
+    "name": "test1",
+    "description": "",
+    "detail_url": "https://mcp.so/client/test1",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/tdsrghd/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "n8n",
+    "description": "",
+    "detail_url": "https://mcp.so/client/n8n",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "test",
+    "description": "",
+    "detail_url": "https://mcp.so/client/test",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%ED%95%B4%ED%95%B4%ED%95%B4%ED%95%B4",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "MooPoint",
+    "description": "A web-hosted AI chat platform available at moopoint.io, designed for developers and advanced users to interact with multiple large language models (LLMs) through a single, unified interface. The platform allows seamless integration with custom MCP servers and gives users secure control over their own API keys for providers such as OpenAI, Anthropic, and others.",
+    "detail_url": "https://mcp.so/client/moopoint",
+    "author": "",
+    "github_url": "https://mcp.so/client/moopoint",
+    "tags": [
+      "mcp-client",
+      "llm-agnostic"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/karan2/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "karan2",
+    "description": "",
+    "detail_url": "https://mcp.so/client/karan2?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/shinaki---easy-agent-and-tool-mcp-generation/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/uniclouddb-mcp/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/funtest/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/thbttb/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "funtest",
+    "description": "",
+    "detail_url": "https://mcp.so/client/funtest",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "VAKTAI",
+    "description": "",
+    "detail_url": "https://mcp.so/client/vaktai",
+    "author": "",
+    "github_url": "https://skulitorr.app.n8n.cloud/webhook-test/mcp-webhook",
+    "tags": []
+  },
+  {
+    "name": "MCP-X",
+    "description": "This is an MCP client that allows you to easily configure various large models and develop interfaces with various MCP servers.\n这是一个MCP客户端，让你轻松配置各个大模型，对接各种MCP Server而开发。",
+    "detail_url": "https://mcp.so/client/mcp-x/TimeCyber%20Ltd?tab=comments",
+    "author": "TimeCyber Ltd",
+    "github_url": "https://github.com/TimeCyber/MCP-X",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-x/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "MCPSECRETARY",
+    "description": "This is a software that uses a similar function like MCP to realize an intelligent assistant on an Android phone: mcpsecretary.\nCurrently, the tool can only be called through openrouter to call Claude sonnet3.7. Click the key button on the upper right to set the API key of openrouter, and click the dialog box below to talk to the big model.\nCurrently, the tools that can be provided include: note-taking, to-do list, and accounting. We will try to add more functions in the future.",
+    "detail_url": "https://mcp.so/client/mcpsecretary/Yunhai%20Sui",
+    "author": "Yunhai Sui",
+    "github_url": "https://github.com/WilliamSuiself/mcpsecretary_android",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/neuron-ai-php-framework/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/qspeak/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "qspeak",
+    "description": "",
+    "detail_url": "https://mcp.so/client/qspeak",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chominji/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/edgeone-pages-mcp/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "AI as Workspace",
+    "description": "A cross-platform, full-featured and lightweight AI Chat client with full support for MCP.",
+    "detail_url": "https://mcp.so/client/ai-as-workspace/NitroRCr",
+    "author": "NitroRCr",
+    "github_url": "https://github.com/NitroRCr/AIaW",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%EC%A1%B0%EB%AF%BC%EC%A7%80/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/tewst/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Grafana Mcp Analyzer",
+    "description": "让AI助手直接分析你的Grafana监控数据 - A Model Context Protocol server for Grafana data analysis",
+    "detail_url": "https://mcp.so/client/grafana-mcp-analyzer/SailingCoder",
+    "author": "SailingCoder",
+    "github_url": "https://github.com/SailingCoder/grafana-mcp-analyzer",
+    "tags": [
+      "grafana",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Zola",
+    "description": "The open-source interface for AI chat. Self-hostable, developer-first, and model-agnostic.",
+    "detail_url": "https://mcp.so/client/zola/ibelick",
+    "author": "ibelick",
+    "github_url": "https://github.com/ibelick/zola",
+    "categories": "research-and-data",
+    "tags": [
+      "chat",
+      "open-source"
+    ]
+  },
+  {
+    "name": "Roo Code (prev. Roo Cline)",
+    "description": "Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.",
+    "detail_url": "https://mcp.so/client/Roo-Code/RooCodeInc",
+    "author": "RooCodeInc",
+    "github_url": "https://github.com/roocodeinc/roo-code",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Groq Desktop",
+    "description": "Local Groq Desktop chat app with MCP support",
+    "detail_url": "https://mcp.so/client/groq-desktop-beta/groq",
+    "author": "groq",
+    "github_url": "https://github.com/groq/groq-desktop-beta",
+    "categories": "communication",
+    "tags": [
+      "managed-by-terraform"
+    ]
+  },
+  {
+    "name": "Proteus Workflow Engine",
+    "description": "一个强大的、可扩展的多智能体工作流引擎，支持Multi-Agent系统、auto-workflow、MCP-SERVER接入等功能，支持多种工具和资源，提供智能代理和自动化服务执行。",
+    "detail_url": "https://mcp.so/client/proteus-ai/alishangtian",
+    "author": "alishangtian",
+    "github_url": "https://github.com/alishangtian/proteus-ai",
+    "categories": "research-and-data",
+    "tags": [
+      "agent",
+      "workflow"
+    ]
+  },
+  {
+    "name": "DrissionPage MCP Server -- 骚神出品",
+    "description": "基于DrissionPage和FastMCP的浏览器自动化MCP服务器，提供丰富的浏览器操作API供AI调用",
+    "detail_url": "https://mcp.so/client/DrssionPageMCP/wxhzhwxhzh",
+    "author": "wxhzhwxhzh",
+    "github_url": "https://github.com/wxhzhwxhzh/drssionpagemcp",
+    "categories": "browser-automation",
+    "tags": [
+      "drissionpage",
+      "mcp-server"
+    ]
+  },
+  {
+    "name": "高德地址解析服务",
+    "description": "大模型搭配高德mcp的地址服务",
+    "detail_url": "https://mcp.so/client/LLM-Amap-mcp/blacsheep",
+    "author": "blacsheep",
+    "github_url": "https://github.com/blacsheep/llm-amap-mcp",
+    "categories": "location-services",
+    "tags": []
+  },
+  {
+    "name": "Sample Nova Sonic Mcp",
+    "description": "",
+    "detail_url": "https://mcp.so/client/sample-nova-sonic-mcp/aws-samples",
+    "author": "aws-samples",
+    "github_url": "https://github.com/aws-samples/sample-nova-sonic-mcp",
+    "categories": "communication",
+    "tags": [
+      "nova-sonic",
+      "audio-streaming"
+    ]
+  },
+  {
+    "name": "Speech Mcp",
+    "description": "Speech MCP Project",
+    "detail_url": "https://mcp.so/client/speech-mcp/netixc",
+    "author": "netixc",
+    "github_url": "https://github.com/netixc/speech-mcp",
+    "categories": "speech-processing",
+    "tags": []
+  },
+  {
+    "name": "HistorIQ",
+    "description": "HistorIQ 是一個基於模型上下文協議（Model Context Protocol, MCP）架構的 AI 歷史小說平台。整合了 RAG（Retrieval-Augmented Generation）、AI Agent、與本地部署的大語言模型（LLM），讓使用者能夠以自然語言提問歷史事件、人物與文化主題，系統則透過多階段推理與知識檢索生成具脈絡性的回答。",
+    "detail_url": "https://mcp.so/client/HistorIQ/annali",
+    "author": "annali",
+    "github_url": "https://github.com/annali/historiq",
+    "categories": "research-and-data",
+    "tags": [
+      "historIQ",
+      "AI"
+    ]
+  },
+  {
+    "name": "Anirudh's Chat",
+    "description": "A simple NextJS MCP client with sensible keybindings",
+    "detail_url": "https://mcp.so/client/chat/kamath",
+    "author": "kamath",
+    "github_url": "https://github.com/kamath/chat",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Flutter_mcp",
+    "description": "",
+    "detail_url": "https://mcp.so/client/flutter_mcp/YashMakan",
+    "author": "YashMakan",
+    "github_url": "https://github.com/yashmakan/flutter_mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "AI智能体项目",
+    "description": "基于SpringAI框架实现模型调用、RAG、ToolCalling和MCP，实现一个可以解决复杂问题，自主调用工具的智能体",
+    "detail_url": "https://mcp.so/client/AI-Agent-Zxc/Study944",
+    "author": "Study944",
+    "github_url": "https://github.com/study944/ai-agent-zxc",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "API-MCP (API Management Control Platform)",
+    "description": "",
+    "detail_url": "https://mcp.so/client/api-mcp/adafap",
+    "author": "adafap",
+    "github_url": "https://github.com/adafap/api-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Evo AI - AI Agents Platform",
+    "description": "Evo AI is an open-source platform for creating and managing AI agents, enabling integration with different AI models and services.",
+    "detail_url": "https://mcp.so/client/evo-ai/EvolutionAPI",
+    "author": "EvolutionAPI",
+    "github_url": "https://github.com/evolutionapi/evo-ai",
+    "categories": "research-and-data",
+    "tags": [
+      "python",
+      "agent"
+    ]
+  },
+  {
+    "name": "AskAnything",
+    "description": "侧边栏AI助手浏览器插件，集成MCP",
+    "detail_url": "https://mcp.so/client/AskAnything/obrr-hhx",
+    "author": "obrr-hhx",
+    "github_url": "https://github.com/obrr-hhx/askanything",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "qBittorrent MCP 服务",
+    "description": "",
+    "detail_url": "https://mcp.so/client/qbittorrent-mcp/pickpppcc",
+    "author": "pickpppcc",
+    "github_url": "https://github.com/pickpppcc/qbittorrent-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "🚀 Obsidian-Milvus-FastMCP",
+    "description": "obsidian-milvus-FastMCP",
+    "detail_url": "https://mcp.so/client/obsidian-milvus-FastMCP/jayjeo",
+    "author": "jayjeo",
+    "github_url": "https://github.com/jayjeo/obsidian-milvus-fastmcp",
+    "categories": "research-and-data",
+    "tags": [
+      "markdown",
+      "pdf"
+    ]
+  },
+  {
+    "name": "InfoSys Cambridge Hackathon: Multi-Agent Fact-Checking for Social Media",
+    "description": "MCP Hackathon Repository",
+    "detail_url": "https://mcp.so/client/MCPHack/DenizAkansoy",
+    "author": "DenizAkansoy",
+    "github_url": "https://github.com/denizakansoy/mcphack",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "mcp-chatbot",
+    "description": "MCP Chatbot powered by Anthropic Claude. Delivering on‐demand literature search and summarisation for academics and engineers",
+    "detail_url": "https://mcp.so/client/mcp-chatbot/mctrinh",
+    "author": "mctrinh",
+    "github_url": "https://github.com/mctrinh/mcp-chatbot",
+    "categories": "research-and-data",
+    "tags": [
+      "mcp",
+      "chatbot"
+    ]
+  },
+  {
+    "name": "tinyagents",
+    "description": "Tiny Agents: LLM + MCP Tools",
+    "detail_url": "https://mcp.so/client/tinyagents/albertvillanova",
+    "author": "albertvillanova",
+    "github_url": "https://github.com/albertvillanova/tinyagents",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "Amazon Q Developer Cli",
+    "description": "✨ Agentic chat experience in your terminal. Build applications using natural language.",
+    "detail_url": "https://mcp.so/client/amazon-q-developer-cli/aws",
+    "author": "aws",
+    "github_url": "https://github.com/aws/amazon-q-developer-cli",
+    "categories": "developer-tools",
+    "tags": [
+      "macos",
+      "linux"
+    ]
+  },
+  {
+    "name": "Google Maps MCP with Speech Input",
+    "description": "Google Maps MCP web application with speech to text functionality.",
+    "detail_url": "https://mcp.so/client/Google-Maps-MCP-Speech/l145dev",
+    "author": "l145dev",
+    "github_url": "https://github.com/l145dev/google-maps-mcp-speech",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "BrowserTools MCP",
+    "description": "MCP for React Dev Tools - Use directly inside cursor",
+    "detail_url": "https://mcp.so/client/mcp-react-dev-tools/wimpywarlord",
+    "author": "wimpywarlord",
+    "github_url": "https://github.com/wimpywarlord/mcp-react-dev-tools",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "auto-mcp-client",
+    "description": "基于Spring AI 封装了 mcp-client 服务，目的使web网页智能体也能通过 stdio 和 HTTP SSE（Server-Sent Events） 与 MCP Server 进行交互。项目实现了自动化的连接管理机制，包括自动初始化连接、健康检查、超时关闭以及链接复用等功能",
+    "detail_url": "https://mcp.so/client/auto-mcp-client/down-to-earth1994",
+    "author": "down-to-earth1994",
+    "github_url": "https://github.com/down-to-earth1994/auto-mcp-client",
+    "categories": "developer-tools",
+    "tags": [
+      "openai",
+      "spring-ai"
+    ]
+  },
+  {
+    "name": "Llama-Server MCP Proxy",
+    "description": "Simple node proxy for llama-server that enables MCP use",
+    "detail_url": "https://mcp.so/client/llama-server_mcp_proxy/extopico",
+    "author": "extopico",
+    "github_url": "https://github.com/extopico/llama-server_mcp_proxy",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "项目简介",
+    "description": "实现MCP的服务端，获取各大平台的热搜",
+    "detail_url": "https://mcp.so/client/hot-topic-mcp/umuo",
+    "author": "umuo",
+    "github_url": "https://github.com/umuo/hot-topic-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP via the OpenAI Responses API",
+    "description": "Makes use of the new OpenAI MCP tool and your remote MCP Server",
+    "detail_url": "https://mcp.so/client/openai-responses-mcp-client-enabled/craigsdennis",
+    "author": "craigsdennis",
+    "github_url": "https://github.com/craigsdennis/openai-responses-mcp-client-enabled",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "ha-xiaozhi-mcp",
+    "description": "homeassistant mcpserver的临时中转方案",
+    "detail_url": "https://mcp.so/client/ha-xiaozhi-mcp/c1pher-cn",
+    "author": "c1pher-cn",
+    "github_url": "https://github.com/c1pher-cn/ha-xiaozhi-mcp",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "GHOSTCREW",
+    "description": "All-in-one offensive security toolbox with AI agent and MCP architecture. Integrates tools like Nmap, Metasploit, FFUF, SQLMap. Enables pentesting, bug bounty hunting, threat hunting, and reporting. RAG-based responses with local knowledge base support.",
+    "detail_url": "https://mcp.so/client/ghostcrew/GH05TCREW",
+    "author": "GH05TCREW",
+    "github_url": "https://github.com/gh05tcrew/ghostcrew",
+    "categories": "security",
+    "tags": [
+      "cybersecurity",
+      "penetration-testing"
+    ]
+  },
+  {
+    "name": "mcp_ha_xiaozhi",
+    "description": "小智官方服务器(虾哥)对接home assistant的mcp server",
+    "detail_url": "https://mcp.so/client/mcp_ha_xiaozhi/shawn996",
+    "author": "shawn996",
+    "github_url": "https://github.com/shawn996/mcp_ha_xiaozhi",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Luna: Voice-Enabled Expense Management Agent",
+    "description": "Convert user audio messages into text and convert text responses from the agent back to audio (text-to-speech) to play to the user. The AI voice agent is an expense manager with access to an MCP server with tools that allow CRUD (create, read, update, delete) operations on a database that tracks expenses.",
+    "detail_url": "https://mcp.so/client/langgraph-voice-agent/rosiefaulkner",
+    "author": "rosiefaulkner",
+    "github_url": "https://github.com/rosiefaulkner/langgraph-voice-agent",
+    "categories": "research-and-data",
+    "tags": []
+  },
+  {
+    "name": "MCP Debug Client",
+    "description": "Postman for your MCP server with a Claude chat that calls your tools",
+    "detail_url": "https://mcp.so/client/mcp_debug/faraazahmad",
+    "author": "faraazahmad",
+    "github_url": "https://github.com/faraazahmad/mcp_debug",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp"
+    ]
+  },
+  {
+    "name": "Install MCP CLI",
+    "description": "A simple CLI to install MCP servers into any client",
+    "detail_url": "https://mcp.so/client/install-mcp/supermemoryai",
+    "author": "supermemoryai",
+    "github_url": "https://github.com/supermemoryai/install-mcp",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "CHATFRAME-DESKTOP",
+    "description": "LLM & MCP desktop for AI models",
+    "detail_url": "https://mcp.so/client/chatframe-desktop/Razertory",
+    "author": "Razertory",
+    "github_url": "https://www.chatframe.co/",
+    "categories": "developer-tools",
+    "tags": [
+      "MCP",
+      "Client"
+    ]
+  },
+  {
+    "name": "张晓莹",
+    "description": "111",
+    "detail_url": "https://mcp.so/client/%E5%BC%A0%E6%99%93%E8%8E%B9/11",
+    "author": "11",
+    "github_url": "https://github.com/cwinux/deer-flow",
+    "tags": [
+      "111"
+    ]
+  },
+  {
+    "name": "上市公司财报数据精灵",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E6%95%B0%E6%8D%AE%E7%B2%BE%E7%81%B5/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8E%9F%E7%82%B9%E5%8F%82%E6%95%B0%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+    "author": "深圳市原点参数信息技术有限公司",
+    "github_url": "https://mcp.originp.com/",
+    "tags": []
+  },
+  {
+    "name": "MCP-CLI-HOST",
+    "description": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).",
+    "detail_url": "https://mcp.so/client/mcp-cli-host/vincent-pli",
+    "author": "vincent-pli",
+    "github_url": "https://github.com/vincent-pli/mcp-cli-host",
+    "tags": [
+      "CLI",
+      "MCP"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/waystation/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "STOCK_QUANT_MCP",
+    "description": "股票量化点位计算服务，提供保守位、正常位和极限位三种参考价格\"",
+    "detail_url": "https://mcp.so/client/stock_quant_mcp/xiaohua?tab=comments",
+    "author": "xiaohua",
+    "github_url": "http://211.159.225.228:9000/sse",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/zencoder/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/qbugs/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/xcx/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/tambo/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Ollamac",
+    "description": "Ollamac Pro is native macOS application for Ollama. It supports chat history, local RAG and support for remote and local MCPs.",
+    "detail_url": "https://mcp.so/client/ollamac",
+    "author": "",
+    "github_url": "https://ollamac.com/",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp",
+      "ollamac"
+    ]
+  },
+  {
+    "name": "PHP MCP Client",
+    "description": "Model Context Protocol client implementation for PHP",
+    "detail_url": "https://mcp.so/client/php-mcp-client/SWIS",
+    "author": "SWIS",
+    "github_url": "https://github.com/swisnl/mcp-client",
+    "tags": [
+      "PHP"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/11/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/seaz57/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/memex/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/ravenala/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "CircusMCP - AI Agent DevServer Management Made Simple",
+    "description": "Streamline development server management for AI coding agents. CircusMCP combines Circus process manager with Model Context Protocol (MCP), eliminating shell\n  command complexity and reducing token consumption for AI-driven development workflows.",
+    "detail_url": "https://mcp.so/client/circus-mcp/Kazushige%20TAKEUCHI",
+    "author": "Kazushige TAKEUCHI",
+    "github_url": "https://github.com/aether-platform/circus-mcp",
+    "tags": [
+      "DevServer Management",
+      "DeveloperTools"
+    ]
+  },
+  {
+    "name": "CLINENT_TEST",
+    "description": "",
+    "detail_url": "https://mcp.so/client/clinent_test",
+    "author": "",
+    "github_url": "https://claude.ai/",
+    "tags": []
+  },
+  {
+    "name": "SupervisordMCP- AI Agent DevServer Management Made Simple",
+    "description": "Streamline development server management for AI coding agents. SupervisordMCP combines Circus process manager with Model Context Protocol (MCP), eliminating shell command complexity and reducing token consumption for AI-driven development workflows.",
+    "detail_url": "https://mcp.so/client/supervisord-mcp-client/Kazushige%20TAKEUCHI",
+    "author": "Kazushige TAKEUCHI",
+    "github_url": "https://github.com/aether-platform/supervisord-mcp",
+    "tags": [
+      "DevServer Management",
+      "DeveloperTools"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%E6%B3%A1%E6%B3%A1%E8%8C%B6%E5%A3%B6/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/exa-web-search-and-research-server/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/zentrun---build-your-ai-team-with-vibe-coding-&-mcps/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "ZENTRUN - Automation AI Agents Built with Vibe Coding & MCPs",
+    "description": "Build and automate your own AI team. Just like building a website with vibe coding, build your AI team the same way. Automation, analytics, execution — your custom AI agents handle it all for you.\n\nZentrun lets you vibe-code real, executable AI agents. With a single sentence, you create actions that run, remember, analyze, and evolve — powered by MCP and designed for automation at scale.",
+    "detail_url": "https://mcp.so/client/zentrun---build-your-ai-team-with-vibe-coding-&-mcps/Andrew%20Sky?tab=comments",
+    "author": "Andrew Sky",
+    "github_url": "https://zentrun.com/",
+    "tags": [
+      "mcp-client",
+      "agent"
+    ]
+  },
+  {
+    "name": "Warp",
+    "description": "Warp is the fastest way to build with multiple AI agents—from writing code to shipping it. The best overall coding and terminal agent.",
+    "detail_url": "https://mcp.so/client/warp",
+    "author": "",
+    "github_url": "https://www.warp.dev/",
+    "categories": "developer-tools",
+    "tags": [
+      "cli",
+      "terminal"
+    ]
+  },
+  {
+    "name": "SNOOPY-MCP-AI",
+    "description": "Explore the new era of memes with AI, where fun and AI come together",
+    "detail_url": "https://mcp.so/client/snoopy-mcp-ai/Snoopy%20AI?tab=comments",
+    "author": "Snoopy AI",
+    "github_url": "https://snoopybnb.wtf/",
+    "categories": "research-and-data",
+    "tags": [
+      "agent",
+      "cryptocurrency"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/%E8%A2%81%E8%89%AF%E6%AD%A6/null?tab=comments",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "Matomo Mcp Server By Openmost",
+    "description": "Connect you AI agent to Matomo using this MCP server. Extend the capabilities of your gent with the Matomo API.\nExplore your data and configure your instance with ease !",
+    "detail_url": "https://mcp.so/client/matomo-mcp-server-by-openmost/Openmost",
+    "author": "Openmost",
+    "github_url": "https://github.com/openmost/matomo-mcp-client",
+    "tags": [
+      "Matomo",
+      "analytics"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/openmcp/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "SLIDESGPT-DEV",
+    "description": "",
+    "detail_url": "https://mcp.so/client/slidesgpt-dev",
+    "author": "",
+    "github_url": "https://slidesgpt-next-git-feat-mcp-slidesgpt.vercel.app/api/mcp",
+    "tags": []
+  },
+  {
+    "name": "Deepgram Saga",
+    "description": "Deepgram Saga is the first voice-native MCP client built for developers. It lets you speak natural commands to trigger actions across tools like GitHub, Linear, Slack, and Notion – no context switching required. Saga runs as a desktop app and supports any MCP server, turning fuzzy ideas into structured prompts, code, and commits. It’s optimized for end-to-end dev workflows, from scaffolding features to logging issues and sending updates. Voice in, work out.",
+    "detail_url": "https://mcp.so/client/deepgram-saga",
+    "author": "",
+    "github_url": "https://deepgram.com/product/saga",
+    "tags": [
+      "voice-assistant",
+      "voice-automation"
+    ]
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/fert/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "GRAFANA-MCP-ANALYZER",
+    "description": "让AI助手直接分析你的Grafana监控数据 - A Model Context Protocol server for Grafana data analysis",
+    "detail_url": "https://mcp.so/client/grafana-mcp-analyzer/Sailing",
+    "author": "Sailing",
+    "github_url": "https://github.com/SailingCoder/grafana-mcp-analyzer",
+    "categories": "research-and-data",
+    "tags": [
+      "grafana",
+      "monitoring"
+    ]
+  },
+  {
+    "name": "mychatbot-mcp-server",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mychatbot-mcp-server",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/mcp-use/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "",
+    "description": "",
+    "detail_url": "https://mcp.so/client/chatbox/null",
+    "author": "",
+    "tags": []
+  },
+  {
+    "name": "chatmcp",
+    "description": "ChatMCP is an AI chat client implementing the Model Context Protocol (MCP).",
+    "detail_url": "https://mcp.so/client/chatmcp/daodao97",
+    "author": "daodao97",
+    "github_url": "https://github.com/daodao97/chatmcp",
+    "categories": "developer-tools",
+    "tags": [
+      "chat",
+      "client"
+    ]
+  },
+  {
+    "name": "Zed",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "detail_url": "https://mcp.so/client/zed/zed-industries",
+    "author": "zed-industries",
+    "github_url": "https://github.com/zed-industries/zed",
+    "categories": "developer-tools",
+    "tags": [
+      "rust-lang",
+      "text-editor"
+    ]
+  },
+  {
+    "name": "MCP Connect",
+    "description": "Enables cloud-based AI services to access local Stdio based MCP servers via HTTP requests",
+    "detail_url": "https://mcp.so/client/MCP-connect/EvalsOne",
+    "author": "EvalsOne",
+    "github_url": "https://github.com/EvalsOne/mcp-connect",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Refact.ai",
+    "description": "Open-source AI Agent for VS Code and JetBrains that autonomously solves coding tasks end-to-end.",
+    "detail_url": "https://mcp.so/client/refact/smallcloudai",
+    "author": "smallcloudai",
+    "github_url": "https://github.com/smallcloudai/refact",
+    "categories": "developer-tools",
+    "tags": [
+      "refact",
+      "ai-agent"
+    ]
+  },
+  {
+    "name": "Lutra",
+    "description": "Lutra is the first MCP compatible client built for everyone",
+    "detail_url": "https://mcp.so/client/Lutra/lutra",
+    "author": "lutra",
+    "github_url": "https://lutra.ai/",
+    "tags": [
+      "ai-chatbot",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "MCP Playground",
+    "description": "Call MCP Server Tools Online",
+    "detail_url": "https://mcp.so/client/mcp-playground/chatmcp",
+    "author": "chatmcp",
+    "github_url": "https://mcp.so/playground",
+    "categories": "developer-tools",
+    "tags": [
+      "mcp-client",
+      "playground"
+    ]
+  },
+  {
+    "name": "A Sleek AI Assistant & MCP Client",
+    "description": "5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers, supports local knowledge base and tools via model context protocol servers .",
+    "detail_url": "https://mcp.so/client/5ire/nanbingxyz",
+    "author": "nanbingxyz",
+    "github_url": "https://github.com/nanbingxyz/5ire",
+    "categories": "research-and-data",
+    "tags": [
+      "mcp",
+      "knowledge-base"
+    ]
+  },
+  {
+    "name": "Roo Code (prev. Roo Cline)",
+    "description": "Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.",
+    "detail_url": "https://mcp.so/client/Roo-Code/RooVetGit",
+    "author": "RooVetGit",
+    "github_url": "https://github.com/roovetgit/roo-code",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "Continue",
+    "description": "⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks",
+    "detail_url": "https://mcp.so/client/continue/continuedev",
+    "author": "continuedev",
+    "github_url": "https://github.com/continuedev/continue",
+    "categories": "developer-tools",
+    "tags": [
+      "open-source",
+      "ai"
+    ]
+  },
+  {
+    "name": "y-cli 🚀",
+    "description": "A Tiny Terminal Chat App for AI Models with MCP Client Support",
+    "detail_url": "https://mcp.so/client/y-cli/luohy15",
+    "author": "luohy15",
+    "github_url": "https://github.com/luohy15/y-cli",
+    "categories": "communication",
+    "tags": []
+  },
+  {
+    "name": "Cline – #1 on OpenRouter",
+    "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "detail_url": "https://mcp.so/client/cline/cline",
+    "author": "cline",
+    "github_url": "https://github.com/cline/cline",
+    "categories": "developer-tools",
+    "tags": []
+  },
+  {
+    "name": "HyperChat",
+    "description": "HyperChat is a Chat client that strives for openness, utilizing APIs from various LLMs to achieve the best Chat experience, as well as implementing productivity tools through the MCP protocol.",
+    "detail_url": "https://mcp.so/client/HyperChat/BigSweetPotatoStudio",
+    "author": "BigSweetPotatoStudio",
+    "github_url": "https://github.com/bigsweetpotatostudio/hyperchat",
+    "categories": "communication",
+    "tags": [
+      "agent",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Cherry Studio",
+    "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.",
+    "detail_url": "https://mcp.so/client/cherry-studio/CherryHQ",
+    "author": "CherryHQ",
+    "github_url": "https://github.com/cherryhq/cherry-studio",
+    "categories": "developer-tools",
+    "tags": [
+      "electron",
+      "agent"
+    ]
+  },
+  {
+    "name": "Y Gui",
+    "description": "A web-based graphical interface for AI chat interactions with support for multiple AI models and MCP (Model Context Protocol) servers.",
+    "detail_url": "https://mcp.so/client/y-gui/luohy15",
+    "author": "luohy15",
+    "github_url": "https://github.com/luohy15/y-gui",
+    "categories": "developer-tools",
+    "tags": [
+      "y-gui",
+      "ai-chat"
+    ]
+  },
+  {
+    "name": "DeepChat",
+    "description": "Your AI Partner on Desktop",
+    "detail_url": "https://mcp.so/client/deepchat/ThinkInAI",
+    "author": "ThinkInAI",
+    "github_url": "https://github.com/ThinkInAIXYZ/deepchat",
+    "categories": "ai-chatbot",
+    "tags": [
+      "deepchat",
+      "chatbot"
+    ]
+  },
+  {
+    "name": "Visual Studio Code - Open Source (\"Code - OSS\")",
+    "description": "Visual Studio Code",
+    "detail_url": "https://mcp.so/client/vscode/microsoft",
+    "author": "microsoft",
+    "github_url": "https://github.com/microsoft/vscode",
+    "categories": "developer-tools",
+    "tags": [
+      "electron",
+      "microsoft"
+    ]
+  },
+  {
+    "name": "Cursor",
+    "description": "The AI Code Editor",
+    "detail_url": "https://mcp.so/client/Cursor/Cursor",
+    "author": "Cursor",
+    "github_url": "https://www.cursor.com/",
+    "categories": "developer-tools",
+    "tags": [
+      "cursor",
+      "ai-code-editor"
+    ]
+  },
+  {
+    "name": "ChatWise",
+    "description": "The second fastest AI chatbot™",
+    "detail_url": "https://mcp.so/client/ChatWise/EGOIST",
+    "author": "EGOIST",
+    "github_url": "https://chatwise.app/",
+    "categories": "communication",
+    "tags": [
+      "chatbot",
+      "mcp-client"
+    ]
+  },
+  {
+    "name": "Windsurf",
+    "description": "The new purpose-built IDE to harness magic",
+    "detail_url": "https://mcp.so/client/Windsurf/Codeium",
+    "author": "Codeium",
+    "github_url": "https://windsurf.com/",
+    "categories": "developer-tools",
+    "tags": [
+      "ai-code",
+      "mcp-client"
+    ]
+  }
+]
