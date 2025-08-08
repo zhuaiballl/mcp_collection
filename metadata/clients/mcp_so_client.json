@@ -1870,7 +1870,7 @@
     "description": "AI Search Engine",
     "detail_url": "https://mcp.so/client/ThinkAny/thinkany",
     "author": "thinkany",
-    "github_url": "https://thinkany.ai/",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "ai search",
@@ -1903,7 +1903,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/ddddddd",
     "author": "",
-    "github_url": "https://api.figma.com/",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "mathgpt",
@@ -1963,7 +1963,7 @@
     "description": "AI Coding can help developers use the services of AI providers (such as OpenAI/Claude/Baidu/Google) more conveniently, improving development efficiency.",
     "detail_url": "https://mcp.so/client/AI%20Coding/YinZhengFei",
     "author": "YinZhengFei",
-    "github_url": "https://plugins.jetbrains.com/plugin/21263-ai-coding",
+    "github_url": "",
     "tags": [
       "chat",
       "mcp"
@@ -2020,7 +2020,7 @@
     "description": "Meet Claude on your desktop",
     "detail_url": "https://mcp.so/client/claude-ai/Anthropic",
     "author": "Anthropic",
-    "github_url": "https://claude.ai/download",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "chatbot",
@@ -2196,7 +2196,7 @@
     "description": "An open-source, cross-platform desktop application that seamlessly connects with full support for MCP, across Linux, macOS, and Windows.",
     "detail_url": "https://mcp.so/client/eechat/eechat",
     "author": "eechat",
-    "github_url": "https://www.ee.chat/",
+    "github_url": "",
     "tags": [
       "eechat"
     ]
@@ -2223,7 +2223,7 @@
     "description": "Desktop AI Agent builder supports for local/remote LLMs, RAG, MCP",
     "detail_url": "https://mcp.so/client/Argo/xark-argo",
     "author": "xark-argo",
-    "github_url": "https://www.xark-argo.com/",
+    "github_url": "",
     "tags": [
       "Agent",
       "RAG"
@@ -2315,7 +2315,7 @@
     "description": "测试",
     "detail_url": "https://mcp.so/client/jmh-test",
     "author": "",
-    "github_url": "https://mcp.composio.dev/composio/server/5c5069f7-c7d2-4ee6-9503-8ff7814b1f1a",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "jmh-test",
@@ -2342,7 +2342,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/Thanh",
     "author": "",
-    "github_url": "https://ecomdymedia.com/",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "ecommerce",
@@ -2424,7 +2424,7 @@
     "description": "TeamSpark AI Workbench is a powerful desktop and command line client application designed for building intelligent AI agents that can solve complex problems using various AI models from providers like Anthropic, OpenAI, Google, AWS Bedrock, and Ollama.",
     "detail_url": "https://mcp.so/client/teamspark-ai-workbench/TeamSpark,%20LLC",
     "author": "TeamSpark, LLC",
-    "github_url": "https://www.teamspark.ai/",
+    "github_url": "",
     "tags": [
       "teamspark",
       "ai"
@@ -2476,7 +2476,7 @@
     "description": "Chat with Claude, o1, Gemini, DeepSeek, and others all at once. The best models, as soon as they come out, in one app.",
     "detail_url": "https://mcp.so/client/chorus/Chorus",
     "author": "Chorus",
-    "github_url": "https://chorus.sh/",
+    "github_url": "",
     "tags": []
   },
   {
@@ -2491,7 +2491,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/api-catalog?tab=comments",
     "author": "",
-    "github_url": "http://localhost:3000/",
+    "github_url": "",
     "tags": []
   },
   {
@@ -2690,7 +2690,7 @@
     "description": "A web-hosted AI chat platform available at moopoint.io, designed for developers and advanced users to interact with multiple large language models (LLMs) through a single, unified interface. The platform allows seamless integration with custom MCP servers and gives users secure control over their own API keys for providers such as OpenAI, Anthropic, and others.",
     "detail_url": "https://mcp.so/client/moopoint",
     "author": "",
-    "github_url": "https://mcp.so/client/moopoint",
+    "github_url": "",
     "tags": [
       "mcp-client",
       "llm-agnostic"
@@ -2750,7 +2750,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/vaktai",
     "author": "",
-    "github_url": "https://skulitorr.app.n8n.cloud/webhook-test/mcp-webhook",
+    "github_url": "",
     "tags": []
   },
   {
@@ -3187,7 +3187,7 @@
     "description": "LLM & MCP desktop for AI models",
     "detail_url": "https://mcp.so/client/chatframe-desktop/Razertory",
     "author": "Razertory",
-    "github_url": "https://www.chatframe.co/",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "MCP",
@@ -3209,7 +3209,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E6%95%B0%E6%8D%AE%E7%B2%BE%E7%81%B5/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%8E%9F%E7%82%B9%E5%8F%82%E6%95%B0%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
     "author": "深圳市原点参数信息技术有限公司",
-    "github_url": "https://mcp.originp.com/",
+    "github_url": "",
     "tags": []
   },
   {
@@ -3235,7 +3235,7 @@
     "description": "股票量化点位计算服务，提供保守位、正常位和极限位三种参考价格\"",
     "detail_url": "https://mcp.so/client/stock_quant_mcp/xiaohua?tab=comments",
     "author": "xiaohua",
-    "github_url": "http://211.159.225.228:9000/sse",
+    "github_url": "",
     "tags": []
   },
   {
@@ -3271,7 +3271,7 @@
     "description": "Ollamac Pro is native macOS application for Ollama. It supports chat history, local RAG and support for remote and local MCPs.",
     "detail_url": "https://mcp.so/client/ollamac",
     "author": "",
-    "github_url": "https://ollamac.com/",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "mcp",
@@ -3332,7 +3332,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/clinent_test",
     "author": "",
-    "github_url": "https://claude.ai/",
+    "github_url": "",
     "tags": []
   },
   {
@@ -3372,7 +3372,7 @@
     "description": "Build and automate your own AI team. Just like building a website with vibe coding, build your AI team the same way. Automation, analytics, execution — your custom AI agents handle it all for you.\n\nZentrun lets you vibe-code real, executable AI agents. With a single sentence, you create actions that run, remember, analyze, and evolve — powered by MCP and designed for automation at scale.",
     "detail_url": "https://mcp.so/client/zentrun---build-your-ai-team-with-vibe-coding-&-mcps/Andrew%20Sky?tab=comments",
     "author": "Andrew Sky",
-    "github_url": "https://zentrun.com/",
+    "github_url": "",
     "tags": [
       "mcp-client",
       "agent"
@@ -3383,7 +3383,7 @@
     "description": "Warp is the fastest way to build with multiple AI agents—from writing code to shipping it. The best overall coding and terminal agent.",
     "detail_url": "https://mcp.so/client/warp",
     "author": "",
-    "github_url": "https://www.warp.dev/",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "cli",
@@ -3395,7 +3395,7 @@
     "description": "Explore the new era of memes with AI, where fun and AI come together",
     "detail_url": "https://mcp.so/client/snoopy-mcp-ai/Snoopy%20AI?tab=comments",
     "author": "Snoopy AI",
-    "github_url": "https://snoopybnb.wtf/",
+    "github_url": "",
     "categories": "research-and-data",
     "tags": [
       "agent",
@@ -3432,7 +3432,7 @@
     "description": "",
     "detail_url": "https://mcp.so/client/slidesgpt-dev",
     "author": "",
-    "github_url": "https://slidesgpt-next-git-feat-mcp-slidesgpt.vercel.app/api/mcp",
+    "github_url": "",
     "tags": []
   },
   {
@@ -3440,7 +3440,7 @@
     "description": "Deepgram Saga is the first voice-native MCP client built for developers. It lets you speak natural commands to trigger actions across tools like GitHub, Linear, Slack, and Notion – no context switching required. Saga runs as a desktop app and supports any MCP server, turning fuzzy ideas into structured prompts, code, and commits. It’s optimized for end-to-end dev workflows, from scaffolding features to logging issues and sending updates. Voice in, work out.",
     "detail_url": "https://mcp.so/client/deepgram-saga",
     "author": "",
-    "github_url": "https://deepgram.com/product/saga",
+    "github_url": "",
     "tags": [
       "voice-assistant",
       "voice-automation"
@@ -3536,7 +3536,7 @@
     "description": "Lutra is the first MCP compatible client built for everyone",
     "detail_url": "https://mcp.so/client/Lutra/lutra",
     "author": "lutra",
-    "github_url": "https://lutra.ai/",
+    "github_url": "",
     "tags": [
       "ai-chatbot",
       "mcp-client"
@@ -3547,7 +3547,7 @@
     "description": "Call MCP Server Tools Online",
     "detail_url": "https://mcp.so/client/mcp-playground/chatmcp",
     "author": "chatmcp",
-    "github_url": "https://mcp.so/playground",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "mcp-client",
@@ -3670,7 +3670,7 @@
     "description": "The AI Code Editor",
     "detail_url": "https://mcp.so/client/Cursor/Cursor",
     "author": "Cursor",
-    "github_url": "https://www.cursor.com/",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "cursor",
@@ -3682,7 +3682,7 @@
     "description": "The second fastest AI chatbot™",
     "detail_url": "https://mcp.so/client/ChatWise/EGOIST",
     "author": "EGOIST",
-    "github_url": "https://chatwise.app/",
+    "github_url": "",
     "categories": "communication",
     "tags": [
       "chatbot",
@@ -3694,7 +3694,7 @@
     "description": "The new purpose-built IDE to harness magic",
     "detail_url": "https://mcp.so/client/Windsurf/Codeium",
     "author": "Codeium",
-    "github_url": "https://windsurf.com/",
+    "github_url": "",
     "categories": "developer-tools",
     "tags": [
       "ai-code",

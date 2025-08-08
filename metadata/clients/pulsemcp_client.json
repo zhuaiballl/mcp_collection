@@ -577,7 +577,7 @@
     "detail_url": "https://www.pulsemcp.com/clients/danbri-foaf-rtc",
     "author": "Dan Brickley",
     "stars": "1",
-    "github_url": "https://github.com/danbri/xmcp-foaf/tree/HEAD/foafrtc",
+    "github_url": "https://github.com/danbri/xmcp-foaf",
     "tags": []
   },
   {
@@ -2377,7 +2377,7 @@
     "detail_url": "https://www.pulsemcp.com/clients/huggingface-tiny-agent",
     "author": "Hugging Face",
     "stars": "2.2k",
-    "github_url": "https://github.com/huggingface/huggingface.js/tree/HEAD/packages/mcp-client",
+    "github_url": "https://github.com/huggingface/huggingface.js",
     "tags": []
   },
   {
@@ -2404,7 +2404,7 @@
     "detail_url": "https://www.pulsemcp.com/clients/klavis-discord-slack",
     "author": "Klavis AI",
     "stars": "3.4k",
-    "github_url": "https://github.com/klavis-ai/klavis/tree/HEAD/mcp_clients",
+    "github_url": "https://github.com/klavis-ai/klavis",
     "tags": []
   },
   {
@@ -2634,7 +2634,7 @@
     "detail_url": "https://www.pulsemcp.com/clients/sooperset-slack-assistant",
     "author": "sooperset",
     "stars": "128",
-    "github_url": "https://github.com/sooperset/mcp-client-slackbot/tree/HEAD/mcp_simple_slackbot",
+    "github_url": "https://github.com/sooperset/mcp-client-slackbot",
     "tags": []
   },
   {

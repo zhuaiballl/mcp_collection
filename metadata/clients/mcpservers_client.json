@@ -29,7 +29,7 @@
   {
     "name": "BeeAI Framework",
     "description": "Open-source framework for building, deploying, and serving powerful agentic workflows with MCP integration",
-    "github_url": "https://i-am-bee.github.io/beeai-framework"
+    "github_url": ""
   },
   {
     "name": "BoltAI",
@@ -98,7 +98,7 @@
   {
     "name": "GenAIScript",
     "description": "JavaScript toolbox for assembling prompts for LLMs with MCP tool support",
-    "github_url": "https://microsoft.github.io/genaiscript/"
+    "github_url": ""
   },
   {
     "name": "Goose",
