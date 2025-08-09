@@ -51,21 +51,14 @@ scripts/
 ### 1. Metadata
 
 Structured JSON information about MCP clients and servers.  
-Each entry typically includes:
-
-- `name` – Name of the client/server  
-- `description` – Brief description  
-- `github_url` – GitHub repository URL  
-- `categories` – Classification categories  
-- `author` – Creator or maintainer  
-- `tags` – Relevant tags  
-- `stars` – GitHub stars count  
+[Complete list of clients](./metadata/clients/merged_clients.json)
+[Complete list of servers](./metadata/servers/merged_servers.json)
 
 ---
 
 ### 2. Scripts
 
-#### **Clone Repositories**
+#### Clone Repositories
 
 `clone_repos_from_json.py` – Clones GitHub repositories from JSON metadata.
 
@@ -83,7 +76,7 @@ Process:
 
 ---
 
-#### **Merge JSON Files**
+#### Merge JSON Files
 
 `merge_json.py` – Merges two JSON metadata files (paths currently hard-coded).
 
@@ -93,7 +86,7 @@ python scripts/merge_json.py
 
 ---
 
-#### **Other Utilities**
+#### Other Utilities
 
 - `normalize_github_urls.py` – Standardizes GitHub URLs  
 - `remove_duplicates.py` – Removes duplicate entries  
