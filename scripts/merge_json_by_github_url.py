@@ -43,7 +43,8 @@ def merge_projects(input_files, handle_missing_github_url='keep_separate', list_
             continue
 
         for item in data:
-            github_url = item.get('github_url', '').strip()
+            # 修复：使用 str() 确保值不是 None
+            github_url = str(item.get('github_url', '')).strip()
 
             if github_url:
                 # 有 github_url，合并到对应项目
