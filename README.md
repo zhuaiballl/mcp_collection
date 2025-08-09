@@ -86,36 +86,6 @@ python scripts/merge_json.py
 
 ---
 
-#### Other Utilities
-
-- `normalize_github_urls.py` – Standardizes GitHub URLs  
-- `remove_duplicates.py` – Removes duplicate entries  
-- `update_categories_from_xlsx.py` – Updates categories from Excel  
-- `convert_xlsx_to_json.py` – Converts Excel metadata to JSON  
-
----
-
-## 🚀 Usage Example
-
-Clone all repositories from a metadata JSON file:
-
-```bash
-python scripts/clone_repos_from_json.py metadata/clients/merged_clients.json cloned_repos
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to submit PRs with:
-
-- New metadata entries  
-- Improved scripts  
-- Documentation enhancements  
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
