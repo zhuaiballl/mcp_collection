@@ -63,7 +63,7 @@ Structured JSON information about MCP clients and servers.
 `clone_repos_from_json.py` – Clones GitHub repositories from JSON metadata.
 
 ```bash
-python scripts/clone_repos_from_json.py <input_json_file> <output_directory>
+export GITHUB_TOKEN="YOUR_GITHUB_ACCESS_TOKEN" && python scripts/clone_repos_from_json.py <input_json_file> <output_directory>
 ```
 
 Process:
