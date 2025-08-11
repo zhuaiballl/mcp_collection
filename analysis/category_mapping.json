@@ -1,34 +1,63 @@
 {
-  "code development ai": [
-    "code repository management",
-    "development"
+  "database databases sql": [
+    "database"
+  ],
+  "version control": [
+    "version control"
+  ],
+  "cloud service": [
+    "cloud service"
+  ],
+  "productivity": [
+    "productivity"
   ],
   "web browser content": [
-    "youtube content analysis",
     "browser automation",
+    "youtube content analysis",
+    "AI browser automation",
     "web search",
-    "web scraping",
-    "AI browser automation"
+    "web scraping"
+  ],
+  "project collaboration integrations": [
+    "project collaboration integrations"
+  ],
+  "file system": [
+    "file system"
   ],
   "integrates enable management": [
-    "automation and system management",
-    "memory management"
-  ],
-  "manage ai seamlessly": [
-    "AI coding context tools",
-    "AI note management"
+    "memory management",
+    "automation and system management"
   ],
   "data external tools": [
     "external system integrations",
     "document conversation tools"
   ],
-  "data time weather": [
-    "transit and traffic data"
+  "official": [
+    "official"
   ],
-  "database databases sql": [
-    "database"
+  "popular": [
+    "popular"
   ],
   "search capabilities web": [
     "search"
-  ]
+  ],
+  "manage ai seamlessly": [
+    "AI note management",
+    "AI coding context tools"
+  ],
+  "code development ai": [
+    "development",
+    "code repository management"
+  ],
+  "data time weather": [
+    "transit and traffic data"
+  ],
+  "cloud storage": [
+    "cloud storage"
+  ],
+  "communication": [
+    "communication"
+  ],
+  "provides api using": [],
+  "mcp server protocol": []
 }
