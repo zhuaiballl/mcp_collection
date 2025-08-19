@@ -86,6 +86,15 @@ python scripts/merge_json.py
 
 ---
 
+#### Analyze Repos
+
+`enhanced_repo_analysis.py` - Run some analysis on GitHub repos.
+
+```bash
+python scripts/enhanced_repo_analysis.py clone <json_file_path> <output_directory>
+python scripts/enhanced_repo_analysis.py analyze --repo-dir ../mcp_servers --output-dir analysis
+```
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
