@@ -487,25 +487,26 @@ class EnhancedRepoAnalyzer:
         """解析Java的pom.xml文件"""
         dependencies = set()
         try:
+            import xml.etree.ElementTree as ET
             tree = ET.parse(file_path)
             root = tree.getroot()
-            ns = {'maven': 'http://maven.apache.org/POM/4.0.0'}
             
-            for dep in root.findall('.//maven:dependency', ns):
-                group_id = dep.find('maven:groupId', ns)
-                artifact_id = dep.find('maven:artifactId', ns)
+            # 定义命名空间映射
+            namespaces = {
+                'maven': 'http://maven.apache.org/POM/4.0.0'
+            }
+            
+            # 查找所有依赖项
+            for dependency in root.findall('.//maven:dependency', namespaces):
+                # 获取groupId和artifactId
+                group_id = dependency.find('maven:groupId', namespaces)
+                artifact_id = dependency.find('maven:artifactId', namespaces)
                 
                 if group_id is not None and artifact_id is not None:
-                    # 检查是否是标准库
-                    group_id_text = group_id.text
-                    is_standard = False
-                    for std_lib in self.STANDARD_LIBRARIES.get('Java', set()):
-                        if std_lib in group_id_text:
-                            is_standard = True
-                            break
-                    
-                    if not is_standard:
-                        dependencies.add(artifact_id.text.lower())
+                    # 组合groupId和artifactId以获得完整标识符
+                    full_id = f"{group_id.text}.{artifact_id.text}"
+                    if full_id.lower() not in self.STANDARD_LIBRARIES.get('Java', set()):
+                        dependencies.add(full_id.lower())
         except Exception as e:
             print(f"Error parsing {file_path}: {e}")
         return dependencies
@@ -523,20 +524,47 @@ class EnhancedRepoAnalyzer:
                         if len(parts) >= 2:
                             # 跳过 require 关键字
                             if parts[1] != '(':
-                                dep = parts[1].split('/')[-1]  # 获取最后一部分作为库名
-                                if dep.lower() not in self.STANDARD_LIBRARIES.get('Go', set()):
+                                dep = self._extract_meaningful_go_dependency(parts[1])
+                                if dep and dep.lower() not in self.STANDARD_LIBRARIES.get('Go', set()):
                                     dependencies.add(dep.lower())
                         continue
                     # 处理多行 require 中的依赖
                     if line and not line.startswith('//') and line != ')':
                         parts = line.split()
                         if parts:
-                            dep = parts[0].split('/')[-1]  # 获取最后一部分作为库名
-                            if dep.lower() not in self.STANDARD_LIBRARIES.get('Go', set()):
+                            dep = self._extract_meaningful_go_dependency(parts[0])
+                            if dep and dep.lower() not in self.STANDARD_LIBRARIES.get('Go', set()):
                                 dependencies.add(dep.lower())
         except Exception as e:
             print(f"Error parsing {file_path}: {e}")
         return dependencies
+    
+    def _extract_meaningful_go_dependency(self, full_path: str) -> str:
+        """从完整的Go依赖路径中提取有意义的库名"""
+        try:
+            # 分割路径
+            parts = full_path.split('/')
+            
+            # 如果路径太短，返回原始的最后一部分
+            if len(parts) <= 2:
+                return parts[-1].split('@')[0]  # 移除版本信息
+            
+            # 检查是否包含版本号后缀 (如 /v2, /v3)
+            main_part = parts[-2] if len(parts) > 2 and parts[-1].startswith('v') and parts[-1][1:].isdigit() else parts[-1]
+            
+            # 移除版本信息
+            main_part = main_part.split('@')[0]
+            
+            # 对于常见的通用组件名，尝试获取更具体的部分
+            common_generic_terms = {'sdk', 'api', 'client', 'server', 'core', 'common', 'utils', 'tools'}
+            if main_part.lower() in common_generic_terms and len(parts) > 2:
+                # 尝试组合前一部分和当前部分
+                return f"{parts[-2].split('@')[0]}_{main_part}" if not (parts[-2].startswith('v') and parts[-2][1:].isdigit()) else main_part
+            
+            return main_part
+        except:
+            # 如果处理失败，回退到原始方法
+            return full_path.split('/')[-1].split('@')[0]
 
     def parse_cargo_toml(self, file_path: Path) -> Set[str]:
         """解析Rust的Cargo.toml文件"""
