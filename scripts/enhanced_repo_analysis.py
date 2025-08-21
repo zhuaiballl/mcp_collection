@@ -708,7 +708,14 @@ class EnhancedRepoAnalyzer:
                                 if dep.split('/')[-1] == repo_dep:
                                     frameworks[framework] = 'dependency'
                                     break
-                        elif dep in dependencies:
+                        # 对于Java，检查完整的groupId或artifactId
+                        elif language == 'Java':
+                            for repo_dep in dependencies:
+                                if dep in repo_dep or any(dep.endswith(part) for part in repo_dep.split('.')):
+                                    frameworks[framework] = 'dependency'
+                                    break
+                        # 对于其他语言，使用简单的包含检查
+                        elif any(dep in repo_dep for repo_dep in dependencies):
                             frameworks[framework] = 'dependency'
                             break
         
@@ -722,6 +729,16 @@ class EnhancedRepoAnalyzer:
                 entry_files = ['index.js', 'server.js', 'app.js']
             elif language == 'Go':
                 entry_files = ['main.go']
+            elif language == 'Java':
+                # 查找Java的主类文件
+                java_files = []
+                for root, _, files in os.walk(repo_path):
+                    for file in files:
+                        if file.endswith('.java') and 'Main' in file:
+                            java_files.append(Path(root) / file)
+                entry_files = java_files if java_files else []
+            elif language == 'Ruby':
+                entry_files = ['app.rb', 'server.rb', 'application.rb']
             
             # 搜索根目录下的文件
             for file_name in os.listdir(repo_path):
@@ -733,7 +750,7 @@ class EnhancedRepoAnalyzer:
             for framework, config in self.FRAMEWORK_DETECTION[language].items():
                 if framework in frameworks:  # 已通过依赖检测确认
                     continue
-                    
+                     
                 if 'imports' in config:
                     for file_path in entry_files:
                         try:
