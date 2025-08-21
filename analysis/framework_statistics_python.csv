@@ -1,5 +1,9 @@
 名称,数量,百分比
-FastAPI,335,10.85
-LangChain,86,2.79
+FastAPI,340,11.01
+Starlette,255,8.26
+LangChain,138,4.47
+Transformers,83,2.69
 Flask,66,2.14
+Tornado,21,0.68
 Django,3,0.10
+Bottle,2,0.06
