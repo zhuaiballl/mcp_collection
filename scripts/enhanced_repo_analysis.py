@@ -181,21 +181,55 @@ class EnhancedRepoAnalyzer:
                 'Flask': {'imports': ['from flask import Flask'], 'dependencies': ['flask']},
                 'Django': {'imports': ['from django.db import', 'from django.http import'], 'dependencies': ['django']},
                 'FastAPI': {'imports': ['from fastapi import FastAPI'], 'dependencies': ['fastapi']},
-                'LangChain': {'imports': ['import langchain'], 'dependencies': ['langchain']}
+                'LangChain': {'imports': ['import langchain'], 'dependencies': ['langchain']},
+                # 添加更多Python框架
+                'Starlette': {'imports': ['from starlette.applications import Starlette'], 'dependencies': ['starlette']},
+                'Tornado': {'imports': ['import tornado'], 'dependencies': ['tornado']},
+                'Bottle': {'imports': ['import bottle'], 'dependencies': ['bottle']},
+                # 添加可能与MCP相关的框架
+                'Transformers': {'imports': ['from transformers import'], 'dependencies': ['transformers']}
             },
             'JavaScript': {
                 'Express': {'imports': ['const express = require(\'express\')', 'import express from \'express\''], 'dependencies': ['express']},
                 'React': {'imports': ['import React from \'react\''], 'dependencies': ['react']},
                 'Vue': {'imports': ['import Vue from \'vue\''], 'dependencies': ['vue']},
-                'NestJS': {'dependencies': ['@nestjs/core']}
+                'NestJS': {'dependencies': ['@nestjs/core']},
+                # 添加更多JavaScript框架
+                'Koa': {'imports': ['const Koa = require(\'koa\')'], 'dependencies': ['koa']},
+                'Next.js': {'imports': ['import Next from \'next\''], 'dependencies': ['next']},
+                'Svelte': {'imports': ['import App from \'./App.svelte\''], 'dependencies': ['svelte']}
             },
             'Go': {
                 'Gin': {'dependencies': ['github.com/gin-gonic/gin']},
-                'Echo': {'dependencies': ['github.com/labstack/echo/v4']}
+                'Echo': {'dependencies': ['github.com/labstack/echo/v4']},
+                # 添加更多Go框架
+                'Fiber': {'dependencies': ['github.com/gofiber/fiber/v2']},
+                'Gorilla': {'dependencies': ['github.com/gorilla/mux']},
+                'Beego': {'dependencies': ['github.com/beego/beego/v2']}
             },
             'Rust': {
                 'Actix': {'dependencies': ['actix-web']},
-                'Rocket': {'dependencies': ['rocket']}
+                'Rocket': {'dependencies': ['rocket']},
+                # 添加更多Rust框架
+                'Warp': {'dependencies': ['warp']},
+                'Axum': {'dependencies': ['axum']},
+                'Tide': {'dependencies': ['tide']}
+            },
+            # 添加Java框架检测
+            'Java': {
+                'Spring': {'dependencies': ['org.springframework']},
+                'Jakarta EE': {'dependencies': ['jakarta']},
+                'Quarkus': {'dependencies': ['io.quarkus']},
+                'Micronaut': {'dependencies': ['io.micronaut']},
+                'Play': {'dependencies': ['com.typesafe.play']}
+            },
+            # 添加Ruby框架检测
+            'Ruby': {
+                'Rails': {'dependencies': ['rails']},
+                'Sinatra': {'dependencies': ['sinatra']},
+                'Rack': {'dependencies': ['rack']},
+                'Hanami': {'dependencies': ['hanami']},
+                'Padrino': {'dependencies': ['padrino']}
             }
         }
 
