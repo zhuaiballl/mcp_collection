@@ -109,16 +109,22 @@
   },
   {
     "name": "Systemprompt",
-    "description": "A modern voice-controlled AI interface powered by Google Gemini and Anthropic MCP (Model Control Protocol). Transform how you interact with AI through natural speech and multimodal inputs.",
+    "description": "Gemini-powered MCP server control with your voice. Available on iOS and Android.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/systemprompt"
+      "https://glama.ai/mcp/clients/systemprompt",
+      "https://mcp.so/client/multimodal-mcp-client/Ejb503",
+      "https://www.pulsemcp.com/clients/systemprompt-io"
     ],
     "language": "TypeScript",
     "homepage_url": "https://systemprompt.io/",
     "github_url": "https://github.com/Ejb503/multimodal-mcp-client",
-    "categories": [
-      "Desktop"
-    ]
+    "categories": "research-and-data",
+    "author": "Ejb503",
+    "tags": [
+      "gemini",
+      "mcp"
+    ],
+    "stars": "198"
   },
   {
     "name": "Superinterface",
@@ -229,20 +235,22 @@
     "tags": []
   },
   {
-    "name": "MCPOmni-Connect",
-    "description": "Versatile CLI client for connecting to MCP servers with agentic mode and orchestrator capabilities",
+    "name": "OmniConnect",
+    "description": "Universal MCP client that connects to multiple servers through various transport protocols, featuring intelligent tool routing and support for multiple LLM providers.",
     "detail_url": [
       "https://glama.ai/mcp/clients/mcpomni-connect",
-      "https://mcp.so/client/mcp_omni_connect/Abiorh001"
+      "https://mcp.so/client/mcp_omni_connect/Abiorh001",
+      "https://www.pulsemcp.com/clients/abiorh001-omni-connect"
     ],
     "language": "",
     "github_url": "https://github.com/Abiorh001/mcp_omni_connect",
     "categories": "developer-tools",
-    "author": "Abiorh001",
+    "author": "Abiola Adeshina",
     "tags": [
-      "agent",
-      "mcp"
-    ]
+      "mcp",
+      "agent"
+    ],
+    "stars": "157"
   },
   {
     "name": "CLI Client",
@@ -289,16 +297,28 @@
   },
   {
     "name": "LibreChat",
-    "description": "Open-source, customizable AI chat UI with MCP integration for agent tools",
+    "description": "Chat with LLM's for macOS and Windows. Open source.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/libre-chat"
+      "https://glama.ai/mcp/clients/libre-chat",
+      "https://mcp.so/client/LibreChat/danny-avila",
+      "https://mcpmarket.com/client/librechat",
+      "https://www.pulsemcp.com/clients/danny-avila-librechat"
     ],
     "language": "TypeScript",
     "homepage_url": "https://www.librechat.ai/",
     "github_url": "https://github.com/danny-avila/LibreChat",
     "categories": [
+      "Developer Tools",
+      "Collaboration Tools",
+      "Other",
       "Web"
-    ]
+    ],
+    "author": "Danny Avila",
+    "tags": [
+      "google",
+      "aws"
+    ],
+    "stars": "28.3k"
   },
   {
     "name": "kibitz",
@@ -315,15 +335,27 @@
   },
   {
     "name": "HyperChat",
-    "description": "HyperChat is an open Chat client that can use various LLM APIs to provide the best Chat experience and implement productivity tools through the MCP protocol.",
+    "description": "Chat with LLM's for macOS and Windows. Open Source.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/hyper-chat"
+      "https://glama.ai/mcp/clients/hyper-chat",
+      "https://mcp.so/client/HyperChat/BigSweetPotatoStudio",
+      "https://mcpmarket.com/client/hyperchat",
+      "https://www.pulsemcp.com/clients/bigsweetpotatostudio-hyperchat"
     ],
     "language": "JavaScript",
     "github_url": "https://github.com/BigSweetPotatoStudio/HyperChat",
     "categories": [
-      "Desktop"
-    ]
+      "Desktop",
+      "Developer Tools",
+      "Collaboration Tools",
+      "Productivity & Workflow"
+    ],
+    "author": "Big Sweet Potato Studio",
+    "tags": [
+      "agent",
+      "mcp"
+    ],
+    "stars": "640"
   },
   {
     "name": "Goose",
@@ -351,15 +383,24 @@
   },
   {
     "name": "FLUJO",
-    "description": "FLUJO is an desktop application that integrates with MCP to provide a workflow-builder interface for AI interactions.",
+    "description": "Desktop application for creating and managing AI workflows through a visual flowbuilder interface with online and offline capabilities.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/flujo"
+      "https://glama.ai/mcp/clients/flujo",
+      "https://mcp.so/client/FLUJO/mario-andreschak",
+      "https://mcpmarket.com/client/flujo",
+      "https://www.pulsemcp.com/clients/mario-andreschak-flujo"
     ],
     "language": "",
     "github_url": "https://github.com/mario-andreschak/FLUJO",
     "categories": [
-      "Web"
-    ]
+      "Productivity & Workflow",
+      "Developer Tools",
+      "Web",
+      "API Development"
+    ],
+    "author": "Mario Andreschak",
+    "tags": [],
+    "stars": "519"
   },
   {
     "name": "Dolphin-MCP",
@@ -403,16 +444,28 @@
     ]
   },
   {
-    "name": "Copilot-MCP",
-    "description": "AI coding assistance tool that enables integration with MCP servers",
+    "name": "Copilot",
+    "description": "VSCode extension that integrates MCP servers with GitHub Copilot Chat, enabling server management and enhanced AI-assisted coding capabilities.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/copilot-mcp"
+      "https://glama.ai/mcp/clients/copilot-mcp",
+      "https://mcp.so/client/copilot-mcp/VikashLoomba",
+      "https://mcpmarket.com/client/copilot-mcp-client",
+      "https://www.pulsemcp.com/clients/vikashloomba-copilot"
     ],
     "language": "",
     "github_url": "https://github.com/VikashLoomba/copilot-mcp",
     "categories": [
-      "VS Code Extension"
-    ]
+      "VS Code Extension",
+      "Developer Tools",
+      "Collaboration Tools",
+      "Other"
+    ],
+    "author": "Vikash Loomba",
+    "tags": [
+      "vscode-extension",
+      "mcp"
+    ],
+    "stars": "400"
   },
   {
     "name": "Continue",
@@ -476,15 +529,27 @@
   },
   {
     "name": "Cherry Studio",
-    "description": "Cherry Studio is a desktop client that supports for multiple LLM providers, available on Windows, Mac and Linux.",
+    "description": "Desktop application for AI-assisted productivity with tray-based interface, multi-language support, knowledge base functionality, and document processing capabilities for content creation tasks.",
     "detail_url": [
-      "https://glama.ai/mcp/clients/cherry-studio"
+      "https://glama.ai/mcp/clients/cherry-studio",
+      "https://mcp.so/client/cherry-studio/CherryHQ",
+      "https://mcpmarket.com/client/cherry-studio",
+      "https://www.pulsemcp.com/clients/cherryhq-cherry-studio"
     ],
     "language": "",
     "github_url": "https://github.com/CherryHQ/cherry-studio",
     "categories": [
-      "Desktop"
-    ]
+      "Desktop",
+      "Collaboration Tools",
+      "Developer Tools",
+      "Productivity & Workflow"
+    ],
+    "author": "Cherry AI",
+    "tags": [
+      "electron",
+      "agent"
+    ],
+    "stars": "30.5k"
   },
   {
     "name": "ChatMCP",
@@ -709,22 +774,6 @@
     "stars": "8"
   },
   {
-    "name": "Systemprompt",
-    "description": "Gemini-powered MCP server control with your voice. Available on iOS and Android.",
-    "detail_url": [
-      "https://mcp.so/client/multimodal-mcp-client/Ejb503",
-      "https://www.pulsemcp.com/clients/systemprompt-io"
-    ],
-    "author": "Ejb503",
-    "github_url": "https://github.com/ejb503/multimodal-mcp-client",
-    "categories": "research-and-data",
-    "tags": [
-      "gemini",
-      "mcp"
-    ],
-    "stars": "198"
-  },
-  {
     "name": "CLI",
     "description": "CLI tool for interacting directly with MCP servers.",
     "detail_url": [
@@ -802,48 +851,6 @@
     "categories": "research-and-data",
     "tags": [],
     "stars": "2"
-  },
-  {
-    "name": "LibreChat",
-    "description": "Chat with LLM's for macOS and Windows. Open source.",
-    "detail_url": [
-      "https://mcp.so/client/LibreChat/danny-avila",
-      "https://mcpmarket.com/client/librechat",
-      "https://www.pulsemcp.com/clients/danny-avila-librechat"
-    ],
-    "author": "Danny Avila",
-    "github_url": "https://github.com/danny-avila/librechat",
-    "categories": [
-      "Other",
-      "Developer Tools",
-      "Collaboration Tools"
-    ],
-    "tags": [
-      "google",
-      "aws"
-    ],
-    "stars": "28.3k"
-  },
-  {
-    "name": "Copilot",
-    "description": "VSCode extension that integrates MCP servers with GitHub Copilot Chat, enabling server management and enhanced AI-assisted coding capabilities.",
-    "detail_url": [
-      "https://mcp.so/client/copilot-mcp/VikashLoomba",
-      "https://mcpmarket.com/client/copilot-mcp-client",
-      "https://www.pulsemcp.com/clients/vikashloomba-copilot"
-    ],
-    "author": "Vikash Loomba",
-    "github_url": "https://github.com/vikashloomba/copilot-mcp",
-    "categories": [
-      "Collaboration Tools",
-      "Other",
-      "Developer Tools"
-    ],
-    "tags": [
-      "vscode-extension",
-      "mcp"
-    ],
-    "stars": "400"
   },
   {
     "name": "GenAIScript",
@@ -1914,17 +1921,19 @@
   },
   {
     "name": "UI-TARS Desktop",
-    "description": "A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.",
+    "description": "Control your computer using natural language through Vision-Language Models with an Electron-based desktop application that automates browser and desktop interactions.",
     "detail_url": [
-      "https://mcp.so/client/UI-TARS-desktop/bytedance"
+      "https://mcp.so/client/UI-TARS-desktop/bytedance",
+      "https://www.pulsemcp.com/clients/ui-tars-desktop"
     ],
-    "author": "bytedance",
+    "author": "ByteDance",
     "github_url": "https://github.com/bytedance/UI-TARS-desktop",
     "categories": "developer-tools",
     "tags": [
       "electron",
       "agent"
-    ]
+    ],
+    "stars": "15.3k"
   },
   {
     "name": "🚀 Advacned Unity MCP Integration",
@@ -2008,24 +2017,6 @@
     "categories": "developer-tools",
     "tags": [],
     "stars": "2"
-  },
-  {
-    "name": "FLUJO",
-    "description": "Desktop application for creating and managing AI workflows through a visual flowbuilder interface with online and offline capabilities.",
-    "detail_url": [
-      "https://mcp.so/client/FLUJO/mario-andreschak",
-      "https://mcpmarket.com/client/flujo",
-      "https://www.pulsemcp.com/clients/mario-andreschak-flujo"
-    ],
-    "author": "Mario Andreschak",
-    "github_url": "https://github.com/mario-andreschak/flujo",
-    "categories": [
-      "Productivity & Workflow",
-      "API Development",
-      "Developer Tools"
-    ],
-    "tags": [],
-    "stars": "519"
   },
   {
     "name": "Firefox Claude Bridge",
@@ -4208,48 +4199,6 @@
     "tags": []
   },
   {
-    "name": "HyperChat",
-    "description": "Chat with LLM's for macOS and Windows. Open Source.",
-    "detail_url": [
-      "https://mcp.so/client/HyperChat/BigSweetPotatoStudio",
-      "https://mcpmarket.com/client/hyperchat",
-      "https://www.pulsemcp.com/clients/bigsweetpotatostudio-hyperchat"
-    ],
-    "author": "Big Sweet Potato Studio",
-    "github_url": "https://github.com/bigsweetpotatostudio/hyperchat",
-    "categories": [
-      "Productivity & Workflow",
-      "Collaboration Tools",
-      "Developer Tools"
-    ],
-    "tags": [
-      "agent",
-      "mcp"
-    ],
-    "stars": "640"
-  },
-  {
-    "name": "Cherry Studio",
-    "description": "Desktop application for AI-assisted productivity with tray-based interface, multi-language support, knowledge base functionality, and document processing capabilities for content creation tasks.",
-    "detail_url": [
-      "https://mcp.so/client/cherry-studio/CherryHQ",
-      "https://mcpmarket.com/client/cherry-studio",
-      "https://www.pulsemcp.com/clients/cherryhq-cherry-studio"
-    ],
-    "author": "Cherry AI",
-    "github_url": "https://github.com/cherryhq/cherry-studio",
-    "categories": [
-      "Developer Tools",
-      "Productivity & Workflow",
-      "Collaboration Tools"
-    ],
-    "tags": [
-      "electron",
-      "agent"
-    ],
-    "stars": "30.5k"
-  },
-  {
     "name": "Y Gui",
     "description": "A web-based graphical interface for AI chat interactions with support for multiple AI models and MCP (Model Context Protocol) servers.",
     "detail_url": [
@@ -4815,17 +4764,6 @@
     "tags": []
   },
   {
-    "name": "OmniConnect",
-    "description": "Universal MCP client that connects to multiple servers through various transport protocols, featuring intelligent tool routing and support for multiple LLM providers.",
-    "detail_url": [
-      "https://www.pulsemcp.com/clients/abiorh001-omni-connect"
-    ],
-    "author": "Abiola Adeshina",
-    "stars": "157",
-    "github_url": "https://github.com/abiorh001/mcp_omni_connect",
-    "tags": []
-  },
-  {
     "name": "MCPM",
     "description": "Command-line tool for discovering, installing, configuring, and sharing MCP servers across multiple AI clients with unified profile-based access control.",
     "detail_url": [
@@ -4856,17 +4794,6 @@
     "author": "Klavis AI",
     "stars": "3.4k",
     "github_url": "https://github.com/klavis-ai/klavis",
-    "tags": []
-  },
-  {
-    "name": "UI-TARS Desktop",
-    "description": "Control your computer using natural language through Vision-Language Models with an Electron-based desktop application that automates browser and desktop interactions.",
-    "detail_url": [
-      "https://www.pulsemcp.com/clients/ui-tars-desktop"
-    ],
-    "author": "ByteDance",
-    "stars": "15.3k",
-    "github_url": "https://github.com/bytedance/ui-tars-desktop",
     "tags": []
   },
   {
