@@ -21,7 +21,9 @@
       "text-editor",
       "rust-lang"
     ],
-    "stars": "62.8k"
+    "stars": "62.8k",
+    "code_lines": 1120721,
+    "commit_count": 30548
   },
   {
     "name": "Y CLI",
@@ -41,7 +43,9 @@
     ],
     "author": "Hongyi Luo",
     "tags": [],
-    "stars": "172"
+    "stars": "172",
+    "code_lines": 19181,
+    "commit_count": 76
   },
   {
     "name": "Witsy",
@@ -64,7 +68,9 @@
       "vuejs",
       "mcp"
     ],
-    "stars": "1.3k"
+    "stars": "1.3k",
+    "code_lines": 200314,
+    "commit_count": 2831
   },
   {
     "name": "VS Code",
@@ -82,7 +88,9 @@
       "electron",
       "microsoft"
     ],
-    "stars": "174k"
+    "stars": "174k",
+    "code_lines": 2731693,
+    "commit_count": 137181
   },
   {
     "name": "MCP Client Tester",
@@ -105,7 +113,9 @@
       "mcp",
       "mcp-server"
     ],
-    "stars": "64"
+    "stars": "64",
+    "code_lines": 14417,
+    "commit_count": 85
   },
   {
     "name": "Systemprompt",
@@ -124,7 +134,9 @@
       "gemini",
       "mcp"
     ],
-    "stars": "198"
+    "stars": "198",
+    "code_lines": 63747,
+    "commit_count": 94
   },
   {
     "name": "Superinterface",
@@ -136,7 +148,9 @@
     "github_url": "https://github.com/supercorp-ai/superinterface",
     "categories": [
       "Web"
-    ]
+    ],
+    "code_lines": 174947,
+    "commit_count": 593
   },
   {
     "name": "SeekChat",
@@ -159,7 +173,9 @@
       "ai",
       "chat"
     ],
-    "stars": "42"
+    "stars": "42",
+    "code_lines": 52680,
+    "commit_count": 79
   },
   {
     "name": "Oterm",
@@ -182,7 +198,9 @@
       "machine-learning",
       "python"
     ],
-    "stars": "2.1k"
+    "stars": "2.1k",
+    "code_lines": 48815,
+    "commit_count": 653
   },
   {
     "name": "NextChat",
@@ -194,7 +212,9 @@
     "github_url": "https://github.com/ChatGPTNextWeb/NextChat",
     "categories": [
       "Web"
-    ]
+    ],
+    "code_lines": 83661,
+    "commit_count": 3089
   },
   {
     "name": "Nerve",
@@ -212,7 +232,9 @@
       "ai",
       "mcp"
     ],
-    "stars": "1.1k"
+    "stars": "1.1k",
+    "code_lines": 51202,
+    "commit_count": 701
   },
   {
     "name": "Slack Assistant",
@@ -232,7 +254,9 @@
     ],
     "author": "sooperset",
     "stars": "128",
-    "tags": []
+    "tags": [],
+    "code_lines": 1206,
+    "commit_count": 3
   },
   {
     "name": "OmniConnect",
@@ -250,7 +274,9 @@
       "mcp",
       "agent"
     ],
-    "stars": "157"
+    "stars": "157",
+    "code_lines": 39175,
+    "commit_count": 218
   },
   {
     "name": "CLI Client",
@@ -273,7 +299,9 @@
       "llm",
       "mcp"
     ],
-    "stars": "602"
+    "stars": "602",
+    "code_lines": 4366,
+    "commit_count": 109
   },
   {
     "name": "MCP Chatbot",
@@ -293,7 +321,9 @@
     ],
     "author": "3choff",
     "stars": "213",
-    "tags": []
+    "tags": [],
+    "code_lines": 692,
+    "commit_count": 5
   },
   {
     "name": "LibreChat",
@@ -318,7 +348,9 @@
       "google",
       "aws"
     ],
-    "stars": "28.3k"
+    "stars": "28.3k",
+    "code_lines": 365718,
+    "commit_count": 3021
   },
   {
     "name": "kibitz",
@@ -331,7 +363,9 @@
     "github_url": "https://github.com/nick1udwig/kibitz",
     "categories": [
       "Web"
-    ]
+    ],
+    "code_lines": 16263,
+    "commit_count": 422
   },
   {
     "name": "HyperChat",
@@ -355,7 +389,9 @@
       "agent",
       "mcp"
     ],
-    "stars": "640"
+    "stars": "640",
+    "code_lines": 158718,
+    "commit_count": 2222
   },
   {
     "name": "Goose",
@@ -379,7 +415,9 @@
       "ai-agent",
       "codename-goose"
     ],
-    "stars": "17k"
+    "stars": "17k",
+    "code_lines": 2294772,
+    "commit_count": 2080
   },
   {
     "name": "FLUJO",
@@ -400,7 +438,9 @@
     ],
     "author": "Mario Andreschak",
     "tags": [],
-    "stars": "519"
+    "stars": "519",
+    "code_lines": 73122,
+    "commit_count": 141
   },
   {
     "name": "Dolphin-MCP",
@@ -412,7 +452,9 @@
     "github_url": "https://github.com/cognitivecomputations/dolphin-mcp",
     "categories": [
       "CLI"
-    ]
+    ],
+    "code_lines": 3742,
+    "commit_count": 73
   },
   {
     "name": "DeepChat",
@@ -428,7 +470,9 @@
     "tags": [
       "deepchat",
       "chatbot"
-    ]
+    ],
+    "code_lines": 151996,
+    "commit_count": 2209
   },
   {
     "name": "Cursor",
@@ -441,7 +485,9 @@
     "github_url": "https://github.com/getcursor/cursor",
     "categories": [
       "Desktop"
-    ]
+    ],
+    "code_lines": 38,
+    "commit_count": 210
   },
   {
     "name": "Copilot",
@@ -465,7 +511,9 @@
       "vscode-extension",
       "mcp"
     ],
-    "stars": "400"
+    "stars": "400",
+    "code_lines": 63929,
+    "commit_count": 66
   },
   {
     "name": "Continue",
@@ -484,7 +532,9 @@
       "ai",
       "open-source"
     ],
-    "stars": "27.8k"
+    "stars": "27.8k",
+    "code_lines": 1599830,
+    "commit_count": 17883
   },
   {
     "name": "Console Chat GPT",
@@ -504,7 +554,9 @@
     ],
     "author": "amidabuddha",
     "tags": [],
-    "stars": "143"
+    "stars": "143",
+    "code_lines": 58471,
+    "commit_count": 1020
   },
   {
     "name": "Cline",
@@ -525,7 +577,9 @@
     ],
     "author": "Cline Bot Inc.",
     "tags": [],
-    "stars": "48k"
+    "stars": "48k",
+    "code_lines": 0,
+    "commit_count": 3232
   },
   {
     "name": "Cherry Studio",
@@ -549,7 +603,9 @@
       "electron",
       "agent"
     ],
-    "stars": "30.5k"
+    "stars": "30.5k",
+    "code_lines": 313616,
+    "commit_count": 3883
   },
   {
     "name": "ChatMCP",
@@ -572,7 +628,9 @@
       "chat",
       "client"
     ],
-    "stars": "1.9k"
+    "stars": "1.9k",
+    "code_lines": 113333,
+    "commit_count": 407
   },
   {
     "name": "Chainlit",
@@ -584,7 +642,9 @@
     "github_url": "https://github.com/Chainlit/chainlit",
     "categories": [
       "Web"
-    ]
+    ],
+    "code_lines": 89927,
+    "commit_count": 1205
   },
   {
     "name": "AI as Workspace",
@@ -599,7 +659,9 @@
       "Web"
     ],
     "author": "NitroRCr",
-    "tags": []
+    "tags": [],
+    "code_lines": 87153,
+    "commit_count": 222
   },
   {
     "name": "5ire",
@@ -623,7 +685,9 @@
       "knowledge-base",
       "mcp"
     ],
-    "stars": "4.2k"
+    "stars": "4.2k",
+    "code_lines": 93001,
+    "commit_count": 1144
   },
   {
     "name": "CLI Inspector",
@@ -636,7 +700,9 @@
     "github_url": "https://github.com/wong2/mcp-cli",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "356"
+    "stars": "356",
+    "code_lines": 2502,
+    "commit_count": 63
   },
   {
     "name": "MCPHost",
@@ -649,7 +715,9 @@
     "github_url": "https://github.com/mark3labs/mcphost",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1.2k"
+    "stars": "1.2k",
+    "code_lines": 29909,
+    "commit_count": 153
   },
   {
     "name": "REST API/CLI Client",
@@ -662,7 +730,9 @@
     "github_url": "https://github.com/rakesh-eltropy/mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "48"
+    "stars": "48",
+    "code_lines": 748,
+    "commit_count": 12
   },
   {
     "name": "Rijksmuseum MCP Client for Rijksmuseum MCP Server",
@@ -689,7 +759,9 @@
       "agents",
       "mcp"
     ],
-    "stars": "292"
+    "stars": "292",
+    "code_lines": 818,
+    "commit_count": 10
   },
   {
     "name": "Agent",
@@ -702,7 +774,9 @@
     "github_url": "https://github.com/shane-kercheval/mcp-client-agent",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "20"
+    "stars": "20",
+    "code_lines": 4113,
+    "commit_count": 16
   },
   {
     "name": "OpenAI+SSE Example",
@@ -715,7 +789,9 @@
     "github_url": "https://github.com/anycontext-ai/remote-mcp-chat",
     "categories": "communication",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 887,
+    "commit_count": 5
   },
   {
     "name": "MCP HTTP Client Example",
@@ -726,7 +802,9 @@
     "author": "slavashvets",
     "github_url": "https://github.com/slavashvets/mcp-http-clilent-example",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 591,
+    "commit_count": 4
   },
   {
     "name": "Dive",
@@ -742,7 +820,9 @@
       "ai",
       "ai-agents"
     ],
-    "stars": "1.4k"
+    "stars": "1.4k",
+    "code_lines": 161280,
+    "commit_count": 1014
   },
   {
     "name": "LLaMa Streamlit",
@@ -758,7 +838,9 @@
       "mcp",
       "python"
     ],
-    "stars": "41"
+    "stars": "41",
+    "code_lines": 6826,
+    "commit_count": 17
   },
   {
     "name": "React Web Workers",
@@ -771,7 +853,9 @@
     "github_url": "https://github.com/yonaka15/mcp-client-demo",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 4647,
+    "commit_count": 6
   },
   {
     "name": "CLI",
@@ -784,7 +868,9 @@
     "github_url": "https://github.com/sansan4ez/mcp-cli",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 3387,
+    "commit_count": 75
   },
   {
     "name": "blnk",
@@ -795,7 +881,9 @@
     "author": "frgmt0",
     "github_url": "https://github.com/frgmt0/blnk",
     "categories": "communication",
-    "tags": []
+    "tags": [],
+    "code_lines": 2781,
+    "commit_count": 133
   },
   {
     "name": "Oneshot",
@@ -808,7 +896,9 @@
     "github_url": "https://github.com/destiner/oneshot",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "14"
+    "stars": "14",
+    "code_lines": 13258,
+    "commit_count": 60
   },
   {
     "name": "AIQL Desktop Chat",
@@ -824,7 +914,9 @@
       "electron",
       "mcp"
     ],
-    "stars": "231"
+    "stars": "231",
+    "code_lines": 11412,
+    "commit_count": 61
   },
   {
     "name": "n8n Nodes",
@@ -837,7 +929,9 @@
     "github_url": "https://github.com/nerding-io/n8n-nodes-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2.4k"
+    "stars": "2.4k",
+    "code_lines": 28380,
+    "commit_count": 73
   },
   {
     "name": "Aterm2",
@@ -850,7 +944,9 @@
     "github_url": "https://github.com/runekaagaard/aterm2",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 1069,
+    "commit_count": 6
   },
   {
     "name": "GenAIScript",
@@ -866,7 +962,9 @@
       "javascript",
       "agent"
     ],
-    "stars": "2.7k"
+    "stars": "2.7k",
+    "code_lines": 3425084,
+    "commit_count": 5090
   },
   {
     "name": "Groq Chatbot",
@@ -879,7 +977,9 @@
     "github_url": "https://github.com/mashriram/mcp_client_local",
     "categories": "communication",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1780,
+    "commit_count": 1
   },
   {
     "name": "Gradio UI Example",
@@ -892,7 +992,9 @@
     "github_url": "https://github.com/justjoehere/mcp_gradio_client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "69"
+    "stars": "69",
+    "code_lines": 2257,
+    "commit_count": 4
   },
   {
     "name": "MCP Server CLI",
@@ -905,7 +1007,9 @@
     "github_url": "https://github.com/shahshrey/universal-mcp-ui",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 5034,
+    "commit_count": 3
   },
   {
     "name": "CLI",
@@ -918,7 +1022,9 @@
     "github_url": "https://github.com/chrishayuk/mcp-cli",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1.6k"
+    "stars": "1.6k",
+    "code_lines": 28493,
+    "commit_count": 291
   },
   {
     "name": "TS Stdio+SSE Example",
@@ -931,7 +1037,9 @@
     "github_url": "https://github.com/edanyal/mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "27"
+    "stars": "27",
+    "code_lines": 5240,
+    "commit_count": 1
   },
   {
     "name": "Claude Agent",
@@ -944,7 +1052,9 @@
     "github_url": "https://github.com/adamdude828/claude-mcp-agent",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 4498,
+    "commit_count": 37
   },
   {
     "name": "PostgreSQL Agent",
@@ -957,7 +1067,9 @@
     "github_url": "https://github.com/garvk/mcp-postgresql-agent-hack",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 2330,
+    "commit_count": 19
   },
   {
     "name": "LangChain-TypeScript Client",
@@ -973,7 +1085,9 @@
       "typescript",
       "nodejs"
     ],
-    "stars": "12"
+    "stars": "12",
+    "code_lines": 5546,
+    "commit_count": 64
   },
   {
     "name": "Langgraph Tools",
@@ -989,7 +1103,9 @@
       "ai",
       "mcp"
     ],
-    "stars": "45"
+    "stars": "45",
+    "code_lines": 3307,
+    "commit_count": 3
   },
   {
     "name": "LangChain ReAct Agent",
@@ -1005,7 +1121,9 @@
       "typescript",
       "nodejs"
     ],
-    "stars": "11"
+    "stars": "11",
+    "code_lines": 3972,
+    "commit_count": 73
   },
   {
     "name": "Rails Example",
@@ -1018,7 +1136,9 @@
     "github_url": "https://github.com/funwarioisii/sample-mcp-rails",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "11"
+    "stars": "11",
+    "code_lines": 2882,
+    "commit_count": 8
   },
   {
     "name": "Anthropic Chat (Laravel)",
@@ -1031,7 +1151,9 @@
     "github_url": "https://github.com/scriptoshi/laravel-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "28"
+    "stars": "28",
+    "code_lines": 39532,
+    "commit_count": 2
   },
   {
     "name": "SSE Python Example",
@@ -1044,7 +1166,9 @@
     "github_url": "https://github.com/tony-nexartis/anthropic_mcp_hackathon_sse_client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 1004,
+    "commit_count": 1
   },
   {
     "name": "Textual TUI",
@@ -1057,7 +1181,9 @@
     "github_url": "https://github.com/ananis25/mcp-client-ref",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 3897,
+    "commit_count": 2
   },
   {
     "name": "Rijksmuseum MCP Client for Rijksmuseum MCP Server",
@@ -1087,7 +1213,9 @@
       "mcp",
       "python"
     ],
-    "stars": "9"
+    "stars": "9",
+    "code_lines": 3473,
+    "commit_count": 49
   },
   {
     "name": "GitHub",
@@ -1100,7 +1228,9 @@
     "github_url": "https://github.com/leartbeqiraj1/openai-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "6"
+    "stars": "6",
+    "code_lines": 605,
+    "commit_count": 8
   },
   {
     "name": "Minions",
@@ -1113,7 +1243,9 @@
     "github_url": "https://github.com/hazyresearch/minions",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1.1k"
+    "stars": "1.1k",
+    "code_lines": 95253,
+    "commit_count": 570
   },
   {
     "name": "Streamlit Claude",
@@ -1126,7 +1258,9 @@
     "github_url": "https://github.com/setkyar/claude-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 2020,
+    "commit_count": 1
   },
   {
     "name": "Jira",
@@ -1139,7 +1273,9 @@
     "github_url": "https://github.com/navneet-ag/cursor-jira-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 2535,
+    "commit_count": 6
   },
   {
     "name": "CrewAI",
@@ -1152,7 +1288,9 @@
     "github_url": "https://github.com/dshivendra/crewai_mcp_adapter",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "14"
+    "stars": "14",
+    "code_lines": 6350,
+    "commit_count": 34
   },
   {
     "name": "LlamaIndex",
@@ -1165,7 +1303,9 @@
     "github_url": "https://github.com/binarybana/easyrag",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 2240,
+    "commit_count": 2
   },
   {
     "name": "ReAct Agent",
@@ -1178,7 +1318,9 @@
     "github_url": "https://github.com/nachoal/react-agent-with-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 6741,
+    "commit_count": 1
   },
   {
     "name": "FastAPI",
@@ -1191,7 +1333,9 @@
     "github_url": "https://github.com/aswincandra/fast-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 391,
+    "commit_count": 2
   },
   {
     "name": "Claude CLI",
@@ -1204,7 +1348,9 @@
     "github_url": "https://github.com/swairshah/claude-cli-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1010,
+    "commit_count": 6
   },
   {
     "name": "Copilot MCP Client for VSCode",
@@ -1228,7 +1374,9 @@
     "github_url": "https://github.com/difybase/dify-connect-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "31"
+    "stars": "31",
+    "code_lines": 2544,
+    "commit_count": 3
   },
   {
     "name": "Mattermost MCP Client",
@@ -1242,7 +1390,9 @@
     "tags": [
       "mattermost",
       "mcp-client"
-    ]
+    ],
+    "code_lines": 228262,
+    "commit_count": 20
   },
   {
     "name": "Story Protocol",
@@ -1255,7 +1405,9 @@
     "github_url": "https://github.com/ellieli0630/langgraph-mcp-agent-twitter",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 5251,
+    "commit_count": 27
   },
   {
     "name": "AWS Resource Manager",
@@ -1268,7 +1420,9 @@
     "github_url": "https://github.com/debedb/mcp-aws",
     "categories": "cloud-platforms",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1312,
+    "commit_count": 1
   },
   {
     "name": "Dual-Display AI Assistant",
@@ -1281,7 +1435,9 @@
     "github_url": "https://github.com/swairshah/term-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 3439,
+    "commit_count": 1
   },
   {
     "name": "Arbitrum Network Tools",
@@ -1294,7 +1450,9 @@
     "github_url": "https://github.com/utkucy/arbitrum-mcp-tools",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 7045,
+    "commit_count": 33
   },
   {
     "name": "LangChain.js MCP Adapters",
@@ -1308,7 +1466,9 @@
     "tags": [
       "javascript",
       "typescript"
-    ]
+    ],
+    "code_lines": 14486,
+    "commit_count": 82
   },
   {
     "name": "Vite React Frontend",
@@ -1324,7 +1484,9 @@
       "ai",
       "mcp"
     ],
-    "stars": "16"
+    "stars": "16",
+    "code_lines": 12629,
+    "commit_count": 21
   },
   {
     "name": "FHIR Healthcare Analytics",
@@ -1337,7 +1499,9 @@
     "github_url": "https://github.com/terminallylazy/mcp-on-fhir",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "6"
+    "stars": "6",
+    "code_lines": 15805,
+    "commit_count": 1
   },
   {
     "name": "Mathematical Calculations",
@@ -1350,7 +1514,9 @@
     "github_url": "https://github.com/polymath-raval/mcp_example",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1941,
+    "commit_count": 5
   },
   {
     "name": "IOL (Invertir Online)",
@@ -1363,7 +1529,9 @@
     "github_url": "https://github.com/fernandezpablo85/mcpiol",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1622,
+    "commit_count": 13
   },
   {
     "name": "Refactored Octo Parakeet (SQLite)",
@@ -1379,7 +1547,9 @@
       "python",
       "docker"
     ],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 182,
+    "commit_count": 2
   },
   {
     "name": "Multi-Server Orchestrator",
@@ -1392,7 +1562,9 @@
     "github_url": "https://github.com/alessandrodorazio/mcp-client-server",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 496,
+    "commit_count": 3
   },
   {
     "name": "AI Image Generation Pipeline (LangGraph)",
@@ -1405,7 +1577,9 @@
     "github_url": "https://github.com/lalanikarim/langgraph-mcp-pipeline",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "13"
+    "stars": "13",
+    "code_lines": 880,
+    "commit_count": 20
   },
   {
     "name": "fast-agent",
@@ -1418,7 +1592,9 @@
     "github_url": "https://github.com/evalstate/fast-agent",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2.8k"
+    "stars": "2.8k",
+    "code_lines": 101219,
+    "commit_count": 1141
   },
   {
     "name": "Web Search",
@@ -1431,7 +1607,9 @@
     "github_url": "https://github.com/m-mcp/web-search",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 798,
+    "commit_count": 3
   },
   {
     "name": "Python Ollama",
@@ -1444,7 +1622,9 @@
     "github_url": "https://github.com/rggh/mcp-python-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 200,
+    "commit_count": 4
   },
   {
     "name": "Streamlit RAG",
@@ -1457,7 +1637,9 @@
     "github_url": "https://github.com/saqadri/mcp_agent_streamlit_rag",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 2570,
+    "commit_count": 2
   },
   {
     "name": "CLI Explorer",
@@ -1470,7 +1652,9 @@
     "github_url": "https://github.com/fbeunder/mcp_cli_client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1696,
+    "commit_count": 42
   },
   {
     "name": "Flexible Connector",
@@ -1483,7 +1667,9 @@
     "github_url": "https://github.com/kin-10/mcp_llm",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 820,
+    "commit_count": 3
   },
   {
     "name": "Quarkus Agentic Assistant",
@@ -1496,7 +1682,9 @@
     "github_url": "https://github.com/danieloh30/quarkus-agentic-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 2637,
+    "commit_count": 114
   },
   {
     "name": "Claude CLI",
@@ -1509,7 +1697,9 @@
     "github_url": "https://github.com/wintertechforum/mcp-demo",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 771,
+    "commit_count": 4
   },
   {
     "name": "Mattermost MCP Client",
@@ -1523,7 +1713,9 @@
     "tags": [
       "mattermost",
       "mcp-client"
-    ]
+    ],
+    "code_lines": 228262,
+    "commit_count": 20
   },
   {
     "name": "Flask LLM Enrichment",
@@ -1536,7 +1728,9 @@
     "github_url": "https://github.com/fbeunder/mcp_flask",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1744,
+    "commit_count": 32
   },
   {
     "name": "Apple Notes Indexer",
@@ -1549,7 +1743,9 @@
     "github_url": "https://github.com/packetnomad/cursor-apple-notes-indexer",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 982,
+    "commit_count": 9
   },
   {
     "name": "Proving Ground",
@@ -1562,7 +1758,9 @@
     "github_url": "https://github.com/jlmelis/mcp-proving-ground-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 945,
+    "commit_count": 26
   },
   {
     "name": "ThingsPanel IoT",
@@ -1575,7 +1773,9 @@
     "github_url": "https://github.com/thingspanel/thingspanel-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "32"
+    "stars": "32",
+    "code_lines": 2135,
+    "commit_count": 25
   },
   {
     "name": "NASA API Integration with MCP",
@@ -1586,7 +1786,9 @@
     "author": "jmand626",
     "github_url": "https://github.com/jmand626/473-mcpproject",
     "categories": "research-and-data",
-    "tags": []
+    "tags": [],
+    "code_lines": 1325,
+    "commit_count": 3
   },
   {
     "name": "Mattermost",
@@ -1602,7 +1804,9 @@
       "mcp",
       "mattermost"
     ],
-    "stars": "23"
+    "stars": "23",
+    "code_lines": 228262,
+    "commit_count": 20
   },
   {
     "name": "LangChain.js Adapters",
@@ -1618,7 +1822,9 @@
       "typescript",
       "javascript"
     ],
-    "stars": "239"
+    "stars": "239",
+    "code_lines": 14486,
+    "commit_count": 82
   },
   {
     "name": "Health Management System",
@@ -1631,7 +1837,9 @@
     "github_url": "https://github.com/bro-in-law/mcp-demo-frontend",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 3989,
+    "commit_count": 2
   },
   {
     "name": "Coco AI App",
@@ -1644,7 +1852,9 @@
     "tags": [
       "coco-ai",
       "search"
-    ]
+    ],
+    "code_lines": 121978,
+    "commit_count": 817
   },
   {
     "name": "Dify Agent Strategy",
@@ -1657,7 +1867,9 @@
     "github_url": "https://github.com/hjlarry/dify-plugin-mcp_agent",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "15"
+    "stars": "15",
+    "code_lines": 3025,
+    "commit_count": 6
   },
   {
     "name": "MCP Client Example ☀️",
@@ -1682,7 +1894,9 @@
     "tags": [
       "nodejs",
       "javascript"
-    ]
+    ],
+    "code_lines": 107709,
+    "commit_count": 1973
   },
   {
     "name": "Hyper Terminal",
@@ -1695,7 +1909,9 @@
     "github_url": "https://github.com/bigsweetpotatostudio/hyper-mcp-terminal",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "21"
+    "stars": "21",
+    "code_lines": 23888,
+    "commit_count": 82
   },
   {
     "name": "FastAPI Gateway",
@@ -1708,7 +1924,9 @@
     "github_url": "https://github.com/karthikv2k/chat-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 434,
+    "commit_count": 1
   },
   {
     "name": "MCP TurboClient",
@@ -1719,7 +1937,9 @@
     "author": "techspawn",
     "github_url": "https://github.com/techspawn/mcp-turboclient",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 1814,
+    "commit_count": 5
   },
   {
     "name": "Coolify Infrastructure Manager",
@@ -1732,7 +1952,9 @@
     "github_url": "https://github.com/wrediam/n8n-coolify-mcp-tools",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "11"
+    "stars": "11",
+    "code_lines": 1106,
+    "commit_count": 4
   },
   {
     "name": "Kiters",
@@ -1745,7 +1967,9 @@
     "github_url": "https://github.com/namank5x/kiters-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 12591,
+    "commit_count": 1
   },
   {
     "name": "OrganiX (Claude Agent)",
@@ -1758,7 +1982,9 @@
     "github_url": "https://github.com/kabrony/claude-agent-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 10145,
+    "commit_count": 88
   },
   {
     "name": "Weather API",
@@ -1771,7 +1997,9 @@
     "github_url": "https://github.com/rairai77/weather-tool-with-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1944,
+    "commit_count": 8
   },
   {
     "name": "Open Swarm",
@@ -1784,7 +2012,9 @@
     "github_url": "https://github.com/matthewhand/open-swarm",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "11"
+    "stars": "11",
+    "code_lines": 58083,
+    "commit_count": 1080
   },
   {
     "name": "Terminal LLM",
@@ -1797,7 +2027,9 @@
     "github_url": "https://github.com/williamvd4/mcp-client-cli",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 4229,
+    "commit_count": 99
   },
   {
     "name": "CLI Manager",
@@ -1810,7 +2042,9 @@
     "github_url": "https://github.com/crayon3shawn/mcp-cli-manager",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 5189,
+    "commit_count": 65
   },
   {
     "name": "Web Dashboard",
@@ -1823,7 +2057,9 @@
     "github_url": "https://github.com/jinruoxinchen/mcp-web-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "24"
+    "stars": "24",
+    "code_lines": 22612,
+    "commit_count": 1
   },
   {
     "name": "Turkey Weather",
@@ -1836,7 +2072,9 @@
     "github_url": "https://github.com/emredeveloper/mcp-turkey-weather",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1541,
+    "commit_count": 6
   },
   {
     "name": "WinFormsApp (Semantic Kernel)",
@@ -1849,7 +2087,9 @@
     "github_url": "https://github.com/robert-githubusername/winformsapp-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 3057,
+    "commit_count": 8
   },
   {
     "name": "Pipedream API Directory",
@@ -1862,7 +2102,9 @@
     "github_url": "https://github.com/dannyroosevelt/pipedream-mcp-ui",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 13791,
+    "commit_count": 1
   },
   {
     "name": "Multi-Service Integration Dashboard",
@@ -1875,7 +2117,9 @@
     "github_url": "https://github.com/bigmb/mb_mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1267,
+    "commit_count": 7
   },
   {
     "name": "Ollama SQL Translator",
@@ -1888,7 +2132,9 @@
     "github_url": "https://github.com/georgi-terziyski/mcp_client_ollama",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 2646,
+    "commit_count": 2
   },
   {
     "name": "Box Policy Analyzer",
@@ -1901,7 +2147,9 @@
     "github_url": "https://github.com/box-community/box-mcp-pydantic-ai",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1451,
+    "commit_count": 1
   },
   {
     "name": "Hermes",
@@ -1917,7 +2165,9 @@
       "elixir",
       "mcp"
     ],
-    "stars": "245"
+    "stars": "245",
+    "code_lines": 38432,
+    "commit_count": 172
   },
   {
     "name": "UI-TARS Desktop",
@@ -1933,7 +2183,9 @@
       "electron",
       "agent"
     ],
-    "stars": "15.3k"
+    "stars": "15.3k",
+    "code_lines": 439739,
+    "commit_count": 753
   },
   {
     "name": "🚀 Advacned Unity MCP Integration",
@@ -1947,7 +2199,9 @@
     "tags": [
       "ai",
       "unity"
-    ]
+    ],
+    "code_lines": 8800,
+    "commit_count": 73
   },
   {
     "name": "File Downloader",
@@ -1963,7 +2217,9 @@
       "typescript",
       "nodejs"
     ],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 3988,
+    "commit_count": 5
   },
   {
     "name": "Light MCP Agents",
@@ -1979,7 +2235,9 @@
       "ai",
       "python"
     ],
-    "stars": "9"
+    "stars": "9",
+    "code_lines": 2454,
+    "commit_count": 37
   },
   {
     "name": "PR Reviewer",
@@ -1990,7 +2248,9 @@
     "author": "attikpo-akrabal-godwin",
     "github_url": "https://github.com/attikpo-akrabal-godwin/pr-reviewer",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 16363,
+    "commit_count": 4
   },
   {
     "name": "Dify Plugin Agent SSE",
@@ -2003,7 +2263,9 @@
     "github_url": "https://github.com/junjiem/dify-plugin-agent-mcp_sse",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "105"
+    "stars": "105",
+    "code_lines": 4886,
+    "commit_count": 105
   },
   {
     "name": "Claude MCP CLI",
@@ -2016,7 +2278,9 @@
     "github_url": "https://github.com/lingster/mcp-llm",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 1280,
+    "commit_count": 3
   },
   {
     "name": "Firefox Claude Bridge",
@@ -2029,7 +2293,9 @@
     "github_url": "https://github.com/k3d3/firefox_mcpbridge",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 877,
+    "commit_count": 11
   },
   {
     "name": "Figma Design Automation",
@@ -2042,7 +2308,9 @@
     "github_url": "https://github.com/aranyak-4002/figma-design-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 813,
+    "commit_count": 1
   },
   {
     "name": "SwiftMCP (HealthKit)",
@@ -2055,7 +2323,9 @@
     "github_url": "https://github.com/compiler-inc/swiftmcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "38"
+    "stars": "38",
+    "code_lines": 2782,
+    "commit_count": 25
   },
   {
     "name": "AgentIQ (Multi-Server Orchestrator)",
@@ -2068,7 +2338,9 @@
     "github_url": "https://github.com/sparktsao/mcp_meet_agentiq",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 3388,
+    "commit_count": 23
   },
   {
     "name": "Open MCP Client",
@@ -2081,7 +2353,9 @@
     "github_url": "https://github.com/copilotkit/open-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1.6k"
+    "stars": "1.6k",
+    "code_lines": 12779,
+    "commit_count": 73
   },
   {
     "name": "cMCP",
@@ -2097,7 +2371,9 @@
       "model-context-protocol",
       "mcp"
     ],
-    "stars": "14"
+    "stars": "14",
+    "code_lines": 753,
+    "commit_count": 19
   },
   {
     "name": "EasyMCP",
@@ -2113,7 +2389,9 @@
       "mcp-client",
       "mcp"
     ],
-    "stars": "15"
+    "stars": "15",
+    "code_lines": 1015,
+    "commit_count": 4
   },
   {
     "name": "UtilityBelt",
@@ -2126,7 +2404,9 @@
     "github_url": "https://github.com/richardanaya/utilitybelt",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "9"
+    "stars": "9",
+    "code_lines": 2648,
+    "commit_count": 25
   },
   {
     "name": "TurboClient (OpenAI)",
@@ -2139,7 +2419,9 @@
     "github_url": "https://github.com/techspawn/turbo-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 1814,
+    "commit_count": 5
   },
   {
     "name": "Axiom",
@@ -2155,7 +2437,9 @@
       "agent",
       "docker"
     ],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 5886,
+    "commit_count": 67
   },
   {
     "name": "MCPHost",
@@ -2168,7 +2452,9 @@
     "github_url": "https://github.com/dictybase-docker/mcphost",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 3019,
+    "commit_count": 32
   },
   {
     "name": "GoChat",
@@ -2181,7 +2467,9 @@
     "github_url": "https://github.com/jiasyuanchu/mcp-chat-bot",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 546,
+    "commit_count": 10
   },
   {
     "name": "Open MCP Dashboard",
@@ -2194,7 +2482,9 @@
     "github_url": "https://github.com/mdhelaluddinbiswas/open-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 26071,
+    "commit_count": 50
   },
   {
     "name": "ProdEx (Component-Level AI)",
@@ -2207,7 +2497,9 @@
     "github_url": "https://github.com/tarasyarema/prodex-js",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "7"
+    "stars": "7",
+    "code_lines": 2528,
+    "commit_count": 9
   },
   {
     "name": "Tiny OpenRouter",
@@ -2222,7 +2514,9 @@
     "tags": [
       "mcp-client"
     ],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1142,
+    "commit_count": 3
   },
   {
     "name": "项目简介",
@@ -2233,7 +2527,9 @@
     "author": "MrNiebit",
     "github_url": "https://github.com/mrniebit/hot-topic-mcp",
     "categories": "research-and-data",
-    "tags": []
+    "tags": [],
+    "code_lines": 764,
+    "commit_count": 3
   },
   {
     "name": "Airline Seat Booking Agent",
@@ -2246,7 +2542,9 @@
     "github_url": "https://github.com/minyang-chen/seat-booking-agent",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 2665,
+    "commit_count": 4
   },
   {
     "name": "n8n Workflow Integration",
@@ -2259,7 +2557,9 @@
     "github_url": "https://github.com/ateeyak/n8n-nodes-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 27606,
+    "commit_count": 30
   },
   {
     "name": "Gemini Python Client",
@@ -2272,7 +2572,9 @@
     "github_url": "https://github.com/zeeshanunique/mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 7350,
+    "commit_count": 27
   },
   {
     "name": "Antwerp Ghost Hunting Tours",
@@ -2285,7 +2587,9 @@
     "github_url": "https://github.com/maurostyleman/kafrma-backend",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 17578,
+    "commit_count": 2
   },
   {
     "name": "Vertex AI",
@@ -2298,7 +2602,9 @@
     "github_url": "https://github.com/deco-sites/vertex-mcp-3",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 568,
+    "commit_count": 13
   },
   {
     "name": "QGIS",
@@ -2311,7 +2617,9 @@
     "github_url": "https://github.com/kicker315/deepseek_qgis_mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 3638,
+    "commit_count": 9
   },
   {
     "name": "Copilot Chat",
@@ -2324,7 +2632,9 @@
     "github_url": "https://github.com/yeakub108/mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 14602,
+    "commit_count": 16
   },
   {
     "name": "Discord",
@@ -2337,7 +2647,9 @@
     "github_url": "https://github.com/mastra-ai/discord-mcp-bot",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 6718,
+    "commit_count": 45
   },
   {
     "name": "Notion",
@@ -2350,7 +2662,9 @@
     "github_url": "https://github.com/michaeldslim/mcp-notion-api",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 1042,
+    "commit_count": 4
   },
   {
     "name": "RPA Desktop Automation",
@@ -2363,7 +2677,9 @@
     "github_url": "https://github.com/shaoyingchen/mcp-client-llm",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 3003,
+    "commit_count": 5
   },
   {
     "name": "Ollama",
@@ -2376,7 +2692,9 @@
     "github_url": "https://github.com/intelligent-systems-lab/mcp_client_ollama",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 2342,
+    "commit_count": 4
   },
   {
     "name": "Raycast AI",
@@ -2389,7 +2707,9 @@
     "github_url": "https://github.com/evanzhoudev/raycast-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "7"
+    "stars": "7",
+    "code_lines": 4389,
+    "commit_count": 1
   },
   {
     "name": "GroundX RAG",
@@ -2402,7 +2722,9 @@
     "github_url": "https://github.com/fabriborgobello/chat-mcp-rag",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 6114,
+    "commit_count": 7
   },
   {
     "name": "Zsh Chatbot",
@@ -2415,7 +2737,9 @@
     "github_url": "https://github.com/jiaminghuanghjm/zsh_chatbot_mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 2189,
+    "commit_count": 3
   },
   {
     "name": "Fused",
@@ -2428,7 +2752,9 @@
     "github_url": "https://github.com/milind-soni/mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 7075,
+    "commit_count": 12
   },
   {
     "name": "WebUI",
@@ -2441,7 +2767,9 @@
     "github_url": "https://github.com/omchillure/mcpui",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 4183,
+    "commit_count": 51
   },
   {
     "name": "mcp_mastery",
@@ -2455,7 +2783,9 @@
     "tags": [
       "mathgpt",
       "math-solver"
-    ]
+    ],
+    "code_lines": 2096,
+    "commit_count": 3
   },
   {
     "name": "Markdown Processor",
@@ -2471,7 +2801,9 @@
       "mcp",
       "python"
     ],
-    "stars": "170"
+    "stars": "170",
+    "code_lines": 58454,
+    "commit_count": 12
   },
   {
     "name": "Vault Forge",
@@ -2484,7 +2816,9 @@
     "github_url": "https://github.com/regibyte/mcp-client-app",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 33130,
+    "commit_count": 21
   },
   {
     "name": "Pydantic MCP",
@@ -2497,7 +2831,9 @@
     "github_url": "https://github.com/rectalogic/pydantic-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "9"
+    "stars": "9",
+    "code_lines": 1886,
+    "commit_count": 11
   },
   {
     "name": "LaunchBar Agent",
@@ -2510,7 +2846,9 @@
     "github_url": "https://github.com/justinhuang0208/launchbar-mcp_agent",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 628,
+    "commit_count": 7
   },
   {
     "name": "Quick Start with Langchain and the Github MCP Server",
@@ -2524,7 +2862,9 @@
     "tags": [
       "langchain",
       "mcp"
-    ]
+    ],
+    "code_lines": 61,
+    "commit_count": 5
   },
   {
     "name": "Universal Mistral MCP Adapter",
@@ -2535,7 +2875,9 @@
     "author": "itisaevalex",
     "github_url": "https://github.com/itisaevalex/mistral-mcp-client",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 29322,
+    "commit_count": 7
   },
   {
     "name": "Cursor MCP (Model Context Protocol)",
@@ -2549,7 +2891,9 @@
     "tags": [
       "cursor",
       "mcp"
-    ]
+    ],
+    "code_lines": 12948,
+    "commit_count": 1
   },
   {
     "name": "Where On-Device and Cloud LLMs Meet",
@@ -2560,7 +2904,9 @@
     "author": "ShiroKatsuya",
     "github_url": "https://github.com/shirokatsuya/calista-research-llms-working-together-with-moddel-context-protocol-mcp",
     "categories": "research-and-data",
-    "tags": []
+    "tags": [],
+    "code_lines": 330878,
+    "commit_count": 1
   },
   {
     "name": "ClaudeR",
@@ -2573,7 +2919,9 @@
     "github_url": "https://github.com/imnmv/clauder",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "69"
+    "stars": "69",
+    "code_lines": 3260,
+    "commit_count": 97
   },
   {
     "name": "Jira Assistant",
@@ -2589,7 +2937,9 @@
       "googlecloudplatform",
       "jira"
     ],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 23177,
+    "commit_count": 4
   },
   {
     "name": "SSE CLI Example",
@@ -2602,7 +2952,9 @@
     "github_url": "https://github.com/slavashvets/mcp-http-client-example",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "17"
+    "stars": "17",
+    "code_lines": 591,
+    "commit_count": 4
   },
   {
     "name": "Toolbase",
@@ -2618,7 +2970,9 @@
       "ai",
       "tools"
     ],
-    "stars": "152"
+    "stars": "152",
+    "code_lines": 18339,
+    "commit_count": 9
   },
   {
     "name": "Smolagents",
@@ -2631,7 +2985,9 @@
     "github_url": "https://github.com/huggingface/smolagents",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "21.5k"
+    "stars": "21.5k",
+    "code_lines": 43243,
+    "commit_count": 928
   },
   {
     "name": "Deepin Task Planner",
@@ -2644,7 +3000,9 @@
     "github_url": "https://github.com/toberyan/deepin-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 4408,
+    "commit_count": 20
   },
   {
     "name": "Slack Assistant",
@@ -2657,7 +3015,9 @@
     "github_url": "https://github.com/csonigo/slack-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "20"
+    "stars": "20",
+    "code_lines": 4611,
+    "commit_count": 32
   },
   {
     "name": "Desktop Accessibility",
@@ -2670,7 +3030,9 @@
     "github_url": "https://github.com/mediar-ai/mcp-server-client-computer-use-ai-sdk",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "174"
+    "stars": "174",
+    "code_lines": 18660,
+    "commit_count": 120
   },
   {
     "name": "SQLite Query Assistant",
@@ -2683,7 +3045,9 @@
     "github_url": "https://github.com/zovi343/oai_mcp_code_agent",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 4814,
+    "commit_count": 8
   },
   {
     "name": "DeskAid (Git)",
@@ -2696,7 +3060,9 @@
     "github_url": "https://github.com/ezyang/codemcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1.5k"
+    "stars": "1.5k",
+    "code_lines": 18264,
+    "commit_count": 1088
   },
   {
     "name": "Mistral Universal",
@@ -2709,7 +3075,9 @@
     "github_url": "https://github.com/itisaevalex/mistr-agent",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "12"
+    "stars": "12",
+    "code_lines": 29322,
+    "commit_count": 7
   },
   {
     "name": "Kopilot (Kubernetes)",
@@ -2722,7 +3090,9 @@
     "github_url": "https://github.com/kokoiruby/kopilot-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 2718,
+    "commit_count": 4
   },
   {
     "name": "Feishu (Lark) Bot",
@@ -2735,7 +3105,9 @@
     "github_url": "https://github.com/twwch/mcp-feishu-bot",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "10"
+    "stars": "10",
+    "code_lines": 373,
+    "commit_count": 5
   },
   {
     "name": "MCP로 RAG Application 구현하기",
@@ -2746,7 +3118,9 @@
     "author": "kyopark2014",
     "github_url": "https://github.com/kyopark2014/mcp",
     "categories": "research-and-data",
-    "tags": []
+    "tags": [],
+    "code_lines": 361058,
+    "commit_count": 603
   },
   {
     "name": "Agents MCP Cloud",
@@ -2759,7 +3133,9 @@
     "github_url": "https://github.com/hicodermonkey/agents-mcp-cloud",
     "categories": "cloud-platforms",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 26573,
+    "commit_count": 8
   },
   {
     "name": "Flutter Gemini Chat",
@@ -2772,7 +3148,9 @@
     "github_url": "https://github.com/leehack/flutter-mcp-ai-chat",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "29"
+    "stars": "29",
+    "code_lines": 12436,
+    "commit_count": 17
   },
   {
     "name": "Multi-Provider LLM Client",
@@ -2785,7 +3163,9 @@
     "github_url": "https://github.com/kirintea/mcp_modularity",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 2747,
+    "commit_count": 4
   },
   {
     "name": "TySVA (Learn TypeScript)",
@@ -2801,7 +3181,9 @@
       "learning",
       "typescript"
     ],
-    "stars": "14"
+    "stars": "14",
+    "code_lines": 25319,
+    "commit_count": 2
   },
   {
     "name": "Vue Chat Interface",
@@ -2817,7 +3199,9 @@
       "mcpe",
       "mcp"
     ],
-    "stars": "73"
+    "stars": "73",
+    "code_lines": 34296,
+    "commit_count": 29
   },
   {
     "name": "MCP Terminal",
@@ -2830,7 +3214,9 @@
     "github_url": "https://github.com/geli2001/mcp-terminal",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "12"
+    "stars": "12",
+    "code_lines": 4484,
+    "commit_count": 8
   },
   {
     "name": "LangChainGo MCP Adapter",
@@ -2846,7 +3232,9 @@
       "agent",
       "go"
     ],
-    "stars": "28"
+    "stars": "28",
+    "code_lines": 1413,
+    "commit_count": 9
   },
   {
     "name": "CF AI Chat",
@@ -2859,7 +3247,9 @@
     "github_url": "https://github.com/cpage-pivotal/cf-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "13"
+    "stars": "13",
+    "code_lines": 27141,
+    "commit_count": 167
   },
   {
     "name": "mcp-use",
@@ -2873,7 +3263,9 @@
     "tags": [
       "ai",
       "mcp"
-    ]
+    ],
+    "code_lines": 45959,
+    "commit_count": 236
   },
   {
     "name": "Gomamayo Detector",
@@ -2886,7 +3278,9 @@
     "github_url": "https://github.com/mizakahk/mcp-gomamayo",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 719,
+    "commit_count": 2
   },
   {
     "name": "Speelka Agent",
@@ -2902,7 +3296,9 @@
       "agent",
       "mcp"
     ],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 376426,
+    "commit_count": 45
   },
   {
     "name": "MCP-Use",
@@ -2918,7 +3314,9 @@
       "agent",
       "python"
     ],
-    "stars": "4.6k"
+    "stars": "4.6k",
+    "code_lines": 45959,
+    "commit_count": 236
   },
   {
     "name": "Ollama",
@@ -2931,7 +3329,9 @@
     "github_url": "https://github.com/mihirrd/ollama-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "56"
+    "stars": "56",
+    "code_lines": 878,
+    "commit_count": 22
   },
   {
     "name": "MCP for Laravel",
@@ -2944,7 +3344,9 @@
     "github_url": "https://github.com/settledco/mcp-for-laravel",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 24876,
+    "commit_count": 11
   },
   {
     "name": "Bedrock",
@@ -2957,7 +3359,9 @@
     "github_url": "https://github.com/juspay/bedrock-mcp-connector",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 8406,
+    "commit_count": 1
   },
   {
     "name": "AI Agent Toolkit",
@@ -2973,7 +3377,9 @@
       "ai-agent",
       "autogen"
     ],
-    "stars": "16"
+    "stars": "16",
+    "code_lines": 9085,
+    "commit_count": 41
   },
   {
     "name": "SPARC Roo (Nostr-Enhanced Autonomous Coding)",
@@ -2986,7 +3392,9 @@
     "github_url": "https://github.com/jodobear/sparcaroo",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "22"
+    "stars": "22",
+    "code_lines": 879,
+    "commit_count": 3
   },
   {
     "name": "OpenMCP",
@@ -2999,7 +3407,9 @@
     "github_url": "https://github.com/lstm-kirigaya/openmcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "368"
+    "stars": "368",
+    "code_lines": 148924,
+    "commit_count": 449
   },
   {
     "name": "MCP Client Chatbot",
@@ -3016,7 +3426,9 @@
       "AI",
       "ai",
       "chatbot"
-    ]
+    ],
+    "code_lines": 84924,
+    "commit_count": 751
   },
   {
     "name": "MCP Playground",
@@ -3029,7 +3441,9 @@
     "github_url": "https://github.com/rosaboyle/mcp-playground",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "25"
+    "stars": "25",
+    "code_lines": 46908,
+    "commit_count": 15
   },
   {
     "name": "Airbnb",
@@ -3042,7 +3456,9 @@
     "github_url": "https://github.com/akktrsst/mcp_agent_airbnb",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 25718,
+    "commit_count": 14
   },
   {
     "name": "FastAPI MCP",
@@ -3055,7 +3471,9 @@
     "github_url": "https://github.com/rooseveltadvisors/fastapi-mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "6"
+    "stars": "6",
+    "code_lines": 3315,
+    "commit_count": 11
   },
   {
     "name": "Install MCP CLI",
@@ -3066,7 +3484,9 @@
     "author": "Dhravya",
     "github_url": "https://github.com/dhravya/install-mcp",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 10643,
+    "commit_count": 68
   },
   {
     "name": "AINGDESK",
@@ -3080,7 +3500,9 @@
     "tags": [
       "aingdesk",
       "ai-assistant"
-    ]
+    ],
+    "code_lines": 149458,
+    "commit_count": 54
   },
   {
     "name": "Qiniu MCP Server",
@@ -3091,7 +3513,9 @@
     "author": "qiniu",
     "github_url": "https://github.com/qiniu/qiniu-mcp-server",
     "categories": "cloud-platforms",
-    "tags": []
+    "tags": [],
+    "code_lines": 3217,
+    "commit_count": 62
   },
   {
     "name": "MCP-HOST-USE",
@@ -3104,7 +3528,9 @@
     "tags": [
       "MCP Host",
       "MCP Client"
-    ]
+    ],
+    "code_lines": 11557,
+    "commit_count": 35
   },
   {
     "name": "Agentica",
@@ -3117,7 +3543,9 @@
     "tags": [
       "mcp-client",
       "ai-agents"
-    ]
+    ],
+    "code_lines": 100430,
+    "commit_count": 596
   },
   {
     "name": "Vibeframe",
@@ -3130,7 +3558,9 @@
     "github_url": "https://github.com/taggartbg/vibeframe",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "12"
+    "stars": "12",
+    "code_lines": 5372,
+    "commit_count": 8
   },
   {
     "name": "Dive MCP Host",
@@ -3143,7 +3573,9 @@
     "github_url": "https://github.com/openagentplatform/dive-mcp-host",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "45"
+    "stars": "45",
+    "code_lines": 26615,
+    "commit_count": 888
   },
   {
     "name": "Saiki",
@@ -3159,7 +3591,9 @@
       "ai",
       "typescript"
     ],
-    "stars": "179"
+    "stars": "179",
+    "code_lines": 474355,
+    "commit_count": 262
   },
   {
     "name": "Ultimate MCP Client",
@@ -3172,7 +3606,9 @@
     "github_url": "https://github.com/dicklesworthstone/ultimate_mcp_client",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "128"
+    "stars": "128",
+    "code_lines": 98799,
+    "commit_count": 138
   },
   {
     "name": "CopilotKit Spreadsheet Editor",
@@ -3185,7 +3621,9 @@
     "github_url": "https://github.com/copilotkit/mcp-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "7"
+    "stars": "7",
+    "code_lines": 14736,
+    "commit_count": 27
   },
   {
     "name": "Airbnb",
@@ -3198,7 +3636,9 @@
     "github_url": "https://github.com/sakil786/airbnb_mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 874,
+    "commit_count": 2
   },
   {
     "name": "CLAP Agents",
@@ -3211,7 +3651,9 @@
     "github_url": "https://github.com/maitreyam/clap-agents",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 7972,
+    "commit_count": 20
   },
   {
     "name": "Scira MCP Chat",
@@ -3227,7 +3669,9 @@
       "mcp",
       "openai"
     ],
-    "stars": "704"
+    "stars": "704",
+    "code_lines": 19758,
+    "commit_count": 58
   },
   {
     "name": "Postman MCP client",
@@ -3239,7 +3683,9 @@
     "github_url": "https://github.com/postmanlabs/postman-app-support",
     "tags": [
       "postman"
-    ]
+    ],
+    "code_lines": 798,
+    "commit_count": 191
   },
   {
     "name": "AgentGraph",
@@ -3255,7 +3701,9 @@
       "graph",
       "agent"
     ],
-    "stars": "78"
+    "stars": "78",
+    "code_lines": 69640,
+    "commit_count": 157
   },
   {
     "name": "Tome",
@@ -3272,7 +3720,9 @@
       "gemini",
       "mcp"
     ],
-    "stars": "358"
+    "stars": "358",
+    "code_lines": 442274,
+    "commit_count": 318
   },
   {
     "name": "Video Extraction Server",
@@ -3286,7 +3736,9 @@
     "tags": [
       "video-extraction",
       "text-extraction"
-    ]
+    ],
+    "code_lines": 1855,
+    "commit_count": 11
   },
   {
     "name": "Blender 3D Scene Creator",
@@ -3299,7 +3751,9 @@
     "github_url": "https://github.com/xprilion/genkit-mcp-client-blender",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "7"
+    "stars": "7",
+    "code_lines": 9627,
+    "commit_count": 5
   },
   {
     "name": "CarrotAI",
@@ -3312,7 +3766,9 @@
     "github_url": "https://github.com/xingsandesu/carrotai",
     "categories": "communication",
     "tags": [],
-    "stars": "63"
+    "stars": "63",
+    "code_lines": 33902,
+    "commit_count": 8
   },
   {
     "name": "Agentic Slackbot (Yahoo Finance)",
@@ -3325,7 +3781,9 @@
     "github_url": "https://github.com/john-lin/agentic-slackbot",
     "categories": "communication",
     "tags": [],
-    "stars": "5"
+    "stars": "5",
+    "code_lines": 2447,
+    "commit_count": 40
   },
   {
     "name": "Xiaohongshu (Little Red Book)",
@@ -3340,7 +3798,9 @@
       "xhs",
       "mcp"
     ],
-    "stars": "263"
+    "stars": "263",
+    "code_lines": 4280,
+    "commit_count": 26
   },
   {
     "name": "HELLO-WORLD133",
@@ -3353,7 +3813,9 @@
     "tags": [
       "mcp-server",
       "chat-summarizer"
-    ]
+    ],
+    "code_lines": 10524,
+    "commit_count": 3
   },
   {
     "name": "OI-Wiki Vector Search",
@@ -3369,7 +3831,9 @@
       "icpc",
       "mcp"
     ],
-    "stars": "24"
+    "stars": "24",
+    "code_lines": 20539,
+    "commit_count": 9
   },
   {
     "name": "Cobolt",
@@ -3385,7 +3849,9 @@
       "llm",
       "local-first"
     ],
-    "stars": "221"
+    "stars": "221",
+    "code_lines": 57356,
+    "commit_count": 53
   },
   {
     "name": "OmniTaskAgent",
@@ -3398,7 +3864,9 @@
     "github_url": "https://github.com/acnet-ai/omnitaskagent",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 2919,
+    "commit_count": 4
   },
   {
     "name": "Aider MCP Client: Supercharge Your Coding with AI-Powered Documentation",
@@ -3425,7 +3893,9 @@
     "github_url": "https://github.com/buyitsydney/codingbaby-browser-mcp",
     "categories": "browser-automation",
     "tags": [],
-    "stars": "19"
+    "stars": "19",
+    "code_lines": 10187,
+    "commit_count": 7
   },
   {
     "name": "QU3 (Quantum-Safe Communication)",
@@ -3438,7 +3908,9 @@
     "github_url": "https://github.com/qu3ai/qu3-app",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "76"
+    "stars": "76",
+    "code_lines": 7020,
+    "commit_count": 12
   },
   {
     "name": "TeamSpark AI Workbench",
@@ -3451,7 +3923,9 @@
     "github_url": "https://github.com/teamsparkai/teamspark-workbench",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 44079,
+    "commit_count": 361
   },
   {
     "name": "Gemini MCP Desktop",
@@ -3464,7 +3938,9 @@
     "github_url": "https://github.com/duke7able/gemini-mcp-desktop-client",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "64"
+    "stars": "64",
+    "code_lines": 399540,
+    "commit_count": 72
   },
   {
     "name": "Mcp-ChatBI",
@@ -3478,7 +3954,9 @@
     "tags": [
       "python",
       "mcp"
-    ]
+    ],
+    "code_lines": 1812,
+    "commit_count": 8
   },
   {
     "name": "WhatsApp Voice Agent",
@@ -3491,7 +3969,9 @@
     "github_url": "https://github.com/autometa-dev/whatsapp-mcp-voice-agent",
     "categories": "communication",
     "tags": [],
-    "stars": "22"
+    "stars": "22",
+    "code_lines": 1472,
+    "commit_count": 5
   },
   {
     "name": "AIME-BOX",
@@ -3504,7 +3984,9 @@
     "tags": [
       "chatbox",
       "mcp"
-    ]
+    ],
+    "code_lines": 286185,
+    "commit_count": 97
   },
   {
     "name": "Protolint",
@@ -3519,7 +4001,9 @@
       "cli",
       "lint"
     ],
-    "stars": "643"
+    "stars": "643",
+    "code_lines": 85394,
+    "commit_count": 836
   },
   {
     "name": "Osmosis-MCP-4B Demo",
@@ -3532,7 +4016,9 @@
     "github_url": "https://github.com/gulp-ai/osmosis-mcp-4b-demo",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "21"
+    "stars": "21",
+    "code_lines": 245,
+    "commit_count": 15
   },
   {
     "name": "Mcp Airflow Postgres",
@@ -3546,7 +4032,9 @@
     "tags": [
       "airflow",
       "database"
-    ]
+    ],
+    "code_lines": 1541,
+    "commit_count": 6
   },
   {
     "name": "ACALYTICA",
@@ -3560,7 +4048,9 @@
     "tags": [
       "acalytica",
       "biolinks"
-    ]
+    ],
+    "code_lines": 74,
+    "commit_count": 2
   },
   {
     "name": "Elemental",
@@ -3573,7 +4063,9 @@
     "tags": [
       "agent framework",
       "no-code"
-    ]
+    ],
+    "code_lines": 26349,
+    "commit_count": 45
   },
   {
     "name": "Online MCP Inspector: Web-Based Tool for Testing & Debugging",
@@ -3586,7 +4078,9 @@
     "tags": [
       "mcp",
       "mcp-inspector"
-    ]
+    ],
+    "code_lines": 32508,
+    "commit_count": 1427
   },
   {
     "name": "MCP-X",
@@ -3600,7 +4094,9 @@
     "tags": [
       "mcp",
       "mcp-client"
-    ]
+    ],
+    "code_lines": 72972,
+    "commit_count": 50
   },
   {
     "name": "MCPSECRETARY",
@@ -3626,7 +4122,9 @@
       "grafana",
       "mcp"
     ],
-    "categories": "research-and-data"
+    "categories": "research-and-data",
+    "code_lines": 11279,
+    "commit_count": 155
   },
   {
     "name": "Zola",
@@ -3642,7 +4140,9 @@
       "chat",
       "open-source"
     ],
-    "stars": "948"
+    "stars": "948",
+    "code_lines": 41289,
+    "commit_count": 181
   },
   {
     "name": "Roo Code (prev. Roo Cline)",
@@ -3655,7 +4155,9 @@
     "github_url": "https://github.com/roocodeinc/roo-code",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "17.3k"
+    "stars": "17.3k",
+    "code_lines": 0,
+    "commit_count": 5534
   },
   {
     "name": "Groq Desktop",
@@ -3670,7 +4172,9 @@
     "tags": [
       "managed-by-terraform"
     ],
-    "stars": "323"
+    "stars": "323",
+    "code_lines": 30300,
+    "commit_count": 91
   },
   {
     "name": "Proteus AI",
@@ -3686,7 +4190,9 @@
       "workflow",
       "agent"
     ],
-    "stars": "6"
+    "stars": "6",
+    "code_lines": 30878,
+    "commit_count": 31
   },
   {
     "name": "DrissionPage MCP Server -- 骚神出品",
@@ -3700,7 +4206,9 @@
     "tags": [
       "drissionpage",
       "mcp-server"
-    ]
+    ],
+    "code_lines": 4387,
+    "commit_count": 13
   },
   {
     "name": "Amap",
@@ -3713,7 +4221,9 @@
     "github_url": "https://github.com/blacsheep/llm-amap-mcp",
     "categories": "location-services",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 6364,
+    "commit_count": 12
   },
   {
     "name": "Nova Sonic (Amazon Bedrock Voice Chat)",
@@ -3729,7 +4239,9 @@
       "audio-streaming",
       "nova-sonic"
     ],
-    "stars": "18"
+    "stars": "18",
+    "code_lines": 17309,
+    "commit_count": 8
   },
   {
     "name": "Speech",
@@ -3742,7 +4254,9 @@
     "github_url": "https://github.com/netixc/speech-mcp",
     "categories": "speech-processing",
     "tags": [],
-    "stars": "0"
+    "stars": "0",
+    "code_lines": 12125,
+    "commit_count": 2
   },
   {
     "name": "HistorIQ (Historical Events Q&A)",
@@ -3758,7 +4272,9 @@
       "historIQ",
       "AI"
     ],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 44336,
+    "commit_count": 39
   },
   {
     "name": "Anirudh's Chat",
@@ -3769,7 +4285,9 @@
     "author": "kamath",
     "github_url": "https://github.com/kamath/chat",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 15054,
+    "commit_count": 29
   },
   {
     "name": "Flutter MCP",
@@ -3782,7 +4300,9 @@
     "github_url": "https://github.com/yashmakan/flutter_mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "14"
+    "stars": "14",
+    "code_lines": 22623,
+    "commit_count": 7
   },
   {
     "name": "ZXC Agent",
@@ -3795,7 +4315,9 @@
     "github_url": "https://github.com/study944/ai-agent-zxc",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "6"
+    "stars": "6",
+    "code_lines": 7766,
+    "commit_count": 6
   },
   {
     "name": "API Explorer",
@@ -3808,7 +4330,9 @@
     "github_url": "https://github.com/adafap/api-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "9"
+    "stars": "9",
+    "code_lines": 39992,
+    "commit_count": 3
   },
   {
     "name": "Evo AI",
@@ -3824,7 +4348,9 @@
       "agent",
       "python"
     ],
-    "stars": "414"
+    "stars": "414",
+    "code_lines": 68320,
+    "commit_count": 194
   },
   {
     "name": "AskAnything",
@@ -3837,7 +4363,9 @@
     "github_url": "https://github.com/obrr-hhx/askanything",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "16"
+    "stars": "16",
+    "code_lines": 24457,
+    "commit_count": 21
   },
   {
     "name": "qBittorrent",
@@ -3850,7 +4378,9 @@
     "github_url": "https://github.com/pickpppcc/qbittorrent-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 2266,
+    "commit_count": 5
   },
   {
     "name": "🚀 Obsidian-Milvus-FastMCP",
@@ -3877,7 +4407,9 @@
     "github_url": "https://github.com/denizakansoy/mcphack",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "3"
+    "stars": "3",
+    "code_lines": 1338,
+    "commit_count": 22
   },
   {
     "name": "ArXiv Research Assistant",
@@ -3893,7 +4425,9 @@
       "chatbot",
       "mcp"
     ],
-    "stars": "12"
+    "stars": "12",
+    "code_lines": 1698,
+    "commit_count": 2
   },
   {
     "name": "TinyAgents",
@@ -3906,7 +4440,9 @@
     "github_url": "https://github.com/albertvillanova/tinyagents",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "59"
+    "stars": "59",
+    "code_lines": 828,
+    "commit_count": 13
   },
   {
     "name": "Amazon Q Developer CLI",
@@ -3922,7 +4458,9 @@
       "macos",
       "linux"
     ],
-    "stars": "1.2k"
+    "stars": "1.2k",
+    "code_lines": 274249,
+    "commit_count": 939
   },
   {
     "name": "Google Maps with Speech",
@@ -3935,7 +4473,9 @@
     "github_url": "https://github.com/l145dev/google-maps-mcp-speech",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 5505,
+    "commit_count": 2
   },
   {
     "name": "BrowserTools",
@@ -3948,7 +4488,9 @@
     "github_url": "https://github.com/wimpywarlord/mcp-react-dev-tools",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 2596691,
+    "commit_count": 2
   },
   {
     "name": "Spring AI MCP",
@@ -3964,7 +4506,9 @@
       "spring-ai",
       "openai"
     ],
-    "stars": "7"
+    "stars": "7",
+    "code_lines": 6247,
+    "commit_count": 10
   },
   {
     "name": "Llama-Server MCP Proxy",
@@ -3977,7 +4521,9 @@
     "github_url": "https://github.com/extopico/llama-server_mcp_proxy",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "13"
+    "stars": "13",
+    "code_lines": 185862,
+    "commit_count": 3
   },
   {
     "name": "Hot Topic Aggregator (Chinese Social Media)",
@@ -3990,7 +4536,9 @@
     "github_url": "https://github.com/umuo/hot-topic-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "2"
+    "stars": "2",
+    "code_lines": 764,
+    "commit_count": 3
   },
   {
     "name": "OpenAI Responses",
@@ -4003,7 +4551,9 @@
     "github_url": "https://github.com/craigsdennis/openai-responses-mcp-client-enabled",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "1"
+    "stars": "1",
+    "code_lines": 13028,
+    "commit_count": 9
   },
   {
     "name": "Xiaozhi Home Assistant",
@@ -4016,7 +4566,9 @@
     "github_url": "https://github.com/c1pher-cn/ha-xiaozhi-mcp",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "8"
+    "stars": "8",
+    "code_lines": 637,
+    "commit_count": 14
   },
   {
     "name": "GHOSTCREW",
@@ -4030,7 +4582,9 @@
     "tags": [
       "cybersecurity",
       "penetration-testing"
-    ]
+    ],
+    "code_lines": 5220,
+    "commit_count": 44
   },
   {
     "name": "Xiaozhi AI (Home Assistant)",
@@ -4043,7 +4597,9 @@
     "github_url": "https://github.com/shawn996/mcp_ha_xiaozhi",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "36"
+    "stars": "36",
+    "code_lines": 918,
+    "commit_count": 4
   },
   {
     "name": "LangGraph Voice Agent",
@@ -4056,7 +4612,9 @@
     "github_url": "https://github.com/rosiefaulkner/langgraph-voice-agent",
     "categories": "research-and-data",
     "tags": [],
-    "stars": "4"
+    "stars": "4",
+    "code_lines": 758,
+    "commit_count": 18
   },
   {
     "name": "MCP Debug",
@@ -4071,7 +4629,9 @@
     "tags": [
       "mcp"
     ],
-    "stars": "13"
+    "stars": "13",
+    "code_lines": 6070,
+    "commit_count": 12
   },
   {
     "name": "Install MCP",
@@ -4084,7 +4644,9 @@
     "github_url": "https://github.com/supermemoryai/install-mcp",
     "categories": "developer-tools",
     "tags": [],
-    "stars": "87"
+    "stars": "87",
+    "code_lines": 10643,
+    "commit_count": 68
   },
   {
     "name": "张晓莹",
@@ -4096,7 +4658,9 @@
     "github_url": "https://github.com/cwinux/deer-flow",
     "tags": [
       "111"
-    ]
+    ],
+    "code_lines": 2837,
+    "commit_count": 274
   },
   {
     "name": "MCP-CLI-HOST",
@@ -4109,7 +4673,9 @@
     "tags": [
       "CLI",
       "MCP"
-    ]
+    ],
+    "code_lines": 7149,
+    "commit_count": 74
   },
   {
     "name": "PHP MCP Client",
@@ -4121,7 +4687,9 @@
     "github_url": "https://github.com/swisnl/mcp-client",
     "tags": [
       "PHP"
-    ]
+    ],
+    "code_lines": 10994,
+    "commit_count": 34
   },
   {
     "name": "CircusMCP - AI Agent DevServer Management Made Simple",
@@ -4134,7 +4702,9 @@
     "tags": [
       "DevServer Management",
       "DeveloperTools"
-    ]
+    ],
+    "code_lines": 4148,
+    "commit_count": 14
   },
   {
     "name": "SupervisordMCP- AI Agent DevServer Management Made Simple",
@@ -4147,7 +4717,9 @@
     "tags": [
       "DevServer Management",
       "DeveloperTools"
-    ]
+    ],
+    "code_lines": 4736,
+    "commit_count": 6
   },
   {
     "name": "Matomo Mcp Server By Openmost",
@@ -4160,7 +4732,9 @@
     "tags": [
       "Matomo",
       "analytics"
-    ]
+    ],
+    "code_lines": 1702,
+    "commit_count": 13
   },
   {
     "name": "MCP Connect",
@@ -4171,7 +4745,9 @@
     "author": "EvalsOne",
     "github_url": "https://github.com/EvalsOne/mcp-connect",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 7271,
+    "commit_count": 27
   },
   {
     "name": "Refact.ai",
@@ -4185,7 +4761,9 @@
     "tags": [
       "refact",
       "ai-agent"
-    ]
+    ],
+    "code_lines": 3135332,
+    "commit_count": 6969
   },
   {
     "name": "Roo Code (prev. Roo Cline)",
@@ -4196,7 +4774,9 @@
     "author": "RooVetGit",
     "github_url": "https://github.com/roovetgit/roo-code",
     "categories": "developer-tools",
-    "tags": []
+    "tags": [],
+    "code_lines": 0,
+    "commit_count": 5534
   },
   {
     "name": "Y Gui",
@@ -4210,17 +4790,23 @@
     "tags": [
       "y-gui",
       "ai-chat"
-    ]
+    ],
+    "code_lines": 21236,
+    "commit_count": 110
   },
   {
     "name": "AgentAI",
     "description": "Rust library designed to simplify AI agent creation with MCP server integration",
-    "github_url": "https://github.com/AdamStrojek/rust-agentai"
+    "github_url": "https://github.com/AdamStrojek/rust-agentai",
+    "code_lines": 2893,
+    "commit_count": 43
   },
   {
     "name": "Daydreams Agents",
     "description": "Generative agent framework for executing anything onchain with MCP server support",
-    "github_url": "https://github.com/daydreamsai/daydreams"
+    "github_url": "https://github.com/daydreamsai/daydreams",
+    "code_lines": 90977,
+    "commit_count": 1172
   },
   {
     "name": "mcp.el (GNU Emaics)",
@@ -4231,27 +4817,37 @@
     ],
     "author": "lizqwer scott",
     "stars": "405",
-    "tags": []
+    "tags": [],
+    "code_lines": 2394,
+    "commit_count": 149
   },
   {
     "name": "Genkit",
     "description": "Cross-language SDK for building GenAI features with MCP server integration",
-    "github_url": "https://github.com/firebase/genkit"
+    "github_url": "https://github.com/firebase/genkit",
+    "code_lines": 645800,
+    "commit_count": 4205
   },
   {
     "name": "gptme",
     "description": "Open-source terminal-based personal AI assistant with MCP tool support",
-    "github_url": "https://github.com/gptme/gptme"
+    "github_url": "https://github.com/gptme/gptme",
+    "code_lines": 48046,
+    "commit_count": 1360
   },
   {
     "name": "HyperAgent",
     "description": "Playwright supercharged with AI, extensible with MCP servers for enhanced capabilities",
-    "github_url": "https://github.com/hyperbrowserai/HyperAgent"
+    "github_url": "https://github.com/hyperbrowserai/HyperAgent",
+    "code_lines": 40634,
+    "commit_count": 65
   },
   {
     "name": "mcp-agent",
     "description": "Simple, composable framework to build agents using Model Context Protocol",
-    "github_url": "https://github.com/lastmile-ai/mcp-agent"
+    "github_url": "https://github.com/lastmile-ai/mcp-agent",
+    "code_lines": 197612,
+    "commit_count": 509
   },
   {
     "name": "MCPHub.nvim",
@@ -4262,22 +4858,30 @@
     ],
     "author": "Ravi Teja",
     "stars": "1.4k",
-    "tags": []
+    "tags": [],
+    "code_lines": 51424,
+    "commit_count": 395
   },
   {
     "name": "NVIDIA Agent Intelligence (AIQ) toolkit",
     "description": "Flexible library for connecting enterprise agents to data sources and tools with MCP support",
-    "github_url": "https://github.com/NVIDIA/AIQToolkit"
+    "github_url": "https://github.com/NVIDIA/AIQToolkit",
+    "code_lines": 0,
+    "commit_count": 402
   },
   {
     "name": "OpenSumi",
     "description": "Framework for building AI Native IDE products with MCP tool support",
-    "github_url": "https://github.com/opensumi/core"
+    "github_url": "https://github.com/opensumi/core",
+    "code_lines": 556471,
+    "commit_count": 13783
   },
   {
     "name": "Slack MCP Client",
     "description": "Bridge between Slack and MCP servers enabling LLMs to interact through Slack interface",
-    "github_url": "https://github.com/tuannvm/slack-mcp-client"
+    "github_url": "https://github.com/tuannvm/slack-mcp-client",
+    "code_lines": 17855,
+    "commit_count": 160
   },
   {
     "name": "TUI",
@@ -4288,7 +4892,9 @@
     "author": "standardbeagle",
     "stars": "0",
     "github_url": "https://github.com/standardbeagle/mcp-tui",
-    "tags": []
+    "tags": [],
+    "code_lines": 175775,
+    "commit_count": 81
   },
   {
     "name": "Anthropic Connector Test",
@@ -4299,7 +4905,9 @@
     "author": "Cameron Rohn",
     "stars": "0",
     "github_url": "https://github.com/cam10001110101/anthropic-mcp-connector",
-    "tags": []
+    "tags": [],
+    "code_lines": 1772,
+    "commit_count": 2
   },
   {
     "name": "Nullplatform Control Plane",
@@ -4310,7 +4918,9 @@
     "author": "Nullplatform",
     "stars": "0",
     "github_url": "https://github.com/nullplatform/np-mcp-controlplane-proxy",
-    "tags": []
+    "tags": [],
+    "code_lines": 913,
+    "commit_count": 6
   },
   {
     "name": "Math Solver",
@@ -4321,7 +4931,9 @@
     "author": "S k Srivastava",
     "stars": "0",
     "github_url": "https://github.com/s-k-srivastava/mcp-math-solver",
-    "tags": []
+    "tags": [],
+    "code_lines": 119,
+    "commit_count": 1
   },
   {
     "name": "VS Code RAG",
@@ -4332,7 +4944,9 @@
     "author": "Supawit Cam",
     "stars": "0",
     "github_url": "https://github.com/xkzy/vscode-mcp-rag",
-    "tags": []
+    "tags": [],
+    "code_lines": 377043,
+    "commit_count": 2942
   },
   {
     "name": "Unity Ollama Code Generator",
@@ -4343,7 +4957,9 @@
     "author": "Sedong Choi",
     "stars": "0",
     "github_url": "https://github.com/sedong-choi/unity-mcp-typescript",
-    "tags": []
+    "tags": [],
+    "code_lines": 16783,
+    "commit_count": 40
   },
   {
     "name": "OpenHands",
@@ -4354,7 +4970,9 @@
     "author": "Nimish Chaudhari",
     "stars": "0",
     "github_url": "https://github.com/nimishchaudhari/openhands-resolver-mcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 812,
+    "commit_count": 5
   },
   {
     "name": "NASA Space Data",
@@ -4365,7 +4983,9 @@
     "author": "jmand626",
     "stars": "0",
     "github_url": "https://github.com/jmand626/nasaapi-connector",
-    "tags": []
+    "tags": [],
+    "code_lines": 1325,
+    "commit_count": 3
   },
   {
     "name": "MCP Agent",
@@ -4376,7 +4996,9 @@
     "author": "arenoth",
     "stars": "0",
     "github_url": "https://github.com/arenoth/mcp-agent",
-    "tags": []
+    "tags": [],
+    "code_lines": 9491,
+    "commit_count": 1
   },
   {
     "name": "Claude SSE Client",
@@ -4387,7 +5009,9 @@
     "author": "Kamrul Hasan",
     "stars": "0",
     "github_url": "https://github.com/kamrul1157024/mcp-client",
-    "tags": []
+    "tags": [],
+    "code_lines": 725,
+    "commit_count": 1
   },
   {
     "name": "TypeScript AI Demo",
@@ -4398,7 +5022,9 @@
     "author": "kkul-eng",
     "stars": "0",
     "github_url": "https://github.com/kkul-eng/mcp-claude-demo",
-    "tags": []
+    "tags": [],
+    "code_lines": 63694,
+    "commit_count": 19
   },
   {
     "name": "OpenAI Assistant",
@@ -4409,7 +5035,9 @@
     "author": "Kuzushi Labs",
     "stars": "0",
     "github_url": "https://github.com/kuzushilabsorg/mcp-clients",
-    "tags": []
+    "tags": [],
+    "code_lines": 695,
+    "commit_count": 3
   },
   {
     "name": "Dojo",
@@ -4420,7 +5048,9 @@
     "author": "Larkooo",
     "stars": "0",
     "github_url": "https://github.com/larkooo/dojo-mcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 3878,
+    "commit_count": 5
   },
   {
     "name": "CalmCP (Wellness Dashboard)",
@@ -4431,7 +5061,9 @@
     "author": "tahtaciburak",
     "stars": "1",
     "github_url": "https://github.com/tahtaciburak/calmcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 10918,
+    "commit_count": 12
   },
   {
     "name": "Macuse",
@@ -4442,7 +5074,9 @@
     "author": "macuse-app",
     "stars": "1",
     "github_url": "https://github.com/macuse-app/macuse",
-    "tags": []
+    "tags": [],
+    "code_lines": 509,
+    "commit_count": 6
   },
   {
     "name": "SpaceMind (AirSim Spacecraft Navigation)",
@@ -4453,7 +5087,9 @@
     "author": "wuaodi",
     "stars": "1",
     "github_url": "https://github.com/wuaodi/spacemind",
-    "tags": []
+    "tags": [],
+    "code_lines": 2885,
+    "commit_count": 6
   },
   {
     "name": "Browser Agent",
@@ -4464,7 +5100,9 @@
     "author": "studychain01",
     "stars": "1",
     "github_url": "https://github.com/studychain01/browser_mcp_agent",
-    "tags": []
+    "tags": [],
+    "code_lines": 1117,
+    "commit_count": 3
   },
   {
     "name": "Food Recipe Assistant",
@@ -4475,7 +5113,9 @@
     "author": "purunep",
     "stars": "1",
     "github_url": "https://github.com/purunep/streamble-http-mcp-client",
-    "tags": []
+    "tags": [],
+    "code_lines": 575,
+    "commit_count": 1
   },
   {
     "name": "Buildable",
@@ -4486,7 +5126,9 @@
     "author": "Buildable Team",
     "stars": "1",
     "github_url": "https://github.com/chunkydotdev/bldbl-mcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 2800,
+    "commit_count": 8
   },
   {
     "name": "Voice Agent (Firecrawl + Supabase)",
@@ -4497,7 +5139,9 @@
     "author": "Heminoid",
     "stars": "1",
     "github_url": "https://github.com/heminoid/mcp-voice-agent",
-    "tags": []
+    "tags": [],
+    "code_lines": 401,
+    "commit_count": 3
   },
   {
     "name": "MCP Agent",
@@ -4508,7 +5152,9 @@
     "author": "Jeomon George",
     "stars": "1",
     "github_url": "https://github.com/jeomon/mcp-agent",
-    "tags": []
+    "tags": [],
+    "code_lines": 4834,
+    "commit_count": 27
   },
   {
     "name": "AutoGen Agent Manager",
@@ -4519,7 +5165,9 @@
     "author": "MichaelMoriarty67",
     "stars": "1",
     "github_url": "https://github.com/michaelmoriarty67/mcp-autogen",
-    "tags": []
+    "tags": [],
+    "code_lines": 529,
+    "commit_count": 5
   },
   {
     "name": "WASI",
@@ -4530,7 +5178,9 @@
     "author": "byeblack",
     "stars": "1",
     "github_url": "https://github.com/byeblack/wasi_mcp_client",
-    "tags": []
+    "tags": [],
+    "code_lines": 11144,
+    "commit_count": 1
   },
   {
     "name": "FOAF",
@@ -4541,7 +5191,9 @@
     "author": "Dan Brickley",
     "stars": "1",
     "github_url": "https://github.com/danbri/xmcp-foaf",
-    "tags": []
+    "tags": [],
+    "code_lines": 5389,
+    "commit_count": 12
   },
   {
     "name": "MCPeste",
@@ -4552,7 +5204,9 @@
     "author": "Viktor Marinho",
     "stars": "1",
     "github_url": "https://github.com/viktormarinho/mcpeste",
-    "tags": []
+    "tags": [],
+    "code_lines": 490,
+    "commit_count": 6
   },
   {
     "name": "Weather",
@@ -4563,7 +5217,9 @@
     "author": "shren207",
     "stars": "1",
     "github_url": "https://github.com/shren207/weather-mcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 1662,
+    "commit_count": 2
   },
   {
     "name": "LangGraph Multi-Agent Boilerplate",
@@ -4574,7 +5230,9 @@
     "author": "Goon",
     "stars": "2",
     "github_url": "https://github.com/mrgoonie/langgraph-multiagent-boilerplate",
-    "tags": []
+    "tags": [],
+    "code_lines": 6713,
+    "commit_count": 17
   },
   {
     "name": "Groq Chatbot",
@@ -4585,7 +5243,9 @@
     "author": "Kartikey Pandey",
     "stars": "2",
     "github_url": "https://github.com/kartikeyapandey20/mcp-client",
-    "tags": []
+    "tags": [],
+    "code_lines": 1160,
+    "commit_count": 1
   },
   {
     "name": "n8n Workflow Bridge",
@@ -4596,7 +5256,9 @@
     "author": "Dory AI",
     "stars": "2",
     "github_url": "https://github.com/dory-ai/n8n-mcp-bridge",
-    "tags": []
+    "tags": [],
+    "code_lines": 1823,
+    "commit_count": 15
   },
   {
     "name": "AI Customer Service Platform",
@@ -4607,7 +5269,9 @@
     "author": "Parham",
     "stars": "3",
     "github_url": "https://github.com/parham-dev/ai-agent-cs",
-    "tags": []
+    "tags": [],
+    "code_lines": 55260,
+    "commit_count": 109
   },
   {
     "name": "Azure CLI",
@@ -4618,7 +5282,9 @@
     "author": "hatasaki",
     "stars": "3",
     "github_url": "https://github.com/hatasaki/azure-mcp-cli-client",
-    "tags": []
+    "tags": [],
+    "code_lines": 11415,
+    "commit_count": 58
   },
   {
     "name": "Manager",
@@ -4629,7 +5295,9 @@
     "author": "Khai Trinh Xuan",
     "stars": "3",
     "github_url": "https://github.com/cloud-thinker-ai/mcp-manager",
-    "tags": []
+    "tags": [],
+    "code_lines": 2028,
+    "commit_count": 2
   },
   {
     "name": "blnk",
@@ -4640,7 +5308,9 @@
     "author": "frgmt0",
     "stars": "3",
     "github_url": "https://github.com/coldielb/blnk",
-    "tags": []
+    "tags": [],
+    "code_lines": 2781,
+    "commit_count": 133
   },
   {
     "name": "Ollamaton",
@@ -4651,7 +5321,9 @@
     "author": "Radoslav Lovecky",
     "stars": "4",
     "github_url": "https://github.com/inventorado/ollamaton",
-    "tags": []
+    "tags": [],
+    "code_lines": 5201,
+    "commit_count": 8
   },
   {
     "name": "SmolAgent",
@@ -4662,7 +5334,9 @@
     "author": "ashishpatel26",
     "stars": "4",
     "github_url": "https://github.com/ashishpatel26/smolagentwithmcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 223,
+    "commit_count": 2
   },
   {
     "name": "Tupac",
@@ -4673,7 +5347,9 @@
     "author": "Tim Kellogg",
     "stars": "6",
     "github_url": "https://github.com/tkellogg/tupac",
-    "tags": []
+    "tags": [],
+    "code_lines": 1958,
+    "commit_count": 21
   },
   {
     "name": "Rust Example",
@@ -4684,7 +5360,9 @@
     "author": "Tim Schultz",
     "stars": "8",
     "github_url": "https://github.com/tim-schultz/mcp-client-rs",
-    "tags": []
+    "tags": [],
+    "code_lines": 1888,
+    "commit_count": 11
   },
   {
     "name": "ChatMCP",
@@ -4695,7 +5373,9 @@
     "author": "gongrzhe",
     "stars": "10",
     "github_url": "https://github.com/gongrzhe/open-mcp-client",
-    "tags": []
+    "tags": [],
+    "code_lines": 79876,
+    "commit_count": 12
   },
   {
     "name": "WebContainer Browser",
@@ -4706,7 +5386,9 @@
     "author": "Ahmed Rowaihi",
     "stars": "12",
     "github_url": "https://github.com/ahmedrowaihi/webcontainer-mcp-browser",
-    "tags": []
+    "tags": [],
+    "code_lines": 13032,
+    "commit_count": 14
   },
   {
     "name": "mcp-cmd",
@@ -4717,7 +5399,9 @@
     "author": "Jason Miller",
     "stars": "16",
     "github_url": "https://github.com/developit/mcp-cmd",
-    "tags": []
+    "tags": [],
+    "code_lines": 1558,
+    "commit_count": 4
   },
   {
     "name": "Git Chat",
@@ -4728,7 +5412,9 @@
     "author": "Anirudh Kamath",
     "stars": "35",
     "github_url": "https://github.com/kamath/dotcom.chat",
-    "tags": []
+    "tags": [],
+    "code_lines": 15054,
+    "commit_count": 29
   },
   {
     "name": "chat.md",
@@ -4739,7 +5425,9 @@
     "author": "Aaman Rusia",
     "stars": "37",
     "github_url": "https://github.com/rusiaaman/chat.md",
-    "tags": []
+    "tags": [],
+    "code_lines": 51524,
+    "commit_count": 140
   },
   {
     "name": "DrissionPage",
@@ -4750,7 +5438,9 @@
     "author": "wxhzhwxhzh",
     "stars": "39",
     "github_url": "https://github.com/wxhzhwxhzh/drissionpagemcp",
-    "tags": []
+    "tags": [],
+    "code_lines": 4387,
+    "commit_count": 13
   },
   {
     "name": "GHOSTCREW (Cybersecurity Assistant)",
@@ -4761,7 +5451,9 @@
     "author": "GH05TCREW",
     "stars": "85",
     "github_url": "https://github.com/gh05tcrew/pentestagent",
-    "tags": []
+    "tags": [],
+    "code_lines": 5220,
+    "commit_count": 44
   },
   {
     "name": "MCPM",
@@ -4772,7 +5464,9 @@
     "author": "Path Integral Institute",
     "stars": "681",
     "github_url": "https://github.com/pathintegral-institute/mcpm.sh",
-    "tags": []
+    "tags": [],
+    "code_lines": 139716,
+    "commit_count": 311
   },
   {
     "name": "Tiny Agent",
@@ -4783,7 +5477,9 @@
     "author": "Hugging Face",
     "stars": "2.2k",
     "github_url": "https://github.com/huggingface/huggingface.js",
-    "tags": []
+    "tags": [],
+    "code_lines": 157979,
+    "commit_count": 1773
   },
   {
     "name": "Klavis",
@@ -4794,7 +5490,9 @@
     "author": "Klavis AI",
     "stars": "3.4k",
     "github_url": "https://github.com/klavis-ai/klavis",
-    "tags": []
+    "tags": [],
+    "code_lines": 396694,
+    "commit_count": 595
   },
   {
     "name": "Director",
@@ -4805,7 +5503,9 @@
     "author": "director.run",
     "stars": "276",
     "github_url": "https://github.com/director-run/director",
-    "tags": []
+    "tags": [],
+    "code_lines": 319695,
+    "commit_count": 276
   },
   {
     "name": "MCPJam Inspector",
@@ -4816,7 +5516,9 @@
     "author": "MCPJam",
     "stars": "478",
     "github_url": "https://github.com/mcpjam/inspector",
-    "tags": []
+    "tags": [],
+    "code_lines": 65704,
+    "commit_count": 1575
   },
   {
     "name": "Inspector",
@@ -4827,7 +5529,9 @@
     "author": "Model Context Protocol",
     "stars": "5.1k",
     "github_url": "https://github.com/modelcontextprotocol/inspector",
-    "tags": []
+    "tags": [],
+    "code_lines": 34786,
+    "commit_count": 1541
   },
   {
     "name": "OpenCode",
@@ -4838,7 +5542,9 @@
     "author": "SST",
     "stars": "14.4k",
     "github_url": "https://github.com/sst/opencode",
-    "tags": []
+    "tags": [],
+    "code_lines": 114914,
+    "commit_count": 2251
   },
   {
     "name": "Gemini CLI",
@@ -4849,7 +5555,9 @@
     "author": "Google",
     "stars": "62.6k",
     "github_url": "https://github.com/google-gemini/gemini-cli",
-    "tags": []
+    "tags": [],
+    "code_lines": 186459,
+    "commit_count": 1934
   },
   {
     "name": "Windsurf",
