@@ -372,7 +372,15 @@ class LibraryAnalyzer:
         category_stats = defaultdict(int)
         lang_library_stats = defaultdict(Counter)
         
+        # 准备可序列化的结果
+        serializable_results = []
+        
         for result in all_results:
+            # 将set类型转换为list类型以便JSON序列化
+            serializable_result = result.copy()
+            serializable_result['dependencies'] = list(result['dependencies'])
+            serializable_results.append(serializable_result)
+            
             for dep in result['dependencies']:
                 library_stats[dep] += 1
                 lang_library_stats[result['language']][dep] += 1
@@ -389,7 +397,7 @@ class LibraryAnalyzer:
             'language_distribution': dict(language_stats),
             'library_usage': dict(filtered_library_stats),
             'category_usage': dict(category_stats),
-            'detailed_results': all_results
+            'detailed_results': serializable_results  # 使用可序列化的结果
         }
         
         output_json = Path(output_dir) / 'library_usage_detail.json'
