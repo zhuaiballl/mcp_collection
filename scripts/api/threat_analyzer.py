@@ -1,4 +1,3 @@
-import json
 import os
 import sys
 import matplotlib.pyplot as plt
@@ -7,6 +6,8 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Set, Any
 import matplotlib
 import matplotlib.font_manager as fm
+# 添加缺失的json模块导入
+import json
 # 设置matplotlib支持中文显示
 matplotlib.rcParams['font.sans-serif'] = ['SimHei', 'Microsoft YaHei', 'SimSun', 'KaiTi', 'FangSong', 'Arial Unicode MS']
 matplotlib.rcParams['axes.unicode_minus'] = False  # 解决保存图像时负号'-'显示为方块的问题
@@ -33,7 +34,7 @@ def check_chinese_font_available():
     
     return len(available_fonts) > 0, available_fonts
 
-def analyze_threats(json_file_path: str) -> tuple[Dict[str, int], Dict[str, Set[str]]]:
+def analyze_threats(json_file_path: str) -> tuple[Dict[str, int], Dict[str, Set[str]], Dict[str, Dict[str, int]]]:
     """
     分析JSON文件中的威胁类型
     
@@ -41,7 +42,7 @@ def analyze_threats(json_file_path: str) -> tuple[Dict[str, int], Dict[str, Set[
         json_file_path: JSON文件路径
     
     Returns:
-        tuple: (威胁类型计数, 每种威胁类型对应的服务器列表)
+        tuple: (威胁类型计数, 每种威胁类型对应的服务器列表, 每种威胁类型下每种语言的服务器数量)
     """
     # 检查文件是否存在
     if not os.path.exists(json_file_path):
@@ -57,16 +58,25 @@ def analyze_threats(json_file_path: str) -> tuple[Dict[str, int], Dict[str, Set[
         threat_counts = Counter()
         servers_by_threat = defaultdict(set)
         print(f"共有{len(data)}个服务器含有可能有威胁的代码")
+        # 新增：初始化语言统计字典
+        language_by_threat = defaultdict(lambda: defaultdict(int))
+        
         # 遍历每个服务器
         for server_name, server_data in data.items():
+            # 获取服务器语言
+            server_language = server_data.get("language", "Unknown")
+            
             # 获取该服务器的威胁类型
             if "threat_types" in server_data:
                 for threat_type in server_data["threat_types"].keys():
                     # 同一个服务器的同一类型威胁只统计一次
                     threat_counts[threat_type] += 1
                     servers_by_threat[threat_type].add(server_name)
+                    
+                    # 确保使用server_language作为键，而不是服务器名
+                    language_by_threat[threat_type][server_language] += 1
         
-        return dict(threat_counts), dict(servers_by_threat)
+        return dict(threat_counts), dict(servers_by_threat), dict(language_by_threat)
     
     except json.JSONDecodeError:
         print(f"错误: 无法解析JSON文件 {json_file_path}")
@@ -206,6 +216,29 @@ def save_server_details(servers_by_threat: Dict[str, Set[str]], output_dir: str 
     
     return output_file
 
+def save_language_by_threat_details(language_by_threat: Dict[str, Dict[str, int]], output_dir: str = './output') -> str:
+    # 生成带时间戳的输出文件名
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = os.path.join(output_dir, f'threat_language_statistics_{timestamp}.txt')
+    
+    # 写入文件
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write("MCP Server 威胁类型-语言统计详情\n")
+        f.write("=" * 60 + "\n\n")
+        
+        # 遍历每种威胁类型
+        for threat_type, language_counts in sorted(language_by_threat.items()):
+            total_servers = sum(language_counts.values())
+            f.write(f"{threat_type} (影响 {total_servers} 个服务器):\n")
+            
+            # 按语言数量排序并输出
+            for language, count in sorted(language_counts.items(), key=lambda x: x[1], reverse=True):
+                percentage = (count / total_servers) * 100
+                f.write(f"  - {language}: {count} 个服务器 ({percentage:.1f}%)\n")
+            f.write("\n")
+    
+    return output_file
+
 def main():
     # 检查命令行参数
     if len(sys.argv) < 2:
@@ -231,13 +264,17 @@ def main():
         json_file_path = sys.argv[1]
     
     # 分析威胁
-    threat_counts, servers_by_threat = analyze_threats(json_file_path)
+    threat_counts, servers_by_threat, language_by_threat = analyze_threats(json_file_path)
     
     # 生成图表
     chart_file = generate_chart(threat_counts)
     
     # 保存服务器详情
     server_file = save_server_details(servers_by_threat)
+    
+    # 新增：保存语言统计详情
+    language_file = save_language_by_threat_details(language_by_threat)
+    print(f"语言统计详情已保存至: {language_file}")
     
     # 打印结果摘要
     print(f"\n分析完成!")
@@ -252,4 +289,4 @@ def main():
 
 if __name__ == "__main__":
     # 对最新的分析结果生成统计图表
-    main() 
+    main()

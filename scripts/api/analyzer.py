@@ -13,7 +13,6 @@ import pandas as pd  # 新增pandas用于处理Excel数据
 import requests      # 新增requests用于调用GitHub API
 from collections import defaultdict  # 新增defaultdict用于数据统计
 
-# ... existing code ...
 class CodeAnalyzer:
     def __init__(self, base_dir: str = "../mcp_servers", max_servers: int = None, excel_path: str = None, json_path: str = None):
         # 确保base_dir是绝对路径
@@ -29,6 +28,7 @@ class CodeAnalyzer:
         self.repo_stars = {}                      # 用于存储仓库->星星数量的映射
         self.repo_to_server_mapping = {}          # 用于存储仓库到服务器的映射
         self.server_to_repo_mapping = {}          # 用于存储服务器到仓库的映射
+        self.server_languages = {}                # 用于存储服务器->语言的映射
 
         # 添加需要排除的目录
         self.excluded_dirs = {
@@ -115,6 +115,10 @@ class CodeAnalyzer:
                     if not all_categories:
                         self.repo_categories[repo_name].append('Unknown')
                     
+                    # 从元数据中获取语言信息
+                    server_language = server_info.get('language', 'Unknown')
+                    self.server_languages[server_name] = server_language
+                     
                     print(f"仓库 {repo_name} 添加到映射，服务器名称: {server_name}")
             
             print(f"成功从JSON加载 {len(self.repo_categories)} 个仓库的信息")
@@ -1327,18 +1331,24 @@ class CodeAnalyzer:
                         base_index = i + len(base_dir_parts) - 1
                         break
                 
-                if base_index != -1 and base_index + 2 < len(path_parts):
-                    server_language = path_parts[base_index + 1]
-                    server_name = path_parts[base_index + 2]
+                # 修改：根据实际目录结构提取服务器名称，跳过语言层级
+                if base_index != -1 and base_index + 1 < len(path_parts):
+                    # 从路径提取服务器名称（直接在base_dir下一级）
+                    server_name_from_path = path_parts[base_index + 1]
                     
-                    # 初始化服务器结果
-                    if server_name not in final_results:
-                        final_results[server_name] = {
-                            "language": server_language,
+                    # 初始化服务器结果 - 使用元数据中的项目主要语言
+                    if server_name_from_path not in final_results:
+                        # 优先使用元数据中的语言，如果没有则使用文件语言作为备选
+                        project_language = self.server_languages.get(server_name_from_path, language)
+                        final_results[server_name_from_path] = {
+                            "language": project_language,  # 使用元数据中的项目主要语言
                             "api_calls": [],
                             "threat_types": {},
                             "resource_types": {}  # 新增资源类型统计
                         }
+                    
+                    # 更新server_name变量以便后续使用
+                    server_name = server_name_from_path
                     
                 # 获取API名称和威胁类型
                 api_name = finding.get('api_name', '')

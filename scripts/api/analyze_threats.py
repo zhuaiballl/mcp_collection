@@ -2,7 +2,8 @@
 import os
 import sys
 import argparse
-from threat_analyzer import analyze_threats, generate_chart, save_server_details
+import json
+from threat_analyzer import analyze_threats, generate_chart, save_server_details, save_language_by_threat_details
 
 def main():
     parser = argparse.ArgumentParser(description='分析MCP Server威胁类型')
@@ -33,7 +34,8 @@ def main():
     
     # 分析威胁
     print(f"正在分析文件: {args.file}...")
-    threat_counts, servers_by_threat = analyze_threats(args.file)
+    # 修改：接收三个返回值
+    threat_counts, servers_by_threat, language_by_threat = analyze_threats(args.file)
     
     # 生成图表
     print("正在生成图表...")
@@ -42,6 +44,10 @@ def main():
     # 保存服务器详情
     print("正在保存服务器详情...")
     server_file = save_server_details(servers_by_threat, args.output_dir)
+    
+    # 新增：保存语言统计详情
+    print("正在保存语言统计详情...")
+    language_file = save_language_by_threat_details(language_by_threat, args.output_dir)
     
     # 打印结果摘要
     print(f"\n分析完成!")
@@ -53,8 +59,7 @@ def main():
     
     print(f"\n图表已保存至: {chart_file}")
     print(f"服务器详情已保存至: {server_file}")
+    print(f"语言统计详情已保存至: {language_file}")
 
 if __name__ == "__main__":
-    # 生成图表
-    
-    main() 
+    main()
